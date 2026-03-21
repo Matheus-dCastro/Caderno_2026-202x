@@ -43,7 +43,7 @@ pode ser usado para :
 - algotimos especificos
 - representacao de baixa dimensao (embeddings)
 
-```py
+```jsx
 
 def lerp(a, b, t): // a e b sao ponto e t e o valor para normalizado 
 	return a + t * (b - a) // valor de retorno da interpolacao
@@ -185,4 +185,27 @@ O desenvolvimento de um modelo em AM geralmente segue um **fluxo de etapas**:
 
 # Regrecao linear:
 
-nesse processo a meta e minimazar os erros entres os calores previsto da saida → o erro vem como erro quadratico MSE
+nesse processo a meta e minimazar os erros entres os valores previsto da saida → o erro vem como erro quadratico MSE
+
+### Ajuste do parametro do modelo:
+
+existe diferentes maneiras de ajustar durante o treinamento os parametros: 
+
+- **minimos quadrados ordinarios:**
+    
+    resilve via algebra linear
+    
+- **gradiente descente**:
+    
+    metodo de forma interativa ou seja ajutando os paramentros graduamente para minimizar os erros
+    
+
+observaçao: treinar e fitar o modelo sao expressoes equivalentes em aprendizado de maquina os dois termos se referem em ajustar os paramentros internos apartir dos dados do treinamento
+
+→ sera utilizado o sklearn (skikit-learn) como biblioteca padrao para todo o curso
+
+para treino/fitar o modelo sempre é bom ter mais dados de treino do q de teste ex 70/30% 
+
+→ na regreçao linear n é estritamente necessario o passo da normalizacao pq a soluçao analitica encontra os coeficientes de forma exata, idenpendente da escala das variaveis
+
+## Interpolaçao VS Extrapolaçao:
