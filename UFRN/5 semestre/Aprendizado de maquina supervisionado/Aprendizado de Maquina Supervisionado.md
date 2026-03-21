@@ -209,3 +209,36 @@ para treino/fitar o modelo sempre é bom ter mais dados de treino do q de teste 
 → na regreçao linear n é estritamente necessario o passo da normalizacao pq a soluçao analitica encontra os coeficientes de forma exata, idenpendente da escala das variaveis
 
 ## Interpolaçao VS Extrapolaçao:
+
+```markdown
+ **Interpolação:**
+    * Ocorre quando fazemos previsões **dentro do intervalo** dos dados usados no treinamento.
+    * A interpolação costuma ser **confiável**, já que o modelo aprendeu padrões nesse intervalo.
+    * Por exemplo, se treinamos um modelo com dados de **idades entre 10 e 18 anos** e queremos prever a altura de uma pessoa de **15 anos**, estamos interpolando.
+
+- **Extrapolação:**
+    * Ocorre quando fazemos previsões **fora do intervalo** dos dados de treinamento.
+    * A extrapolação pode ser **arriscada**, pois o modelo está assumindo que o mesmo padrão linear se mantém fora da faixa observada — o que nem sempre é verdadeiro.
+    * Por exemplo, usar o mesmo modelo (treinado com idades entre 10 e 18) para prever a altura de uma pessoa de **30 anos**.
+
+```
+
+## Regressao logistica:
+
+usamos a funçao de Sigmoid → [0,1]
+
+a previsao do modelo e dada pela probabilidade de um coisa pertencer mais a uma classe do q a outra excolhendo assim a maior porcentagem dentre das possibilidades 
+
+isso tanto para classes binarias q classifica de 0 a 1 e para multiclasses q classifica dentro das possibilidades usadno a softmax(entrada)
+
+assim como no anterios a normalizacao dos dados n é obrigatorio mas é altamente recomendado para q tenhamos os melhores desemepenhos
+
+### **1.2 Fluxo de trabalho em AM:**
+
+O desenvolvimento de um modelo em AM geralmente segue um **fluxo de etapas**:
+
+1. **Importar e explorar os dados** — entender suas características, distribuições e possíveis problemas.
+2. **Pré-processar os dados** — tratar valores ausentes, normalizar/transformar atributos e preparar as variáveis de entrada.
+3. **Treinar o modelo** — escolha de um modelo e ajuste dos parâmetros internos a partir dos dados de treino.
+4. **Realizar predições** — aplicar o modelo treinado em novos dados.
+5. **Avaliar o desempenho** — medir acurácia, erro ou outras métricas adequadas ao problema.
