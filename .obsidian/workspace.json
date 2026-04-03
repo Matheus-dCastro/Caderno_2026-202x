@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67d1832fea20c544",
+        "id": "9466cb27f47c9166",
         "type": "tabs",
         "children": [
           {
-            "id": "02aa514706557e68",
+            "id": "64bf599f4d992cb3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -110,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -185,10 +182,10 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "763b5accfc6e0e88",
+  "active": "64bf599f4d992cb3",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2026-04-03.md",
