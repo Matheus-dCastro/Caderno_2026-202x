@@ -162,9 +162,19 @@
               "icon": "lucide-list",
               "title": "Outline of Aprendizado de maquina NAO supervisionado"
             }
+          },
+          {
+            "id": "5369ff1548e9a433",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
