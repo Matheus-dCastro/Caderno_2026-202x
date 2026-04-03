@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c5794c3d875fee1",
+        "id": "f9d83e0d501c9414",
         "type": "tabs",
         "children": [
           {
-            "id": "e1db0f79e8128167",
+            "id": "430dbe76061ae109",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban sem título.md",
+                "file": "test[.py",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Kanban sem título"
+              "title": "Sumário de test["
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -202,6 +203,7 @@
   },
   "active": "f08e089f1bb97d38",
   "lastOpenFiles": [
+    "test[.py",
     "Kanban sem título.md",
     "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
     "Livros",
