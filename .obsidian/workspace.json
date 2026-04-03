@@ -11,10 +11,14 @@
             "id": "e10ddc97e083a8c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aprendizado de maquina NAO supervisionado"
             }
           }
         ]
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aprendizado de maquina NAO supervisionado"
             }
           },
           {
@@ -195,7 +200,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "88945ff6022926e7",
+  "active": "e10ddc97e083a8c6",
   "lastOpenFiles": [
     "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Untitled.canvas",
