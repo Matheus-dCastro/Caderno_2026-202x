@@ -107,19 +107,6 @@
             }
           },
           {
-            "id": "4e581cd0d509a0d5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "1224de1cacd7075a",
             "type": "leaf",
             "state": {
@@ -135,21 +122,33 @@
             }
           },
           {
-            "id": "6df690adcd6ae653",
+            "id": "61450bc9bf55fe1d",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "footnotes",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md"
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           },
           {
-            "id": "88945ff6022926e7",
+            "id": "aee3c202058f11c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aprendizado de maquina NAO supervisionado"
+            }
+          },
+          {
+            "id": "585e54ffdfa4c37f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,6 +160,20 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Aprendizado de maquina NAO supervisionado"
+            }
+          },
+          {
+            "id": "b2ee8a438d75fc4a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -185,12 +198,10 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false,
-      "github-sync:Sync with Remote": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "e10ddc97e083a8c6",
+  "active": "585e54ffdfa4c37f",
   "lastOpenFiles": [
     "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Untitled.canvas",
