@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9466cb27f47c9166",
+        "id": "b5202a6d4a903ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "64bf599f4d992cb3",
+            "id": "e10ddc97e083a8c6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "1dc5f649e1b9c820",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +191,13 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "64bf599f4d992cb3",
+  "active": "1dc5f649e1b9c820",
   "lastOpenFiles": [
+    "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Untitled.canvas",
     "2026-04-03.md",
     "UFRN/IEEE/IEEE.md"
