@@ -4,5 +4,8 @@
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
   "pdf-plus",
-  "vscode-editor"
+  "vscode-editor",
+  "google-calendar",
+  "pomodoro-timer",
+  "table-editor-obsidian"
 ]

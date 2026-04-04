@@ -2,5 +2,7 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "baseFontSizeAction": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 13,
+  "interfaceFontFamily": "Fira Code"
 }

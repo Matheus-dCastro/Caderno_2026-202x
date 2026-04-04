@@ -8,17 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fef25765ae3acdd2",
+            "id": "b8d1532370676197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Aprendizado de Maquina Supervisionado"
+            }
+          }
+        ]
+      },
+      {
+        "id": "91c39b8502b3bd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef25765ae3acdd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revisão para prova Unidade 01"
             }
           }
         ]
@@ -61,7 +81,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -172,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -201,12 +222,19 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f08e089f1bb97d38",
+  "active": "fef25765ae3acdd2",
   "lastOpenFiles": [
+    "Pasted image 20260404105623.png",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.36.22.excalidraw.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+    "Pasted image 20260404103930.png",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.00.37.excalidraw.md",
     "UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
     "Excalidraw/Drawing 2026-04-03 15.21.53.excalidraw.md",
     "Recording 20260403152325.m4a",
