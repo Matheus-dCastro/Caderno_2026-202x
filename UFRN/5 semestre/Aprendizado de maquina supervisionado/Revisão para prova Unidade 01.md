@@ -61,3 +61,82 @@ dispersão dos dados em relação a media mede a variabilidade doa variáveis
 
 para que as variaveis sejam independentes o grau de cov é zero
 ![[Pasted image 20260404145703.png]]
+
+
+## Pre-processamento de dados
+
+=> Redução de gastos e mais precisão no treinamento e na analise de padros de dados
+
+    -> Filtros: 
+        analisar informações que estão faltando 
+        quais variáveis são pertinentes para analise (finalidade)
+    -> Agrupar dados: expecificar os dados
+
+ - 1 eliminar dados que não agregam informações tão relevantes para analise
+ - 2 apenas pegar os mais relevantes para analise dos dados
+
+
+```
+
+.isnull() // => retorna quais colunas de dados tem elementos faltantes
+.dropna(axis=0) //=> elimina as linhas que estao com os paramentros faltantes 
+.dropna(axis=1) //=> elimina as colunas que estao com os paramentros faltantes 
+.dropna(how='all') //=> elimina a linha se apenas se todos os parametros dele estiver faltando
+.sample(n=) //=> n é o valor de elementos q seram imprimidos na tabela
+
+```
+
+
+
+
+
+## Integraçao de dados:
+
+=> problema de indentificaçao de entediade (Reorganizar uma das bases de dados para que fiquem corelacionadas)
+
+ - 1 organizar por indices
+ ```
+ 
+ SimpleImputer => serve para colocar nos valores q estão faltando um x valor apartir da estratagia q passada nele
+  
+ ```
+
+ ## Dados desbalanceados => podem levar aos dados estarem invesados o que causa ao modelos de AM uma baixa capacidade de <mark style="background:#40a9ff">GENERALIZAÇÃO</mark>
+
+
+
+
+
+## Dados inconsistentes
+dados mal colocados ou dados incoerentes com analise logica
+
+# <mark style="background:#ff4d4f"> => tanto para integrar dados quanto para inconsistência de dados</mark>
+
+
+![[Pasted image 20260404161402.png]]
+
+## Dados Redundantes
+dados repetidos
+
+## Dados com ruídos
+dados que apresentam falhas nas medições =>
+		- filtragem
+		- Suavização
+		- remover outlines
+
+
+## Transformação de dados
+
+mudança de escalas
+
+![[Pasted image 20260404161836.png]]
+
+
+Box-cox para indicar qual a melhor forma de transforma (priorizando a acurácia e a fidelidade dos dados)
+
+para AM podemos usar basicamente StandardScaler
+
+### Padronizar VS Normalizar
+
+focam em redimensionar os dados para redução de custos 3
+
