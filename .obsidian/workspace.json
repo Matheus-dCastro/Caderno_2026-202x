@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8d1532370676197",
+            "id": "7125a6f6644f51df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "91c39b8502b3bd60",
+        "id": "1145525a00885584",
         "type": "tabs",
         "children": [
           {
-            "id": "fef25765ae3acdd2",
+            "id": "c11560cc59f3a721",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,6 +39,18 @@
               },
               "icon": "lucide-file",
               "title": "Revisão para prova Unidade 01"
+            }
+          },
+          {
+            "id": "46392cbc74ca1079",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.36.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-04 10.36.22.excalidraw"
             }
           }
         ]
@@ -227,12 +239,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fef25765ae3acdd2",
+  "active": "c11560cc59f3a721",
   "lastOpenFiles": [
-    "Pasted image 20260404105623.png",
+    "Pasted image 20260404145703.png",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.36.22.excalidraw.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
+    "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
+    "Pasted image 20260404105623.png",
     "Pasted image 20260404103930.png",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.00.37.excalidraw.md",
     "UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
@@ -245,7 +259,6 @@
     "Excalidraw",
     "test[.py",
     "Kanban sem título.md",
-    "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
     "Livros",
     "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Untitled.canvas",

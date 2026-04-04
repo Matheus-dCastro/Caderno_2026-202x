@@ -20,7 +20,7 @@ Dados  <mark style="background:#9254de">Numericos</mark>: Histograma e Linhas
  Medidas de centralidade e ou de dispersão
 
 Centralidade: media, mediana e moda -> valor tipico ou central
-dispersão:  desvio padrão e amplitude -> variedade do conjunto de dados
+dispersão:  desvio padrão, variancia e amplitude(intervalo) -> variedade do conjunto de dados
 
 # Passo a passo de EAD
 
@@ -44,3 +44,20 @@ Caso do valor da posição não for inteira é feita a interpolação linear
 
 ![[Pasted image 20260404105623.png]]
 
+
+### Desvio padrão:
+1° media
+2° desvio => pega cada valor e subtrai da media
+3° variância => soma todos os desvios ao quadrado  e divide pela quantidade de elementos
+4° desvio padrão => é a raiz quadrada da variância
+
+### Desvio médio absoluto => AAD
+
+dispersão dos dados em relação a media mede a variabilidade doa variáveis
+
+<mark style="background:#d4b106">mesmo que a variância so que não leva os valores ao quadrado</mark>
+
+# <mark style="background:#40a9ff">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA</mark>
+
+para que as variaveis sejam independentes o grau de cov é zero
+![[Pasted image 20260404145703.png]]
