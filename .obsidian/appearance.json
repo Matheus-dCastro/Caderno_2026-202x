@@ -1,1 +1,6 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSizeAction": true,
+  "nativeMenus": true
+}
