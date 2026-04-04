@@ -140,3 +140,16 @@ para AM podemos usar basicamente StandardScaler
 
 focam em redimensionar os dados para redução de custos 3
 
+=> Normalização leva os dados a valores entre 0 e 1
+=> Padronização leva os dados dos valores da media vai a 0 e o DP vai a 1 mas o restante não fica limitada a nenhum range
+
+<mark style="background:#affad1">padronizar</mark> quando os dados seguem uma distribuição gaussiana para quando quero a PCA e quando a muitos outlines
+
+<mark style="background:#fdbfff">normalizar</mark> quando os dados não seguem uma distribuição não gaussiana o algorítimo de analise requer q os dados fiquem em uma escala entre 0 e 1 evitar se ainda tiver outlines nos dados
+
+# Reduzir dados
+
+esse processo ganha eficiencia mais pode perder informaçoes mesmo com o metodo PCA que metiga essa perca pode aver perda das informaçoes originais
+
+ mantem a variancia no maximo possivel mas mantem apenas os atributos mais relevantes os componentes principais sao os pontos com maxima variancia em espaço reduzido
+
