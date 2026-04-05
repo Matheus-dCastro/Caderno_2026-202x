@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "1145525a00885584",
+        "id": "66dd3320c1ea3f77",
         "type": "tabs",
         "children": [
           {
-            "id": "c11560cc59f3a721",
+            "id": "f6da3f7033fa404d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,52 +39,6 @@
               },
               "icon": "lucide-file",
               "title": "Revisão para prova Unidade 01"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc5b842fb2789de8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b44e3de89beceb86",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/alomyr/Projetos/Notes-VsCode",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/sh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: sh"
             }
           }
         ]
@@ -235,7 +189,7 @@
             }
           },
           {
-            "id": "110394a6bf5cb1de",
+            "id": "6066d608a546a2f6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -249,29 +203,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
     "type": "split",
-    "children": [
-      {
-        "id": "e9695ca9ceca2f87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21843acaf59ddfff",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -291,34 +229,33 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "bases:Criar nova base": false,
       "obsidian-kanban:Criar um novo quadro": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "vscode-editor:Create Code File": false,
       "pomodoro-timer:Toggle timer panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
       "media-extended:Open external media": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b44e3de89beceb86",
+  "active": "f6da3f7033fa404d",
   "lastOpenFiles": [
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Untitled.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+    "png/Pasted image 20260404103930.png",
+    "png",
     "Tags",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.36.22.excalidraw.md",
-    "Pasted image 20260404161836.png",
-    "Pasted image 20260404161402.png",
-    "Pasted image 20260404161309.png",
-    "Pasted image 20260404161241.png",
-    "Pasted image 20260404145703.png",
+    "png/Pasted image 20260404161836.png",
+    "png/Pasted image 20260404161402.png",
+    "png/Pasted image 20260404161309.png",
+    "png/Pasted image 20260404161241.png",
+    "png/Pasted image 20260404145703.png",
     "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
-    "Pasted image 20260404105623.png",
-    "Pasted image 20260404103930.png",
+    "png/Pasted image 20260404105623.png",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.00.37.excalidraw.md",
     "UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
     "Excalidraw/Drawing 2026-04-03 15.21.53.excalidraw.md",

@@ -8,14 +8,13 @@
   "google-calendar",
   "pomodoro-timer",
   "table-editor-obsidian",
-  "smart-connections",
   "make-md",
   "advanced-canvas",
-  "obsidian-pandoc",
   "obsidian-emoji-toolbar",
   "media-extended",
   "cmenu-plugin",
   "obsidian-dictionary-plugin",
   "quick-latex",
-  "terminal"
+  "terminal",
+  "execute-code"
 ]

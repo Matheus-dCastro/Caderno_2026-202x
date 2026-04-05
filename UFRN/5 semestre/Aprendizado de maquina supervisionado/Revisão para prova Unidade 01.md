@@ -152,4 +152,3 @@ focam em redimensionar os dados para redução de custos 3
 esse processo ganha eficiencia mais pode perder informaçoes mesmo com o metodo PCA que metiga essa perca pode aver perda das informaçoes originais
 
  mantem a variancia no maximo possivel mas mantem apenas os atributos mais relevantes os componentes principais sao os pontos com maxima variancia em espaço reduzido
-
