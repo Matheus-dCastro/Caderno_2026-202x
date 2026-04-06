@@ -18,5 +18,8 @@
   "terminal",
   "execute-code",
   "omnisearch",
-  "ninja-cursor"
+  "ninja-cursor",
+  "ink",
+  "settings-search",
+  "latex-autocomplete"
 ]

@@ -238,3 +238,4 @@ Na regressão logística a normalização não é obrigatória mas é recomenda 
 # Métodos Baseados em Distância
 
 
+
