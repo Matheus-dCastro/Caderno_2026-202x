@@ -1,0 +1,12 @@
+{
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border-only",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-mauve",
+  "anuppuccin-custom-background@@anp-background-image-dark": "url(\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc550eca-dfe6-46c0-ab1b-6bbff066c84b/dfids4t-974697c5-2fe6-4097-815b-689fd485a890.png/v1/fill/w_1192,h_670,q_70,strp/gojo_wallpaper_4k_by_anandu132004_dfids4t-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mL2RjNTUwZWNhLWRmZTYtNDZjMC1hYjFiLTZiYmZmMDY2Yzg0Yi9kZmlkczR0LTk3NDY5N2M1LTJmZTYtNDA5Ny04MTViLTY4OWZkNDg1YTg5MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0SMJmGXRpnCdXXRX-qDkjfdtC4TpNHGhixVgjcPfmCg\")",
+  "anuppuccin-custom-background@@anp-custom-bg-brightness-dark": 0.55,
+  "anuppuccin-custom-background@@anp-custom-bg-blur-dark": 13,
+  "anuppuccin-custom-background@@anp-custom-bg-card-fg-opacity-dark": 0.55
+}

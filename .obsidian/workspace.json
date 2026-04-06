@@ -20,6 +20,32 @@
               "icon": "lucide-file",
               "title": "Revisão para prova Unidade 01"
             }
+          },
+          {
+            "id": "d2e68d0686a4a2ef",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/88cff5beecfccdc2?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330524&gbraid=0AAAAApk5BhlWopwfrNCCpOOBwODcotRRo&gclid=EAIaIQobChMIjNGd7pDakwMVAkFIAB1K4DPQEAAYASAAEgKTQvD_BwE",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          },
+          {
+            "id": "6fcc1549f089312e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisioando.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aprendizado de Maquina Supervisioando"
+            }
           }
         ]
       }
@@ -155,7 +181,7 @@
             }
           },
           {
-            "id": "02e2cd24cbc75b2a",
+            "id": "075339ef2555a111",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 453.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -240,12 +267,14 @@
   },
   "active": "7edfdc38853c3379",
   "lastOpenFiles": [
-    "linear.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Revisão para prova Unidade 01.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisioando.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Extrapolacao.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/image.png",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisionado.md",
+    "linear.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Logistica.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/linear.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisionado.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisioando.md",
     "Tags",
     "png/Pasted image 20260404161309.png",
     "Excalidraw/Drawing 2026-04-05 16.19.20.excalidraw.md",

@@ -1,5 +1,6 @@
 [[Aprendizado de Maquina Supervisionado]]
-#5 semestre
+# 5 semestre
+
 ## Supervisionado Vs Não-Supervisionado
 
 -> supervisionado ja temos as características <mark style="background:#fff88f">rotuladas</mark> informações previas das variáveis
@@ -30,22 +31,20 @@ Tipos de dados:
 -> <mark style="background:#ff4d4f">univariados:</mark> apenas um atributo
 -> <mark style="background:#ff4d4f">multivariados:</mark> dois ou mais atributos para compor o dado
 
-
 Percentil: é o numero de partes em porcentagem o numero indicado pelo percentil
 
-![[Pasted image 20260404103930.png]] 
+![[Pasted image 20260404103930.png]]
 
 <- menores dados ========= maiores dados ->
 
-devem esta ordenados de forma crescente 
-
+devem esta ordenados de forma crescente
 
 Caso do valor da posição não for inteira é feita a interpolação linear
 
 ![[Pasted image 20260404105623.png]]
 
+### Desvio padrão
 
-### Desvio padrão:
 1° media
 2° desvio => pega cada valor e subtrai da media
 3° variância => soma todos os desvios ao quadrado  e divide pela quantidade de elementos
@@ -62,7 +61,6 @@ dispersão dos dados em relação a media mede a variabilidade doa variáveis
 para que as variaveis sejam independentes o grau de cov é zero
 ![[Pasted image 20260404145703.png]]
 
-
 ## Pre-processamento de dados
 
 => Redução de gastos e mais precisão no treinamento e na analise de padros de dados
@@ -72,9 +70,8 @@ para que as variaveis sejam independentes o grau de cov é zero
         quais variáveis são pertinentes para analise (finalidade)
     -> Agrupar dados: expecificar os dados
 
- - 1 eliminar dados que não agregam informações tão relevantes para analise
- - 2 apenas pegar os mais relevantes para analise dos dados
-
+- 1 eliminar dados que não agregam informações tão relevantes para analise
+- 2 apenas pegar os mais relevantes para analise dos dados
 
 ```
 
@@ -86,51 +83,44 @@ para que as variaveis sejam independentes o grau de cov é zero
 
 ```
 
-
-
-
-
-## Integraçao de dados:
+## Integraçao de dados
 
 => problema de indentificaçao de entediade (Reorganizar uma das bases de dados para que fiquem corelacionadas)
 
- - 1 organizar por indices
+- 1 organizar por indices
+
  ```
  
  SimpleImputer => serve para colocar nos valores q estão faltando um x valor apartir da estratagia q passada nele
   
  ```
 
- ## Dados desbalanceados => podem levar aos dados estarem invesados o que causa ao modelos de AM uma baixa capacidade de <mark style="background:#40a9ff">GENERALIZAÇÃO</mark>
-
-
-
-
+## Dados desbalanceados => podem levar aos dados estarem invesados o que causa ao modelos de AM uma baixa capacidade de <mark style="background:#40a9ff">GENERALIZAÇÃO</mark>
 
 ## Dados inconsistentes
+
 dados mal colocados ou dados incoerentes com analise logica
 
 # <mark style="background:#ff4d4f"> => tanto para integrar dados quanto para inconsistência de dados</mark>
 
-
 ![[Pasted image 20260404161402.png]]
 
 ## Dados Redundantes
+
 dados repetidos
 
 ## Dados com ruídos
-dados que apresentam falhas nas medições =>
-		- filtragem
-		- Suavização
-		- remover outlines
 
+dados que apresentam falhas nas medições =>
+  - filtragem
+  - Suavização
+  - remover outlines
 
 ## Transformação de dados
 
 mudança de escalas
 
 ![[Pasted image 20260404161836.png]]
-
 
 Box-cox para indicar qual a melhor forma de transforma (priorizando a acurácia e a fidelidade dos dados)
 
@@ -153,7 +143,88 @@ esse processo ganha eficiencia mais pode perder informaçoes mesmo com o metodo 
 
  mantem a variancia no maximo possivel mas mantem apenas os atributos mais relevantes os componentes principais sao os pontos com maxima variancia em espaço reduzido
 
+# Regressão <mark style="background:#9254de">Linear</mark> VS <mark style="background:#9254de">Logística</mark>
 
-# Regressão <mark style="background:#9254de">Linear</mark> VS <mark style="background:#9254de">Logística</mark> 
+## Regressão linear: para tarefaz onde a saida deve ser um valor continuo (mais alinhado com o AM Nao supervisionado)
 
+    saida Y em de atravez de uma combinação linear das entradas X => devemos encontrar o valor que minimize o valor do erro (MSE)
+    => formas de ajustar os paramentros do algoritmo
+            OLS: minimos quadrados ordinarios: via algebra
+            Gradiante descedente: forma interativa foca em minimizar o erro ajuste de parametro a parametro
+
+## Regressão Logística: para tarefaz onde a saida deve ser uma classificação
+
+![alt text](image.png)
+
+**_underfitting_:** poucos dados nao (baixa visao do geral) mal treinado
+**_overfitting_:** condicionado d+ (enviesado) treinado ate demais pouco generalista
+
+-> geralmente usamos (70% treino e 30% testes)
+
+# Flxuxo de como fazer as coisas em ML
+
+- 1 importar os dados e explora-los: compreender sobre o que é  dataset, caracteristicas, distribuições e possviel falhas
+- 2 pre-processamento dos dados: tratar as falhas dos dados (seguir os passos do notebook anterior)
+- 3 treinar o modelo: (fit_transform -> com os dados ja normalizados ou padronizados a depender do modelo que estamos trabalhando)
+- 4 realizar prediçõs: usar os dados de teste
+- 5 avalisar o desempenho: usar a acuracy ou MSE (valor ao quadrado aqui)
+
+
+```python
+
+import numpy as np # para formulas matematicas
+
+import matplotlib.pyplot as plt # para plotar o grafico
+
+from sklearn.datasets import make_regression #os dados para o modelo
+
+from sklearn.model_selection import train_test_split #Faz os split para parte de treino e parte de test de forma linear e balanceado dos dados
+
+from sklearn.linear_model import LinearRegression #Escolha do modelo que sera usar para analise dos dados
+
+```
+
+muitas vezes o seed vem com o nome random_state comum usar em 42 para sempre termos os mesmo resultados pra o gráfico
+
+=> lembrar sempre de seguir o passo a passo do fluxo de aprendizado de ML
+
+# Interpolação VS Extrapolação
+
+<mark style="background:#9254de">Interpolação: </mark>
+	Previsão em intervalos com buracos para preencher => confiável ja que o modelo aprendeu padrões daquele intervalo
+    Sua dois pontos faz uma media e acha um valor de y a partir de um x entrada
+<mark style="background:#9254de">Extrapolação:  </mark>
+	Previsão para dados fora do intervalo conhecido mais arriscado ja q o modelo n tem dados para se basear concretamente 
+
+# Regressão Logística
+
+usado para quando preciso q a saída seja uma categoria ou categorizar os dados
+
+usa basicamente depois de achar o z da LINEAR aplica sigmoide achando assim o queremos
+
+e dada pela probabilidade de esta o não esta  => classifica entre 0 e 1 para multiclasse podemos ter [0.66,0.24,0.10] depois de aplicar o softmax na saida
+
+nesse tipo de modelo usamos a acurácia do valor no lugar da métrica de erro minimizado 
+
+
+```python
+from sklearn.datasets import make_classification # dataset
+
+from sklearn.linear_model import LogisticRegression # modelo que sera usado
+
+from sklearn.metrics import accuracy_score # para extrair a acuracia do processo
+```
+
+
+Na regressão logística a normalização não é obrigatória mas é recomenda para que tenhamos mais eficiência no treinamento e no plot => a padronização somente quando tiver a presença de muitos outlines 
+	as vezes nesse tipo de modelo é preciso passar quantos quantos passos ele ira executar para fazer sua classificação.
+=> para datasets com muitos atributos sempre fazer o PCA para reduzir suas dimensões
+
+> [!note] Conteudos para saber ate aqui
+> - **Regressão** *vs* **Classificação**;
+> - Dados de **treinamento** *vs* **teste**.
+> - **Fit/treinamento do modelo**;
+> - **Interpolação** *vs* **Extrapolação**;
+> - **Underfitting** *vs* **Overfitting**;
+> - **Fluxo de trabalho** do aprendizado de máquina.
 

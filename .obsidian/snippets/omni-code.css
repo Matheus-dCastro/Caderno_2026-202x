@@ -1,0 +1,60 @@
+/* FUNDO igual Omni */
+.cm-editor .cm-scroller {
+  background-color: #191622 !important;
+}
+
+/* TEXTO padrão */
+.cm-content {
+  color: #E1E1E6 !important;
+}
+
+/* KEYWORDS (import, from, as) */
+.cm-keyword {
+  color: #FF79C6 !important;
+}
+
+/* FUNÇÕES (make_regression, print, etc) */
+.cm-variableName.cm-definition,
+.cm-function {
+  color: #50FA7B !important;
+}
+
+/* STRINGS */
+.cm-string {
+  color: #F1FA8C !important;
+}
+
+/* COMENTÁRIOS */
+.cm-comment {
+  color: #6272A4 !important;
+  font-style: italic;
+}
+
+/* NÚMEROS */
+.cm-number {
+  color: #BD93F9 !important;
+}
+
+/* NOMES (variáveis tipo X_train, etc) */
+.cm-variableName {
+  color: #F8F8F2 !important;
+}
+
+/* IMPORTS / módulos (sklearn, numpy, etc) */
+.cm-property {
+  color: #8BE9FD !important;
+}
+
+/* OPERADORES (= , +, etc) */
+.cm-operator {
+  color: #FF79C6 !important;
+}
+
+/* PARÊNTESES */
+.cm-bracket {
+  color: #F8F8F2 !important;
+}
+/* força nomes após import ficarem verdes */
+.cm-keyword + .cm-variableName {
+  color: #50FA7B !important;
+}

@@ -1,0 +1,9 @@
+body {
+  --font-monospace: 'Fira Code', monospace;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  font-variant-ligatures: contextual;
+}
+

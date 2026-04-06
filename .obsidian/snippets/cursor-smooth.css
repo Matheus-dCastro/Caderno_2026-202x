@@ -1,0 +1,14 @@
+.cm-content {
+  line-height: 1.7;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+}
+
+.cm-scroller {
+  scroll-behavior: smooth;
+}
+
+.cm-line {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}

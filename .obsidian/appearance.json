@@ -4,5 +4,9 @@
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "baseFontSize": 17,
-  "interfaceFontFamily": "Fira Code"
+  "interfaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "cursor-smooth-obsidian",
+    "fira-code-obsidian"
+  ]
 }
