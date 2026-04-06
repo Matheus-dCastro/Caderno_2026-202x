@@ -154,5 +154,6 @@ esse processo ganha eficiencia mais pode perder informaçoes mesmo com o metodo 
  mantem a variancia no maximo possivel mas mantem apenas os atributos mais relevantes os componentes principais sao os pontos com maxima variancia em espaço reduzido
 
 
-# Regressão [[UFRN/5 semestre/Aprendizado de maquina supervisionado/linear.md|linear]] e [[UFRN/5 semestre/Aprendizado de maquina supervisionado/Logistica.md|Logistica]]
+# Regressão <mark style="background:#9254de">Linear</mark> VS <mark style="background:#9254de">Logística</mark> 
+
 

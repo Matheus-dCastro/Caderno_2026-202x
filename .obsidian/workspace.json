@@ -4,53 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f50d438fe3906cb9",
+        "id": "69936f45b49e0b57",
         "type": "tabs",
         "children": [
           {
-            "id": "ffec5c84a602a993",
+            "id": "7edfdc38853c3379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aprendizado de Maquina Supervisionado"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7c3a49d54666d385",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f36314cd4aaab599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Revisão para prova Unidade 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Revisão para prova Unidade 01"
-            }
-          },
-          {
-            "id": "5c8220149640106a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisioando.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Aprendizado de Maquina Supervisioando"
             }
           }
         ]
@@ -187,7 +155,7 @@
             }
           },
           {
-            "id": "5b5ee1c0fce283fb",
+            "id": "02e2cd24cbc75b2a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -271,13 +238,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f36314cd4aaab599",
+  "active": "7edfdc38853c3379",
   "lastOpenFiles": [
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Logistica.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/linear.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisioando.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+    "linear.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Revisão para prova Unidade 01.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Logistica.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/linear.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisionado.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisioando.md",
+    "Tags",
     "png/Pasted image 20260404161309.png",
     "Excalidraw/Drawing 2026-04-05 16.19.20.excalidraw.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Untitled.md",
@@ -285,7 +254,6 @@
     "Estagio/Estagio.md",
     "png/Pasted image 20260404103930.png",
     "png",
-    "Tags",
     "png/Pasted image 20260404161836.png",
     "png/Pasted image 20260404161402.png",
     "png/Pasted image 20260404161241.png",
