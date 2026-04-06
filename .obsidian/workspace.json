@@ -4,17 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e436ad7857fcaebf",
+        "id": "f50d438fe3906cb9",
         "type": "tabs",
         "children": [
           {
-            "id": "58652fa0375b8c61",
+            "id": "ffec5c84a602a993",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Aprendizado de Maquina Supervisionado"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c3a49d54666d385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36314cd4aaab599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revisão para prova Unidade 01"
+            }
+          },
+          {
+            "id": "5c8220149640106a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisioando.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aprendizado de Maquina Supervisioando"
             }
           }
         ]
@@ -49,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,20 +114,6 @@
               "state": {},
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
-            }
-          },
-          {
-            "id": "b2ee8a438d75fc4a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
             }
           },
           {
@@ -165,29 +187,59 @@
             }
           },
           {
-            "id": "c02f57f948ed09ed",
+            "id": "5b5ee1c0fce283fb",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "eadf9928a06e23c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "345683111fb689b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e293eb1c779bafdb",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -215,23 +267,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "media-extended:Open external media": false,
       "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "58652fa0375b8c61",
+  "active": "f36314cd4aaab599",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-05 16.19.20.excalidraw.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Logistica.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/linear.md",
+    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisioando.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado.md",
-    "Estagio/Estagio.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+    "png/Pasted image 20260404161309.png",
+    "Excalidraw/Drawing 2026-04-05 16.19.20.excalidraw.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado/Untitled.md",
+    "web",
+    "Estagio/Estagio.md",
     "png/Pasted image 20260404103930.png",
     "png",
     "Tags",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Drawing 2026-04-04 10.36.22.excalidraw.md",
     "png/Pasted image 20260404161836.png",
     "png/Pasted image 20260404161402.png",
-    "png/Pasted image 20260404161309.png",
     "png/Pasted image 20260404161241.png",
     "png/Pasted image 20260404145703.png",
     "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",

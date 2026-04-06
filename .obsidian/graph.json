@@ -1,12 +1,34 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 5562450
+      }
+    },
+    {
+      "query": "path:\"UFRN/5 semestre\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "path:UFRN/IEEE  ",
+      "color": {
+        "a": 1,
+        "rgb": 40447
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 2.25,
+  "close": false
 }

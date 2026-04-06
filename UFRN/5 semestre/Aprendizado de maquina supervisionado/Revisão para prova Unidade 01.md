@@ -1,5 +1,5 @@
 [[Aprendizado de Maquina Supervisionado]]
-
+#5 semestre
 ## Supervisionado Vs Não-Supervisionado
 
 -> supervisionado ja temos as características <mark style="background:#fff88f">rotuladas</mark> informações previas das variáveis
@@ -152,3 +152,7 @@ focam em redimensionar os dados para redução de custos 3
 esse processo ganha eficiencia mais pode perder informaçoes mesmo com o metodo PCA que metiga essa perca pode aver perda das informaçoes originais
 
  mantem a variancia no maximo possivel mas mantem apenas os atributos mais relevantes os componentes principais sao os pontos com maxima variancia em espaço reduzido
+
+
+# Regressão [[UFRN/5 semestre/Aprendizado de maquina supervisionado/linear.md|linear]] e [[UFRN/5 semestre/Aprendizado de maquina supervisionado/Logistica.md|Logistica]]
+

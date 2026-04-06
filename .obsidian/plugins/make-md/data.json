@@ -38,7 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//UFRN",
+    "//UFRN/UFRN/5 semestre",
+    "//UFRN/UFRN/5 semestre/UFRN/5 semestre/Aprendizado de maquina supervisionado"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
