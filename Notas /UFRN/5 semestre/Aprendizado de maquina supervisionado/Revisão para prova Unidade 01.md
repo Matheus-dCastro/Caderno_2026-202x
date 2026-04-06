@@ -1,7 +1,10 @@
-[[Aprendizado de Maquina Supervisionado]]
+[[Aprendizado de Maquina Supervisionado Aulas]]
+[[Aprendizado de Maquina Supervisionado Draw]]
 # 5 semestre
 
 ## Supervisionado Vs Não-Supervisionado
+
+^afbbd9
 
 -> supervisionado ja temos as características <mark style="background:#fff88f">rotuladas</mark> informações previas das variáveis
 -> NÃO-supervisionado não temos essas características <mark style="background:#fff88f">rotuladas </mark>
@@ -59,6 +62,8 @@ dispersão dos dados em relação a media mede a variabilidade doa variáveis
 # <mark style="background:#40a9ff">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA</mark>
 
 para que as variaveis sejam independentes o grau de cov é zero
+### exemplo do uso de cov
+
 ![[Pasted image 20260404145703.png]]
 
 ## Pre-processamento de dados
@@ -72,7 +77,7 @@ para que as variaveis sejam independentes o grau de cov é zero
 
 - 1 eliminar dados que não agregam informações tão relevantes para analise
 - 2 apenas pegar os mais relevantes para analise dos dados
-
+## Comando py
 ```
 
 .isnull() // => retorna quais colunas de dados tem elementos faltantes
@@ -215,11 +220,13 @@ from sklearn.linear_model import LogisticRegression # modelo que sera usado
 from sklearn.metrics import accuracy_score # para extrair a acuracia do processo
 ```
 
+#### exemplo do uso da norm e padro
 
 Na regressão logística a normalização não é obrigatória mas é recomenda para que tenhamos mais eficiência no treinamento e no plot => a padronização somente quando tiver a presença de muitos outlines 
 	as vezes nesse tipo de modelo é preciso passar quantos quantos passos ele ira executar para fazer sua classificação.
 => para datasets com muitos atributos sempre fazer o PCA para reduzir suas dimensões
 
+# oq saber ate aqui
 > [!note] Conteudos para saber ate aqui
 > - **Regressão** *vs* **Classificação**;
 > - Dados de **treinamento** *vs* **teste**.
@@ -227,4 +234,7 @@ Na regressão logística a normalização não é obrigatória mas é recomenda 
 > - **Interpolação** *vs* **Extrapolação**;
 > - **Underfitting** *vs* **Overfitting**;
 > - **Fluxo de trabalho** do aprendizado de máquina.
+
+# Métodos Baseados em Distância
+
 

@@ -4,47 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "69936f45b49e0b57",
+        "id": "bc73ed0acd6da14e",
         "type": "tabs",
         "children": [
           {
-            "id": "7edfdc38853c3379",
+            "id": "b668a23f92bf23d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Revisão para prova Unidade 01.md",
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Revisão para prova Unidade 01"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "262cc56bcb674c87",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d2e68d0686a4a2ef",
+            "id": "b5367df000e3130c",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://gemini.google.com/app/88cff5beecfccdc2?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330524&gbraid=0AAAAApk5BhlWopwfrNCCpOOBwODcotRRo&gclid=EAIaIQobChMIjNGd7pDakwMVAkFIAB1K4DPQEAAYASAAEgKTQvD_BwE",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Google Gemini"
-            }
-          },
-          {
-            "id": "6fcc1549f089312e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisioando.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Aprendizado de Maquina Supervisioando"
+              "icon": "lucide-file",
+              "title": "Aprendizado"
             }
           }
         ]
@@ -181,7 +175,7 @@
             }
           },
           {
-            "id": "075339ef2555a111",
+            "id": "e889703b2a602bc5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -265,8 +259,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7edfdc38853c3379",
+  "active": "b5367df000e3130c",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
+    "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA</mark>.md",
+    "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA<",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/covariancia.md",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/.md",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
+    "Notas /UFRN/5 semestre/Redes de Computadores/05_camada_de_aplicacao.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/04_topologias.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Untitled.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/image.png",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Draw.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Extrapolacao.md",
+    "Notas ",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Revisão para prova Unidade 01.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisioando.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Extrapolacao.md",
@@ -294,16 +305,7 @@
     "Excalidraw/Drawing 2026-04-03 15.21.53.excalidraw.md",
     "Recording 20260403152325.m4a",
     "Excalidraw/Drawing 2026-04-03 15.16.16.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-03 15.21.21.excalidraw.md",
     "Excalidraw/basic-shapes.excalidrawlib",
-    "Excalidraw/post-it.excalidrawlib",
-    "Excalidraw",
-    "test[.py",
-    "Kanban sem título.md",
-    "Livros",
-    "UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
-    "Untitled.canvas",
-    "2026-04-03.md",
-    "UFRN/IEEE/IEEE.md"
+    "Untitled.canvas"
   ]
 }
