@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e960e9462ff0c99",
+        "id": "1021deb809bd1be3",
         "type": "tabs",
         "children": [
           {
-            "id": "792309824edb68e9",
+            "id": "d33b656e6fd6c129",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aprendizado de maquina Nao supervisionado Aula"
+              "title": "Nova aba"
             }
           }
         ]
@@ -155,7 +151,7 @@
             }
           },
           {
-            "id": "5d47b97da2a95aae",
+            "id": "26dd201e6afed5f5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 453.5
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -239,9 +234,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "792309824edb68e9",
+  "active": "d33b656e6fd6c129",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Recording 20260407174255.m4a",
     "Ink/Drawing/2026.4.7 - 16.01pm.drawing",
     "Ink/Drawing/2026.4.7 - 16.01pm1.drawing",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
@@ -261,7 +257,6 @@
     "Recording 20260407131152.m4a",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Draw.md",
     "Notas /Estagio/Site.md",
-    "Excalidraw",
     "Notas /Estagio/Estagio.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
