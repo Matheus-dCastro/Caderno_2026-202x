@@ -11,10 +11,14 @@
             "id": "f0026ccf09beeb41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Aprendizado de Maquina Supervisionado Aulas"
             }
           }
         ]
@@ -151,7 +155,7 @@
             }
           },
           {
-            "id": "c1e7e0e72122f356",
+            "id": "0373c39450c29ad5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -237,6 +241,11 @@
   },
   "active": "f0026ccf09beeb41",
   "lastOpenFiles": [
+    "Recording 20260407143455.m4a",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+    "Recording 20260407131158.m4a",
+    "Recording 20260407131152.m4a",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Draw.md",
     "Notas /Estagio/Site.md",
     "Excalidraw/Drawing 2026-04-07 09.31.01.excalidraw.md",
     "Pasted Image 20260407093932_908.png",
@@ -252,19 +261,15 @@
     "Notas /UFRN/5 semestre/Redes de Computadores/04_topologias.pdf",
     "Ink/Drawing",
     "Ink",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA</mark>.md",
     "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA<",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/covariancia.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
-    "Notas /UFRN/5 semestre/Redes de Computadores/05_camada_de_aplicacao.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Untitled.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/image.png",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Draw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Extrapolacao.md",
-    "Notas ",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Revisão para prova Unidade 01.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisioando.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Extrapolacao.md",

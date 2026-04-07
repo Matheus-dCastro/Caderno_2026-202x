@@ -242,3 +242,34 @@ O desenvolvimento de um modelo em AM geralmente segue um **fluxo de etapas**:
 3. **Treinar o modelo** — escolha de um modelo e ajuste dos parâmetros internos a partir dos dados de treino.
 4. **Realizar predições** — aplicar o modelo treinado em novos dados.
 5. **Avaliar o desempenho** — medir acurácia, erro ou outras métricas adequadas ao problema.
+
+# 2° Unidade
+
+## Notebook 06 =>
+
+Holdout: Dividir os dados
+esse passo adiciona a validação: como o KNN
+
+poucos dados de uma x classe pelo embaralhamento pode ser q n apareça entre os dados de 10 
+
+tem q deixar proporcional usando => <mark style="background:#d4b106">ESTRATIFICAÇÃO</mark>
+
+-> 
+```python
+
+weights=[0.9, 0.1] => ta passando a proporçao das classes que to criando
+stratify=y => retorna de forma proporcional as classes em test e train
+
+```
+
+encontrar o melhor valor de K é uma forma de afinação de hiperparametros
+
+os dados de teste n sao usado antes do final do plot por isso usamos um dado de val <font color="#ff0000">analogia das questoes de calculo</font>
+
+=> a conclusão sera questão de prova provavelmente 
+
+#### Validação Cruzada K-fold (Cross-Validation)
+
+para saber se o modelo é estável 
+dividir em varias partes e fazendo por etapas, dividir e conquistar basicamente
+
