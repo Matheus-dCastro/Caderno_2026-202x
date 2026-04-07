@@ -6,7 +6,6 @@
   "baseFontSize": 17,
   "interfaceFontFamily": "Fira Code",
   "enabledCssSnippets": [
-    "cursor-smooth-obsidian",
-    "fira-code-obsidian"
+    "cursor-smooth-obsidian"
   ]
 }

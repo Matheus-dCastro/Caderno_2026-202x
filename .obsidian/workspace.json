@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b4dcee604415398",
+        "id": "5e960e9462ff0c99",
         "type": "tabs",
         "children": [
           {
-            "id": "f0026ccf09beeb41",
+            "id": "792309824edb68e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aprendizado de Maquina Supervisionado Aulas"
+              "title": "Aprendizado de maquina Nao supervisionado Aula"
             }
           }
         ]
@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "0373c39450c29ad5",
+            "id": "5d47b97da2a95aae",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -239,35 +239,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f0026ccf09beeb41",
+  "active": "792309824edb68e9",
   "lastOpenFiles": [
-    "Recording 20260407143455.m4a",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Ink/Drawing/2026.4.7 - 16.01pm.drawing",
+    "Ink/Drawing/2026.4.7 - 16.01pm1.drawing",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
+    "Notas /Cursos/Cursos.md",
+    "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+    "Ink/Drawing",
+    "Ink",
+    "Excalidraw/Drawing 2026-04-07 09.31.01.excalidraw.md",
+    "Pasted Image 20260407093103_634.png",
+    "Pasted Image 20260407093932_908.png",
+    "Notas /Cursos/Python 3+ completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação",
+    "Notas /Cursos",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Recording 20260407143455.m4a",
+    "Vault.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Recording 20260407131158.m4a",
     "Recording 20260407131152.m4a",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Draw.md",
     "Notas /Estagio/Site.md",
-    "Excalidraw/Drawing 2026-04-07 09.31.01.excalidraw.md",
-    "Pasted Image 20260407093932_908.png",
-    "Pasted Image 20260407093103_634.png",
     "Excalidraw",
     "Notas /Estagio/Estagio.md",
-    "Tags",
-    "Ink/Drawing/2026.4.6 - 19.38pm.drawing",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
-    "Ink/Drawing/2026.4.6 - 19.41pm.drawing",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
-    "Notas /UFRN/5 semestre/Redes de Computadores/04_topologias.pdf",
-    "Ink/Drawing",
-    "Ink",
     "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA</mark>.md",
-    "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA<",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/covariancia.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Untitled.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/image.png",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Extrapolacao.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Revisão para prova Unidade 01.md",
@@ -277,11 +280,7 @@
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Aprendizado de Maquina Supervisionado.md",
     "linear.md",
     "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/Logistica.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado Aula/linear.md",
     "png/Pasted image 20260404161309.png",
-    "Excalidraw/Drawing 2026-04-05 16.19.20.excalidraw.md",
-    "UFRN/5 semestre/Aprendizado de maquina supervisionado/Untitled.md",
-    "Estagio/Estagio.md",
     "png/Pasted image 20260404103930.png",
     "png/Pasted image 20260404161836.png",
     "png/Pasted image 20260404161402.png",
