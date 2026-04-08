@@ -11,10 +11,49 @@
             "id": "d33b656e6fd6c129",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas /Estagio/Site.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Site"
+            }
+          },
+          {
+            "id": "f29045d5c4a01617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revisão para prova Unidade 01"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "83a5a67cf853272d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e99e0eaa629d937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aprendizado"
             }
           }
         ]
@@ -151,7 +190,7 @@
             }
           },
           {
-            "id": "a717da74d16c0399",
+            "id": "8071a82132f01262",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -165,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -234,8 +274,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d33b656e6fd6c129",
+  "active": "4e99e0eaa629d937",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+    "Notas /Estagio/Site.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Recording 20260407174255.m4a",
     "Ink/Drawing/2026.4.7 - 16.01pm.drawing",
@@ -252,14 +296,10 @@
     "Notas /Cursos",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Recording 20260407143455.m4a",
     "Vault.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Recording 20260407131158.m4a",
     "Recording 20260407131152.m4a",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Draw.md",
-    "Notas /Estagio/Site.md",
     "Notas /Estagio/Estagio.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
     "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA</mark>.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/covariancia.md",
