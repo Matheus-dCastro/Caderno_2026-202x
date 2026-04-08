@@ -118,5 +118,14 @@
       ],
       "key": "X"
     }
+  ],
+  "ink:create-drawing-section": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
   ]
 }

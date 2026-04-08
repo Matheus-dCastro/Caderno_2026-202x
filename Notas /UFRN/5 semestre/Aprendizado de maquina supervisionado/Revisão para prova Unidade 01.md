@@ -237,5 +237,19 @@ Na regressão logística a normalização não é obrigatória mas é recomenda 
 
 # Métodos Baseados em Distância
 
+usam a simliariedade ou dissimilariedade das amostras do dataset => classifica e regressao ja no NAO usamos para agrupar os dados (clusters) e detectar anomalias na amostra
 
+Geralmente falamos do KNN baseados nos vizinhos mais procimos -> primeiro normalizamos e aplicamos a PCA
+ - o KNN e chamado de algoritmo pregriso (Lazy) pq n tem uma etapa de aprendizado de fato
+ - calculamos pontos medios para classificar os pontos e formar os grupos
+ 1-NN:
+
+supervices de descisao: conjunto de ponto nesse caso o 1 vizinho mais proximo => assim como qualquer algotimo da familia do NN n apresenta nenhuma fase propriamente dita de treinamento calculando as coisas na hora sempre 
+
+para:
+	Classificação: o ponto q caiu mais proximo do meu elemento ja classificado, recebe a mesma classificacao => <mark style="background:#ff4d4f">moda</mark>
+	Regresão: o valor de preditic sera o mesmo do valor do vizinho mais proximo do ponto q usamos para start => <mark style="background:#ff4d4f">media</mark>
+
+##### <mark style="background:#40a9ff">O calulo pesado sempre e feito no momentoda enferencia </mark>
+-> nao gasto com treinamento 
 

@@ -54,3 +54,14 @@ O efeito de <mark style="background:#b1ffff">padronizar</mark> leva a media a ze
 
 
 ![[Revisão para prova Unidade 01#Padronizar VS Normalizar]]![[Revisão para prova Unidade 01#exemplo do uso da norm e padro]]
+![[Revisão para prova Unidade 01#Métodos Baseados em Distância]]
+
+
+para esses metodos basicamente o algoritmo sempre usa a ditancia euclidiana para responder oq estamos querendo 
+
+classificacao usamos moda o ponto mais proximo sera classificado como parte do grupo e atualiza para fazer sucessivamente esse passo
+regresao usamos media mesma logica entretanto o ponto mais proximo sera o predict q procuramos para entrada q passamos
+
+conhecido por ser lerdo => uma vez q ele n aprende e sim usa sempre o processo matematico para na hora de achar a resposta para poder medir oq queremos achar sempre nunca amarzenado nada na memoria apenas na hora de test o train dele e quase q fictisio
+
+
