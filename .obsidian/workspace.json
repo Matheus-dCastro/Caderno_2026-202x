@@ -6,7 +6,7 @@
       {
         "id": "b76181b01645ada5",
         "type": "split",
-        "dimension": 77.40796772566819,
+        "dimension": 77.40796772566817,
         "children": [
           {
             "id": "d983f7089f8ae188",
@@ -57,7 +57,7 @@
       {
         "id": "015aaf1e9f42f069",
         "type": "tabs",
-        "dimension": 22.59203227433182,
+        "dimension": 22.592032274331824,
         "children": [
           {
             "id": "daa14ccdf7a28884",
@@ -207,7 +207,7 @@
             }
           },
           {
-            "id": "45dce6faad678b59",
+            "id": "e934be238650457e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -301,7 +301,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "04c5acdbca96eda5",
+  "active": "daa14ccdf7a28884",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",

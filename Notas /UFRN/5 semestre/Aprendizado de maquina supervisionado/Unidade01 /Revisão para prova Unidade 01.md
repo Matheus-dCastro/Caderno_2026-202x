@@ -1,10 +1,8 @@
 [[Aprendizado de Maquina Supervisionado Aulas]]
 [[Aprendizado de Maquina Supervisionado Draw]]
 # 5 semestre
-
+%% so para ve se sobe %%
 ## Supervisionado Vs Não-Supervisionado
-
-^afbbd9
 
 -> supervisionado ja temos as características <mark style="background:#fff88f">rotuladas</mark> informações previas das variáveis
 -> NÃO-supervisionado não temos essas características <mark style="background:#fff88f">rotuladas </mark>
