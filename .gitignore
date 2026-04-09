@@ -1,1 +1,15 @@
 .trash/
+# vídeos
+*.mp4
+*.mkv
+*.mov
+
+# áudios
+*.mp3
+*.wav
+
+# arquivos grandes
+*.zip
+*.rar
+
+*.m4a
