@@ -12,14 +12,17 @@
             "id": "04c5acdbca96eda5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notas /Estagio/Site.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
+                "viewState": {
+                  "x": 539.8996269119547,
+                  "y": -578.8080877219496,
+                  "zoom": -0.1446419203867706
+                }
               },
-              "icon": "lucide-file",
-              "title": "Site"
+              "icon": "lucide-layout-dashboard",
+              "title": "Fluxo de Trabalho de AM"
             }
           }
         ]
@@ -177,7 +180,7 @@
             }
           },
           {
-            "id": "0b68fed19075c2a2",
+            "id": "fb823a76c5034958",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -186,11 +189,13 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -273,6 +278,7 @@
   "active": "04c5acdbca96eda5",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
+    "Notas /Estagio/Site.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Revisão para prova Unidade 01.md",
     "Recording 20260408224840.m4a",
     "png/Pasted image 20260408190024.png",
@@ -301,7 +307,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Draw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
-    "Notas /Estagio/Site.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Notas /Cursos/Cursos.md",
