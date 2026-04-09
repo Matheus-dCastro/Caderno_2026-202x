@@ -4,55 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b76181b01645ada5",
-        "type": "split",
+        "id": "1a4ae18ebbc4377d",
+        "type": "tabs",
         "dimension": 77.40796772566817,
         "children": [
           {
-            "id": "d983f7089f8ae188",
-            "type": "tabs",
-            "dimension": 42.321755027422306,
-            "children": [
-              {
-                "id": "c821f1493b96f7eb",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2026-04-08 19.47.10.excalidraw"
+            "id": "04c5acdbca96eda5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
+                "viewState": {
+                  "x": -2728.4949976035473,
+                  "y": -517.0049221454121,
+                  "zoom": -0.3474728268277836
                 }
-              }
-            ]
-          },
-          {
-            "id": "1a4ae18ebbc4377d",
-            "type": "tabs",
-            "dimension": 57.678244972577694,
-            "children": [
-              {
-                "id": "04c5acdbca96eda5",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
-                    "viewState": {
-                      "x": -2889.419287153332,
-                      "y": -470.8575155833416,
-                      "zoom": -0.3474728268277836
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Fluxo de Trabalho de AM"
-                }
-              }
-            ]
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Fluxo de Trabalho de AM"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "015aaf1e9f42f069",
@@ -207,7 +180,7 @@
             }
           },
           {
-            "id": "e934be238650457e",
+            "id": "55e32ece52e7d992",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -301,19 +274,20 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "daa14ccdf7a28884",
+  "active": "04c5acdbca96eda5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Revisão para prova Unidade 01.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
+    "Recording 20260408224840.m4a",
+    "png/Pasted image 20260408190024.png",
+    "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
+    "png/Pasted image 20260408185846.png",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 18.55.03.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.09.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.28.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.46.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Revisão para prova Unidade 01.md",
-    "Pasted image 20260408190024.png",
-    "Pasted image 20260408185846.png",
     "Ink/Drawing/2026.4.8 - 18.55pm (2).drawing",
     "Ink/Drawing/2026.4.8 - 18.55pm.drawing",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
@@ -325,7 +299,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Notebooks",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Recording 20260407143455.m4a",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Fluxo de Trabalho de AM.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Recording 20260407143455.m4a",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /image.png",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado de Maquina Supervisionado Draw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado de Maquina Supervisionado Aulas.md",
