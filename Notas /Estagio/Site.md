@@ -18,9 +18,9 @@ tecnologias q são usadas na empresa:
 
 ### A fazer agora:
 
-- [ ]  trocar as coisas de posiçao
-- [ ]  da enfase na consutoria
-- [ ]  focar em direcionar para o cliente ir para consultoria primeiro
+- [x]  trocar as coisas de posiçao
+- [x]  da enfase na consutoria
+- [x]  focar em direcionar para o cliente ir para consultoria primeiro
 
 
 
