@@ -251,5 +251,4 @@ para:
 	Regresão: o valor de preditic sera o mesmo do valor do vizinho mais proximo do ponto q usamos para start => <mark style="background:#ff4d4f">media</mark>
 
 ##### <mark style="background:#40a9ff">O calulo pesado sempre e feito no momentoda enferencia </mark>
--> nao gasto com treinamento 
-
+-> nao gasto com treinamento  
