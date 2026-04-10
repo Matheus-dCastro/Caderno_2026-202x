@@ -83,3 +83,4 @@ algoritmos simples layzer como o KNN sofre com um conjuto de dados com muitas di
 
 
 
+
