@@ -11,6 +11,30 @@
       "ctime": 1775860402061,
       "url": "https://sigaa.ufrn.br/sigaa/portais/discente/discente.jsf",
       "title": "SIGAA"
+    },
+    {
+      "type": "url",
+      "ctime": 1775914211591,
+      "url": "https://www.deezer.com/en/",
+      "title": "Deezer"
+    },
+    {
+      "type": "url",
+      "ctime": 1775914643856,
+      "url": "https://www.notion.so/Dashboard-14680afd910580f194cad2f84bba753d",
+      "title": "Dashboard | Notion"
+    },
+    {
+      "type": "url",
+      "ctime": 1775914686849,
+      "url": "https://mail.notion.so/inbox?from=appSwitcher",
+      "title": "Notion - Mail"
+    },
+    {
+      "type": "url",
+      "ctime": 1775914708946,
+      "url": "https://calendar.notion.so/",
+      "title": "Notion - Calendar"
     }
   ]
 }

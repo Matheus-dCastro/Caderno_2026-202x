@@ -78,9 +78,33 @@ algoritmos simples layzer como o KNN sofre com um conjuto de dados com muitas di
 
 
 
-# Exercícios:
+# K-means:
 
 
+Busca minimizar a variancia intra-clusters, conhecido tambem como inercia ou soma dos quadrados => WCSS: within-cluster sum of squares.
+
+#### Passo interativo de otimização: 
+
+Usa a expressão -> Expectation-Maximization (EM)
+- 1 distribuição: cada ponto de observação é atribuido a um clusters cujo ira fazer parte do centroide mais proximo => <mark style="background:#affad1">define limites de decisão</mark>
+- 2 atualiza: recalcula o centroide e reinicia o processo de distribuir a cada novo/novos pontos adicionados ao cluster
+
+<mark style="background:#d4b106">=> repete isso ate que todos os pontos tenham sido atribuidos ao um cluster (Convergencia)</mark>
+
+Preparação dos dados simliar a como acontece no aprendizado de maquina supervisionado seguindo os mesmo passos focando em tentar reduzir as dimeções para duas para facilitar a analise do algoritmo
+
+==para escolher entre as features==
+
+tecnica é usar o scatter plot onde para cada par de dados é plotado um grafico => para o k-means buscamos aglomerado de ponto visualmente distintos (2 clusters visualmente separados)
+
+# Implementação do k-Means:
+
+O kmeans armazena os hiperparametros, e os centroides sao quase q seus rotulos
 
 
+```python
+self. # serve para receber os paramentros das passado na assinatura da funçao basicamente
 
+```
+
+Sempre começa em um ponto aleatorio de inicio

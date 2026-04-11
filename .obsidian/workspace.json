@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67c807a2bc347760",
+        "id": "c2f18a1bbf936db1",
         "type": "tabs",
         "children": [
           {
             "id": "bcb21dbb8f5a46cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Aprendizado de maquina Nao supervisionado Aula"
             }
           }
         ]
@@ -27,29 +31,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf8a045387c4a39",
+        "id": "06f7550a6831b5f0",
         "type": "tabs",
+        "dimension": 22.805017103762825,
         "children": [
-          {
-            "id": "f08e089f1bb97d38",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
-            }
-          },
           {
             "id": "763b5accfc6e0e88",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +61,46 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cdf8a045387c4a39",
+        "type": "tabs",
+        "dimension": 77.19498289623718,
+        "children": [
+          {
+            "id": "f08e089f1bb97d38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "285be532e0e497fd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           },
           {
             "id": "61450bc9bf55fe1d",
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
             }
@@ -86,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Aprendizado de maquina Nao supervisionado Aula"
             }
           },
           {
@@ -99,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Aprendizado de maquina Nao supervisionado Aula"
             }
           },
           {
@@ -117,12 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Aprendizado de maquina Nao supervisionado Aula"
             }
           },
           {
@@ -130,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md"
+              },
               "icon": "lucide-info",
-              "title": "Propriedades dos arquivos"
+              "title": "Propriedades do arquivo Aprendizado de maquina Nao supervisionado Aula"
             }
           },
           {
@@ -149,22 +179,14 @@
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
-          },
-          {
-            "id": "895da438e2a8b1c8",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -173,6 +195,7 @@
       {
         "id": "eadf9928a06e23c7",
         "type": "tabs",
+        "dimension": 45.357142857142854,
         "children": [
           {
             "id": "345683111fb689b2",
@@ -207,13 +230,44 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9562e6bc282cafdc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.deezer.com/en/",
+                "title": "NIKA \"Deus do Sol\" - Ghost33 - Deezer",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "NIKA \"Deus do Sol\" - Ghost33 - Deezer"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "172aa7c042c8075d",
+        "type": "tabs",
+        "dimension": 54.64285714285714,
+        "children": [
+          {
+            "id": "51662950988045e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 625.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -227,7 +281,6 @@
       "markdown-importer:Abrir importador Markdown": false,
       "zk-prefixer:Criar nova nota única": false,
       "random-note:Abrir nota aleatória": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "bases:Criar nova base": false,
       "obsidian-kanban:Criar um novo quadro": false,
@@ -241,13 +294,15 @@
       "terminal:Open terminal": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "notes-explorer:Notes explorer": false
+      "notes-explorer:Notes explorer": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
   "active": "bcb21dbb8f5a46cc",
   "lastOpenFiles": [
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
     "png/Pasted image 20260408190024.png",
     "png/Pasted image 20260404161836.png",
     "png/Pasted image 20260408185846.png",
@@ -263,7 +318,6 @@
     "Notas /Estagio/Site.md",
     "Recording 20260408224840.m4a",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 18.55.03.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.09.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.28.excalidraw.md",
