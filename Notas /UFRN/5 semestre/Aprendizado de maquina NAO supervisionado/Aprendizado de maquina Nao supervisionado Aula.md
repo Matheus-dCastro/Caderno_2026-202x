@@ -108,3 +108,25 @@ self. # serve para receber os paramentros das passado na assinatura da funçao b
 ```
 
 Sempre começa em um ponto aleatorio de inicio
+Atribui cada ponto a um centroide mais proximo
+Atualiza o centroide com base na media dos pontos do cluster
+Executa o Kmeans => restribui os pontos e os agrupam em clusters por similaridade
+
+e faz o predict de novos dados para os clusters com base nos centroides aprendidos
+
+para o k-means precisamos dizer qual o numero de clusters q ele tem q perdictar mas usando o metodo do cotevelo podemos achar o melhor valor de K dentro dos dados
+
+cada centroide define <mark style="background:#d2cbff">fronteiras</mark> entre as características qualquer ponto q caia na fronteira é atribuido ao centroide 
+
+# 1° forma de aplicar:
+## Quantização vetorial
+Comprimir imagens=> reduz o numero de cores de uma imagem
+
+<font color="#ff0000">cor = vetor de 3 dimensões RGB => pixel é um vetor de cores</font>
+
+# 2° seguimentação de imagem: 
+dividir a imagem em conjutos de pixel
+
+topografia de mapas e analise de imagens de plano baixo
+
+

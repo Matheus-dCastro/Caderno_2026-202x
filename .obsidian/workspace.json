@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Aprendizado de maquina Nao supervisionado Aula"
             }
+          },
+          {
+            "id": "7cfab891c4312159",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=Nf-vaOIQA3E",
+                "title": "(5711) Introdução ao Agrupamento Hierárquico - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "(5711) Introdução ao Agrupamento Hierárquico - YouTube"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,6 +76,16 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "49038ade68e544ad",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ],
         "currentTab": 1
@@ -84,23 +109,11 @@
             }
           },
           {
-            "id": "285be532e0e497fd",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "61450bc9bf55fe1d",
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
             }
@@ -238,11 +251,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.deezer.com/en/",
-                "title": "NIKA \"Deus do Sol\" - Ghost33 - Deezer",
+                "title": "JUJUTSU KAISEN \"Eu Sou TOJI\" - Ghost33 - Deezer",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "NIKA \"Deus do Sol\" - Ghost33 - Deezer"
+              "title": "JUJUTSU KAISEN \"Eu Sou TOJI\" - Ghost33 - Deezer"
             }
           }
         ],
@@ -294,11 +307,11 @@
       "terminal:Open terminal": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "notes-explorer:Notes explorer": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bcb21dbb8f5a46cc",
+  "active": "7cfab891c4312159",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
