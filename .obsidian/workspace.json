@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f18a1bbf936db1",
+        "id": "ede0c9061456154f",
         "type": "tabs",
         "children": [
           {
-            "id": "bcb21dbb8f5a46cc",
+            "id": "ff6f1c49098d34e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aprendizado de maquina Nao supervisionado Aula"
-            }
-          },
-          {
-            "id": "7cfab891c4312159",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=Nf-vaOIQA3E",
-                "title": "(5711) Introdução ao Agrupamento Hierárquico - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "(5711) Introdução ao Agrupamento Hierárquico - YouTube"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,6 +62,19 @@
             "id": "49038ade68e544ad",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "e4842c07476d8fab",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -95,19 +89,6 @@
         "type": "tabs",
         "dimension": 77.19498289623718,
         "children": [
-          {
-            "id": "f08e089f1bb97d38",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
-            }
-          },
           {
             "id": "61450bc9bf55fe1d",
             "type": "leaf",
@@ -193,8 +174,7 @@
               "title": "Etiquetas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,11 +231,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.deezer.com/en/",
-                "title": "JUJUTSU KAISEN \"Eu Sou TOJI\" - Ghost33 - Deezer",
+                "title": "USOPP \"A Historia\" - Ghost33 - Deezer",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "JUJUTSU KAISEN \"Eu Sou TOJI\" - Ghost33 - Deezer"
+              "title": "USOPP \"A Historia\" - Ghost33 - Deezer"
             }
           }
         ],
@@ -311,7 +291,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "7cfab891c4312159",
+  "active": "ff6f1c49098d34e7",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",

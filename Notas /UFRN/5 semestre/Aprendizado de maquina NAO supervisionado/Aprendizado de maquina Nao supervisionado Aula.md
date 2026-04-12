@@ -130,3 +130,36 @@ dividir a imagem em conjutos de pixel
 topografia de mapas e analise de imagens de plano baixo
 
 
+<mark style="background:#fff88f">Registros == Clusters</mark>
+Baseado em distancia para fazer o registro de união do clusters (acontece de dois em dois) => processo chamando de Bottom-up
+ja o processo oposto que é dividindo/separando de cima para baixo é o top-down
+
+
+coloca os dados em uma matriz de distancia: D=d(xi,xj)
+
+### Método:
+
+**Interação:** buscamos acada passo o par com menor ditancia e agrupamos eles em um só.
+**Atualização:** Recalcula a distancia como o novo ponto => matriz de distancia
+**Terminação:** esses passos são repetidos ate que vire somente um cluster 
+
+## Critérios: 
+### Como medir essas ligações e distancias
+
+<mark style="background:#40a9ff">single linkage: </mark>é feita a conta pelos pontos mais proximos entre os dois clusters analizados no momento
+<mark style="background:#40a9ff">avarange linkage:</mark> media entre todas as distancias entre os pontos dos clusters em analise
+<mark style="background:#40a9ff">ward:</mark> soma dos quadrados das distancias entre os centroides dos clusters
+
+**<mark style="background:#9254de">Cada critério de ligação produz diferentes estruturas de cluster:</mark>**
+
+  
+
+<mark style="background:#9254de">- **Single Linkage**: Tende a criar clusters elongados e pode sofrer do "efeito corrente" (chaining effect).</mark>
+
+<mark style="background:#9254de">- **Complete Linkage**: Produz clusters mais compactos e esféricos.</mark>
+
+<mark style="background:#9254de">- **Average Linkage**: Um meio-termo entre single e complete.</mark>
+
+<mark style="background:#9254de">- **Ward Linkage**: Minimiza a variância intra-cluster, similar ao objetivo do K-Means.</mark>
+
+
