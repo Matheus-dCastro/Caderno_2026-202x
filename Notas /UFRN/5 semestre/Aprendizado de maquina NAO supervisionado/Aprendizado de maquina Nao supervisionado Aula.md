@@ -173,3 +173,45 @@ baseado em densidade => nao requer q passamos o numero especifico de clusters pa
 raio de vizinhança e numero minimo de pontos para ter um clusters
 
 Foca em buscar regiões q tem comportamentos/caracteristicas similares
+
+minpts = numero minimo de pontos
+core point = poder de iniciar ou expandir um grupo (esta no centro de uma densidade de pontos)
+border point = pego pela densidade de um core point (ta nas beira)
+noise point = (ruido) n esta dentro de alcance de um core point
+
+nesse eu vario o raio q ele vai definfinir um grupo de pontos n a quantidade de grupos
+
+o proximo ponto na hora de checar na densidade sera o ponto com menor distancia do core point (ponto do centro)
+
+## K-distance:
+serve para escolher quanto sera o numero de ponto dentro de um raio para definir como core point e marcar dentro ele como parte de cluster calcual a distancia do ponto para todos coloca esses valores em uma matriz e pegamos o segundo menor valor 
+
+# Metricas de avaliação para algoritmos de clustering
+
+## Interna:
+
+Silhouette Score:
+o quão simliar o ponto e de seu cluster vs outros clusters => vai de -1 a +1 
+
+faz a media da distancia do ponto analisado com todos do cluster q ele foi atribuido e faz o mesmo para o cluster mais proximo e ve qual o valor resulta
+
+## Davies-Bouldin Index (DBI):
+
+pela similaridade media => mede quanto os pontos de um cluster estao separados e faz isso para o vizinho mais proximo daquele cluster tambem, acha a distancia de um para o outro soma essas metricas de dispersao e divide pela distancia
+
+
+## Dunn Index:
+
+parece o Davies-Bouldin Index (DBI) porem mais extremo => foca no pior cenario: quer q a distancia entre os clusters vizinhos seja a maior possivel e q o tamanho do maior cluster seja a menor possivel
+
+mais senssivel a ruidos
+
+
+### metricas
+
+* **Silhouette Score**: Quanto maior, melhor.
+
+* **Davies-Bouldin Index**: Quanto menor, melhor.
+
+* **Dunn Index**: Quanto maior, melhor.
+

@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Aprendizado de maquina Nao supervisionado Aula"
             }
-          },
-          {
-            "id": "2bd0b577358f7b5e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.google.com/search?q=oq+seria+ser+alcansado+por+densidade+analise+de+dados+&sca_esv=344f3e5e0d3315c7&sxsrf=ANbL-n7Ca1ls6vASdxEbaJ1Fg4z_OEKbow%3A1776082343458&ei=p93caarMG_Xy1sQP_4zsmQY&biw=900&bih=1024&ved=0ahUKEwjqu7Gp5uqTAxV1uZUCHX8GO2MQ4dUDCBE&uact=5&oq=oq+seria+ser+alcansado+por+densidade+analise+de+dados+&gs_lp=Egxnd3Mtd2l6LXNlcnAiNm9xIHNlcmlhIHNlciBhbGNhbnNhZG8gcG9yIGRlbnNpZGFkZSBhbmFsaXNlIGRlIGRhZG9zIDIHECEYChigAUjLGlD_BFiuGnABeAGQAQCYAf0CoAHaI6oBBjItMTMuM7gBA8gBAPgBAZgCEKACkSLCAgoQABhHGNYEGLADmAMA4gMFEgExIECIBgGQBgiSBwcxLjAuOS42oAfLSLIHBTItOS42uAeGIsIHCDAuMTUuMC4xyAclgAgB&sclient=gws-wiz-serp",
-                "title": "oq seria ser alcansado por densidade analise de dados - Pesquisa Google",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "oq seria ser alcansado por densidade analise de dados - Pesquisa Google"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +33,7 @@
       {
         "id": "06f7550a6831b5f0",
         "type": "tabs",
-        "dimension": 81.42989786443825,
+        "dimension": 81.42989786443826,
         "children": [
           {
             "id": "763b5accfc6e0e88",
@@ -91,7 +76,7 @@
             }
           },
           {
-            "id": "e6848e7c34d49444",
+            "id": "a587196580ebb393",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -106,7 +91,7 @@
       {
         "id": "cdf8a045387c4a39",
         "type": "tabs",
-        "dimension": 18.570102135561743,
+        "dimension": 18.570102135561747,
         "children": [
           {
             "id": "61450bc9bf55fe1d",
@@ -310,7 +295,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "2bd0b577358f7b5e",
+  "active": "ff6f1c49098d34e7",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
