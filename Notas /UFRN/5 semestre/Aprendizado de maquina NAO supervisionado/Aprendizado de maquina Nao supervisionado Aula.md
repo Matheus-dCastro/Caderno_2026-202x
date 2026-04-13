@@ -163,3 +163,13 @@ coloca os dados em uma matriz de distancia: D=d(xi,xj)
 <mark style="background:#9254de">- **Ward Linkage**: Minimiza a variância intra-cluster, similar ao objetivo do K-Means.</mark>
 
 
+# DBSCAN: 
+
+baseado em densidade => nao requer q passamos o numero especifico de clusters para q funcione.
+- capaz de detectar clusters automaticamente
+- e detectar outliers(ruidos)
+- Forma arbitraria -> clusters de qualquer formato
+
+raio de vizinhança e numero minimo de pontos para ter um clusters
+
+Foca em buscar regiões q tem comportamentos/caracteristicas similares
