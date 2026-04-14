@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "be234266d898eb10",
+            "id": "5e858d18bbc155db",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -188,7 +188,7 @@
       {
         "id": "eadf9928a06e23c7",
         "type": "tabs",
-        "dimension": 58.68372943327239,
+        "dimension": 58.6837294332724,
         "children": [
           {
             "id": "345683111fb689b2",
@@ -293,8 +293,19 @@
   },
   "active": "666c9627f7517019",
   "lastOpenFiles": [
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/02._K-Means.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/03._Hierrquico.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/05._Mtricas_de_Clustering.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Revisao da unidade 01.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
@@ -320,13 +331,6 @@
     "Excalidraw/Drawing 2026-04-08 19.44.46.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado.md",
     "Ink/Drawing/2026.4.8 - 18.55pm (2).drawing",
-    "Ink/Drawing/2026.4.8 - 18.55pm.drawing",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Notebooks/5-método baseado em distância.ipynb",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Notebooks/4-regressão linear e logística.ipynb",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Notebooks/3-pré-processamento de dados.ipynb",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Notebooks/2-análise exploratória de dados.ipynb",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Notebooks/1-introdução ao AM.ipynb",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Notebooks",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Fluxo de Trabalho de AM.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /image.png",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado de Maquina Supervisionado Draw.md",
@@ -338,9 +342,6 @@
     "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
     "Excalidraw/Drawing 2026-04-07 09.31.01.excalidraw.md",
     "Vault.md",
-    "Notas /Estagio/Estagio.md",
-    "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
-    "Revisão para prova Unidade 01#<mark style=\"background 40a9ff\">Para pode medir mais de uma variavel (Multivariavel) => usamos a COVARIANCIA</mark>.md",
     "Untitled.canvas"
   ]
 }
