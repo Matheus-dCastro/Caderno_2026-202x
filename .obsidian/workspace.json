@@ -11,13 +11,71 @@
             "id": "666c9627f7517019",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "canvas",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Revisao da unidade 01"
             }
           }
         ]
+      },
+      {
+        "id": "9fc22d3b02333096",
+        "type": "split",
+        "children": [
+          {
+            "id": "e88e5928a9c5b3e7",
+            "type": "tabs",
+            "dimension": 40.535714285714285,
+            "children": [
+              {
+                "id": "be1fa735cacb8156",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
+                    "page": 8,
+                    "left": -17,
+                    "top": 307,
+                    "zoom": 0.9229166666666666
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "01._Apresentao_da_Disciplina"
+                }
+              }
+            ]
+          },
+          {
+            "id": "74284dc60116f728",
+            "type": "tabs",
+            "dimension": 59.464285714285715,
+            "children": [
+              {
+                "id": "e41d8c49422867b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Aprendizado"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -72,7 +130,7 @@
             }
           },
           {
-            "id": "5e858d18bbc155db",
+            "id": "fc76a5470f8d53e6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
             }
@@ -188,7 +248,7 @@
       {
         "id": "eadf9928a06e23c7",
         "type": "tabs",
-        "dimension": 58.6837294332724,
+        "dimension": 58.683729433272404,
         "children": [
           {
             "id": "345683111fb689b2",
@@ -244,7 +304,7 @@
       {
         "id": "172aa7c042c8075d",
         "type": "tabs",
-        "dimension": 41.3162705667276,
+        "dimension": 41.316270566727596,
         "children": [
           {
             "id": "51662950988045e9",
@@ -291,14 +351,14 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "666c9627f7517019",
+  "active": "e41d8c49422867b4",
   "lastOpenFiles": [
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/02._K-Means.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/03._Hierrquico.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",

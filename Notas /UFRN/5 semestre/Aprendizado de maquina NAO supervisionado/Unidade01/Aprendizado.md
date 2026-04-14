@@ -54,3 +54,4 @@ basicamente
 SS: quanto maior melhor
 DBI: quanto menor melhor
 DI: quanto maior melhor
+
