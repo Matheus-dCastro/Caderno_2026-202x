@@ -55,3 +55,16 @@ SS: quanto maior melhor
 DBI: quanto menor melhor
 DI: quanto maior melhor
 
+# Cluster hierárquico: 
+
+definir o k => n lida bem com clusters esfericos no geral vuneravel a outlines
+agrupa por distancias proximas 
+
+### Criterios de ligação:
+S => distancia minima entre-cluster -> alongados mais sensivel 
+C => distancia maxima entre-cluster -> compactos menos sensivel bem separados
+A => distancia media entre os pontos -> fica entre S e C tamanho balanceado
+W => minimiza a variancia dentro do cluster -> tamanhos iguais esfericos, dados continuos
+
+
+

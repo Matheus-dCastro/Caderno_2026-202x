@@ -41,14 +41,14 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
-                    "page": 8,
-                    "left": -17,
-                    "top": 307,
-                    "zoom": 0.9229166666666666
+                    "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
+                    "page": 4,
+                    "left": -16,
+                    "top": 13,
+                    "zoom": 0.9229166666666668
                   },
                   "icon": "lucide-file-text",
-                  "title": "01._Apresentao_da_Disciplina"
+                  "title": "04._DBSCAN-1"
                 }
               }
             ]
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "fc76a5470f8d53e6",
+            "id": "57e7c4bd40427058",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -353,15 +353,15 @@
   },
   "active": "e41d8c49422867b4",
   "lastOpenFiles": [
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/03._Hierrquico.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/02._K-Means.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/02._K-Means.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/03._Hierrquico.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/05._Mtricas_de_Clustering.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01",
