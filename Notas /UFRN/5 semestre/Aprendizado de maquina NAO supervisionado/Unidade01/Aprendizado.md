@@ -68,3 +68,16 @@ W => minimiza a variancia dentro do cluster -> tamanhos iguais esfericos, dados 
 
 
 
+Internas: usa dados e rotulos do cluster 
+Externas: usa as coisas reais
+Baseado em info: mede o ganho ou perda de infromações
+
+SS => ponto semelhante (angulo) em relaçao ao proprio cluster -> mais coesos
+-1 e 1 simliaridade de ponto e distacia (para outros clusters) quanto maior melhor saida maior valor melhor
+
+DBI => mede o quanto o cluster se parece com outro cluster compacto e separado
+quanto menor melhor
+espera q ele sejam parecidos saida maior valor melhor
+
+DI => quanto mais distante melhor e q tenham tamanho pequeno quanto maior o valor da saida melhor o resultado valores baixos clusters sobreposto um do outro
+

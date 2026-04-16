@@ -4,78 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fa6a05d13bd771db",
+        "id": "36607ea9db964ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "666c9627f7517019",
+            "id": "b35d78e07f95cbb0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Revisao da unidade 01"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
-      },
-      {
-        "id": "9fc22d3b02333096",
-        "type": "split",
-        "children": [
-          {
-            "id": "e88e5928a9c5b3e7",
-            "type": "tabs",
-            "dimension": 40.535714285714285,
-            "children": [
-              {
-                "id": "be1fa735cacb8156",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
-                    "page": 4,
-                    "left": -16,
-                    "top": 13,
-                    "zoom": 0.9229166666666668
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "04._DBSCAN-1"
-                }
-              }
-            ]
-          },
-          {
-            "id": "74284dc60116f728",
-            "type": "tabs",
-            "dimension": 59.464285714285715,
-            "children": [
-              {
-                "id": "e41d8c49422867b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Aprendizado"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -130,7 +72,7 @@
             }
           },
           {
-            "id": "57e7c4bd40427058",
+            "id": "35f72e49118f030f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -152,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
             }
@@ -299,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "172aa7c042c8075d",
@@ -351,18 +291,30 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e41d8c49422867b4",
+  "active": "b35d78e07f95cbb0",
   "lastOpenFiles": [
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/03._Hierrquico.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(2).jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(1).jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM.jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.23 PM(2).jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.23 PM(1).jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.23 PM.jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.22 PM(2).jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.22 PM(1).jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.22 PM.jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.21 PM(2).jpeg",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas",
+    "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/05._Mtricas_de_Clustering.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/03._Hierrquico.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/02._K-Means.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/05._Mtricas_de_Clustering.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado.md",
@@ -370,15 +322,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
-    "png/Pasted image 20260408190024.png",
-    "png/Pasted image 20260404161836.png",
-    "png/Pasted image 20260408185846.png",
-    "png/Pasted image 20260404161402.png",
-    "png/Pasted image 20260404161309.png",
-    "png/Pasted image 20260404161241.png",
-    "png/Pasted image 20260404145703.png",
-    "png/Pasted image 20260404105623.png",
-    "png/Pasted image 20260404103930.png",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Revisão para prova Unidade 01.md",
     "Livros/Algebra Linear Boldrini_251207_182559.pdf",
@@ -390,9 +333,7 @@
     "Excalidraw/Drawing 2026-04-08 19.44.28.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.46.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado.md",
-    "Ink/Drawing/2026.4.8 - 18.55pm (2).drawing",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Fluxo de Trabalho de AM.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /image.png",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado de Maquina Supervisionado Draw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado.md",
@@ -401,7 +342,6 @@
     "Notas /Cursos/Cursos.md",
     "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
     "Excalidraw/Drawing 2026-04-07 09.31.01.excalidraw.md",
-    "Vault.md",
     "Untitled.canvas"
   ]
 }
