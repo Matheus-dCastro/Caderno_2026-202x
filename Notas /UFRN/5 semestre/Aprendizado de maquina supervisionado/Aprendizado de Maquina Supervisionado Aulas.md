@@ -273,3 +273,21 @@ os dados de teste n sao usado antes do final do plot por isso usamos um dado de 
 para saber se o modelo é estável 
 dividir em varias partes e fazendo por etapas, dividir e conquistar basicamente
 
+<mark style="background:#9254de">verificar mais de uma vez pode tirar media e desvio padrão do modelo</mark>
+
+ver o quanto o modelo é estável
+
+vantagem em mandar o objeto pq faz o embaralhamento => mas n precisa ter o embaralhamento
+
+A <mark style="background:#fff88f">vantagem</mark> é ele ser robusto porem ele é <mark style="background:#ff4d4f">custoso e lento</mark>
+
+quanto mais divisões traz menos DP ja q treina por partes
+
+## Bootstrap:
+
+As amostras repetidas são os dados de treino ja as q n repetem são os dados de test
+
+pode provar mais estatiscamente q o k-fold
+
+## Notebook 07:
+

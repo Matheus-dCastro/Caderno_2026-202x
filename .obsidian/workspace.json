@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36607ea9db964ba7",
+        "id": "9775e773b224927c",
         "type": "tabs",
         "children": [
           {
-            "id": "b35d78e07f95cbb0",
+            "id": "0dc7ed5feb134591",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "35f72e49118f030f",
+            "id": "95ac486cf389aa4a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -231,15 +231,15 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.deezer.com/en/",
-                "title": "GOGETA \"Orgulho e Instinto\" - Ghost33 - Deezer",
+                "title": "Monkey D. Luffy \"MEU BANDO\" - Ghost33 - Deezer",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GOGETA \"Orgulho e Instinto\" - Ghost33 - Deezer"
+              "title": "Monkey D. Luffy \"MEU BANDO\" - Ghost33 - Deezer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "172aa7c042c8075d",
@@ -287,12 +287,16 @@
       "terminal:Open terminal": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "notes-explorer:Notes explorer": false
+      "notes-explorer:Notes explorer": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "b35d78e07f95cbb0",
+  "active": "0dc7ed5feb134591",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+    "Recording 20260416142214.m4a",
+    "Recording 20260416130526.m4a",
+    "Sem título.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(2).jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(1).jpeg",
@@ -322,11 +326,8 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Revisão para prova Unidade 01.md",
-    "Livros/Algebra Linear Boldrini_251207_182559.pdf",
     "Notas /Estagio/Site.md",
-    "Recording 20260408224840.m4a",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 18.55.03.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.09.excalidraw.md",
@@ -341,7 +342,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Revisão para prova Unidade 01.md",
     "Notas /Cursos/Cursos.md",
     "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
-    "Excalidraw/Drawing 2026-04-07 09.31.01.excalidraw.md",
     "Untitled.canvas"
   ]
 }
