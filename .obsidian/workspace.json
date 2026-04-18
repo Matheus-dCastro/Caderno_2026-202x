@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "05fb87cf9fbb0ef3",
+        "id": "4717bcaf4fdfa083",
         "type": "tabs",
         "children": [
           {
-            "id": "f979285f2665f1e7",
+            "id": "fbce4b48f58f2972",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Redes de Computadores/Revisão unidade 01.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Revisão unidade 01"
+              "title": "Nova aba"
             }
           }
         ]
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "934723fdd2ddbe80",
+            "id": "ecae6d31c3fcbe01",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -288,13 +284,16 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "notes-explorer:Notes explorer": false,
-      "handwritten-notes:Create empty handwritten note": false
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f979285f2665f1e7",
+  "active": "fbce4b48f58f2972",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Redes de Computadores/Revisão unidade 01.md",
+    "Notas /UFRN/5 semestre/Redes de Computadores/03_arquitetura.pdf",
+    "Pasted image 20260417213117.png",
+    "Pasted image 20260417212022.png",
+    "Notas /UFRN/5 semestre/Redes de Computadores/02_visao_geral.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/01_historico.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/04_topologias.pdf",
@@ -312,8 +311,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.23 PM.jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.22 PM(2).jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.22 PM(1).jpeg",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.22 PM.jpeg",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.21 PM(2).jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
@@ -322,8 +319,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/04._DBSCAN-1.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/03._Hierrquico.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/02._K-Means.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/slides/01._Apresentao_da_Disciplina.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Revisao da unidade 01.canvas",
