@@ -164,3 +164,157 @@ roteadores propagam a informacao de forma confiavel para o globo de um host para
 
 switches trabalham somente local fazendo o mesmo q um roteador, roteador faz a entraga global 
 
+# Topologias de redes
+
+## Fluxo de dados:
+
+### Simplex: 
+sentido unico
+### half-duplex:
+um sentido por vez
+
+### Flul-duplex:
+os dois sentido ao mesmo tempo
+
+## Classificacao:
+
+poto-a-ponto: p2p, set de conexoes entre pares de pcs, link dedicada por par 
+
+Multiponto: um envia varios recebem mas de dois compartilham um link unico 
+espacialmente -> todo mundo junto
+tempo -> um por vez
+
+## Topologia de rede:
+
+logica: define com o hardware e usado pelo host para envio de dados
+Fisica: layout dos cabos
+- Barramento => enfileirada em um unico cabo -> um por vez para falar e todo o resto so escuta, economica e facil de add, lenta, isolamento e dificil, falha um falha tudo
+- Estrala => com um hub -> ponto a ponto centralizada e facil de isolar bos, falha um so falha ele simpls de add, so da merda se falhar o centro
+- Anel => em forma circular -> ponto a ponto fechada sobre si mesma, melhor quando tem poucos nos e rapida, facil de add, mas cara, para funcionar os pcs tem q esta ligados para q isso funcione, um pc com bo 
+- Malha => toda fechada com um pentagrama no centro (cruz credo) -> ponto a ponto, varios caminhos para chegar num unico ponto, privacidade, mas complexa, mas cara
+
+## Classificacao: 
+
+Pan: redes pessoais, ate 10m, bt zigbee
+Lan: redes de area local privadas, wifi, ethernet
+Man: redes de acesso para interconexa de lans -> cidades, telefonias, dados operado sobre cabos (TV), provedores
+Wan: conecta cidades, cara, satelites/enlaces de fibra ou microondas
+
+
+## Arquitetura de comunicacao
+
+![[Pasted image 20260418160114.png]]
+
+
+### TCP/IP: 
+
+Modelo OSI:
+
+<mark style="background:#d4b106">Aplicacao:</mark>
+	comunicacao entre programas (process) e seis hosts
+	full-duplex entre process, interagem com o usuario
+	-> tipo da mensagem
+	-> sintaxe 
+	-> semantica
+	-> quem fala e quando fala
+	
+<mark style="background:#d4b106">Apresentacao:</mark>
+	mostra os dados em um formato cagando para arquitetura dos sistemas q fazem parte da resenha
+	semantica das transmisoes
+
+<mark style="background:#d4b106">Sessao:</mark>
+	estabelece comunicaca entre process em maquinas distintas
+	cria e mantem a conversa entre origem e destino (Jogos)
+	mantem,pausa ou reinicia
+
+### Arquitetura cliente-servidor:
+
+<mark style="background:#9254de">cliente:</mark> puxa papo, so fala com o serve diretamente, intermitente (n funciona de forma continua).
+<mark style="background:#9254de">servidor:</mark> responde quando o cliente fala, host e servicos sempre on, ip permanente
+
+### Arquitetura peer-to-peer:
+
+comunicacao direta entre os hosts, pares (2) fica megando entre cliente e servidor, tambem e intermitente, pode crescer rapido essa suruba (Torrent) => quanto mais melhor
+
+### Arquitetura Hibrida:
+
+junta o melhor dos dois mundo, se conecta a plataforma la ela resolve as coisas mas vc e a outra pessoa se falam diretamente ou pegam os arquivo um do outro
+
+### A comunicacao entre os processos:
+socktes de envio, cada um esta preso a um unico processo com isso se sabe para onde o dado vai para o processo certo =>
+usa o endereso ip do processo para saber o sockets 
+
+
+![[Pasted image 20260418162022.png]]
+
+
+# Camada de transporte - GERAL
+
+Permite aplicacoes usarem a camada de rede
+camada 01 da fim a fim
+
+varias coisas penetrando ao mesmo tempo 
+possuem 16 bit e sao organizadas pela RFC 6335:
+
+IANA:
+0-1023: portas do sistema
+1024-49151: portas de usuario
+49152-65535 portas dinamicas
+
+## Sockets:
+
+multiplexacao -> varias comunicacoes simultaneas de varias aplicacoes
+
+cliente => ip do cliente + porta dinamica
+servidor => ip do servidor + porta de sistema +> bind e listen
+	bind: vinculace
+	listen: ta na espera 8=D
+
+#### Orientado a conexao: 
+entrega confiavel,acordo entre as partes fluxo de receber e enviar
+
+
+#### NAO Orientado a conexao: 
+
+entrega confiavel, nao te acordo do fluxo, nao garante vc receber
+
+## Protocolos
+UDP: usado para jogos e videochat, n garante entregar os dados
+TCP: garante entrega, navegacao web, email e transferencias
+RTP: serve para transportar dados em tempo real de audio, videos, videoconferencias garante a entrega
+RTCP: auxilia o RTP, da p feedback das coisas monitora e te mostra como q ta as coisas
+
+
+# Transmission Control Protocol - TCP:
+
+RFC - 793
+
+orientado a conexao com entrega confiavel, tem mecanismo para recuperar dados ACK
+implemta mecanismos de fluxo de dados todas as mensagens sao passadas na ordem q foram enviadas e na speed q maquina destino aguenta
+
+### Cabecalho:
+
+portas => id para saber a origem e o destino
+numero de sequencia => lugar do primeiro octeto (dados) do processo
+ACK => numero de confirmacao, proximo octeto, reconhecendo todos de valor inferior
+
+size: 32 bit palavras, 
+windows size: quantos octetos o caba q mandou esta pronto para receber antes do ACK 
+
+
+### Bit de codigo 
+=> <mark style="background:#ff4d4f">flags</mark> operacoes de protocolo de TCP:
+
+SYN: estabelece a conexao (sincroniza as n sequencias)
+ACK: numero de confirmacao n-1 octetos (+)
+FIN: sinaliza de forma ordenada o fim da conexao
+RST: operacao de reset
+PSH: buffet q entrega os dados imediato para camada de cima
+URG: indica q tem dados urgentes
+checksum: (cabecalho + dados) integridade TCP
+ponteiro: indica onde tem URG
+
+opcoes: infos de negocio de capacidade (origem/destino)
+
+parei na pagina 10 do slide 06 de TCP
+
