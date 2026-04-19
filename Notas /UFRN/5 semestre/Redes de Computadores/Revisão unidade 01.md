@@ -285,7 +285,7 @@ RTP: serve para transportar dados em tempo real de audio, videos, videoconferenc
 RTCP: auxilia o RTP, da p feedback das coisas monitora e te mostra como q ta as coisas
 
 
-# Transmission Control Protocol - TCP:
+# TCP:
 
 RFC - 793
 
@@ -315,6 +315,69 @@ checksum: (cabecalho + dados) integridade TCP
 ponteiro: indica onde tem URG
 
 opcoes: infos de negocio de capacidade (origem/destino)
+Para pseudo-cabecalho se utilisa => checksum
 
-parei na pagina 10 do slide 06 de TCP
+PRECISA estabelecer conecxao entre cliente e servido para o tcp funcionar
+
+## Controle de erro - go-back-n
+
+se tiver um errado ele forca o caba q enviou mandar tudo de novo => manda/recebe tudo de uma vez mas se tiver algo errado ele pega e pede tudo de novo do zero
+
+### reconhecimento explicito
+quando o caba q recebe n tem dados para mandar de volta -> nao tem dados de sequencia
+
+piggyback: envia um segmento para enviar dados no sentido oposto aproveita melhor a banda
+
+
+## Janela deslizante:
+
+otimiza o envio de ACKs, o caba q recebe usa um buffer, onde o numero de segmentos podem ser recebidos sem precisar ser validados um por um de forma imediata, 
+
+so e enviado a quantidade de segmentos q o caba q recebe suporta
+
+quanto ta no tamanho da janela e nao recebeu os AKCs, o caba q mandou fica no estado de espera ate receber os AKC,
+
+o caba para de mandar dados ate receber o AKCs do outro
+
+## Flags, push e urg:
+
+alguns ai pode pedir para q os dados sejam enviados diretamente a uma camada x superior sem poder esperar q a o buff seja peenchido completamente => entrega de dados forcado -> PSH=1
+
+a aplicacao pode precisar q seja enviados x dados urgentes e n pode esperar o fim do fluxo, => entrega urgente -> urg=1
+
+
+
+# UDP:
+
+RFC 768
+
+esse NAO e orientado a conexao e nao e confiavel 
+
+nao usa mensagens de reconhecimento ACK
+nao ordenar as mesagnes passou passou 
+
+pode perder as mensagens, duplicalas, nao receber na ordem, e podem ser mais rapidas do q a maquina aguenta
+
+vai ate 16bit
+
+somente checa o destino do segmento udp recebido
+calulo do checksum = 0 e o calculo e usando o pseudo
+mesma coisa do TCP so q ele e removido depois de fazer as contas do checksum 
+
+concatena o pseudo, caso tenha um octeto de zeros tambem e concatenado para vire um numero multiplo de 16bit
+
+#### Calculo do checksum => slide checksum esta aqui tambem
+
+preenche com zeros os campos do checksum com zeros
+divide o datagrama em pedacos de 16bit
+
+realiza a soma binaria dos pedacos e faz o complemento de 1 do resultado
+
+### Transmissao:
+
+remove o pseudo e o pad
+atualiza os campos de checksum
+envia o datagrama UDP
+
+slide 07 e revisao da parte 06
 

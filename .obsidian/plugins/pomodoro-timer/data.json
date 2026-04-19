@@ -1,7 +1,7 @@
 {
   "workLen": 25,
   "breakLen": 5,
-  "autostart": true,
+  "autostart": false,
   "useStatusBarTimer": true,
   "notificationSound": true,
   "customSound": "",
