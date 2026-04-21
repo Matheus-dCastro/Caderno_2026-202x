@@ -379,5 +379,94 @@ remove o pseudo e o pad
 atualiza os campos de checksum
 envia o datagrama UDP
 
-slide 07 e revisao da parte 06
 
+
+# Camada de rede:
+
+transporta pacotes do remetente para o desitnatario
+- determinar o caminho: origem destino
+- comutação: mover os pacotes da entrada para saida apropiada
+- Estabelecimento da chamada: em algumas precisamos definir o caminho antes de enviar
+
+### Repasse:
+ pacote chegou no enlace entrada do roteador -> para o enlace de saida
+### Roteamento: 
+ Determina a rota q o pacote vai ter => algoritmos de roteamento
+
+
+-- **Dependendo do protocolo da camada, o valor do cabecalho pode ser o valor do endereco de destino ou inidicacao da conexao de onde ele veio**
+
+se comporta como um telefone, 
+caminhos => varios enlaces de roteadores
+numero de CVs, um numero para cada enlace
+registro na tabela
+
+-> usados em ATM, frame-relay, X.25
+nao usamos mais hoje em dia
+
+tamanho maximo de 6535 bits e seu tamanho e variavel
+
+
+Internet mais eficiente e inteligente, ATM mais burra e menos eficiente precisa de mais protocolos rigorosos para poder funcionar
+
+### Roteadores:
+
+algoritmos/protocolos de roteamento (RIP, OSPF, BGP)
+comutam datagramas de enlace entrada/saida => datagramas e basicamente os varios caminho q o pacote pode seguir
+
+Comutacao => 
+	memoria: linha da entrada q escreve na memoria e a saida e lida q le oq tem na memoria e encaminha
+	barramento: protocolo para cada linha, como se fosse estacoes de trem em rede local => barramento
+	rede de interconexao: transmioes em paralelo, nao pode ter dois em barramentos q se cruzam, como se fosse uma batalha naval
+Filas =>
+	carga de trafego:
+	velocidade do elemento de comutacao:
+	taxa da linha de comutacao:
+
+## IPv4:
+
+ip relacionado com a interface, ate 32bit -> 4 bytes, 2<sup>32</sup> enderecos ips possiveis -> 4 bilhoes de enderecos,
+primeiro escritos em base 2 e depois em base descimal: 192.168.0.1 ex
+
+usado para interfaces(roteador e enlace fisico, multiplas interfaces o ip e associado a interface) e sub-redes => ip/xx ou seja a mascara da rede /xx para 3 interfaces de hospedeiros, e para interface de roteador /x 
+
+## DHCP:
+
+O hospedeiro e alocado a um endereco ip de forma automatica
+plug and play
+dividido em 4 partes:
+	- descoberta do servido DHCP
+	- oferta
+	- solicitacao
+	- DHCP ACK
+
+### Nat:
+
+ele vem para ampliar a quantidade de ips disponives, apenas ips validos fora da internet ou seja na sub rede
+o nat ele transcreve o ip da maquina da subrede para um ipvalido na internet 
+tabela de traducao => ip(nat) para rede global
+
+ela tem mais daley 
+
+### ICMP:
+
+para comunicar infromacoes da camada de rede em si => comunicar erros na camada
+tem campo de tipo e outro campo de codigo
+ex: ping envia tipo 8 e codigo 0
+
+o ping serve para testar o alcance da rede 
+
+![[Pasted image 20260421183406.png]]
+
+### IPv6
+como o v4 esta pequeno foi criado o ipv6 q tem mais campos 32bits seram completamente alocados e o viram 128bit => cada grao de areia do mundo e um endereso ip agora
+
+40 bytes de tamanho fixo e nao permite fragmentacao 
+
+
+Roteamento global: caminho q vai custar menos usando o conhecimento globla sobre a rede
+rotemamento descentralizado: caminho q vai custar menos usando o modo interativo e distribuido
+roteamento estaticos: a rota vai mudando lentamente e tem geralmente interferencia humana
+
+
+questoes e revisao do assunto
