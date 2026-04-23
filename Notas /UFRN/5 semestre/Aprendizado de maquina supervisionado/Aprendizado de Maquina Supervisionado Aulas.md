@@ -291,3 +291,8 @@ pode provar mais estatiscamente q o k-fold
 
 ## Notebook 07:
 
+GridSearchCV => modelo q usa uma malha entre duas variaveis 
+
+CV -> cross-validation
+Hiperparametros: valores de ajuste interno
+
