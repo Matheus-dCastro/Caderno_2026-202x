@@ -43,3 +43,11 @@ global # => serve para mexer em varias de fora de funçoes caso exista a mesma n
 
 ```
 
+*args =>  serve para passar muito paramentros e posso simplesmente passar um fazer um tratamento da entrada para pegar caminhos
+vars() => variaveis locais em forma de dicionario  atributos -> manipulacao
+dir() => apenas os nomes -> depuracao
+
+Functions de primeira classe recebe outros args e ou retorna outras function
+
+
+
