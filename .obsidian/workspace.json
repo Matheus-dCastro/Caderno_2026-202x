@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2c397a5eed63b704",
+        "id": "e37b577fd57c7888",
         "type": "tabs",
         "children": [
           {
-            "id": "46b556f10f747b03",
+            "id": "7b931e889a9c72ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
-                "mode": "source",
-                "source": false
+                "url": "about:blank",
+                "mode": "blank"
               },
-              "icon": "lucide-file",
-              "title": "Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
+              "icon": "globe-2",
+              "title": "Novo visualizador web"
             }
           }
         ]
@@ -201,8 +200,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "lucide-ghost",
+              "title": "timer-view"
             }
           },
           {
@@ -211,8 +210,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -279,6 +278,7 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "bases:Criar nova base": false,
       "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -287,17 +287,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "media-extended:Open external media": false,
       "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "notes-explorer:Notes explorer": false
+      "notes-explorer:Notes explorer": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "46b556f10f747b03",
+  "active": "7b931e889a9c72ba",
   "lastOpenFiles": [
+    "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+    "Tags",
     "Notas /Cursos/Domine as principais ferramentas de criação de Agentes de IA CrewAI, LangGraph, LangChain e N8N. Automação com IA.md",
     "Notas /Cursos/Cursos.md",
-    "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Recording 20260423132954.m4a",
     "Recording 20260423130357.m4a",
@@ -317,7 +317,6 @@
     "Notas /UFRN/5 semestre/Redes de Computadores/03_arquitetura.pdf",
     "Pasted image 20260417213117.png",
     "Pasted image 20260417212022.png",
-    "Notas /UFRN/5 semestre/Redes de Computadores/02_visao_geral.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
     "Sem título.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(2).jpeg",
@@ -343,7 +342,6 @@
     "Excalidraw/Drawing 2026-04-08 19.44.09.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.28.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.44.46.excalidraw.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Fluxo de Trabalho de AM.canvas",
     "Untitled.canvas"
   ]
