@@ -51,3 +51,13 @@ Functions de primeira classe recebe outros args e ou retorna outras function
 
 
 
+para unir set |
+para intercesao &
+para diferenca - apenas presentes no set da esquerda
+para diferenca simetrica ^ itens q n estão em ambos
+
+Quando usar o tipo set:
+
+=> contagem de tipos de letras, ou para tipos de entradas únicas 
+
+lambda para fazer ordenasao no sort

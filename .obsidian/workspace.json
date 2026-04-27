@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e37b577fd57c7888",
+        "id": "7f07685f401ab7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "7b931e889a9c72ba",
+            "id": "499ace3b27df52a3",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "about:blank",
-                "mode": "blank"
+                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Novo visualizador web"
+              "icon": "lucide-file",
+              "title": "Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
             }
           }
         ]
@@ -65,7 +66,7 @@
             }
           },
           {
-            "id": "ff6d2c430c9d50ee",
+            "id": "5509114ffd36166f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -200,8 +201,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "timer-view"
+              "icon": "timer",
+              "title": "Timer"
             }
           },
           {
@@ -210,8 +211,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -221,11 +222,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.deezer.com/en/",
-                "title": "Tribunal (Higuruma) - anirap - Deezer",
+                "title": "RESIDENT EVIL \"Leon\" - Ghost33 - Deezer",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Tribunal (Higuruma) - anirap - Deezer"
+              "title": "RESIDENT EVIL \"Leon\" - Ghost33 - Deezer"
             }
           }
         ],
@@ -261,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 771.5,
+    "width": 764.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -288,13 +289,20 @@
       "media-extended:Open external media": false,
       "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false,
-      "notes-explorer:Notes explorer": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "7b931e889a9c72ba",
+  "active": "499ace3b27df52a3",
   "lastOpenFiles": [
     "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+    "png/Pasted image 20260414151624.png",
+    "Notas /UFRN/UFRN.md",
+    "png/Pasted image 20260417212022.png",
+    "png/Pasted image 20260421183406.png",
+    "png/Pasted image 20260418162022.png",
+    "png/Pasted image 20260418160114.png",
+    "png/Pasted image 20260417213117.png",
     "Tags",
     "Notas /Cursos/Domine as principais ferramentas de criação de Agentes de IA CrewAI, LangGraph, LangChain e N8N. Automação com IA.md",
     "Notas /Cursos/Cursos.md",
@@ -302,21 +310,15 @@
     "Recording 20260423132954.m4a",
     "Recording 20260423130357.m4a",
     "Notas /UFRN/5 semestre/Redes de Computadores/Revisão unidade 01.md",
-    "Pasted image 20260421183406.png",
     "Livros/o-iluminado-stephen-king.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
-    "Notas /UFRN/UFRN.md",
     "Notas /UFRN/5 semestre/5 semestre.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte_tcp.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte_udp.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte_checksum.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/07_camada_de_rede.pdf",
-    "Pasted image 20260418162022.png",
-    "Pasted image 20260418160114.png",
     "Notas /UFRN/5 semestre/Redes de Computadores/03_arquitetura.pdf",
-    "Pasted image 20260417213117.png",
-    "Pasted image 20260417212022.png",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
     "Sem título.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(2).jpeg",
@@ -324,7 +326,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(1).jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM.jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.23 PM(2).jpeg",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.23 PM(1).jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
