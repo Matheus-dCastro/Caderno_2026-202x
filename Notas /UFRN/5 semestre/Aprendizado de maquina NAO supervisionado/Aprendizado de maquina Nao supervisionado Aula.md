@@ -215,3 +215,27 @@ mais senssivel a ruidos
 
 * **Dunn Index**: Quanto maior, melhor.
 
+# Redução de dimensionalidade
+
+### Maldição 01: Esparsidade
+=> causa ouverfit
+=> <mark style="background:#ff4d4f">Não pode fazer nada q envolve algoritmos de distancia</mark>
+=> generalizar o volume de uma hiper esfera
+=> quanto mais vc aumenta as dimenções, mais o volume manda para as bordas das figuras -> imagine uma laranja
+### Maldição 02: Concentração de distancias
+
+=> relaçõa da diagonal
+
+### Maldição 03: Ortogonalidede Assintotica
+
+=> direções distintas entre os vetores e tendendo a formar 90°
+
+## Para reduzir
+
+não-uniformizados
+eles tem extrutura de baixa dimencionaliade
+usa PCA => concerva a maxima variancia possivel
+
+- **PCA, T-SNE, UMAP, AUTOENCONDERS, EMBEDDINGS**
+
+

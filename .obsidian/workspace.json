@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f782710673024512",
+        "id": "3a511ab357597811",
         "type": "tabs",
         "children": [
           {
-            "id": "9f124758d72ebd2a",
+            "id": "bd59aa46b78c646d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "28efa9d9c582a6cd",
+            "id": "2cc1f10c79f02c87",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -288,8 +288,12 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "9f124758d72ebd2a",
+  "active": "bd59aa46b78c646d",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
+    "Tags",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
     "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
@@ -300,7 +304,6 @@
     "png/Pasted image 20260418162022.png",
     "png/Pasted image 20260418160114.png",
     "png/Pasted image 20260417213117.png",
-    "Tags",
     "Notas /Cursos/Domine as principais ferramentas de criação de Agentes de IA CrewAI, LangGraph, LangChain e N8N. Automação com IA.md",
     "Notas /Cursos/Cursos.md",
     "Recording 20260423132954.m4a",
@@ -317,14 +320,11 @@
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
     "Sem título.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(2).jpeg",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM(1).jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.24 PM.jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/provas antigas/WhatsApp Image 2026-04-13 at 10.24.23 PM(2).jpeg",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Revisao da unidade 01.canvas",
