@@ -289,10 +289,32 @@ As amostras repetidas são os dados de treino ja as q n repetem são os dados de
 
 pode provar mais estatiscamente q o k-fold
 
-## Notebook 07:
+# Notebook 07:
 
 GridSearchCV => modelo q usa uma malha entre duas variaveis 
 
 CV -> cross-validation
 Hiperparametros: valores de ajuste interno
+
+# Notebook 08
+## Matriz de confusão
+
+Falso e verdadeiro possitivo 
+
+media pondera/media armonica
+
+
+# Analise ROC:
+
+analise classe, mas antiga essa metrica.
+ceu acertou bem
+inferno errou para um carai
+
+quanto <=0.5 pior => modelo ruim
+quanto > 0.5 melhor => modelo bom
+
+usar integral para calcular essas coisas aqui um somatorio
+MAE => diferença absoluta
+MSE => erro quadrado
+RMSE => erro em raiz
 
