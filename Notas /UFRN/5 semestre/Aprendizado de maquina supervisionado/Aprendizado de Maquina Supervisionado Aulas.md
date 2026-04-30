@@ -318,3 +318,19 @@ MAE => diferença absoluta
 MSE => erro quadrado
 RMSE => erro em raiz
 
+# Estatística: notebook 09
+
+## Teorema de Bayes: 
+
+
+probabilidade de observar as evidencias se a hip é verdadeira
+Aprendizado bayesiano => questao de prova: oq q é a evidencia 
+-> atributo: evidencias
+-> pergunta/hip: classes
+-> verossimilhança: tipo os dados de treinamento
+-> a priori: antes de observar os dados enquantos se divide o y
+
+## O classificador de Naive Bayes:
+
+unico modelo q serve apenas para modelos de classificação
+

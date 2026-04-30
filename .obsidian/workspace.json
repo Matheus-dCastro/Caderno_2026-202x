@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a511ab357597811",
+        "id": "e5f34efee5ac779b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd59aa46b78c646d",
+            "id": "c31c0d61d428e66c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "2cc1f10c79f02c87",
+            "id": "a7c250b8997aca64",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Aprendizado de Maquina Supervisionado Aulas"
             }
           },
           {
@@ -288,13 +289,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bd59aa46b78c646d",
+  "active": "c31c0d61d428e66c",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
     "Tags",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
     "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
     "png/Pasted image 20260414151624.png",
