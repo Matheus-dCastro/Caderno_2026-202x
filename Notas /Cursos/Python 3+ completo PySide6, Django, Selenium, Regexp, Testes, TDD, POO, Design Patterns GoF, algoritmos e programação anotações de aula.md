@@ -61,3 +61,25 @@ Quando usar o tipo set:
 => contagem de tipos de letras, ou para tipos de entradas únicas 
 
 lambda para fazer ordenasao no sort
+sort(key=lambda item: item["oq quero ordenar na lista"])
+
+copia profunda => para copia independente  e copia rasa => para copia como referencia imutável
+
+lambda basicamente é uma função master q vai fazer oq eu passar na linha ou tentar fazer oq eu passar na linha coisa rápido e facio
+
+## Empacotamento e Desempacotamento:
+
+
+```python
+
+*args para não nomeados e **kwargs para nomeados 
+
+```
+
+
+
+## List comprehension:
+
+-> pode relaizar mapeamento de dados dentro diretamente em uma list 
+basicamente fazer mapeamento de chaves e filtros
+=> filtros: basicamente if e elif para fazer filtros durante as coisas vem depois do for

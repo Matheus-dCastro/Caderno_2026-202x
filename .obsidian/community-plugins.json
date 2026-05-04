@@ -23,5 +23,6 @@
   "settings-search",
   "latex-autocomplete",
   "notes-explorer",
-  "pdf-writer"
+  "pdf-writer",
+  "image-converter"
 ]
