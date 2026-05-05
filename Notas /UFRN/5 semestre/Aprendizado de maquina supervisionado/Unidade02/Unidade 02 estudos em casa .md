@@ -69,3 +69,51 @@ ou
 kf = KFold(numero_de_split, shuffle, seed)
 score = cross(no lugar de cv passse o kf)
 
+## Com afinação de hiperparametros e dataset ~1000 amostras
+
+quando o dataset tem ordem de 10³ para se fazer divisões entre train, val, test
+
+segue o processo de fazer o teste de acc para cada k no range q eu definir
+tira a media entre os valores da acc
+
+### Para dados desbalanceados: 
+
+quando estamos classificando dados desbalanceados -> cross faz a amostragem estratificada sozinha porem para realizar uma estratificação explicita => StratifiedKFold 
+
+-> preciso passar uma lista para armazenar os valores de erro do kfold => skf.split(x,y)
+
+<mark style="background:#40a9ff">Vantagem:</mark> ser robusta -> treina em todas as partes dos dados resultado das metricas muito mais estavel, holdout
+
+![[Unidade 02 estudos em casa -1778005075943.webp|862x417]]
+
+
+~100 => grande chance de causar ouverfit
+~1000 => deixa ele se virar para achar o melhor valor aqui dos hiperparametros
+
+## Bootstrap:
+Sorteio de bolas
+
+se basea em reamostragem com reposição parece com o k-fold o mesmo indexe pode aparecer mais de uma vez +> lembre do sorteio das bolas
+=> vai avaliar a variancia e a estabilidade do modelo
+
+- n amostras
+- gerar B -> conjuntos de dados (bootstrap samples) cada um com n amostras shuffleardas sem repetição entre as amostras
+- cada B conjuntos:
+	- treina o modelo
+	- testa o desempenho em outro conjunto B -> out-of-bag (OOB) -> dados n escolhidos podem ser usados para testar o modelo
+
+em **Classificações** com dados desbalanceados para fazer a estratificação:
+
+- faz o sorteio de cada coisa em sua propria classe ou seja cada atributo tera seu proprio sorteio depois junta todo mundo e temos o conjunto B pegando ed forma igual todos os dados mesmo q desbalanceados
+
+<mark style="background:#40a9ff">Vantagem:</mark> estimar => escabilidade e variancia do des Desvantagens |
+
+| ---------------- | ----------------------empenho de um modelo, melhor para datasets pequenos (reutilização dos dados) 
+<mark style="background:#40a9ff">Desvantagem:</mark> grande custo computacional para funcionar por "treinar mais de um modelo" sensivel a ruido 
+
+![[Unidade 02 estudos em casa -1778006697203.webp]]
+
+
+
+# Fluxo de trabalho automatico: Notebook 07
+
