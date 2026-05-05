@@ -238,4 +238,9 @@ usa PCA => concerva a maxima variancia possivel
 
 - **PCA, T-SNE, UMAP, AUTOENCONDERS, EMBEDDINGS**
 
+# PCA e Matrizes dos dados:
+
+usando matrizes de auto valores e autovetores levando em consideração a cov e variância para poder achar a PCA 
+
+funciona para matrizes q n sejam quadráticas? 
 
