@@ -334,3 +334,78 @@ Aprendizado bayesiano => questao de prova: oq q é a evidencia
 
 unico modelo q serve apenas para modelos de classificação
 
+
+
+# Metodos baseados em arvores: notebook 10
+
+baseadas em if else, funciona como arvore binaria de classificação de size
+
+### Pureza de nós: 
+
+Usa o grau de entropia => mede o nivel de desordem em um no 
+
+### Criterio de divisão
+
+=> achar o limiar 
+
+Maximiza o ganho de informação (atributo + limiar)
+algoritmo => Greedy, ganancioso
+
+<p align="justify">utiliza a proporção para colocar a amostra em algum lugar
+fazendo uma varredura em todo o range atributo por atributo
+e para cada atributo gera um ganho de informação quando fizer de todos
+pega o maior ganho e seleciona ele para fazer as coisas 
+</p>
+
+-> para achar a pureza calculamos a quantidade de impureza das classes
+-> MSE
+
+### Algoritmo de decisão:
+
+
+
+
+
+
+
+
+<font color="#ff0000">é algo instável</font>
+
+### Estrategia de poda: 
+
+**Pre-poda:** interrompe o crescimento da arvores antes q ela fique muito compleza
+**Pos-poda:** monta primeiro ela e depois remove dados (Ramos) q não acrescentão na previsaão do conjunto de teste
+
+quanto mais folhas mais propenso a ter ouverfit
+
+
+
+
+<mark style="background:#9254de">- **Vantagens:**</mark>
+
+<mark style="background:#9254de">- Simples de entender e interpretar (pode ser visualizado como um fluxograma);</mark>
+
+<mark style="background:#9254de">- Lida bem com dados categóricos e contínuos;</mark>
+
+<mark style="background:#9254de">- Não exige normalização dos dados.</mark>
+
+<mark style="background:#9254de">- **Desvantagens:**</mark>
+
+<mark style="background:#9254de">- Tendência a *overfitting* (árvores muito profundas);</mark>
+
+<mark style="background:#9254de">- Pequenas variações nos dados podem causar grandes mudanças na árvore.</mark>
+
+<mark style="background:#ff4d4f">Regressao quanto mais folhas mais preciso Classificacao oposto</mark>
+
+
+### Modelo Random Forest:
+
+treina uma ruma de arvore e depois se for de classificação tira a moda entre elas "unindo elas" de certa forma se for de regressão tira a media
+
+#### Metodo ensemble -> uma ruma (trad)
+
+para tornar aleatório:
+
+	-> Amostragem de repetição Boostrap
+	-> Aleatoriedade dos atributos
+	
