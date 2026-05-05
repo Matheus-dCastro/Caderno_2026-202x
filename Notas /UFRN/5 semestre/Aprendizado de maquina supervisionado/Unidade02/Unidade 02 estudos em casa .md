@@ -55,3 +55,17 @@ quando faz a media mesmo q tenha uma config. que venha a favorecer os dados e to
 ### Sem fazer a afinação:
 
 quando não é necessário ou o dataset muito pequeno (10² amostras)
+
+**não é necessário quando:** (cross-validation) quando o foco principal é a **validação do modelo** e não a otimização de desempenho, ou quando o ganho esperado não justifica o alto custo computacional. quando sao dados baseados em parametros modelos com default bem otimizados ou quando é muiyo pequeno
+
+kf retorna os indices dos dados de train, val, test, com base no array do eixo X 
+
+podemos resumir esses passos sem o uso de afinação de hiperparametros de duas formas:
+
+modelo -> socores = cross_val_score(tudo normal aqui)
+
+ou 
+
+kf = KFold(numero_de_split, shuffle, seed)
+score = cross(no lugar de cv passse o kf)
+

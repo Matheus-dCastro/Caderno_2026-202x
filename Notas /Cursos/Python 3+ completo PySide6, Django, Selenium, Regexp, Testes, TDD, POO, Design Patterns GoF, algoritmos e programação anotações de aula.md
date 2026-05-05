@@ -83,3 +83,4 @@ lambda basicamente é uma função master q vai fazer oq eu passar na linha ou t
 -> pode relaizar mapeamento de dados dentro diretamente em uma list 
 basicamente fazer mapeamento de chaves e filtros
 => filtros: basicamente if e elif para fazer filtros durante as coisas vem depois do for
+
