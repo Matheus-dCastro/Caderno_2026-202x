@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f34efee5ac779b",
+        "id": "81b07b68dbdf2e96",
         "type": "tabs",
         "children": [
           {
-            "id": "506ffa802889f383",
+            "id": "1556a8f12ace92ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aprendizado de maquina Nao supervisionado Aula"
+              "title": "Nova aba"
             }
           }
         ]
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "2b6a1fbba50e4338",
+            "id": "84ab4e092a352b07",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -295,21 +291,21 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "506ffa802889f383",
+  "active": "1556a8f12ace92ce",
   "lastOpenFiles": [
+    "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
     "Unidade 02 estudos em casa -1778006697203.webp",
     "Unidade 02 estudos em casa -1778005075943.webp",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /Cursos/Domine as principais ferramentas de criação de Agentes de IA CrewAI, LangGraph, LangChain e N8N. Automação com IA.md",
-    "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
     "Notas /Fera.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade02.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02",
     "Notas /Estagio/N8N.md",
     "Notas /Cursos/Cursos.md",
     "Notas /Estagio/Estagio.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina NAO supervisionado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
     "Tags",
