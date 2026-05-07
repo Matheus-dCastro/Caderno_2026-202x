@@ -23,4 +23,3 @@ bases de dados sao de facil
 usar vetorização para poder reduzir gastos durante o processo de tokinaizer 
 
 sistema bem parecido com blueprint
-

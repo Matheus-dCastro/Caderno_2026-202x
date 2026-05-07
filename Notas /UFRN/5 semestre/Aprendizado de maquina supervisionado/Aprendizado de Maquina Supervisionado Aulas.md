@@ -360,14 +360,9 @@ pega o maior ganho e seleciona ele para fazer as coisas
 -> para achar a pureza calculamos a quantidade de impureza das classes
 -> MSE
 
+
+
 ### Algoritmo de decisão:
-
-
-
-
-
-
-
 
 <font color="#ff0000">é algo instável</font>
 
@@ -409,3 +404,4 @@ para tornar aleatório:
 	-> Amostragem de repetição Boostrap
 	-> Aleatoriedade dos atributos
 	
+
