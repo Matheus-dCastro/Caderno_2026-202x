@@ -115,5 +115,64 @@ em **Classificações** com dados desbalanceados para fazer a estratificação:
 
 
 
-# Fluxo de trabalho automatico: Notebook 07
+# Fluxo de trabalho automático: Notebook 07
+
+## Pré-processamento com dados heterogêneos:
+
+<mark style="background:#fff88f">-> todos os modelos de aprendizado exigem q os dados sejam  numéricos</mark> e para garantir uma boa perfomance é de costume usar a tecnicas de tranfomação
+
+=> Padronizaçõa -> scaling: colocando todas as variaves numericas na mesma escala usamos aqui ate agora o StandardScaler
+=> Codificação -> encoding: transforma variavez categoricas em representações numericas ainda n é o conceito de LLM usamos nesse caso OneHotEncoder
+
+##### Agora para ocorrer a transformação das colunas de forma correta iremos usar
++> ColumnTransformer: nesse caso aplicasse pipelines para fazer as transformações em diferentes colunas de diferentes tipos em um unico dataset tudo ao mesmo tempo em um unico passo
+
+
+<mark style="background:#40a9ff">Geralmente para a variavel y se ela for categorica se usa o labelencoder para transfromar em probabilidades as suas saidas alvo. </mark>
+
+ja os atributos de X passamos em valores categorico no onehotencoder como metodo de transformcação dentro do columntranformer
+
+columnTransfromer (metodo de transformação (dos ções), categorias)
+
+prepocessa os dados de x_train e x_test para ficarem na mesm base das cosias
+
+-> agora com todos os dados transformados e colocados em types em q so modelos conseguem trabalhar ai sim posso treinar o modelo e realizar os predicts
+
+## Organizando o fluxo de trabalho:
+
+Pipeline => permite que possamos acorrentar varios passos em um fluxo mais limpo e com menos linhas durante o pre-processamento colocando todos em um unico objeto para modelos
+
+- se comporta comp um estimador: tem os metodos de fit, predict, score
+- tornando ele mais simples, seguro e profissional
+
+=> um piperline é uma lista de passos onde cada passao é uma tupla com: 
+nome do passo, objetivo de estimar
+
+nosso preprocessador => metodo de transformação ou metodos
+classifier => algum modelo de classificação logistica entre os dados
+
+steps=[] agumento onde irmemos passar esses dois objetos para serem preprocessado os dados
+
+podemos fintar o pipe como se fosse um modelo de classifier usando os dados sem modificações de preprocessamentos feitos de forma manual
+
+o y ainda precisa ser passado de forma manula pq:
+
+> **Observação:** Repare abaixo que os dados `X_train` não estão pré-processados, mas os dados `y_train_encoded` estão! Isso acontece porque o `Pipeline` age como uma "esteira de produção" apenas para as features (`X`). A variável alvo (`y`) **não é transformada pelos passos do Pipeline**; ela é passada diretamente ao modelo no final da esteira para guiar o treinamento.
+
+para realizar o predict basta passar o x_test q o pipeline:
+	-> chama o transfrom()
+	-> passa para o modelo
+	-> chama o predict
+
+## Busca automatica de hiperparametros:
+
+-> GridSearchCV
+	- Grid Search: faz uma grade realmente um grid de possiveis valores para os hiperparâmetros de test => treia e valida para cada possivel combinação.
+-> CV (cross-validation)
+	- não faz apenas train/test. ele faz a validação dos dados de forma cruzada no numeor de k-folds que passamos para os dados => tornando a estimativa de cada combinação muito mais robusta e confinável.
+
+=> basicamente ele informa qual a melhor combinação entre os hiperparametros e seu score medio obitivo durante a validação cruzada.
+
+valor de chave padrão para passar para o grid: 
+
 
