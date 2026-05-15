@@ -1,0 +1,6 @@
+# Métodos probabilísticos
+
+=>
+
+## Aprendizado Bayesiano:
+
