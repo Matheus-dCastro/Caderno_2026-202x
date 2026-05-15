@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fcda3de642fc9176",
+        "id": "0791699afc788282",
         "type": "tabs",
         "children": [
           {
-            "id": "0485f6d9fdc7e320",
+            "id": "35682019b50f1098",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas /Estagio/docs/Relatorio AABB.md",
+                "file": "Notas /UFRN/IEEE/Techx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relatorio AABB"
+              "title": "Techx"
             }
           }
         ]
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "ac4608a9e3fc88ad",
+            "id": "d90335288de9a86d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas /Estagio/docs/Relatorio AABB.md",
+                "file": "Notas /UFRN/IEEE/Techx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Relatorio AABB"
+              "title": "Links inversos para Techx"
             }
           },
           {
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 453.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ca4d0976e8d7242",
@@ -294,14 +295,18 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "0485f6d9fdc7e320",
+  "active": "35682019b50f1098",
   "lastOpenFiles": [
+    "Notas /UFRN/IEEE/Techx.md",
+    "Notas /UFRN/IEEE/IEEE.md",
+    "Notas /UFRN/IEEE/.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade02.md",
+    "Notas /Fera.md",
+    "Notas /Estagio/docs/Relatorio AABB.md",
     "Relatorio AABB-1778854205426.webp",
     "Relatorio AABB-1778854196320.webp",
     "Relatorio AABB-1778854163109.webp",
-    "Notas /Estagio/docs/Relatorio AABB.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Notebook 09 e Notebook 10.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade02.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
@@ -311,7 +316,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Unidade 02 estudos em casa -1778006697203.webp",
     "Unidade 02 estudos em casa -1778005075943.webp",
-    "Notas /Fera.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02",
     "Notas /Estagio/N8N.md",
     "Notas /Cursos/Cursos.md",
@@ -325,7 +329,6 @@
     "png/Pasted image 20260421183406.png",
     "png/Pasted image 20260418162022.png",
     "png/Pasted image 20260418160114.png",
-    "png/Pasted image 20260417213117.png",
     "Recording 20260423132954.m4a",
     "Recording 20260423130357.m4a",
     "Notas /UFRN/5 semestre/Redes de Computadores/Revisão unidade 01.md",
@@ -342,8 +345,6 @@
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Revisao da unidade 01.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
-    "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Fluxo de Trabalho de AM.canvas",
     "Untitled.canvas"
