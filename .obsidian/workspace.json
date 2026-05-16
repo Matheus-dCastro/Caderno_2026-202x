@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3362fc339ee004f",
+            "id": "40b6f3783566ce89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/IEEE/Techx.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Techx"
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "3559a46b9207e296",
+            "id": "864342df9d42c8b4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -127,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas /UFRN/IEEE/Techx.md",
+                "file": "Recording 20260516155831.m4a",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Techx"
+              "title": "Links inversos para Recording 20260516155831"
             }
           },
           {
@@ -309,9 +305,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f3362fc339ee004f",
+  "active": "40b6f3783566ce89",
   "lastOpenFiles": [
     "Notas /UFRN/IEEE/Techx.md",
+    "Recording 20260516175953.m4a",
+    "Recording 20260516175734.m4a",
+    "media-lib/index.base",
+    "media-lib",
+    "Recording 20260516155831.m4a",
+    "Recording 20260516144537.m4a",
     "Notas /UFRN/IEEE/IEEE.md",
     "Notas /UFRN/IEEE/.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade02.md",
@@ -346,18 +348,11 @@
     "Recording 20260423132954.m4a",
     "Recording 20260423130357.m4a",
     "Notas /UFRN/5 semestre/Redes de Computadores/Revisão unidade 01.md",
-    "Livros/o-iluminado-stephen-king.pdf",
     "Notas /UFRN/5 semestre/5 semestre.md",
-    "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte.pdf",
-    "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte_tcp.pdf",
-    "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte_udp.pdf",
-    "Notas /UFRN/5 semestre/Redes de Computadores/06_camada_de_transporte_checksum.pdf",
-    "Notas /UFRN/5 semestre/Redes de Computadores/07_camada_de_rede.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores anotações.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado de maquina Nao supervisionado Aula.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Revisao da unidade 01.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Fluxo de Trabalho de AM.canvas",

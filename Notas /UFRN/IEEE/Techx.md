@@ -96,3 +96,45 @@ Ian vitor
 
 Rana vitoria
 => analie de cafe por meio de analise de imagem usando modelos de ml e bancos de dados categoricos atreavez de modelos lineares
+
+# Ciência de dados na Saúde:
+
+O problema n estava no avioes que voltavam
+
+<mark style="background:#fff88f">computação + estatistica + dominio = ciencia de dados</mark>
+
+qual o indicador eu estou usando para interpretar e para analisar o dados.
+Demanda de crise:
+criar critérios de prioridade.
+maior gravidade
+maior chance de recuperação
+maior beneficio em conjunto
+
+O maior resultado da prevenção é o n aconteceu
+
+329 sistemas diferentes fora os legados
+
+=> hn7 +> padronização de sistemas
+
+# <font color="#0c0c0c"><mark style="background:#fff88f">Semântica conecta decisões</mark></font>
+
+# Sistemas embarcados e Analise de dados:
+
+# Ciência de dados e IA:
+
+Dados Ruidosos: Incosistencia e sinais fracos em meio ao caos
+Informações incompleta: Lacunas criticas que dificultam a visao do todo
+Descisao de alto impacto: onde o erro nao é uma opção aceitavel
+
+diagnostico genetico: precissao vital na interpretação de variantes
+vigilancia epidemiologica: monitoramento e resposta a crises de saude
+analise documental: extração de valor em grande volume de texto
+
+Mais modelo != melhor sulução
+
+<font color="#ff0000">o gargalo quase nunca é o algotimo</font>
+
+Combinar ML com conhecimento externo é o novo padrão ouro
+shap analisador em ia para analisar eficiencia e como deixar os agentes melhores
+croma => para analise de documentos
+
