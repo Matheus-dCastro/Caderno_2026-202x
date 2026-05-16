@@ -1,3 +1,6 @@
+# patrick cesar alves terrematte
+
+
 ## Perguntas para monitoria
 
 
@@ -52,3 +55,44 @@ Modelo: uma representação simplificada da realidade</font>
 
 2-Se a senhora estivesse começando hoje, com esse ecossistema atual de IA, qual seria a sua prioridade nos próximos dois semestres? Experiência prática agressiva ou um mergulho teórico mais profundo?
 
+# Dia 02 -> 16/05
+
+## Palestra 01: IEEE young professionals
+
+IEEE jobsite
+IEEE collabratec
+IEEE tv
+
+=> conexões, e atividades voluntarias
+=> Como publicar: via professores, ou iniciativa
+
+## Palesta 02: 
+
+sobre benefícios de ser membros e como ser;
+=> revistas, artigos, cursos e publicações
+
+=> projetos, Brondening para submeter projetos
+
+IEEE CS syp initiatives: 
+- micro mentoring
+- clas tpcs -> evento cientifico de palestras tecnicas
+
+
+
+## Pesquisas:
+
+### 01- Alem do texto: introdução ao<font color="#ff0000"> molmo</font> e as aplicações da ia multimodal:
+
+Edinadja marcedo
+=> mentor virtual multimodal para -> transformar slides em imagens envio ao modelo descrições automáticas. 
+objetivo? analise dorcumental, extrair infoamações via imagens
+
+### 02- Sistemas inteligentes para auxilio de instituições publicas:
+
+Ian vitor
+=> basiamente sistema para ajudar no direncionemento das escolar em como fortalecer o ensino basico
+
+### 03- Aplicação de imagens espectrais em problemas de segurança alimentar:
+
+Rana vitoria
+=> analie de cafe por meio de analise de imagem usando modelos de ml e bancos de dados categoricos atreavez de modelos lineares

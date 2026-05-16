@@ -11,10 +11,14 @@
             "id": "f3362fc339ee004f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/IEEE/Techx.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Techx"
             }
           }
         ]
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "0adb494c57f8cdc8",
+            "id": "3559a46b9207e296",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -218,11 +222,25 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.deezer.com/en/",
-                "title": "Lances e Apostas - anirap - Deezer",
+                "title": "Monkey D. Luffy \"MEU BANDO\" - Ghost33 - Deezer",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Lances e Apostas - anirap - Deezer"
+              "title": "Monkey D. Luffy \"MEU BANDO\" - Ghost33 - Deezer"
+            }
+          },
+          {
+            "id": "90bf5d19347148cd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.notion.so/Dashboard-14680afd910580f194cad2f84bba753d",
+                "title": "Dashboard | Notion",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Dashboard | Notion"
             }
           }
         ],
