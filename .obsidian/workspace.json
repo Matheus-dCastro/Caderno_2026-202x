@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6845fe35b8988f90",
+        "id": "04b7d5609b196910",
         "type": "tabs",
         "children": [
           {
-            "id": "40b6f3783566ce89",
+            "id": "ef3693b7a853637a",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade 02 estudos em casa"
+            }
+          },
+          {
+            "id": "1203f8bc1d09df0e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=70dIBbDON8M",
+                "title": "Aplicações em aprendizado de máquina - Aprendizado Supervisionado - Métodos Simbólicos (Árvores de d - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Aplicações em aprendizado de máquina - Aprendizado Supervisionado - Métodos Simbólicos (Árvores de d - YouTube"
             }
           }
         ]
@@ -62,7 +80,7 @@
             }
           },
           {
-            "id": "864342df9d42c8b4",
+            "id": "dfa636948ce61249",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -218,11 +236,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.deezer.com/en/",
-                "title": "Monkey D. Luffy \"MEU BANDO\" - Ghost33 - Deezer",
+                "title": "Midsummer - MFakka, S I M - Deezer",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Monkey D. Luffy \"MEU BANDO\" - Ghost33 - Deezer"
+              "title": "Midsummer - MFakka, S I M - Deezer"
             }
           },
           {
@@ -305,8 +323,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "40b6f3783566ce89",
+  "active": "ef3693b7a853637a",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
+    "Unidade 02 estudos em casa -1779051913393.webp",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Notebook 09 e Notebook 10.md",
     "Notas /UFRN/IEEE/Techx.md",
     "Recording 20260516175953.m4a",
     "Recording 20260516175734.m4a",
@@ -322,9 +343,7 @@
     "Relatorio AABB-1778854205426.webp",
     "Relatorio AABB-1778854196320.webp",
     "Relatorio AABB-1778854163109.webp",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Notebook 09 e Notebook 10.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Redes de Computadores.md",
     "Notas /Cursos/Domine as principais ferramentas de criação de Agentes de IA CrewAI, LangGraph, LangChain e N8N. Automação com IA.md",
     "Notas /UFRN/Horarios.md",
@@ -344,7 +363,6 @@
     "png/Pasted image 20260417212022.png",
     "png/Pasted image 20260421183406.png",
     "png/Pasted image 20260418162022.png",
-    "png/Pasted image 20260418160114.png",
     "Recording 20260423132954.m4a",
     "Recording 20260423130357.m4a",
     "Notas /UFRN/5 semestre/Redes de Computadores/Revisão unidade 01.md",

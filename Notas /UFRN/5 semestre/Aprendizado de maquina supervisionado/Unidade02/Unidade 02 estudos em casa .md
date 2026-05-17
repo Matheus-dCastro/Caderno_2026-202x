@@ -176,3 +176,285 @@ para realizar o predict basta passar o x_test q o pipeline:
 valor de chave padrão para passar para o grid: 
 
 
+
+
+passo o pipe dentro do grid como o parametro estimator
+
+## **Resumo:**
+
+Nesta aula, aprendemos a construir fluxos de trabalho robustos, profissionais e otimizados com ferramentas essenciais do Scikit-Learn.
+
+* Começamos tratando dados heterogêneos de forma segura com o `ColumnTransformer`.
+
+* Em seguida, encapsulamos nosso fluxo de pré-processamento e modelagem em um único objeto com o `Pipeline`, tornando nosso código mais limpo e seguro.
+
+* Finalmente, aprendemos a otimizar os hiperparâmetros do nosso `Pipeline` de forma automática, usando a busca exaustiva do `GridSearchCV` e a busca eficiente do `RandomizedSearchCV`.
+
+  
+
+A combinação dessas ferramentas (`ColumnTransformer` -> `Pipeline` -> `*SearchCV`) é um dos padrões mais poderosos e utilizados na prática para desenvolver modelos de aprendizado de máquina de alta qualidade.
+
+
+# Avaliação de modelos preditivos: Notebook 08
+
+
+## Métricas para classificação:
+
+em modelos preditivos precisamos analizar como esta o desempenho dos modelos 
+
+### Acuracia:\
+
+proporcao de previsoes corretas sobre o total => pode ser enganosa em datasets desebalanceados
+
+
+### Matriz de confusao:
+
+mostra quantas previsoes o modelo acertou ou errou, dividido em categorias
+
+aprendemos nao somente quando o modelo erra mas como o modelo erra
+
+verdadeiro possitivo (VP) | falso negativo (FP)
+
+falso positivo (FP) | verdadeiro negativo (VN)
+
+
+VP -> o modelo previu positivo e estava certo
+VN -> o mdelo previu negativo e estava certo
+FP -> o modelo previu positivo mas estava errado
+FN -> o modelo previu negativo mas estava errado
+
+diagonal principal vai ser o verdadeiros diagonal secundaria vai ser o falsos 
+
+## Precisao, Revocação e F1-score:
+bom especialmente em problemas com classes desbalanceadas.
+#### Precisão: 
+seu maior valor é quando não tem falsos positivos ou seja FP = 0 todas sao realmente positivas 
+
+#### Sensibilidade/ Revocação:
+entre as instancias realmente positivas quantas foram realmente corretas, quando falso negativos = 0 ou seja o modelo previu corretamente todas as intacias q sao realmente positivas seja positivo ou negativo
+
+#### F1-Score:
+media harmonica entre precisao e revocação 
+> Essas métricas são fundamentais em aplicações como **diagnóstico médico** ou **detecção de fraudes**, onde errar positivamente ou negativamente tem consequências muito diferentes.
+
+**Exemplo:** Imagine um teste com 5 pacientes, onde 2 estão doentes (`Real = [1, 1, 0, 0, 0]`).
+
+  
+
+* **Modelo A (Cauteloso):** `Predito = [1, 0, 0, 0, 0]`
+
+* **Precisão:** 100% (1/1)
+
+* **Revocação:** 50% (1/2)
+
+* **F1-Score:** 67% ( $2 \cdot \frac{1 \cdot 0.5}{1 + 0.5}$ )
+* **Modelo B (Sensível):** `Predito = [1, 1, 1, 0, 0]`
+
+* **Precisão:** 67% (2/3)
+
+* **Revocação:** 100% (2/2)
+
+* **F1-Score:** 80% ( $2 \cdot \frac{0.67 \cdot 1}{0.67 + 1}$ )
+
+  
+
+> **Qual modelo é melhor?** Depende do objetivo. Para um exame de triagem, o **Modelo B** é superior (maior Revocação). Para confirmar um tratamento arriscado, o **Modelo A** é mais seguro (maior Precisão). O **F1-Score**, buscando um equilíbrio, aponta o Modelo B como mais balanceado no geral para este caso específico.
+
+#### Analise ROC:
+
+<mark style="background:#d2cbff">limiar de decisão</mark> 
+
+A **Curva ROC**: receiver operating characteristic qual bem um modelo separa as classes independente da decisão q ele escolheu, mostra o trade-off
+
+-> encontrar positivos 
+-> custos (alarme falsos)
+
+![[Unidade 02 estudos em casa -1778792204103.webp]]
+
+quanto mais perto a curva ou o ponto for do céu melhor o modelo esta treinado
+
+## Métricas de regressão:
+prevemos valores **continuos** quanto proximo o valor previsto estao dos valores reais
+
+#### Erro médio absoluto (MAE):
+==_Machine Learning_ que mede a magnitude média dos erros em um conjunto de previsões, sem considerar se são para mais ou para menos==. Ele é expresso na mesma unidade dos dados originais, O MAE calcula a distância absoluta entre os valores reais e os valores previstos, ignorando os sinais negativos.
+
+#### Erro quadratico medio (MSE) e raiz (RMSE):
+colocam mais peso aos grandes erros -> ja q o erro esta ao quadratico (usa a mesma formula do MAE so q $^2$) o outro faz so tirar essa raiz 
+
+usa o RMSE para caso deseje trabalhar com a mesma unidade de medida de y
+
+#### Coeficiente de detrminção $R^2$:
+
+indica quanto da variabilidade dos dados é explicada pelo modelo => <font color="#de7802">**quantos os valores previstos se ajustam aos valores reais**</font>
+
+$$
+
+R^2 = 1 - \frac{\sum (y_i - \hat{y}_i)^2}{\sum (y_i - \bar{y})^2} \, ,
+
+$$
+
+onde $\bar y$ é a média de $y_i$. Podemos interpretar o coeficiente como,
+
+  
+
+| Valor de $R^2$ | Interpretação |
+
+|--------------------|-------------------------------------------------------------------------------------------------|
+
+| $R^2 = 1$ | Previsões perfeitas. O modelo explica 100% da variabilidade dos dados. |
+
+| $0 < R^2 < 1$ | O modelo explica parte da variabilidade dos dados. Quanto mais próximo de 1, melhor. |
+
+| $R^2 = 0$ | O modelo não explica nenhuma variabilidade. É tão bom quanto prever a média. |
+
+| $R^2 < 0$ | O modelo é pior do que prever sempre a média. Indica má adequação. |
+
+
+## Como escolher:
+
+A métrica ideal depende do **contexto**:
+
+* Use **MAE** para interpretar erros em unidades reais;
+
+* **MSE/RMSE** se erros grandes forem mais graves;
+
+* **$R^2$** para uma visão geral da performance do modelo.
+
+## Métodos Probabilísticos: Notebook 09
+
+Utilizam teorias probabilísticas para modelar incertezas, inferir padrões e tomar decisões.
+Na modelagem estatistica, os dados sao interpretados como amostras provenientes de distribuiçṍes de probabilidade
+
+### Teorema de Bayes:
+
+probabilidade a priori e a probabilidade posteriore levando em conta a verossimilhança 
+
+![[Unidade 02 estudos em casa -1779051913393.webp]]
+
+
+<mark style="background:#fff88f">O teorema calcula a probabilidade de ter dado q o evento anterior ja aconteceu</mark>
+#### Classificador naive bayes:
+
+bem eficais quando a grande volumes de dados com altas dimensionalidades
+NAO é utilizado em tarefaz de regressão pois seu objetivo é apontar para a classe mais provavel de y de acordo com a entrada x
+
+## Matemaica e algoritmo:
+
+fase de treinamento:
+
+calcula a probabilidade apriori de de um classe com base na frequencia de todas as classes no dataset
+calcula a verosimilhança:
+	categoricos: conta a frequencia a cada classe
+	continuos estima-se a media e a variancia para cada atributo da classe
+
+fase de predict:
+
+calcula a probabilidade de cada classe daquela mostra pertencer a cada uma de forma individual
+escolhe com o maior valor dentre os resultados
+
+## Multinomial NB:
+
+=> Contagem ou frequencias -> como dados de texto ou tabelas de contagem de genes 
+=> verossimilhança: palavra x esta em uma classe y (probabilidade)
+
+ex: spam, classificação de textos em categorias.
+
+## Bernoulli NB:
+
+=> atributos binarios (zeros e uns) tem ou não tem carateristicas
+=> verossimilhança: um atributo x esta presente em uma amostra y
+
+ex: Classifica texto é a apenas a presença de palavras chaves nao sua frequencia
+
+## Categorical NB
+
+=> categoricos e discretos
+=> verossimilhança: a probabilidade de uma atributo x ter uma categoria y dado uma classe i
+
+ex: classificar coisas comestives ou nao por suas outras caracteristicas fisicas
+
+#### **2.3.4 Resumo:**
+
+
+| Modelo Scikit-learn | Tipo de Atributo Ideal | Exemplo de Uso |
+
+| :--- | :--- | :--- |
+
+| **`GaussianNB`** | Contínuo (decimal, float) | Medidas de sensores, dados biométricos |
+
+| **`MultinomialNB`** | Contagem/Frequência (inteiro) | Contagem de palavras em textos |
+
+| **`BernoulliNB`** | Binário (0 ou 1) | Presença/Ausência de uma palavra |
+
+| **`CategoricalNB`** | Categórico (discreto) | Cor, tipo, região |
+
+
+
+# Metodos baseados em arvores: Notebook 10
+
+
+podem ser usados tanto para problemas de classificacao e regressao dividindo recusivamente os dados em subconjutos criando hierarquia semelhante a uma arvore (lembre de EDB2).
+
+São focados em deixar os dados em uma linguagem de facil entendimento para o ser humano.
+## Arvore de decisão e regressão:
+
+divide recursivamente os atributos entrada em regioes baseados em tecnicas de if else -> foco em maximizar criterios ou minimizar erros.
+
+=> arvore de classificação (arvores de decisão): árvore divide o espaço de atributos focando em maximizar a separação entres as classes.
+=> arvore de regressão: árvore tenta dividir os dados de forma a minimizar o erro quadratico dentro dos nós folhas.
+
+critecio de divisao > criteiro de parda => fim dos dados entrada/alcansou o criterio de parada 
+
+## Critério de pureza/ pureza de nós:
+
+Usa como base a entropia (0 para pureza perfeita e 1 par impureza maxima) para determinar o quanto é desorganizado algo
+
+<mark style="background:#40a9ff">-> A arvore busca a pergunta q sempre melhor divide e organiza os dados tentando deixar o mais puro possivel </mark>
+<mark style="background:#fff88f">=> nós puros são aqueles que todos os dados nele pertencem a mesma classe +> nós folhas 100% pertencentes aquela classe</mark>
+
+mede-se a impureza ou seja a entropia dos nós -> métricas:
+	- Índece Gini (Gini Impurity) esse indeci mede probabilidade de um elemento acabar sendo classificado incorretamente se for classificado aletatoriamente pela distribuição das classes
+- G(n) = 0 <font color="#6425d0">pureza perfeita</font> 
+- G(n) = 0.5 <font color="#6425d0">impureza maxima para 2 classes</font> 
+
+==+> o criterio de divisão foca em ter o maximo de ganho possiviel de informação== 
+
+  
+
+>O algoritmo é **_greedy_ (ganancioso)**: em cada nó, ele irá testar *todos os atributos* e *todos os limiares (valores de corte do atributo) possíveis* para encontrar a divisão (atributo + limiar) que **maximiza o Ganho de Informação**.
+
+#### Ja para regressão temos o uso do MSE pois o foco é dividir com q deixe os valores y nos nós filhos o mais proximos possivel uns dos outros
+
+## Estrategias de poda:
+
+foca em reduzir a complexidade da arvore e evitar ter overfitting, 
+=> **Pre-poda:** corta a arvore antes q ela cresça d+ (muito complexa)
+	limitar a profundidade maxima da arvore
+	definir um numero minimo de amostras em um no para permitir divisão
+	estabelecer um limite de ganho de informações (se n melhora um x valor minimo, pare)
+
+=> **Pós-poda:** deixa o algoritmo construir tudo e depois remove aquilo q n server ou n ajudam na interpretação
+
+
+**Vantagens:**
+
+- Simples de entender e interpretar (pode ser visualizado como um fluxograma);
+
+- Lida bem com dados categóricos e contínuos;
+
+- Não exige normalização dos dados.
+
+**Desvantagens:**
+
+- Tendência a *overfitting* (árvores muito profundas);
+
+- Pequenas variações nos dados podem causar grandes mudanças na árvore.
+
+
+## Modelo Random forest:
+
+<mark style="background:#ff4d4f">Arvores de decisão sofre de alta variância risco de tornar instavel e tendecioso ao tentar se ajustar excessivamente a tudo</mark> como resposta treinamos varias arvores e depois fazendo uma votação entre a centena de arvores treinadas.
+
+#### Método ensemble;
+
