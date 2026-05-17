@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4db64c387bca598c",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
             "id": "ef3693b7a853637a",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           },
           {
-            "id": "dfa636948ce61249",
+            "id": "8e367d2e54908973",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -141,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recording 20260516155831.m4a",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Recording 20260516155831"
+              "title": "Links inversos"
             }
           },
           {
@@ -323,7 +332,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "ef3693b7a853637a",
+  "active": "4db64c387bca598c",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
     "Unidade 02 estudos em casa -1779051913393.webp",
