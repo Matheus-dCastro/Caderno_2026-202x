@@ -458,3 +458,83 @@ foca em reduzir a complexidade da arvore e evitar ter overfitting,
 
 #### Método ensemble;
 
+random forest combina duas tecnicas poderosas para mitigar o overfitting
+
+- Boostrap: combinação com repetição e permite q os dados n usado sejam colocados em uma sacola para serem usados para retreino ou test
+- Aleatoriedade de atributos: para q uma classe dominante n se sobresaia em vantagem das demais, cria um subconjuto aleatorio de atributos para q isso seja mitigado assim o algoritmo leve em consideração apenas as categorias do subconjunto de dados
+>O resultado é uma "floresta" de árvores *decorrelacionadas*. Cada uma é uma especialista fraca por si só, mas juntas, através da votação, elas formam um dos modelos mais robustos e eficazes do machine learning.
+
+utiliza a moda de cada arvore durante a **previsao** -> classificação
+utiliza a media de cada arvore durante a **previsao** -> Regressão
+
+### - Out-Of-Bag OOB:
+
+por ter reposição a arvore so é treinada em media com ~65% os ~35% q n foram para arvore especifica viram OOB
+esse OOB e usado para test das demais arvores q nao viram aquela amostra mas tem um conhecimento previo das demais arvores.
+
+
+> **Observação:** Você notará que a acurácia do *Random Forest* é geralmente igual ou (em datasets mais complexos) significativamente melhor que a da árvore única. Mais importante, o modelo é muito mais estável. A métrica de OOB nos dá uma estimativa muito confiável de como o modelo se sairá em dados novos.
+
+
+>**Observação:** Ao contrário da visualização de uma árvore, que é instável, este gráfico é robusto. Ele nos diz quais features o modelo em geral considera mais preditivas.
+
+- **Vantagens:**
+
+- **Alta acurácia**, especialmente em comparação com uma única árvore.
+
+- **Robustez a _overfitting_**, graças à aleatoriedade e ao agrupamento de várias árvores.
+
+- **Capacidade de lidar com dados de alta dimensionalidade e correlação entre variáveis.**
+
+- Funciona bem com **valores ausentes** e **variáveis categóricas**.
+
+- **Desvantagens:**
+
+- Pode ser **mais lento** para prever, especialmente com muitas árvores.
+
+- Menos interpretável do que uma única árvore de decisão.
+
+## Modelo Gradiente boosting:
+
+tambem e ensemble chamdo de boosting no lugar de ser democracia paralela como no random  funciona como um linha de montagem sequencial
+
+especialistas:
+
+1 fica bom em 1 de 3 
+o 2 aprena so os uma das coisas q o 1 e ruim ou errou
+e o  3 aprende oq o 2 ficou ruim
+
+ai quando junta tudo cada um esta bom em algo e temos um modelo robusto quando juntamos todos
+
+> Ao contrário do *Random Forest*, que usa árvores profundas para reduzir a variância, o *Gradient Boosting* usa árvores muito **rasas** (chamadas de *"weak learners"*, ou aprendizes fracos, muitas vezes com `max_depth` de 3 a 8). Ele começa com um modelo de alto viés (muito simples) e, sequencialmente, reduz esse viés a cada etapa.
+
+
+### otimizado por gradiente:
+
+usa um afuncao onde m1 = m0 - 1 para um ajustar no q o anterior era ruim
+
+
+> **O objetivo** é encontrar a melhor árvore nova $h_m(x)$ que, quando adicionada ao modelo, mais reduz a **função de perda** (métrica que avalia a predição com dados de teste). A matemática nos diz que a direção de "redução mais rápida" da perda é o **gradiente negativo** da função de perda.
+
+
+> O gradiente é um operador que **aponta** a direção e magnitude da taxa de variação de uma função.
+
+
+precisao 01 => ingenua
+-> calcule o residuos: gradiente negativo da funsao de perca 
+-> treine um aprendiz fraco apartir do passo ingeno
+-> atulize o model: add essa previsao nova a arvore geral e refaça para um novo mestre e aprendiz
+
+> O *Gradient Boosting* é a base para os algoritmos mais famosos como **XGBoost**, **LightGBM** e **CatBoost**, que são implementações altamente otimizadas deste mesmo conceito.
+
+- **Vantagens:**
+
+* **Alta Acurácia:** Frequentemente supera o Random Forest.
+
+* **Flexibilidade:** Pode otimizar qualquer função de perda diferenciável (MSE, MAE, Log-Loss, etc.).
+
+- **Desvantagens:**
+
+* **Mais Sensível a Hiperparâmetros:** O `learning_rate` e o `n_estimators` têm uma relação delicada. Um `learning_rate` muito alto pode causar overfitting.
+
+* **Treinamento Lento:** O processo é **sequencial**, não pode ser facilmente paralelizado (cada árvore depende da anterior). O Random Forest treina muito mais rápido.
