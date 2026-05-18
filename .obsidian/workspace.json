@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0277d6f594b9fb88",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Livros"
+              },
+              "icon": "lucide-file",
+              "title": "Livros"
+            }
+          },
+          {
             "id": "4db64c387bca598c",
             "type": "leaf",
             "state": {
@@ -17,7 +29,8 @@
               "title": "Notes explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +75,7 @@
             }
           },
           {
-            "id": "f2605e3261909c91",
+            "id": "65c0116a0a1e47d1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
