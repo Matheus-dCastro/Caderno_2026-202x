@@ -69,3 +69,19 @@ maior variabilidade dos dados agrupando pela sua covariancias entre elas
 <mark style="background:#40a9ff">obteção das variaveis mais importantes</mark> 
 
 
+# T-Distributed Stochastic Neighbor Embedding -> t-SNE
+
+
+É uma tecnica de redução de dimencionalidade não linear bastante eficaz para datasets de grande dimensões. ele diferentimente da PCA ele tenta preservar a estrutura local dos dados => simlilaridade entre os pontos vizinhos tenta diminuir a divergencia entre distribuições de baixa e alta similaridade
+
+- 1° constroi a probabilidade sobre paers de pontos de dados na alta dimensionalidade => pontos similares tem mais chance de serem escolhidos ja pontos nao similares tem uma baixa chance de serem escolhidos.
+- 2° depois tenta reconstruir em baixa dimensão de mode similar nos pontos essa distribuição de similariedade
+
+-> essa similaridade é definida entre os pontos de xi e xj +> probabilidade condicional de q xi escolheria xj se os vizinhos fossem escolhidos pela proporção a sua densidade sob uma Gaussiana centrada em xi.
+
+ja baixa dimensionalidade geralmente em 2D e 3D a distrubição segue t de Student com um grau de liberdade => distribuição de cauda longa
+
+tenta otimizar via minimização de<mark style="background:#fff88f"> divergencia de KL</mark>
+
+distrbuição de Kullback-laibler -> pede a quantidade de informação perdida de P para Q durante a redução das dimensões
+
