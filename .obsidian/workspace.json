@@ -10,14 +10,31 @@
           {
             "id": "eb8203fae6bfc78d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "notes-explorer",
               "state": {},
+              "pinned": true,
               "icon": "book-copy",
               "title": "Notes explorer"
             }
+          },
+          {
+            "id": "6a5a444a8d59e811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aprendizado de maquina Nao supervisionado Aula"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +79,7 @@
             }
           },
           {
-            "id": "db1ca813accbfe7d",
+            "id": "827c2cc24eb2d25a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Aprendizado de maquina Nao supervisionado Aula"
             }
           },
           {
@@ -211,17 +229,31 @@
             }
           },
           {
-            "id": "9562e6bc282cafdc",
+            "id": "8e7625dc335a9e6a",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
                 "url": "https://www.deezer.com/en/",
-                "title": "Meu Silêncio (Ao Vivo) - Matheus & Kauan, Simone Mendes - Deezer",
+                "title": "SUKUNA \"Rei do Medo\" - Ghost33 - Deezer",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Meu Silêncio (Ao Vivo) - Matheus & Kauan, Simone Mendes - Deezer"
+              "title": "SUKUNA \"Rei do Medo\" - Ghost33 - Deezer"
+            }
+          },
+          {
+            "id": "509b172ee09c0763",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://notebooklm.google.com/?icid=home_maincta&original_referer=https:%2F%2Fnotebooklm.google%23",
+                "title": "notebooklm.google.com/?icid=home_maincta&original_referer=https:%2F%2Fnotebooklm.google%23",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "notebooklm.google.com/?icid=home_maincta&original_referer=https:%2F%2Fnotebooklm.google%23"
             }
           },
           {
@@ -239,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "172aa7c042c8075d",
@@ -304,10 +336,12 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "eb8203fae6bfc78d",
+  "active": "6a5a444a8d59e811",
   "lastOpenFiles": [
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/08._t-SNE.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/09._UMAP.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/Slides.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/08._t-SNE.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Recording 20260519140206.m4a",
@@ -318,7 +352,6 @@
     "Sem título.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Unidade02.md",
     "Notas /UFRN/5 semestre/5 semestre.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
     "Notas /Estagio/docs/Relatorio AABB.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/07._PCA.pdf",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/06._Reduo_da_Dimensionalidade.pdf",

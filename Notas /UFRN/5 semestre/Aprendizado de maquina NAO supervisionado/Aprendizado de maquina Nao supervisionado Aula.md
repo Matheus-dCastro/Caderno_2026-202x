@@ -244,3 +244,9 @@ usando matrizes de auto valores e autovetores levando em consideração a cov e 
 
 funciona para matrizes q n sejam quadráticas? 
 
+# UMAP
+
+A topologia n descreve geometria
+
+Toroidal => da a volta em si mesmo estilo pac-man
+
