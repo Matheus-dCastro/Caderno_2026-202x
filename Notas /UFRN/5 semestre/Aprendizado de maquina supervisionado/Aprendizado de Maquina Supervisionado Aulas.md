@@ -405,3 +405,18 @@ para tornar aleatório:
 	-> Aleatoriedade dos atributos
 	
 
+# Maquina de vetores suporte: Notebook 11
+
+sempre precisa normalizar nesse modelo
+
+## Margem suave:
+- adiciona uma tolerância de poder passar das marges
+
+#### quando os dados sao NAO Lineares
+
+sempre joga para uma dimensão a cima para poder achar a malhar de corte q divide os dados
+
+para muitas dimensoes usamos o gridsearch para pode achar o melhor hiperparametro e depois reduz de volta as dimensões dela para plotar o grafico
+
+olha o notebook 03
+

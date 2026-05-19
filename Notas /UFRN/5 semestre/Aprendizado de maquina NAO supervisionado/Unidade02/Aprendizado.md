@@ -68,3 +68,4 @@ maior variabilidade dos dados agrupando pela sua covariancias entre elas
 
 <mark style="background:#40a9ff">obteção das variaveis mais importantes</mark> 
 
+
