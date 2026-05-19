@@ -250,4 +250,10 @@ A topologia n descreve geometria
 
 Toroidal => da a volta em si mesmo estilo pac-man
 
-teste
+em alta estao perto da logem em baixo 
+em alto estao proximo da pertom em baixo
+
+min_dist mexe no y
+
+umap é o mais usado hoje em dia 
+
