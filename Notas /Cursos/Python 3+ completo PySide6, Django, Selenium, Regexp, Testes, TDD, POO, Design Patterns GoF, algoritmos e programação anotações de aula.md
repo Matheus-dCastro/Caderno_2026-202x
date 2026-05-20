@@ -84,3 +84,21 @@ lambda basicamente é uma função master q vai fazer oq eu passar na linha ou t
 basicamente fazer mapeamento de chaves e filtros
 => filtros: basicamente if e elif para fazer filtros durante as coisas vem depois do for
 
+# Python - programação orientado a objeto
+
+rich.readthedocs.io
+
+**Abstração:** focar no que precisa ser feito
+
+**Encapsulamento:** 
+basicamente passar __ antes do q eu quero esconder basicamente isso para infos sensiveis metodos @protect e nome.setter
+
+**Herança:** Ajuda na reutilização de codigo, Organização em hieraquia, manutenção, Extensibilidade, Suporte a polimorfismo
+-> Caracteristicas herdadas de classes 
+-> Comportamentos
+-> ele pode mudar os compostamentos e caracteristicas novas
+
+**Polimorfismo:** 
+reme a heranca mais podendo mexer em tudo e n precisa passar o super ja q as caracteristicas do objeto n mudam apenas seus comportamentos mesmo nome de function diferente comportamento
+
+Generator mais eficiente q a lista de forma um por um mas n permite pular para o meio fim como é na lista -> nao tem index

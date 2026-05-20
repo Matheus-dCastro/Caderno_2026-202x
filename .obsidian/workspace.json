@@ -15,8 +15,8 @@
               "type": "notes-explorer",
               "state": {},
               "pinned": true,
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -79,7 +79,7 @@
             }
           },
           {
-            "id": "3ed0e25d68812ae5",
+            "id": "b86c9004d7954fde",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
