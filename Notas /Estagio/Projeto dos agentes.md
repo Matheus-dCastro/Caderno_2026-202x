@@ -11,10 +11,12 @@ dentro do html: usamos  o {% aqui passamos sintaxe de codigo normalmente %}
 
 entre ele passamos oq queremos expressar dentro da pagina de html
 
-vatiavel.infromação q quero imprimir no corpo da <tags normal html> e entre essa tag html passamos {{variavel.informação}}
+vatiavel.infromação q quero imprimir no corpo da tags normal html e entre essa tag html passamos {{variavel.informação}}
 
 
 tem q fechar o codigo do mesmo jeito
+
+GRUD
 
 get: ler dados
 post: enviar e cirar novos dados
@@ -23,3 +25,9 @@ patch: atualizaçoes parciais em dados
 options: retornta os metodos http suportados por um recurso
 head: parece o get mas retorna apenas o cabeçalho
 trace: usado para teste de diagnostico rastrear mmensagens
+
+deve se preoculpar de como esta importando as coisas 
+precisa ter uma rota bem definida
+
+criar as todas com apirouter
+

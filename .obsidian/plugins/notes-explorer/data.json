@@ -25,6 +25,8 @@
   "pagesView": true,
   "cardsPerPage": 100,
   "clickMode": "single",
-  "searchHistoryEntries": [],
+  "searchHistoryEntries": [
+    "file: Notas /UFRN/IEEE/IEEE.md"
+  ],
   "showFolderCards": false
 }
