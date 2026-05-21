@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "20d9238f89453e62",
+    "id": "65ea0b15aaed07b2",
     "type": "split",
     "children": [
       {
-        "id": "f906b8db946fdf94",
+        "id": "ad3faa8bd473871f",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8203fae6bfc78d",
+            "id": "206f8463943030dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "notes-explorer",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -25,16 +25,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "15e96cc99d73bbcd",
+    "id": "de8b2217388947ab",
     "type": "split",
     "children": [
       {
-        "id": "06f7550a6831b5f0",
+        "id": "1dec4fa531750126",
         "type": "tabs",
-        "dimension": 81.11425873465534,
         "children": [
           {
-            "id": "763b5accfc6e0e88",
+            "id": "4806294ca53ad6d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d1ad823b95766c56",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,24 +63,17 @@
             }
           },
           {
-            "id": "49038ade68e544ad",
+            "id": "d66899942070a2a5",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "b86c9004d7954fde",
-=======
-            "id": "7ea5dfc186722fc1",
->>>>>>> 0ec21f2 (sobe a versao atual do obsidian)
+            "id": "8966edc4b3a28505",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -78,15 +83,56 @@
             }
           }
         ],
-        "currentTab": 2
-      },
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "209141e7aeea5202",
+    "type": "split",
+    "children": [
       {
-        "id": "cdf8a045387c4a39",
+        "id": "ba350199952d9c3b",
         "type": "tabs",
-        "dimension": 18.885741265344667,
         "children": [
           {
-            "id": "1224de1cacd7075a",
+            "id": "bf18887c9578440c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
+            }
+          },
+          {
+            "id": "e7051ad4765178f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
+            }
+          },
+          {
+            "id": "630dd09d1e84be9e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -101,89 +147,7 @@
             }
           },
           {
-            "id": "61450bc9bf55fe1d",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {},
-              "icon": "lucide-file-signature",
-              "title": "Notas de rodapé"
-            }
-          },
-          {
-            "id": "aee3c202058f11c7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
-            }
-          },
-          {
-            "id": "3e742f09ac782380",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos"
-            }
-          },
-          {
-            "id": "585e54ffdfa4c37f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
-          },
-          {
-            "id": "311225bc7e16d25c",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {},
-              "icon": "lucide-info",
-              "title": "Propriedades dos arquivos"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "5ca4d0976e8d7242",
-    "type": "split",
-    "children": [
-      {
-        "id": "eadf9928a06e23c7",
-        "type": "tabs",
-        "dimension": 58.683729433272404,
-        "children": [
-          {
-            "id": "345683111fb689b2",
+            "id": "f67232993a263b2d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -197,101 +161,25 @@
             }
           },
           {
-            "id": "e293eb1c779bafdb",
+            "id": "55c133e229654b19",
             "type": "leaf",
             "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
-          {
-            "id": "5382910397a6e52f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "8e7625dc335a9e6a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
+              "type": "outline",
               "state": {
-                "url": "https://www.deezer.com/en/",
-                "title": "Deezer | Listen to music online | Music streaming app",
-                "mode": "webview"
+                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "globe-2",
-              "title": "Deezer | Listen to music online | Music streaming app"
-            }
-          },
-          {
-            "id": "509b172ee09c0763",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebooklm.google.com%2Flogin%3Fcontinue%3Dhttps%3A%2F%2Fnotebooklm.google.com%2F%3Ficid%253Dhome_maincta%2526original_referer%253Dhttps%3A%2F%2Fnotebooklm.google%252523&dsh=S17046436%3A1779221125687134&followup=https%3A%2F%2Fnotebooklm.google.com%2Flogin%3Fcontinue%3Dhttps%3A%2F%2Fnotebooklm.google.com%2F%3Ficid%253Dhome_maincta%2526original_referer%253Dhttps%3A%2F%2Fnotebooklm.google%252523&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AWa2PauEha1gvhoXc5nI5E6D6PCPrVap93j1g75DHCLk-scueesGj3PEbu7-zmGhKIH7JmONKEt3",
-                "title": "Sign in - Google Accounts",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Sign in - Google Accounts"
-            }
-          },
-          {
-            "id": "90bf5d19347148cd",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.notion.so/Dashboard-14680afd910580f194cad2f84bba753d",
-                "title": "Notion",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Notion"
+              "icon": "lucide-list",
+              "title": "Sumário de Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
             }
           }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "172aa7c042c8075d",
-        "type": "tabs",
-        "dimension": 41.316270566727596,
-        "children": [
-          {
-            "id": "51662950988045e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "4f3d86ba5d7d7bdf",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 764.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -305,9 +193,9 @@
       "markdown-importer:Abrir importador Markdown": false,
       "zk-prefixer:Criar nova nota única": false,
       "random-note:Abrir nota aleatória": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "bases:Criar nova base": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
       "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -324,58 +212,8 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "eb8203fae6bfc78d",
+  "active": "206f8463943030dc",
   "lastOpenFiles": [
-    "Notas /UFRN/IEEE/Bioinformática e a Inteligência Artificial estão revolucionando o combate ao câncer .md",
-    "Notas /UFRN/IEEE/IEEE.md",
-    "Notas /UFRN/UFRN.md",
-    "Notas /Estagio/Projeto dos agentes.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina Nao supervisionado Aula.md",
-    "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
-    "Notas /Cursos/Cursos.md",
-    "Notas /Estagio/Estagio.md",
-    "Notas /GUIA DE PROJETOS.md",
-    "media-lib/index.base",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Recording 20260516155831.m4a",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa -1778005075943.webp",
-    "Relatorio AABB-1778854205426.webp",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Untitled.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/09._UMAP.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/Slides.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/08._t-SNE.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Aprendizado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Recording 20260519140206.m4a",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Recording 20260519131656.m4a",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
-    "Sem título.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Unidade02.md",
-    "Notas /UFRN/5 semestre/5 semestre.md",
-    "Notas /Estagio/docs/Relatorio AABB.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/07._PCA.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/06._Reduo_da_Dimensionalidade.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides",
-    "Notas /Probabilidade e Estatistica/Fundamentos_de_Algebra-_Livro.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Revisão para prova Unidade 01.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade02.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Aprendizado de Maquina Supervisionado Draw.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa -1779051913393.webp",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Notebook 09 e Notebook 10.md",
-    "Notas /UFRN/IEEE/Techx.md",
-    "Notas /UFRN/IEEE/.md",
-    "Notas /Fera.md",
-    "Relatorio AABB-1778854196320.webp",
-    "Relatorio AABB-1778854163109.webp",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa -1778006697203.webp",
-    "png/Pasted image 20260414151624.png",
-    "png/Pasted image 20260417212022.png",
-    "png/Pasted image 20260421183406.png",
-    "png/Pasted image 20260418162022.png",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Revisao da unidade 01.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade01 /Fluxo de Trabalho de AM.canvas",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Fluxo de Trabalho de AM.canvas",
-    "Untitled.canvas"
+    "Notas /UFRN/IEEE/Bioinformática e a Inteligência Artificial estão revolucionando o combate ao câncer .md"
   ]
 }
