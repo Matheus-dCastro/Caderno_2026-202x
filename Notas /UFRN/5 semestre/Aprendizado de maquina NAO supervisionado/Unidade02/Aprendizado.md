@@ -1,3 +1,8 @@
+<mark style="background:#d3f8b6">=> Dimensão é o grau de liberdade que descreve um ponto (quantas variaveis de um vetor sao precisas para representar aquele ponto no espaço)</mark>
+
+
+
+
 # Maldição da Dimensionalidade
 
 Esse fenonimo acontece quando analisamos dados com varias features ou seja varias dimensões centenas ou milhares => não acontece em espaços de baixa dimensionalidade.

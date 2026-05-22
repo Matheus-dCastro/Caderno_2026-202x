@@ -10,9 +10,11 @@
           {
             "id": "b104a4cfb02a58c1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "notes-explorer",
               "state": {},
+              "pinned": true,
               "icon": "book-copy",
               "title": "Notes explorer"
             }
@@ -40,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"sticker\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,17 +63,7 @@
             }
           },
           {
-            "id": "d66899942070a2a5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          },
-          {
-            "id": "3fc2311faad42716",
+            "id": "faa2d9763f6c504d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -81,11 +73,31 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "38575261063ebe61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da2b62459b0669f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/drive/folders/1vN6iXT-PhuZ-2aHK-IyzpjR9JadE9y_3?hl=pt-br",
+                "title": "drive.google.com/drive/folders/1vN6iXT-PhuZ-2aHK-IyzpjR9JadE9y_3?hl=pt-br",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "drive.google.com/drive/folders/1vN6iXT-PhuZ-2aHK-IyzpjR9JadE9y_3?hl=pt-br"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 497.5,
     "collapsed": true
   },
   "right": {
@@ -95,6 +107,7 @@
       {
         "id": "ba350199952d9c3b",
         "type": "tabs",
+        "dimension": 51.91304347826087,
         "children": [
           {
             "id": "bf18887c9578440c",
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Lembrentes Nao Supervisionado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
+              "title": "Links inversos para Lembrentes Nao Supervisionado"
             }
           },
           {
@@ -121,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Lembrentes Nao Supervisionado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
+              "title": "Links de saída para Lembrentes Nao Supervisionado"
             }
           },
           {
@@ -164,54 +177,119 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas /Cursos/Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula.md",
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Lembrentes Nao Supervisionado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Python 3+ completo PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação anotações de aula"
+              "title": "Sumário de Lembrentes Nao Supervisionado"
+            }
+          },
+          {
+            "id": "daf2c4a8838715f7",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "63daf954db124b07",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://accounts.google.com/v3/signin/challenge/pwd?TL=APouJz4ztbyJt5R0DzC7djtXbRucxwVi_c7D1R5Ia3m493x_Eho781chYZeb4Slv&cid=2&continue=https://notebooklm.google.com/login?continue%3Dhttps://notebooklm.google.com/?icid%253Dhome_maincta%26original_referer%3Dhttps://notebooklm.google%2523&dsh=S589114346:1779217993997257&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://notebooklm.google.com/login?continue%3Dhttps://notebooklm.google.com/?icid%253Dhome_maincta%26original_referer%3Dhttps://notebooklm.google%2523&ifkv=AWa2PasV3pf8JcQTwzRfxJg8wrYVwgEWltRL-ToUFKTxFCibWD9cPvaxQ_ABKXaCBpEiJKOghKH8&osid=1",
+                "title": "accounts.google.com/v3/signin/challenge/pwd?TL=APouJz4ztbyJt5R0DzC7djtXbRucxwVi_c7D1R5Ia3m493x_Eho781chYZeb4Slv&cid=2&continue=https://notebooklm.google.com/login?continue%3Dhttps://notebooklm.google.com/?icid%253Dhome_maincta%26original_referer%3Dhttps://notebooklm.google%2523&dsh=S589114346:1779217993997257&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://notebooklm.google.com/login?continue%3Dhttps://notebooklm.google.com/?icid%253Dhome_maincta%26original_referer%3Dhttps://notebooklm.google%2523&ifkv=AWa2PasV3pf8JcQTwzRfxJg8wrYVwgEWltRL-ToUFKTxFCibWD9cPvaxQ_ABKXaCBpEiJKOghKH8&osid=1",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "accounts.google.com/v3/signin/challenge/pwd?TL=APouJz4ztbyJt5R0DzC7djtXbRucxwVi_c7D1R5Ia3m493x_Eho781chYZeb4Slv&cid=2&continue=https://notebooklm.google.com/login?continue%3Dhttps://notebooklm.google.com/?icid%253Dhome_maincta%26original_referer%3Dhttps://notebooklm.google%2523&dsh=S589114346:1779217993997257&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://notebooklm.google.com/login?continue%3Dhttps://notebooklm.google.com/?icid%253Dhome_maincta%26original_referer%3Dhttps://notebooklm.google%2523&ifkv=AWa2PasV3pf8JcQTwzRfxJg8wrYVwgEWltRL-ToUFKTxFCibWD9cPvaxQ_ABKXaCBpEiJKOghKH8&osid=1"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "84763a020bb2d728",
+        "type": "tabs",
+        "dimension": 48.08695652173913,
+        "children": [
+          {
+            "id": "d66899942070a2a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "84b1cb6ff60396c3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.deezer.com/en/",
+                "title": "deezer.com/en/",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "deezer.com/en/"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 696.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir importador Markdown": false,
-      "zk-prefixer:Criar nova nota única": false,
-      "random-note:Abrir nota aleatória": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "bases:Criar nova base": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "sticky-notes:Open sticky note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "vscode-editor:Create Code File": false,
-      "pomodoro-timer:Toggle timer panel": false,
+      "zk-prefixer:Criar nova nota única": true,
+      "random-note:Abrir nota aleatória": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": true,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "canvas:Criar novo canvas": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "vscode-editor:Create Code File": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": true,
+      "sticky-notes:Open sticky note": false,
       "media-extended:Open media library": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
       "media-extended:Open media quick switcher": false,
-      "terminal:Open terminal": false,
-      "omnisearch:Omnisearch": false,
+      "bases:Criar nova base": false,
+      "pomodoro-timer:Toggle timer panel": true,
+      "workspaces:Gerenciar leiautes da área de trabalho": true,
       "notes-explorer:Notes explorer": false
     }
   },
   "active": "b104a4cfb02a58c1",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Lembrentes Nao Supervisionado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Aprendizado.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Unidade02.md",
+    "media-lib/index.base",
+    "Sem título.base",
+    "202605222020.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Aprendizado de maquina NAO supervisionado.md",
+    "Kanban sem título.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/06._Reduo_da_Dimensionalidade.pdf",
     "Tags",
     "Notas /UFRN/IEEE/Bioinformática e a Inteligência Artificial estão revolucionando o combate ao câncer .md"
   ]
