@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3faa8bd473871f",
+        "id": "17acceadda8c01b9",
         "type": "tabs",
         "children": [
           {
-            "id": "206f8463943030dc",
+            "id": "b104a4cfb02a58c1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "pinned": true,
               "icon": "book-copy",
               "title": "Notes explorer"
             }
@@ -42,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "8966edc4b3a28505",
+            "id": "3fc2311faad42716",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,6 +195,7 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "bases:Criar nova base": false,
       "obsidian-kanban:Criar um novo quadro": false,
+      "sticky-notes:Open sticky note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -208,12 +207,12 @@
       "media-extended:Open media quick switcher": false,
       "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false,
-      "sticky-notes:Open sticky note": false,
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "206f8463943030dc",
+  "active": "b104a4cfb02a58c1",
   "lastOpenFiles": [
+    "Tags",
     "Notas /UFRN/IEEE/Bioinformática e a Inteligência Artificial estão revolucionando o combate ao câncer .md"
   ]
 }
