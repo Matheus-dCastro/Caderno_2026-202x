@@ -31,3 +31,6 @@ precisa ter uma rota bem definida
 
 criar as todas com apirouter
 
+# Estrutura de banco de dados
+
+tem q importar o sqlalchemy o crete_engine e o declaretive_base
