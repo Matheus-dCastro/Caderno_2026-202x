@@ -15,8 +15,8 @@
               "type": "notes-explorer",
               "state": {},
               "pinned": true,
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           }
         ]
@@ -63,7 +63,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "a8fa41d616e9a9fe",
+=======
+            "id": "28560b1c66f4cf01",
+>>>>>>> 629dcb9 (sobe a versao atual do obsidian)
             "type": "leaf",
             "state": {
               "type": "mk-path-view",

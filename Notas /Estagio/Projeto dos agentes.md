@@ -35,3 +35,18 @@ criar as todas com apirouter
 
 tem q importar o sqlalchemy o crete_engine e o declaretive_base
 
+<<<<<<< HEAD
+=======
+
+
+# conta de usuario
+
+-> rotas de autenticação
+
+
+criar coisas no banco de dados => post  
+
+
+
+-> rotas de clientes
+>>>>>>> 629dcb9 (sobe a versao atual do obsidian)
