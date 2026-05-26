@@ -257,3 +257,8 @@ min_dist mexe no y
 
 umap é o mais usado hoje em dia 
 
+# Autoencoders e Representações Latentes
+
+uso de redes neurais para fazer o predict, construção/reconstrução de saidas de imagens
+
+-> tratamento de imagens apartir de um dataset

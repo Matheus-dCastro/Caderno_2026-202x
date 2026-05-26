@@ -25,5 +25,6 @@
   "notes-explorer",
   "pdf-writer",
   "image-converter",
-  "sticky-notes"
+  "sticky-notes",
+  "jupyter-viewer"
 ]

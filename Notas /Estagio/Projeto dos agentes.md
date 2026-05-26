@@ -49,4 +49,12 @@ criar coisas no banco de dados => post
 
 
 -> rotas de clientes
->>>>>>> 629dcb9 (sobe a versao atual do obsidian)
+
+
+- [ ] criar metodo para atulizar registros de muitos para muitos
+- [ ] criar metodos de edição
+- [ ] criar metodos de listagem
+- [ ] criar metodos de metricas
+- [ ] criar as rotas de clientes
+- [ ] criar atulizaador de metricas 
+- [ ] adicionar a variavel satisfação
