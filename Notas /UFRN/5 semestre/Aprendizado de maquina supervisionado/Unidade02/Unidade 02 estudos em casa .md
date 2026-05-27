@@ -538,3 +538,10 @@ precisao 01 => ingenua
 * **Mais Sensível a Hiperparâmetros:** O `learning_rate` e o `n_estimators` têm uma relação delicada. Um `learning_rate` muito alto pode causar overfitting.
 
 * **Treinamento Lento:** O processo é **sequencial**, não pode ser facilmente paralelizado (cada árvore depende da anterior). O Random Forest treina muito mais rápido.
+
+
+
+lebelender => entrada categorica -> 0 e 1 
+OneHotEncoder => entrada categorica -> vetor/matriz 
+StandardScaler => entrada numeros -> normaliza
+
