@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dabc73a7d44e13ab",
+        "id": "da3a626954696a2d",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ee207d8b6f6446",
+            "id": "7477b803b76ac90c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "ee6fd0b231eb61c3",
+            "id": "e27fb1ec87e4c3b7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -206,8 +207,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "d7ee207d8b6f6446",
+  "active": "7477b803b76ac90c",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
     "Tags"
   ]
 }

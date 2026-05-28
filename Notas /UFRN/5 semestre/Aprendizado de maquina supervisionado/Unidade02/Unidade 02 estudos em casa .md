@@ -545,3 +545,16 @@ lebelender => entrada categorica -> 0 e 1
 OneHotEncoder => entrada categorica -> vetor/matriz 
 StandardScaler => entrada numeros -> normaliza
 
+# Comparação e seleção de modelos: Notebook 12 
+
+##  Test t 
+medir significancia da diferença entre as saidas dos modelos e como essa diferença impacta na analise => tem q ter um distribuição gausiana e as pontas da gausiana é onde iremos analisar 
+
+se esta dentro sao semelhantes
+se esta fora sao diferentes
+
+depois de analisar o modelo podemos tirar uma conclusao da diferença significativa entre pares de modelos e com isso escolher estatisticamente qual o melhor modelo e qual sera oq entrega o melhor desempenho e o menos custoso.
+
+## Test de Wilcoxon:
+
+aplica logica de rank entre dois modelos, 
