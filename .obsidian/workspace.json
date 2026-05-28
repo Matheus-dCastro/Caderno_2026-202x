@@ -74,10 +74,13 @@
             "id": "e27fb1ec87e4c3b7",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           }
         ],
@@ -203,8 +206,7 @@
       "media-extended:Open media quick switcher": false,
       "terminal:Open terminal": false,
       "omnisearch:Omnisearch": false,
-      "sticky-notes:Open sticky note": false,
-      "notes-explorer:Notes explorer": false
+      "sticky-notes:Open sticky note": false
     }
   },
   "active": "7477b803b76ac90c",
