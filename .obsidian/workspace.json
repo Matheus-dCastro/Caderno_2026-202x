@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "867ec907d122c5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabc73a7d44e13ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ee207d8b6f6446",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e852bf5092ad7d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5693af616ab0803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db890a27bae13e74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c338da9f286559bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5ecec2f0c46936c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "ee6fd0b231eb61c3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2420d9d156b21ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "816e67a950891587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73dd4c208bff7fee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "30592d7d62e2a431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "da2fd9998e173879",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d8a386d4a7184a04",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "deffcb0f92e92c13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "random-note:Abrir nota aleatória": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "bases:Criar nova base": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "vscode-editor:Create Code File": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
+      "terminal:Open terminal": false,
+      "omnisearch:Omnisearch": false,
+      "sticky-notes:Open sticky note": false,
+      "notes-explorer:Notes explorer": false
+    }
+  },
+  "active": "d7ee207d8b6f6446",
+  "lastOpenFiles": [
+    "Tags"
+  ]
+}
