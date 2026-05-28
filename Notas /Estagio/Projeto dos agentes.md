@@ -35,10 +35,6 @@ criar as todas com apirouter
 
 tem q importar o sqlalchemy o crete_engine e o declaretive_base
 
-<<<<<<< HEAD
-=======
-
-
 # conta de usuario
 
 -> rotas de autenticação
@@ -52,9 +48,26 @@ criar coisas no banco de dados => post
 
 
 - [ ] criar metodo para atulizar registros de muitos para muitos
+
 - [ ] criar metodos de edição
+
 - [ ] criar metodos de listagem
+
 - [ ] criar metodos de metricas
+
 - [ ] criar as rotas de clientes
-- [ ] criar atulizaador de metricas 
-- [ ] adicionar a variavel satisfação
+
+- [ ] criar atulizaador de metricas
+
+- [ ] adiconar metodo para ignorar numero igual mas para types diferentes de usuarios
+
+- [ ] revisar e refatorar filtros
+
+- [X] adicionar a variavel satisfação
+
+- [X] estrutura muitos para muitos
+- [ ] tem refatorar as pastas de dependencias e de segurança
+- [ ] tem q passar nos arquivos de .env o caminho do bando de dados para poder acessalo
+
+
+
