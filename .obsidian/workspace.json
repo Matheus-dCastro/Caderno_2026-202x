@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da3a626954696a2d",
+        "id": "a5d4f4cc36a0e502",
         "type": "tabs",
         "children": [
           {
-            "id": "7477b803b76ac90c",
+            "id": "eff6940ae64dd81b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/IEEE/1°Reunião CS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1°Reunião CS"
             }
           }
         ]
@@ -61,30 +65,17 @@
             }
           },
           {
-            "id": "5ecec2f0c46936c4",
+            "id": "d9a54ad522ee42b4",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          },
-          {
-            "id": "e27fb1ec87e4c3b7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -105,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas /UFRN/IEEE/1°Reunião CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para 1°Reunião CS"
             }
           },
           {
@@ -165,19 +157,37 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notas /UFRN/IEEE/1°Reunião CS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 1°Reunião CS"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b62281f8980fb188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ecec2f0c46936c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 326.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,24 +204,29 @@
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "bases:Criar nova base": false,
-      "obsidian-kanban:Criar um novo quadro": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
+      "notes-explorer:Notes explorer": false,
+      "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "vscode-editor:Create Code File": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media library": false,
-      "media-extended:Open media quick switcher": false,
-      "terminal:Open terminal": false,
-      "omnisearch:Omnisearch": false,
-      "sticky-notes:Open sticky note": false
+      "sticky-notes:Open sticky note": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "7477b803b76ac90c",
+  "active": "eff6940ae64dd81b",
   "lastOpenFiles": [
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
-    "Tags"
+    "Notas /UFRN/IEEE/1°Reunião CS.md",
+    "Notas /UFRN/IEEE/IEEE.md",
+    "Notas /UFRN/5 semestre/5 semestre.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+    "Tags",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md"
   ]
 }

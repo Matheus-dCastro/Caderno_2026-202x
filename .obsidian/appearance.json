@@ -7,5 +7,7 @@
   "interfaceFontFamily": "Fira Code",
   "enabledCssSnippets": [
     "cursor-smooth-obsidian"
-  ]
+  ],
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
 }

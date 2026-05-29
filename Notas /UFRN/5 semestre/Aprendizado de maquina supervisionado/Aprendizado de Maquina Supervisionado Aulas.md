@@ -418,5 +418,4 @@ sempre joga para uma dimensão a cima para poder achar a malhar de corte q divid
 
 para muitas dimensoes usamos o gridsearch para pode achar o melhor hiperparametro e depois reduz de volta as dimensões dela para plotar o grafico
 
-olha o notebook 03
-
+olha o notebook 03 
