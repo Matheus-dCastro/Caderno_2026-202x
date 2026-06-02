@@ -420,3 +420,20 @@ para muitas dimensoes usamos o gridsearch para pode achar o melhor hiperparametr
 
 olha o notebook 03 
 
+# Comparação e Seleção de Modelos: Notebook 12
+
+Dois tipos de Hipotese
+- nula: 0 não diferença real de desempenho entre os modelos (pares)
+- alternativa: != 0 existe diferença entre os modelos ate significativa
+
+#### Teste de Wilcoxon:
+-> tolerancia de 0.5
+Media de desempenho pro rank => caso de empate faz a media de todos os modelos empatados
+
+> excolha o de menor espaço e de menor complexidade
+
+#### Comparação de multiplos modelos
+
+-> Correção de Bonferroni é feita par a par
+-> test de Friedman comparação direta de multiplos modelos
+
