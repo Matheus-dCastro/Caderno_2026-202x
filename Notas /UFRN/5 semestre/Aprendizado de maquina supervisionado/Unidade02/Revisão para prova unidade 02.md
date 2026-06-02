@@ -1,6 +1,6 @@
 # Notebook 06 
 
--> objetivo é criar um modelo capaz de também generalizar em cima dos dados fornecido e realizar predicts em novos dados.
+-> objetivo é criar um modelo capaz de também generalizar em cima dos dados fornecido e realizar predicts em novos dados
 ### 1. Holdout e Amostragem Aleatória:
 
 <mark style="background:#d3f8b6">- treinamento: ~ 60% - 80% => questões de exercício</mark>
@@ -26,7 +26,7 @@ Dividir os dados da melhor forma sem aplicar vies -> dados de test "peso nos dad
 
 <font color="#000000">#### <font color="#000000"><mark style="background:#d2cbff">🟣 VANTAGEM: **Holdout Estratificado** é unir a velocidade do metodo a uma forma de avaliar mais justa em dataset desbalanceados -> preserva a proporção das classes</mark></font></font>
 
-#### <font color="#6425d0"><mark style="background:#d2cbff">📍DESVANTAGEM: **Holdout Estratificado** é performance depende de uma unica divisão de dados o que vai gerar uma estimativa com alta variândia -> menos robustes q a validação crusada</mark></font>
+<font color="#000000">#### <font color="#000000"><mark style="background:#d2cbff">📍DESVANTAGEM: **Holdout Estratificado** é performance depende de uma unica divisão de dados o que vai gerar uma estimativa com alta variândia -> menos robustes q a validação crusada</mark></font></font>
 
 
 ### 2. Validação Cruzada K-fold (Cross-Validation):
@@ -82,10 +82,10 @@ criamos *B* conjutos chamados bootstrap samples com *n* amostras cada => por ter
 - avalia o desempenho com os dados OOB (out-off-bag) os dados q não foram escolhidos na hora de montar o conjunto *B* 
 - apos realizar *B* interações tira a media e o desvio padrão dos das performances do modelo
 
-<font color="#6425d0"><mark style="background:#fdbfff">🟣 **VANTAGEM:** Estivar a escabilidade e a variancia de modelos, ***MUITO BOM PARA DATASETS PEQUENOS*** pela reutilização dos dados => gerar distribuição de metricas, visão geral e mais completa da performance do que um unico split dos dados</mark></font> 
+<font color="#000000"><mark style="background:#fdbfff">🟣 **VANTAGEM:** Estivar a escabilidade e a variancia de modelos, ***MUITO BOM PARA DATASETS PEQUENOS*** pela reutilização dos dados => gerar distribuição de metricas, visão geral e mais completa da performance do que um unico split dos dados</mark></font> 
 
 
-<font color="#6425d0"><mark style="background:#fdbfff">📍 **DESVANTAGENS:** mais custoso computacional pois tem q treinar muitos modelos e sua complexidade conceitual => POR TER REPETIÇÃO ESTA SUJEITO A SER SENSIVEL A OUTLIERS POIS PODEM ESTA SUPER REPRESENTADO EM ALGUMAS AMOSTRAS</mark></font> 
+<font color="#000000"><mark style="background:#fdbfff">📍 **DESVANTAGENS:** mais custoso computacional pois tem q treinar muitos modelos e sua complexidade conceitual => POR TER REPETIÇÃO ESTA SUJEITO A SER SENSIVEL A OUTLIERS POIS PODEM ESTA SUPER REPRESENTADO EM ALGUMAS AMOSTRAS</mark></font> 
 
 
 

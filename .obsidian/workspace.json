@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7577578e115fb1b5",
+        "id": "4049230f4cd5b141",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee3114682df0fd8",
+            "id": "12bdca3a8fcb7ad7",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
               "state": {},
               "icon": "book-copy",
               "title": "Notes explorer"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c4d86dc1835884bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fd70d8fbdf5008e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revisão para prova unidade 02"
             }
           }
         ]
@@ -256,7 +236,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "9fd70d8fbdf5008e",
+  "active": "e1451f4144784fda",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
