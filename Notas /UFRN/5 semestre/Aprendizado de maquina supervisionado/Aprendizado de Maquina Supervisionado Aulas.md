@@ -437,3 +437,7 @@ Media de desempenho pro rank => caso de empate faz a media de todos os modelos e
 -> Correção de Bonferroni é feita par a par
 -> test de Friedman comparação direta de multiplos modelos
 
+## **2. Decomposição Viés-Variância:**
+
+como um é melhor do que o outro nesse caso aqui 
+
