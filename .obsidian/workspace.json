@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "0497d73824498501",
+            "id": "a9da1137916ab97a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -232,8 +232,8 @@
       "pomodoro-timer:Toggle timer panel": false,
       "sticky-notes:Open sticky note": false,
       "terminal:Open terminal": false,
-      "notes-explorer:Notes explorer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notes-explorer:Notes explorer": false
     }
   },
   "active": "1ee3114682df0fd8",
