@@ -24,7 +24,7 @@ Dividir os dados da melhor forma sem aplicar vies -> dados de test "peso nos dad
 > - Validação: 20% questões de revisão
 > - test: 10% questões de prova da unidade
 
-#### <font color="#6425d0"><mark style="background:#d2cbff">🟣 VANTAGEM: **Holdout Estratificado** é unir a velocidade do metodo a uma forma de avaliar mais justa em dataset desbalanceados -> preserva a proporção das classes</mark></font>
+<font color="#000000">#### <font color="#000000"><mark style="background:#d2cbff">🟣 VANTAGEM: **Holdout Estratificado** é unir a velocidade do metodo a uma forma de avaliar mais justa em dataset desbalanceados -> preserva a proporção das classes</mark></font></font>
 
 #### <font color="#6425d0"><mark style="background:#d2cbff">📍DESVANTAGEM: **Holdout Estratificado** é performance depende de uma unica divisão de dados o que vai gerar uma estimativa com alta variândia -> menos robustes q a validação crusada</mark></font>
 
