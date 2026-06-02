@@ -27,5 +27,7 @@
   "quick-latex",
   "settings-search",
   "sticky-notes",
-  "terminal"
+  "terminal",
+  "obsidian-admonition",
+  "obsidian-git"
 ]

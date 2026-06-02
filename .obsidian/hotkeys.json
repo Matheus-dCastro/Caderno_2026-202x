@@ -127,5 +127,37 @@
       ],
       "key": "I"
     }
+  ],
+  "obsidian-admonition:collapse-admonitions": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-admonition:open-admonitions": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }
