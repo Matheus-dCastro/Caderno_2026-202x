@@ -4,7 +4,7 @@
   "enableSurroundingGutters": false,
   "fixedCardHeight": null,
   "maxLines": null,
-  "launchOnStart": false,
+  "launchOnStart": true,
   "showDeleteButton": true,
   "displayTitle": "Both",
   "showEmptyNotes": false,

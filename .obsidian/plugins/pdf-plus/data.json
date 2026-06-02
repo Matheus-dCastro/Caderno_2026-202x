@@ -97,7 +97,9 @@
   "paneTypeForFirstMDLeaf": "right",
   "singleMDLeafInSidebar": true,
   "alwaysUseSidebar": true,
-  "ignoreExistingMarkdownTabIn": [],
+  "ignoreExistingMarkdownTabIn": [
+    "floatingSplit"
+  ],
   "defaultColorPaletteActionIndex": 4,
   "syncColorPaletteAction": true,
   "syncDefaultColorPaletteAction": false,

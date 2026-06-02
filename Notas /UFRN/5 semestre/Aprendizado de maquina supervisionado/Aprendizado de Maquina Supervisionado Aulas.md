@@ -245,7 +245,7 @@ O desenvolvimento de um modelo em AM geralmente segue um **fluxo de etapas**:
 
 # 2° Unidade
 
-## Notebook 06 =>
+## Notebook 06
 
 Holdout: Dividir os dados
 esse passo adiciona a validação: como o KNN

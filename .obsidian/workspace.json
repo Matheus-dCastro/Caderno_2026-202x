@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5d4f4cc36a0e502",
+        "id": "7577578e115fb1b5",
         "type": "tabs",
         "children": [
           {
-            "id": "eff6940ae64dd81b",
+            "id": "1ee3114682df0fd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/IEEE/Reunião CS 2905.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Reunião CS 2905"
+              "title": "Nova aba"
             }
           }
         ]
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "d9a54ad522ee42b4",
+            "id": "32c4cf8afeafd390",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -157,17 +153,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas /UFRN/IEEE/Reunião CS 2905.md",
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Reunião CS 2905"
+              "title": "Sumário de Revisão para prova unidade 02"
+            }
+          },
+          {
+            "id": "c2f3e34cd486a053",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "b62281f8980fb188",
@@ -210,23 +216,28 @@
       "obsidian-kanban:Criar um novo quadro": false,
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
-      "notes-explorer:Notes explorer": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "pomodoro-timer:Toggle timer panel": false,
       "sticky-notes:Open sticky note": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "eff6940ae64dd81b",
+  "active": "1ee3114682df0fd8",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
+    "Revisão para prova unidade 02-1780361123761.webp",
+    "Revisão para prova unidade 02-1780360210103.webp",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/07._PCA.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade02.md",
     "Notas /UFRN/IEEE/Reunião CS 2905.md",
     "Notas /UFRN/IEEE/IEEE.md",
     "Notas /UFRN/5 semestre/5 semestre.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
-    "Tags",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md"
+    "Tags"
   ]
 }
