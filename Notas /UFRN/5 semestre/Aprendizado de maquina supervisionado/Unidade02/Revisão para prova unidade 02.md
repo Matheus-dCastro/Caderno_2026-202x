@@ -1,7 +1,6 @@
 # Notebook 06 
 
--> objetivo é criar um modelo capaz de também generalizar em cima dos dados fornecido e realizar predicts em novos dados
-
+-> objetivo é criar um modelo capaz de também generalizar em cima dos dados fornecido e realizar predicts em novos dados.
 ### 1. Holdout e Amostragem Aleatória:
 
 <mark style="background:#d3f8b6">- treinamento: ~ 60% - 80% => questões de exercício</mark>
