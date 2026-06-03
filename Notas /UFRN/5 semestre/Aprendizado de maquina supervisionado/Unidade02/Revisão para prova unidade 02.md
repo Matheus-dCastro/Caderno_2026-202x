@@ -95,4 +95,9 @@ criamos *B* conjutos chamados bootstrap samples com *n* amostras cada => por ter
 | K-fold Cross Validation | robusta, tuning de modelo (tunar modelo)   | estavel, estatisticametne confiavel             | mais custoso computacionalmente                             |
 | Bootstrap               | pequenos conjuntos ou analise de variancai | gerar distribuição de erros (por ter repetição) | mais complexo e pode se tornar sensivel a roidos e outlines |
 
+# Fluxo de trabalho automático : Notebook 07
+
+
+
+### 1. Pré-processamento com dados heterogêneos:
 
