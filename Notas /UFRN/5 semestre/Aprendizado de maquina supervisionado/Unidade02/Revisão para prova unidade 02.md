@@ -164,3 +164,59 @@ Nesta aula, aprendemos a construir fluxos de trabalho robustos, profissionais e 
 
 # Avaliação de Modelos Preditivos: Notebook 08
 
+Como avaliar se um modelo esta desempenhando legal sobre dados n visto e sua capaciade de generalizar de forma eficiente
+
+
+### 1. Metricas para classificação:
+
+As metricas mais comuns de classificação de modelos.
+
+#### 1.1 acurácia:
+
+- proporção da avaliação correta sobre o total de amostras
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.6.4 - 18.45pm.drawing",
+	"width": 860,
+	"aspectRatio": 1.7515274949083504
+}
+```
+para cenarios a onde temos classes que estão desbalanceadas a acuracia pode ser enganosa.
+
+
+#### 1.2 Matriz de Confusã:
+
+como se fosse uma tabela verdade, 
+
+ 1 and 1 = 1 => verdadeiro positivo -> VP
+ 0 and 0 = 1 => verdadeiro negativo -> VN
+ 1 and 0 = 0 => falso positivo -> FP
+ 0 and 1 = 0 => falso negativo -> FN
+
+ > positivo e negativo sao as classes de um dataset e podem ser outras nomeclaturas e a matriz pode ser generalizada para mais de duas classes classes contando q siga a mesma logica do and nas operações do plot
+ 
+
+#### 1.3 Precisão, Revocação e F1-Score:
+
+
+- Precisão **<mark style="background:#40a9ff">**PRECISION:**</mark> numero q mede das q foram prevista como positivas quantas são realmente positivas
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.6.4 - 19.01pm.drawing",
+	"width": 808,
+	"aspectRatio": 3.467811158798283
+}
+```
+
+
+o maximo valor (1) so pode ser alcançado quando o valor de FP == 0 ou seja o modelo n errou nenhuma das previsões q ele realizou. 
+
+> uma alta previsão é importante para filtros de spam para n classificar um email importante comom spam -> <mark style="background:#fdbfff">um falso positivo é caro</mark>
+
+
