@@ -97,7 +97,17 @@ criamos *B* conjutos chamados bootstrap samples com *n* amostras cada => por ter
 
 # Fluxo de trabalho automático : Notebook 07
 
-
+fluxo de trabalho de ponta a ponta de forma rigorosa usando o scikit-learn.
 
 ### 1. Pré-processamento com dados heterogêneos:
 
+todos os modelos exigem que suas entradas sejam numericas e nao categoricas.
+e geralmente aplicamos padronização(scaling) padronizar a escala dos dados bom principalmente para modelos baseados em distancia
+codificação(encoding) transformar features categoricas em features numericas
+
+para aplicar tais tranformações de forma correta usamos o columntranformer
+assim podemos ou
+
+separar todas as features em uma lista de string e passar essa variavel no columntransformer tanto para features numericas ou categoricas
+
+ou quando separamos o x e o y passamos ele dentro do columntransformer se todos forem do mesmo tipo
