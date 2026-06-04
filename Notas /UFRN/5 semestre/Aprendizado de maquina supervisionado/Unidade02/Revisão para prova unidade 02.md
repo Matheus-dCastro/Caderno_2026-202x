@@ -111,3 +111,56 @@ assim podemos ou
 separar todas as features em uma lista de string e passar essa variavel no columntransformer tanto para features numericas ou categoricas
 
 ou quando separamos o x e o y passamos ele dentro do columntransformer se todos forem do mesmo tipo
+
+
+### 2. Organizando o fluxo de trabalho
+
+<mark style="background:#40a9ff">+> Uso do pipeline: </mark> serve para acorrentar varios passos q antes teriam q ser passado um por um na fazer de pre e processamento do modelo
+
+-> podemos simplesmente usar como se fosse um unico modelo.
+
+> o pipeline serve para pre-processar o x_train o y_train_encoded ja passa pre-processado para o guiar o modelo no treinamento
+
+pasta usar pipe.predict para realizar o modelo com os dados de test
+### 3. Busca automática de hiperparâmetros: 
+
+Para realizar esses ajuste fino nos dados de treinamento usamos o GridSearchCV (uma grade de busca usando o cross validation).
+
+para realizar a busca dos hiperparametros basta usar o fit junto da variavel objeto q definimos o grid e usa-lo para realizar previsões.
+
+
+
+unimos os dois processos para encurtar oq precisamos realizar durante a fase de treinamento e previsao de uma forma unificada usando 
+
+<mark style="background:#d4b106">pre-processando o pipe => treinando e ajudando os hiperparametros no grid => realizando o predict no grid</mark>
+
+> o metodo do o gridCV é extremamente custoso computacionalmente para muitos hiperparametros 
+
+RandomizeSearchCV: criado para resolver esse problema do custo do grid, 
+definimos um valor fixo de interações e apartir disso ele intera na amostra aleatoriamente sobre uma combinaçaõ de hiperparametros que especificamos
+=> isso nos da controle sobre o custo q teremos computacionalmente n_iter=z e a ferramenta fara o melhor possivel nesse espaço.
+
+### **Resumo:**
+
+Nesta aula, aprendemos a construir fluxos de trabalho robustos, profissionais e otimizados com ferramentas essenciais do Scikit-Learn.
+
+
+* Começamos tratando dados heterogêneos de forma segura com o `ColumnTransformer`.
+
+
+* Em seguida, encapsulamos nosso fluxo de pré-processamento e modelagem em um único objeto com o `Pipeline`, tornando nosso código mais limpo e seguro.
+
+
+* Finalmente, aprendemos a otimizar os hiperparâmetros do nosso `Pipeline` de forma automática, usando a busca exaustiva do `GridSearchCV` e a busca eficiente do `RandomizedSearchCV`.
+
+  
+
+**A combinação dessas ferramentas** 
+
+<mark style="background:#9254de">(`ColumnTransformer` -> `Pipeline` -> `*SearchCV`)</mark>
+
+é um dos padrões mais poderosos e utilizados na prática para desenvolver modelos de aprendizado de máquina de alta qualidade.
+
+
+# Avaliação de Modelos Preditivos: Notebook 08
+
