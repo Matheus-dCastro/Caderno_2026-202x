@@ -432,3 +432,4 @@ arvores de regressão => regressão tenta minimizar o erro o erro quadratico de 
 a arvore busca a melhor pergunta e divide e organiza os dados de forma q os grupos resultantes sejam os mais puros possiveis
 
 => um no é realmente puro se todos os dados nele pertencem realmente a mesma classe
+
