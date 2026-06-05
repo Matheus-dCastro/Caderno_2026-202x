@@ -564,3 +564,38 @@ o gradiente aponta a direção e magnitude da tava da variação da funçao
 
 Classes diferentes com menor ditancia isso vai criar as margens para o hiper plano
 
+ele busca achar a melhor linda q separe melhor as duas classes => um **hiperplano** aquele q esta o mais longe possivel de todos os pontos de ambas as classes
+
+os vetores de suporte são os limites da "rua" 
+
+usamo kernels (nucleos) para lidar com dados muito completos e não-lineares
+
+## 2. SVM's linears:
+
+#### 2.1 Margens rigidas:
+
+usamos a projeção +>
+
+Margem |v*w| / ||W||
+
+w é o vetor de pesos  que sera a distancia que as margens teram do ponto central q irar determinar a reta.
+
+a restrição ao usar margens rigidas é q todos os pontos devem esta do lado correto da margem para o algoritmo da certo
+
+=> logo o maior problema sera otimizar/maximizar a margem para q os pontos seja classificados de forma correta e todos estejam no limite da margem
+
+> deve sempre realizar a normalização dos dados para poder utilizar svm ja q nesse modelo a dimensão das distancias afeta o modelo
+
+
+#### 2.2 margem suave:
+
+variaveis de folga
+
+o valor de volga q pode permite pontos violar a margem e mesmo assim ser caracterisado de forma correta
+
+quanto menos o valor da folga do parametro C mais a margem pode ser violada pois ela se torna mairo e pode cuasar underfittinh
+
+quando maior menos a margem pode ser violada e quanto maior esse valor menos a margem fica oq pode causar overfitting
+
+## 3. SVM's nao lineares:
+
