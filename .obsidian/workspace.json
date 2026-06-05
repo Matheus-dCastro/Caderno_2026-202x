@@ -11,10 +11,10 @@
             "id": "3d866b882e067ee1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "85b51f0b55bef4ee",
+            "id": "0e00e811f916782f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -240,7 +240,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "notes-explorer:Notes explorer": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "canvas:Criar novo canvas": false,
@@ -261,7 +260,6 @@
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "pomodoro-timer:Toggle timer panel": true,
-      "sticky-notes:Open sticky note": false,
       "terminal:Open terminal": true,
       "colorful-stickynotes:Sticky list": false,
       "colorful-stickynotes:Open stickies": false,
@@ -270,7 +268,7 @@
       "graph:Abrir visualização em gráfico": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "bases:Criar nova base": true,
-      "notekeeper:Open card view": false
+      "notes-explorer:Notes explorer": false
     }
   },
   "active": "3d866b882e067ee1",
