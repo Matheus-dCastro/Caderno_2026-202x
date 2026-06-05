@@ -26,8 +26,9 @@
   "pomodoro-timer",
   "quick-latex",
   "settings-search",
-  "sticky-notes",
   "terminal",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "colorful-stickynotes",
+  "obsidian-annotator"
 ]

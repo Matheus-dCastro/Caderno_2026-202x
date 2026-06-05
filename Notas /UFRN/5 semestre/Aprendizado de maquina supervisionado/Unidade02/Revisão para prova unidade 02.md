@@ -203,7 +203,10 @@ como se fosse uma tabela verdade,
 
 
 - Precisão **<mark style="background:#40a9ff">**PRECISION:**</mark> numero q mede das q foram prevista como positivas quantas são realmente positivas
+- 
+<mark style="background:#fff88f">De todas as previsões que o modelo disse que eram positivas, quantas estavam realmente corretas?</mark>
 
+O quão efetivo eu sou, quanto o modelo estava  certo
 
 ```handdrawn-ink
 {
@@ -214,9 +217,62 @@ como se fosse uma tabela verdade,
 }
 ```
 
-
 o maximo valor (1) so pode ser alcançado quando o valor de FP == 0 ou seja o modelo n errou nenhuma das previsões q ele realizou. 
 
 > uma alta previsão é importante para filtros de spam para n classificar um email importante comom spam -> <mark style="background:#fdbfff">um falso positivo é caro</mark>
 
+
+- Sensibilidade/Revocação <mark style="background:#40a9ff">**RECALL**</mark> entre as instacias realmente positivas quantas foram previstas corretamente
+
+<mark style="background:#fff88f">De todos os casos que eram realmente positivos no mundo real, quantos o modelo conseguiu encontrar/capturar?</mark>
+
+de todas as vezes q vc tenteu quantos resultados positivos tinha
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.6.4 - 20.48pm.drawing",
+	"width": 740,
+	"aspectRatio": 3.318385650224215
+}
+```
+
+o quanto o modelo cassificou corretamente
+
+```ad-warning
+
+
+A diferença entre precision e recall é
+
+=> Precision o quanto o modelo previu 
+
+=> Recall o quanto a classe real é oq o modelo falou ou seja a proporção de positivos identificados corretamente
+
+```
+
+
+ 
+ 
+ 
+ 
+ - F1-Score: é a media harmonica entre a precisão e a revocação
+
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.6.4 - 21.40pm.drawing",
+	"width": 904,
+	"aspectRatio": 2.4498644986449865
+}
+```
+
+
+> fundamentais em aplicações de diagnosticos medicos ou detecção de fraudes
+> => ONDE ERRAR POSITIVAMENTE OU NEGATIVAMENTE TEM CONSEQUENCIAS BEM DIFERENTES E AS VEZES PROPOSITOS DIFENTES
+
+
+
+
+#### 1.4 Analise ROC: 
 

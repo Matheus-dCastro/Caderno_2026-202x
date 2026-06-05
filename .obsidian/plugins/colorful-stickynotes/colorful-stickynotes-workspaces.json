@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "activeWorkspaceId": "ws_mq05ltpa",
+  "workspaces": [
+    {
+      "id": "ws_mq05ltpa",
+      "name": "Horários da UFRN",
+      "windows": [
+        {
+          "id": "d6e7f801-a36e-4921-9df8-b53ef7af8840",
+          "path": "StickyNotes/2026/2026-06-04.md",
+          "stickyId": "0ab7e8ba-5d31-4c84-8161-3d8a4c997759",
+          "bounds": {
+            "left": 262,
+            "top": 387,
+            "width": 420,
+            "height": 360
+          },
+          "collapsed": false,
+          "hidden": false,
+          "stretched": false,
+          "bindings": [],
+          "yamlVisible": false,
+          "color": "lavender",
+          "markdownMode": "source",
+          "open": false
+        }
+      ],
+      "updatedAt": 1780620559747,
+      "remark": "Matutino (M):\nM1: 07h00 - 07h50\nM2: 07h50 - 08h40\nM3: 08h55 - 09h45\nM4: 09h45 - 10h35\nM5: 10h50 - 11h40\nM6: 11h40 - 12h30\nVespertino (T):\nT1: 13h00 - 13h50\nT2: 13h50 - 14h40\nT3: 14h55 - 15h45\nT4: 15h45 - 16h35\nT5: 16h50 - 17h40\nT6: 17h40 - 18h30\nNoturno (N):\nN1: 18h45 - 19h35\nN2: 19h35 - 20h25\nN3: 20h35 - 21h25\nN4: 21h25 - 22h15"
+    }
+  ],
+  "trash": []
+}

@@ -9,5 +9,6 @@
     "cursor-smooth-obsidian"
   ],
   "textFontFamily": "Fira Code",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "showRibbon": true
 }
