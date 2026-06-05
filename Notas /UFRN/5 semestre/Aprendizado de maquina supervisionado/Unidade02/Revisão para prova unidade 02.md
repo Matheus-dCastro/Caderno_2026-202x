@@ -433,3 +433,134 @@ a arvore busca a melhor pergunta e divide e organiza os dados de forma q os grup
 
 => um no é realmente puro se todos os dados nele pertencem realmente a mesma classe
 
+==objetivo é criar folhas 100% puras==
+
+Metricas de impureza para medir o quanto um no é puro
+	1. Indixe Gini (Gini impurity): probabilidade de um indice de aletaroio ser classificado errado onde o saida 0 é pureza perfeita e 0.5 impureza maxima (para duas classes)
+	2. Entropia: novel de desordem em um no 0 perfeito 1 impureza maxima para duas classes
+
+#### 1.2 Criterio de divisão:
+
+o algoritmo é focado no canho de informação => diferença entre a impureza (GINI) do nó pai pre divisão e a media pondera da impureza entres seus 2 nos filhos (pos divisão)
+Classificação:
+> sendo um algoritmo ganancioso teste de cada atributo acada no e todos os valores de corte (limeares) focando no ganho da infromação (atributo+limiar)
+
+
+na regressão seu objetivo n é achar a pureza das classes e sim achar divisoes em que o os valores y dos filhos sejam sempre o mais proximo possivel um dos outros
+
+=> a metrica é o MSE -> y é a media de todos os valores y no nó tenta sempre minimizar o MSE
+
+#### 1.3 algoritmo de decisão:
+
+
+acha a pergunta q melhor divide a arvore para ganhar mais informação e para cada filho ele repete esse passo de achar a melhor forma de ganhar informação divide e repete ate acabar o numero de amostas ou outra condição de parada
+
+**Criterio de parada:** é atiginda para para a recurão
+
+usando as metricas gini ou entropia
+max_depth profundidade maxima (numero muito pequeno de amostras e não da mais para dividir)
+
+min_sample_split para maximo de nos
+min_sample_leaft para maximo de nos folhas
+
+<mark style="background:#d4b106">arvores sao bastente sugestives a overfiting</mark>
+
+#### 1.6 estrategia de poda:
+
+usado para evitar alem de crescer de mais evitar overfiting 
+
+**Pre-poda:** corta a arvore antes q ela fique grande d+ 
+	- maximo de profuncidade
+	- numero minimo de amostras em um no para poder ter divisao
+	- maximo de ganho de informação (se n melhorar x valor pare)
+**Pos-poda:** constroe toda a arvore completa para depois podar removendo partes q n melhoram ou sao desnecessarios para previsao
+
+
+=> Vantagens: 
+	- simplicidade de interpretação
+	- lida bem tanto com dados categoricos quanto continuos
+	- n precisa normalizar
+=> Desvatangens:
+	- tende a overfiting (crescer d+)
+	- ruidos por menor q sejam podem causar grandes mudanças
+	- alta variancia
+
+## 2. Modelo Random Forest:
+
+no lugar de treinar apenas uma arvore treinamos varias arvores e criamos atravez de uma votação no final para a melhor arvores e segue o memso principel de tecnicas de poda q uma arvore unica
+
+#### 2.1 Metodo de ensemble:
+
+reduz o overfitting combinando o 
+
+1. boostrap: para cada arvores q sera treinada damos o um conjunto de dados diferente e q nao tenha todo o con
+2. aleatoriedade de atributos: para evitar que um atributo seja dominate sobe outros apenas por ter um maior volume e evitar q as arvores sejam muito correlacionadas antes de cada split em um no ele n considera todos os atributos mas sim um subconjuto aleatorio
+
+cada arvore so ve cerca de ~65% das amostras durante o treinamento, os ~35% sao usados para OOB
+
+para cada amostra de x podemos fazer uma previsão usando as arvores q ainda n viram aquela amostra x durante seu treinamento
+
+
+> como resultado uma floresta onde as arvores sao decorrelacionadas cada uma sendo especialista fraca por si so em uma parte do dataset como um todo e atravez da votação elas formam um dos modelos mais robustos em ML
+
+para prever é utilizado a moda de cada arvore durante a classificação
+para regressao é usado a media
+
+> geralmente em datasets muitos complexos o randomforest é geralmente igual significativamente melhor que um modelo de arvore unica porem vale lembrar q o modelo é muito mais estavel a matrica OOB_Score nos da uma estimativa muito confiavel
+
+
+> >**Observação:** Ao contrário da visualização de uma árvore, que é instável, este gráfico é robusto. Ele nos diz quais features o modelo em geral considera mais preditivas.
+
+**Vantagens:**
+- **Alta acurácia**, especialmente em comparação com uma única árvore.
+- **Robustez a _overfitting_**, graças à aleatoriedade e ao agrupamento de várias árvores.
+- **Capacidade de lidar com dados de alta dimensionalidade e correlação entre variáveis.**
+- Funciona bem com **valores ausentes** e **variáveis categóricas**.
+
+**Desvantagens:**
+
+- Pode ser **mais lento** para prever, especialmente com muitas árvores.
+- Menos interpretável do que uma única árvore de decisão.
+
+
+## 3. Modelo Grandient Boosting:
+
+funciona como uma linha de montagem sequencial 
+
+é focado em q uma arvore seja capaz de ser boa no q sua irmã antrior a ele é ruim afim de mitigar erros durante o uso do modelo
+
+uma foca em melhorar a deficiencia da outra conseguir tapar esses buracos
+
+> usa florestas muito rasas de no maximo 3 a 8 niveis, começando como um modelo de alto viés e acada interação reduz esse viés
+
+
+usa a taxa de aprendizagem o q torna o processo mais lento porem mitiga o overfitting na primeira interção usa primieiro a media ou a moda dos dados de treinamento
+
+> objetivo: achar a arvore q minimize a função de perda e matematicamente o sentido q mais temos redução é o gradiente negativo da função
+
+o gradiente aponta a direção e magnitude da tava da variação da funçao
+
+
+1. inicia o modelo com predição ingenua a media ou a moda de todos os y do conjunto train
+2. intere de m = 1 ate M os interadores:
+	1. calcule o residou => calcule o gradiente negativos
+	2. treine o aprediz fraco mas q ja vai ser melhor q o primeiro
+	3. atualize o modelo adicione a previsao do aprediz ao modelo geral ate n 
+	4. use o resultado final somando o palpite de todas as f arvores
+
+**Vantagens:**
+
+* **Alta Acurácia:** Frequentemente supera o Random Forest.
+* **Flexibilidade:** Pode otimizar qualquer função de perda diferenciável (MSE, MAE, Log-Loss, etc.).
+**Desvantagens:**
+
+* **Mais Sensível a Hiperparâmetros:** O `learning_rate` e o `n_estimators` têm uma relação delicada. Um `learning_rate` muito alto pode causar overfitting.
+* **Treinamento Lento:** O processo é **sequencial**, não pode ser facilmente paralelizado (cada árvore depende da anterior). O Random Forest treina muito mais rápido.
+
+
+# Maquinas de vetores suporte: Notebook 11
+
+## 1. Introdução:
+
+Classes diferentes com menor ditancia isso vai criar as margens para o hiper plano
+
