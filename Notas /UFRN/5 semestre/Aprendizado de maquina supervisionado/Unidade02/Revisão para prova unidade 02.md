@@ -363,3 +363,9 @@ o quão bem a variabilidade dos dados é explicada pelo modelo ou seja o quanto 
 
 ### 1. O teorema de Bayes: 
 
+se basea na probabilidade de uma hipotese com base nas evidencias 
+
+-> Probabilidade apiori
+-> Probabilidade posteriori 
+
+

@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Revisão para prova unidade 02"
             }
+          },
+          {
+            "id": "2a98f3dec6639358",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Teorema de Bayes.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Teorema de Bayes.excalidraw"
+            }
           }
         ]
       }
@@ -278,8 +290,9 @@
   },
   "active": "1396daec7280c452",
   "lastOpenFiles": [
-    "StickyNotes/2026/2026-06-04.md",
+    "Excalidraw/Teorema de Bayes.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
+    "StickyNotes/2026/2026-06-04.md",
     "Revisão para prova unidade 02-1780663698820.webp",
     "Ink/Drawing/2026.6.5 - 9.42am.drawing",
     "Revisão para prova unidade 02-1780662871831.webp",
