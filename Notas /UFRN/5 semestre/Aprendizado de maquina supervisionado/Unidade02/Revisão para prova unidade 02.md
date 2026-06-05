@@ -385,3 +385,50 @@ calcula com base na frequencia dos atributos
 
 #### 2.1 Matematica e algoritmo:
 
+é calculado a probabilidade maxima entre as classes de y usando o conceito de idependecia entre as variaveis
+
+-> fase de treinamento:
+	1. calcula a prioridade a priori de todas as classes de y com base nas frequencias das classes do conjunto de dados
+	2. calcula a verossimilhança  para acada x dado cada classe de y:
+		- para atributos categoricos: frequencia de cada classe
+		- para atributos continuos: distribuição normal (NB Gaussiana) estima a media e a variancia para cada atributo em cada classe
+	3. faze de predição 
+		1. nova amostra: probabilidade de cada classe usando a faze de train
+		2. escolhe a classe com maior probabilidade pelo rotulo
+
+
+#### 2.3.1 Multinomial NB: 
+-> contagem ou frequancia de dados de texto ou tabelas de contagem de genes
+
+=> filtros de spam, classificação de artigos e tipos de texto
+#### 2.3.2 Bernoullin NB:
+-> valores binarios ou seja sim ou nao verdadeiro ou falso 0 e 1
+-> verossimilhança: probabilidade de um atributo esta presente em uma amostra
+
+=> foco em texto em q quer saber a presença da palabra chave e nao sua frequencia
+
+
+#### 2.3.3 Categorical NB:
+-> atributos categoricos e discretos (nao necessarimante da forma binaria)
+-> verossimilhança: um atributo esta em uma categoria dentro de uma classe
+
+=> classificar algo com base em atributos
+
+![[Revisão para prova unidade 02-1780676182740.webp]]
+
+
+# Metodos baseados em arvores:
+
+## 1. Arvores de decisão e regressão:
+
+dividir os dados de entrada em regioes baseado em if else pode ser para maximizar algum criterio ou minimizar o erro
+
+arvores de decisao => classificação busca maximizar em como separa as classes
+arvores de regressão => regressão tenta minimizar o erro o erro quadratico de cada folha
+
+
+#### 1.1 Pureza de nós:
+
+a arvore busca a melhor pergunta e divide e organiza os dados de forma q os grupos resultantes sejam os mais puros possiveis
+
+=> um no é realmente puro se todos os dados nele pertencem realmente a mesma classe

@@ -8,14 +8,14 @@
       "remark": "Matutino (M):\nM1: 07h00 - 07h50\nM2: 07h50 - 08h40\nM3: 08h55 - 09h45\nM4: 09h45 - 10h35\nM5: 10h50 - 11h40\nM6: 11h40 - 12h30\nVespertino (T):\nT1: 13h00 - 13h50\nT2: 13h50 - 14h40\nT3: 14h55 - 15h45\nT4: 15h45 - 16h35\nT5: 16h50 - 17h40\nT6: 17h40 - 18h30\nNoturno (N):\nN1: 18h45 - 19h35\nN2: 19h35 - 20h25\nN3: 20h35 - 21h25\nN4: 21h25 - 22h15",
       "windows": [
         {
-          "id": "ae1233f1-a67e-43f3-8288-39f52fd5c380",
+          "id": "38258866-4587-4019-897e-056d7801db57",
           "path": "StickyNotes/2026/2026-06-04.md",
           "stickyId": "0ab7e8ba-5d31-4c84-8161-3d8a4c997759",
           "bounds": {
-            "left": 121,
-            "top": 0,
-            "width": 823,
-            "height": 569
+            "left": 189,
+            "top": 36,
+            "width": 755,
+            "height": 581
           },
           "collapsed": true,
           "hidden": false,
@@ -27,7 +27,7 @@
           "open": true
         }
       ],
-      "updatedAt": 1780668209983
+      "updatedAt": 1780676613122
     }
   ],
   "trash": []
