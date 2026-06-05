@@ -369,3 +369,19 @@ se basea na probabilidade de uma hipotese com base nas evidencias
 -> Probabilidade posteriori 
 
 
+ele olha para todos os caso q deu como positivo
+
+### 2. o classificador Naive Bayes:
+
+ele é ingeno todas as variaveis preditoras sao independentes entre si (um não influencia o outro)
+
+> a probabilidade de y é o produto das probabilidades individuais
+
+usado por sua simplicidade e seu bom desempenho em tarefas de classificação
+calcula com base na frequencia dos atributos
+
+> [!attention]
+> bom para grandes volumes de dados com alta dimensionalidade
+
+#### 2.1 Matematica e algoritmo:
+
