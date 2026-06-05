@@ -276,3 +276,4 @@ A diferença entre precision e recall é
 
 #### 1.4 Analise ROC: 
 
+utiliza como base um limiar de descição 

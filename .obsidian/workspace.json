@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1576002db41edff9",
+        "id": "e0b36d4926492bb4",
         "type": "tabs",
         "children": [
           {
-            "id": "9dc94c5d24717aee",
+            "id": "3d866b882e067ee1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Revisão para prova unidade 02"
+              "title": "Nova aba"
             }
           }
         ]
@@ -277,10 +273,10 @@
       "notekeeper:Open card view": false
     }
   },
-  "active": "e1451f4144784fda",
+  "active": "3d866b882e067ee1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-06-04 21.53.04.excalidraw.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
+    "Excalidraw/Drawing 2026-06-04 21.53.04.excalidraw.md",
     "Revisão para prova unidade 02-1780360210103.webp",
     "Revisão para prova unidade 02-1780361123761.webp",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
