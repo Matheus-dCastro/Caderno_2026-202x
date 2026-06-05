@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b36d4926492bb4",
+        "id": "534780909df9168a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d866b882e067ee1",
+            "id": "1396daec7280c452",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revisão para prova unidade 02"
             }
           }
         ]
@@ -202,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "b62281f8980fb188",
@@ -236,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 766.5
+    "width": 766.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,9 +276,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "3d866b882e067ee1",
+  "active": "1396daec7280c452",
   "lastOpenFiles": [
+    "StickyNotes/2026/2026-06-04.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
+    "Revisão para prova unidade 02-1780663698820.webp",
+    "Ink/Drawing/2026.6.5 - 9.42am.drawing",
+    "Revisão para prova unidade 02-1780662871831.webp",
+    "Ink/Drawing/2026.6.5 - 9.30am.drawing",
+    "Ink/Drawing/2026.6.5 - 9.27am.drawing",
     "Excalidraw/Drawing 2026-06-04 21.53.04.excalidraw.md",
     "Revisão para prova unidade 02-1780360210103.webp",
     "Revisão para prova unidade 02-1780361123761.webp",
@@ -283,7 +294,6 @@
     "media-lib/index.base",
     "202605222020.md",
     "Sem título.base",
-    "StickyNotes/2026/2026-06-04.md",
     "Ink/Drawing/2026.6.4 - 21.40pm.drawing",
     "StickyNotes/2026/2026-06-04-1.md",
     "StickyNotes/2026/2026-06-04-2.md",
@@ -294,11 +304,8 @@
     "StickyNotes",
     "Ink/Drawing/2026.6.4 - 20.48pm.drawing",
     "Ink/Drawing/2026.6.4 - 19.01pm.drawing",
-    "Ink/Drawing/2026.6.4 - 18.45pm.drawing",
-    "Ink/Drawing/2026.6.4 - 18.44pm.drawing",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Projeto/Untitled.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Projeto/Projeto.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Projeto",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa .md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade02.md",

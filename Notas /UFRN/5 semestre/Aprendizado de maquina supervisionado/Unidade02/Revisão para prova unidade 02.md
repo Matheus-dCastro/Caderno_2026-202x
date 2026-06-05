@@ -277,3 +277,89 @@ A diferença entre precision e recall é
 #### 1.4 Analise ROC: 
 
 utiliza como base um limiar de descição 
+
+
+- Limiar de decisão: geralmente 0.5 para modelos que entregam probabilidades assim convertemos essa probabilidade em uma classe real
+
+-> Curva ROC serve para representar graficamente esse limar o quão bem um modelo separa as classes {TRADEOFF => troca} os custos dos beneficios entroca dos custos de onos variando esse limiar em [0;1]
+
+**Eixo x** temos o TFP == taxa de falsos positivos
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.6.5 - 9.27am.drawing",
+	"width": 566,
+	"aspectRatio": 2.3583333333333334
+}
+```
+
+ta medindo o quanto o modelo previu errado os negativos reais e os colocou como positivos
+
+**Eixo y** temos a TVP == taxa de revocação
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.6.5 - 9.30am.drawing",
+	"width": 666,
+	"aspectRatio": 2.1414790996784565
+}
+```
+
+Passamos a ter o recall 
+
+- AUC = 1.o classificador perfeito
+- AUC = 0.5 classificador aleatorio, linha diagonal => um modelo bom deve esta o mais longe possivel dessa linha e tendendo a parte superior da diagonal principal.
+- AUC < 0.5 classificador é o pior que uma classificação aleatoria
+
+
+![[Revisão para prova unidade 02-1780662871831.webp]]
+
+
+olhamos o pico dela ou seja a curva do cutuvelo da curva
+
+
+### 2. Metricas para regressão:
+
+previsao de valores continuos não a probabilidade de uma amostra pertencer a um classe medindo assim o quão proximo as previsões estao dos valores reais
+
+#### 2.1 Erro medio absoluto (MAE):
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.6.5 - 9.42am.drawing",
+	"width": 742,
+	"aspectRatio": 2.401294498381877
+}
+```
+#### 2.2 Erro quadratico medio (MSE) e raiz de (RMSE):
+
+ambas tem a mesma finalidade de dar peso ao erro mas uma esta ao quadrado e a outra esta na mesma unidade de medida do y<sup>i</sup>
+
+#### 2.3 R² coeficiente de determinação:
+
+o quão bem a variabilidade dos dados é explicada pelo modelo ou seja o quanto o modelo preve bem os valores e eles conseguem se ajustar aos valores reais.
+
+![[Revisão para prova unidade 02-1780663698820.webp]]
+
+## COMO ESCOLHER A METRICA
+
+- usar a MAE para interpretar erros nas unidades reais
+- MSE/RMSE se erros muitos grandes sao mais graves
+- R² para uma ter visão geral da performace de modelos de regressão
+
+
+# Metodos probabilisticos: Notebook 09
+
+<mark style="background:#ff4d4f">modelar incertezas, inferir padroes e tomar decisões</mark>
+-> assumem q dados sao gerados por algum processo aleatorio e tentam modelar de forma explicita as distribuiçoes de probabilidade
+
+=> amostras preveniesntes de distribuições de probabilidade
+
+### 1. O teorema de Bayes: 
+
