@@ -135,15 +135,40 @@ a variancia é dada pela diferença de i para j e de j para i
 	se a distribuição for:
 			uniforme: entropia alta
 			concentrada em poiucos evento: entropia baixa
-		
+
+Cada ponto x possui a sua propria variancia q define o seu alcance
+usando a perplexidade(mede a incerteza da distribuição entre os vizinhos => numero efetivo de vizinhos considerados) hiperparametro fica entre 5~50 controlamos assim q regioes densas tenham um sigma pequeno ja regioes pouco densas teram sigmas grandes
+
 H(p) => media da informação de eventos
 
-ja baixa dimensionalidade geralmente em 2D e 3D a distrubição segue t de Student com um grau de liberdade => distribuição de cauda longa
+ja baixa dimensionalidade geralmente em 2D e 3D a distrubição segue t de Student com um grau de liberdade => distribuição de cauda longa, mas cada ponto yi representa um xi no espaço de baixa dimensionalidade
+
+> objetivo é q Q reproduza a relaçoes de locais descritas por P
+> -> se P e Q forem semelhantes => relaçoes de vizinhança sao preservadas
+> -> a difrença entre P e Q mede a distoção entre os espaços
+> -> para medir a diferença usa KL tenta otimizar via minimização de<mark style="background:#fff88f"> divergencia de KL</mark>
+
+distrbuição de Kullback-laibler -> pede a quantidade de informação perdida de P para Q durante a redução das dimensões esse é o parametro de <font color="#00b050">custo de usar t-SNE</font>
+
+usar o gradiente desendente para otimizar os parametros de uma função de custo
+
+- indica a direção de maior almento e sera otimizado no sentido oposto
+- cada passo é ajustado dependendo da taxa do passo
+- é o vetor das derivadas parciais 
+- magnitude: o quanto  uma função cresce 
+![[Aprendizado-1780780326033.webp]]
+
+Otimização co  SGD é o processo de achar um Y similar de alta relação para iniciar de forma mais similar.
+
+
+# Uniform Manifold Approximation ande Projection (UMAP): Notebook 09
 
 
 
+ele se destaca por ser capaz de preservar a estrutura dos dados tanto em alta quanto em baixa dimensionalidade. => baseado em geometria Riemanniana e topologia algebrica
 
-tenta otimizar via minimização de<mark style="background:#fff88f"> divergencia de KL</mark>
+constroi uma representação topologica dos dados em alta dimensão e em seguida busca otimizar um embedding de baixa dimensão q sera estruturalmente equivalente
 
-distrbuição de Kullback-laibler -> pede a quantidade de informação perdida de P para Q durante a redução das dimensões
+Topologia: uma caneca é o mesmo q uma rosquina
+Topologia toroidal: uma coisa da uma coisa nela mesmo jogo do pac-man => uma rosquina
 
