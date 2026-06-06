@@ -702,3 +702,5 @@ realiza analise de como o modelo se saiu e faz o rank e soma a posição fazendo
 
 #### 1.2.3 Analise pos-hoc (teste de nemenyi):
 
+![[Revisão para prova unidade 02-1780750274668.webp]]
+
