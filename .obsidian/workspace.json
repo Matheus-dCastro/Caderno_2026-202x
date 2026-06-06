@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Aprendizado"
             }
+          },
+          {
+            "id": "aeaad54024103211",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +76,7 @@
             }
           },
           {
-            "id": "3ea8fb9c524ba915",
+            "id": "f7e4772c2035c134",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -276,7 +287,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e5bd07d60d90b8d0",
+  "active": "aeaad54024103211",
   "lastOpenFiles": [
     "Aprendizado-1780786365602.webp",
     "Aprendizado-1780786051250.webp",
