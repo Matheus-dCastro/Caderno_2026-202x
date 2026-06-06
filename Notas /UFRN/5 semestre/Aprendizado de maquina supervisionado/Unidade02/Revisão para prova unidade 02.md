@@ -630,3 +630,33 @@ uma desvantagem é o ajuste de seus multiplos hiperparamtros (C, gamma, epsilon)
 ![[Revisão para prova unidade 02-1780693485922.webp]]
 
 
+# Comparação e seleção de modelos: Notebook 12
+
+# 1. Testes de Hipotese:
+seve para verificar se são estatiscamente significantes
+#### 1.1 Comparando dois modelos:
+
+para saber se se existe uma diferença real entre os dois modelo e qual tem melhor desempenho e qual escolher entre os eles dois
+
+#### 1.1.1 Test t pareado corrigido:
+
+avaliando sob o mesmo esquema de validaçao cruzada (k-fold) => teste t pareado corrigindo -> contornar os desafios probabilisticos intrisecos a estrutura da validação cruzada.
+
+1. diferença pareada: diferença de desempenho para cada partição
+2. media amostral das diferenças
+3. variancia amostral modificada
+4. estatistica de teste corrigida: denominador: razao entre o tamanho do conjunto teste e o cojunto de treinamento corrigindo o vies de sobreposição dos dados
+
+> teste parametrico - ele assume que a diferença entre os desempenhos dos pares seguem uma distribuição normal
+
+**Hipostese Nula:** *H<sub>o</sub>* = 0 nao exite diferença no desempenho dos modelo
+**Hipotese Alternativa** *H<sub>1</sub>* != 0 existe diferença significativa no desempenho do modelo
+
+<mark style="background:#ff4d4f">Geralmente o nivel de significancia é de 5%</mark>
+
+fronteiras da zona de rejeição que um modelo de fato é diferente do outro.
+
+O test bicaudal é o q mede q um modelo sera superior ou inferior a outro => geralmente 2.5% em cada cauda
+
+- zona de rejeição: parte externa da curva onde os valores de t são atipicos improvaveis q tenham ocorrido sob a vigicia do acaso. caso o t caia nessa zona a hipotese nula é rejeitada
+- 
