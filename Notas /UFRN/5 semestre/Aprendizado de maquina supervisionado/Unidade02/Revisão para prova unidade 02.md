@@ -680,3 +680,25 @@ caso de empate soma e divide pelo numero de empates
 > - porem valores muito pequenos W indicam assimetria total e nos levam a entrar na zona de rejeição => rejeitar o H<sub>0</sub>
 
 
+ele impede de q descartamos um exelente algoritmo gereneralista por causa de uma grande falha isolada em um ambiente atipico pois o teste w foca na consistencia da dominacia de um modelo sobre outro 
+
+## 1.2 Comparação de multiplos modelos:
+
+basicamente rodamos um bentmark 
+
+- temos o teste par a par de modelo bonferroni
+- teste de friedman para multiplos modelos simultaneos
+
+#### 1.2.1 Correção de bonferroni
+
+
+se dividimos nossa significancia em 5% para aceitar falsos positivos esse erro é acumulado a cada interação dessa forma se temos 4 modelos e cada modelo tem 6 cruzamentos a chance de cometer um erro sera na vdd de 26% nao de 5% 
+
+pode ser aplicado a qualquer metodo de classificar um modelo melhor q outro seja metodos parametricos ou nao parametricos
+
+#### 1.2.2 teste de fridman 
+
+realiza analise de como o modelo se saiu e faz o rank e soma a posição fazendo a media atribuindo a ele 
+
+#### 1.2.3 Analise pos-hoc (teste de nemenyi):
+
