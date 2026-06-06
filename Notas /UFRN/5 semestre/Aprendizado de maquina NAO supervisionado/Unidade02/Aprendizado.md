@@ -1,6 +1,7 @@
 <mark style="background:#d3f8b6">=> Dimensão é o grau de liberdade que descreve um ponto (quantas variaveis de um vetor sao precisas para representar aquele ponto no espaço)</mark>
 
 
+quanto maior a dimensao menor é a variabilidade
 
 
 # Maldição da Dimensionalidade
@@ -43,6 +44,12 @@ Isso implica no ponto de vista q todos os pontos ficam quase a mesma distancia
 Vetores aleatorios tendem a ser ortoganais entre si
 direçoes distintas entre vetores a tender a 90°
 
+
+# Como lidar com a maldição?
+
+redução da dimensionalidade, de forma q preserve as estruturas mais importantes
+
+
 ## Benção de nao uniformidade:
 
 muitas vezes os dados estao retrintos a subespaços ou varidade de baixa dimen
@@ -59,7 +66,24 @@ estudar essa parte de matrizes de novo, livro de algebra e fazer algumas questoe
 - **Autovetores**: Representam as direções dos eixos no novo espaço de características. No contexto do PCA, eles são os **componentes principais**. Eles são ortogonais entre si.
 
 - **Autovalores**: Indicam a magnitude da variância dos dados ao longo das direções dos autovetores.
-## Eigenfaces com o LFW dataser
+
+
+### Manifolds:
+
+espaço q em regiões pequenas se comporta como espaço euclidiano
+podem formar um mapa de coordenadas entre o real e o espaço plano
+reduz a dimensão preserva relações locais
+pode capitar a geometria intriceca
+
+
+## PCA
+analise da componente principal usa uma matris de convariancia para reduzir o espaço vetorial em d-1 dimenções geralmente apartir de uma matriz de transformação usando autovetores e autovalores
+
+
+=> a recosntrução da pca geralmente a depender do numero de autovetores usado para realiza-la pode n ser tao fidedigna 
+
+
+### Eigenfaces com o LFW dataset
 
 visao computacional, reconhecimento facial 
 -> trata cada imagem de um rosto como um vetor
@@ -72,6 +96,11 @@ indentificar um numero menor de variaveis correlacionadas => capturar padroes
 maior variabilidade dos dados agrupando pela sua covariancias entre elas 
 
 <mark style="background:#40a9ff">obteção das variaveis mais importantes</mark> 
+
+#### limitações da PCA:
+
+
+
 
 
 # T-Distributed Stochastic Neighbor Embedding -> t-SNE
