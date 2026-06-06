@@ -113,12 +113,35 @@ Outliers podem distorcer a direção de maior variância
 
 É uma tecnica de redução de dimencionalidade não linear bastante eficaz para datasets de grande dimensões. ele diferentimente da PCA ele tenta preservar a estrutura local dos dados => simlilaridade entre os pontos vizinhos tenta diminuir a divergencia entre distribuições de baixa e alta similaridade
 
-- 1° constroi a probabilidade sobre paers de pontos de dados na alta dimensionalidade => pontos similares tem mais chance de serem escolhidos ja pontos nao similares tem uma baixa chance de serem escolhidos.
+- 1° constroi a probabilidade sobre pares de pontos de dados na alta dimensionalidade => pontos similares tem mais chance de serem escolhidos ja pontos nao similares tem uma baixa chance de serem escolhidos.
 - 2° depois tenta reconstruir em baixa dimensão de mode similar nos pontos essa distribuição de similariedade
 
--> essa similaridade é definida entre os pontos de xi e xj +> probabilidade condicional de q xi escolheria xj se os vizinhos fossem escolhidos pela proporção a sua densidade sob uma Gaussiana centrada em xi.
+-> aqui queremos preservar as relações de vizinhança: a proximidade entres os pontos
+
+-> converte distancias em probabilidade de similaridade
+	a similaridade sera alta se no espaço original ele estao proximos 
+	- cria duas distribuções:
+		- uma no espaço original p
+		- uma no espaço reduzido q
+		o processo de otimização foca em reduzir a diferença entre os dois espaços, assim se preserva a estrutura local
+modela por uma curva gausiana
+
+-> essa similaridade é definida entre os pontos de xi e xj 
+
++> probabilidade condicional de q xi escolheria xj se os vizinhos fossem escolhidos pela proporção a sua densidade sob uma Gaussiana centrada em xi.
+a variancia é dada pela diferença de i para j e de j para i
+
+-- entropia pode ser usada para quantificar informações
+	se a distribuição for:
+			uniforme: entropia alta
+			concentrada em poiucos evento: entropia baixa
+		
+H(p) => media da informação de eventos
 
 ja baixa dimensionalidade geralmente em 2D e 3D a distrubição segue t de Student com um grau de liberdade => distribuição de cauda longa
+
+
+
 
 tenta otimizar via minimização de<mark style="background:#fff88f"> divergencia de KL</mark>
 
