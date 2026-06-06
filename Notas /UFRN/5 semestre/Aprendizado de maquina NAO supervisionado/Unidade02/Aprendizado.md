@@ -172,3 +172,32 @@ constroi uma representação topologica dos dados em alta dimensão e em seguida
 Topologia: uma caneca é o mesmo q uma rosquina
 Topologia toroidal: uma coisa da uma coisa nela mesmo jogo do pac-man => uma rosquina
 
+1. constroe uma estrutura de grafo levando encosideração k-vinhos de um ponto aleatorio => isso para cada cluster não é a distancia mais sim uma probabilidade de conexão
+2. e leva para um conjuto fuzzy (conjunto simplificado e cada ligação deixa de ser meramente binaria e passa a ter peso) oq no manifold preserva a estrutura original so q em baixa dimensionalidade => otimização de embedding 
+
+NENHUM PONTO DEVE ESTA ISOLADO, A CONFIANÇA DA VIZINHANÇA DEVE DECAIR SUAVEMENTE COM A DISTANCIA
+
+Conectividade rigina => valor fixo independente da densidad
+Conectividade Difusa => quanto mais denso menor o raio quanto menos desenso maior o raio 
+
+![[Aprendizado-1780786051250.webp]]
+
+
+UMAP minimiza a diferença entre Q e P
+usa a entropia como medida de deissimilaridade +> a incerteza
+penaliza conexo erradas com vizinhos errados
+
+
+## Cross-Enropy:
+
+
+Cross-Entropy mede a incerteza média de p quando usamos q para codificar os eventos É a média da "surpresa" segundo q, para eventos que de fato vêm de p
+
+
+Geramos dois tipos de força sobre os pontos
+
+uma de atração => aproxima os pontos com alta conexão
+uma de repulção => afasta os pontos com baixa conexão ajuda a empedi q colapsem no embergs e faz melhora as chances de n caracterizar vizinhos errados
+
+![[Aprendizado-1780786365602.webp]]
+
