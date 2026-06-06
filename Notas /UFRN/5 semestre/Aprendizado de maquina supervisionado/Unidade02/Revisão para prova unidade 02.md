@@ -659,4 +659,24 @@ fronteiras da zona de rejeição que um modelo de fato é diferente do outro.
 O test bicaudal é o q mede q um modelo sera superior ou inferior a outro => geralmente 2.5% em cada cauda
 
 - zona de rejeição: parte externa da curva onde os valores de t são atipicos improvaveis q tenham ocorrido sob a vigicia do acaso. caso o t caia nessa zona a hipotese nula é rejeitada
-- 
+- p-valor: probabilidade exata de obtermos uma estatistica de teste extrema aou ate mais extrema do que o t observado assumindo H<sub>o</sub> como verdadeiro
+
+
+p-valor representa a soma das areas sob a curva de t e -t 
+se t ultrapassar os limites da zona de rejeição a area do p-valor (se p-valor<0.05 => a separação estatistica dos modelos)
+
+#### 1.1.2 Teste de Wilcoxon:
+
+opera sobre a ordem de grandeza das diferenças sobre os ranks.
+
+> realizar a aplicação do teste do wilcoxon sobre os folds de um unico dataset como no test t pode levar em vies de sobreposição dos resultados
+> ==para ter uma estatisca mais precisa recomenda-se compara o desempenho do algoritmo em multiplos conjuntos dde dados independentes.==
+
+caso de empate soma e divide pelo numero de empates
+> [!warning]
+> 
+> - No t quanto maior o valor, mais distantes estamos do acaso e mais propenso a rejeitar H<sub>0</sub>
+> - no teste de wilcoxon a logica é inversa se os modelos sao identicos (H<sub>o</sub>) fazendo com que o W assuma o valor alto e aceitar a hipotese nula
+> - porem valores muito pequenos W indicam assimetria total e nos levam a entrar na zona de rejeição => rejeitar o H<sub>0</sub>
+
+
