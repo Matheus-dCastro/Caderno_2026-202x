@@ -86,9 +86,10 @@ analise da componente principal usa uma matris de convariancia para reduzir o es
 ### Eigenfaces com o LFW dataset
 
 visao computacional, reconhecimento facial 
--> trata cada imagem de um rosto como um vetor
+-> trata cada imagem de um rosto como um vetor separa pela escala dos pixes
 -> captura a variançoes mais significativas em um espaço de baixa dimensionalidade
 -> representao os ingrediente principais de onde qualquer rosto do dataset pode ser contruido
+PCA é usado para encontrar subespaçoes de baixa dimensionalidade preservando a variancia
 
 **PCA em matematicamente:**
 
@@ -98,8 +99,12 @@ maior variabilidade dos dados agrupando pela sua covariancias entre elas
 <mark style="background:#40a9ff">obteção das variaveis mais importantes</mark> 
 
 #### limitações da PCA:
-
-
+apenas captura relações lineares
+se estruturar nao lineares tem poucas componetes podem ser mal representadas
+conserva a variancia nao a separação de grupos
+precisa passar pelo processo de normalização
+baixa interpretabilidades
+Outliers podem distorcer a direção de maior variância
 
 
 
