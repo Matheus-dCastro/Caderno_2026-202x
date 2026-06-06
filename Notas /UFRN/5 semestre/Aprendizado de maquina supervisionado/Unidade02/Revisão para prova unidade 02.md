@@ -599,3 +599,34 @@ quando maior menos a margem pode ser violada e quanto maior esse valor menos a m
 
 ## 3. SVM's nao lineares:
 
+subimos uma dimensão do espaço usamos uma função fi q mapea todos os dado originiais para um plano a cima
+
+nesse novo espaço os dados se tornam linearmente separados assim podemos achar esse processo pode levar a madição da dimensionalidade
+
+ela simula a criação de atributos polinomias de grau d e trona o kernel gaussiano sendo possviel dividir os dados linearmente
+
+quanto maior o valor de gama menso restritivo e menos uniforme com os dados se torna
+
+
+## 4. SVM em tarefas de regressão:
+
+por ele ser versatil ele pode ser estendido para problemas de regressão -> SVR
+
+
+
+=> SVC (Classificação): queremos a margem entre os ponto a margem mais larga possivel que separe duas ou mais classes 
+	- pontos dentro ou fora da margem sao penalizados
+=> SVR (Regressão): queremos a margem entre os pontos a margem mais estreita q contenha o maximo de pontos 
+
+
+![[Revisão para prova unidade 02-1780693150709.webp]]
+
+
+ele é versatil e eficais bons para espaços de alta dimensonalidade e com poucos dados
+
+uma desvantagem é o ajuste de seus multiplos hiperparamtros (C, gamma, epsilon)  precisa ser normalizados ou escalonados para ter um melhor funcionamento e é um processo demorado e é dificil de interpretar suas desciçoes especialemte com kernels n lineares e por serem inerentemente binarios demanda uma sagacidade para trabalhar com multi-classes
+
+
+![[Revisão para prova unidade 02-1780693485922.webp]]
+
+
