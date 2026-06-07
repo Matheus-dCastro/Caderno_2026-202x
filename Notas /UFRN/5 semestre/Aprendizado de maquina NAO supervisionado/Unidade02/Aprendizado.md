@@ -201,3 +201,16 @@ uma de repulção => afasta os pontos com baixa conexão ajuda a empedi q colaps
 
 ![[Aprendizado-1780786365602.webp]]
 
+o empurra e puxa é no plano 2d
+
+# Autoencoders e Representações Latentes: Notebook 10
+
+### Neuronios artificiais
+
+Continou -> Continua
+calula combinação linear em seguida uma nao linear
+produz uma ativação como saida
+
+uma camada é vista como varias funções em paralelo
+cada neuronio tem suas entradas aplica seus pesos e manda sua ativação
+
