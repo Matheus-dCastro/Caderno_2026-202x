@@ -214,3 +214,150 @@ produz uma ativação como saida
 uma camada é vista como varias funções em paralelo
 cada neuronio tem suas entradas aplica seus pesos e manda sua ativação
 
+### Função de ativação 
+
+define como sera a tranformação da saida de um neuronio
+add nao-linearidade
+cada função tem suas vantagens e suas limitações
+a escolha da função afeta como um todo o modelo
+
+
+#### Sigmoid:
+
+reduz os valores reais entre [0;1]
+para modelos probabilisticos
+valores extremos geram gradientes pequenos
+
+#### Tanh:
+
+fica entre [-1;1]
+cetragem no 0 ajuda em alguns modelos
+tambem sofre de saturação
+
+
+#### ReLu:
+
+padrao em redes profundas (MLps, CNNs)
+eficais computacionalmente e minimiza o vanishing gradient q afeta as outras funções
+se a derivada for constantes e do lado posstivo => aprendizado estavel
+
+
+## Em classificação:
+
+A entrada pode ser representações numericas de caracteristicas
+A saia geralmente é um vetor de probabilidades
+
+## Em Regressão:
+
+valores numericos continuos
+busca relações entre entrada e saida
+imagem f é os reais
+
+# Limitações:
+
+tendem a supor relações lineares de entrada e saida
+N consegue entender padrões complexos e nao lineares
+sua fronteira de descisão fica em retas 2D ou em hiperplanos nD
+Sofre de XOR 
+
+=> para resolver os problemas isolados de um neuronio utilizamos -> REDES NEURAIS
+
+Aprender nao linearidade em camadas intermediarias
+
+## Multiplas camadas:
+
+Cada camada realiza transformações parametrizadas seguidas de função de ativação nao lineares assim podem aproximar qualquer mapeameto não linear
+a pronfundidade da rede permir modelar coisas complexas e representa-las em hierarquia
+
+-> feedforward: sequencia de combinação de funções
+=> a profundidade da rede é o numero de funções
+=> termo central -> abstração: coisas complexas sao geralmente formadas de coisas simples combinadas fazer analise de forma hierarquica
+
+### Camadas ocultas:
+treino supervisionado: ajudatamos f(x) para aproximar f*(x)
+hidden layers **não é especificado nos dados**
+ele descide como vai usar essas camadas 
+
+O ajuste dos pesos é feito focando em reduzir mais rapido os custos => a gradiente indica o quanto a função varia pelos pesos
+
+### Função custo
+
+mede o erro entre a saida prevista e o valor real 
+gia o aprendizado via otimização
+define o objetivo durante o treino pelo qual deve minimizar
+
+=> otimização ocorre focando em: Gradient Descendente 
+	- mexe nos parametros passo a passo 
+	- ve para onde esta o maior valor de crecimento 
+	- descemos os valores no sentido oposto do crecimento
+
+## Backpropagation:
+
+- o erro é propagado da saida para entrada 
+- aplica tambem a regra da cadeia
+- pesos tambem seguem o processo de otimizar acima 
+
+
+# Autoencoders:
+
+> reconstruir a propria entrada
+
+Codificação interna dos dados
+ ===> Composto por encoder, espaço latente e decoder
+
+#### Espaço latente:
+
+representação de forma comprimida dos dados
+pode mostrar tanto os clusters quando oq os formaram
+baixa interpretação
+bom para ve downstream tasks
+
+#### Espaço latente:
+
+codificador: mapea um dado de entrada para um vetor dentro do espaço
+decodificador: recebe o vetor e tenta mapea-lo de volta para a origem com o minimo de perca
+
+#### Função custo:
+
+quão bom esta a reconstrução da entrada
+MSE
+varia conforme o tipo de dados
+o processo de redução foca em preservar informações relavantes
+
+### Aplicações:
+
+- remoção de ruidos
+- extrair features
+
+
+## Etapas do uso dos autoencoder:
+
+No processo de treinamento, iteramos por 20 épocas. A cada iteração:
+
+1. Achatamos as imagens de entrada de formato $28 \times 28$ para vetores 1D de 784 elementos.
+
+2. Executamos a passagem direta (forward propagation) para obter a reconstrução.
+
+3. Calculamos a perda de reconstrução (MSE Loss) contra as imagens originais limpas.
+
+4. Realizamos a retropropagação (backpropagation) e atualizamos os pesos com o otimizador Adam.
+
+quando a muitas dimensoes e n podemos plotar diretamente pode utilizar o t-sne para reduzir as dimençoes 
+
++> se o modelo conseguir fazer interpolação no espaço é pq esta bem treinado
+
+
+## Denoising Autoencoders (DAE):
+
+pode reconstruir uma entrada limpa apartir de uma versão corrompida com ruido de forma intensional
+o modelo recebe a imagem com ruido e passa ela para o espaço latente e tenta reconstuir a imagem se ruido
+
+nao aprende por simalaridade e sim a estrutura geometrica e a topologia onde reside os dados originais (entao tenho q passar para ele aprender a imagem original antes do ruido) oq passamos como x é a com ruido e y é as sem ruido 
+
+o teste passa imagens q ele nunca viu e depois compara
+1. imagem de referencia (Limpa)
+2. as com defeitos
+3. oq ele tentou reconstuir
+
+<mark style="background:#ff4d4f">O interecesse de usar essa esse metodo é a organização dos clusters no espaço latente </mark>
+
