@@ -363,3 +363,7 @@ o teste passa imagens q ele nunca viu e depois compara
 
 # Embeddings: Notebook 11
 
+Transforma qualquer coisa em um vetor e mapea esses vetores para areas semelhantes dentro de um espaço vetorial
+
+- a linguagem numerica da IA 
+traduz significados para numeros
