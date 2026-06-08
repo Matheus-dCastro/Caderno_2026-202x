@@ -367,3 +367,32 @@ Transforma qualquer coisa em um vetor e mapea esses vetores para areas semelhant
 
 - a linguagem numerica da IA 
 traduz significados para numeros
+
+
+-> representação vetorial densa e de baixa dimensao
+-> palavras semelhantes ficam proximas
+-> alem de pegar a semantica e analogias 
+
+### Distancia:
+
+a forma com que medimos se dois pontos/vetores de palavras/contextos estao relacionados e proximos
+como medimos essa distancia efeta diretamente como os resultados
+distancia euclidiana mede em linha reta 
+
+### Similaridade:
+
+mede o quanto dois vetores sao parecidos
+a do cosseno avalia o angulo entre dois vetores
+alta similaridade do cosseno indica direçoes proximas no espaço das features 
+
+é possivel criar embeddings nao apenas para palavras mas para sentenssas
+
+**Embeddings Grafos:** vetores que representao a topologia da rede
+**Embeddings Imagem:** CNNs extrai vetores de caracteristicas que representam o conteudo semantico da imagem 
+**Embeddings Multimodal:** diferentes tipos de dados no mesmo espaço vetorial imagem ou texto permite comparação/busca entre modalidades distintas
+
+1. indexação: transforma todas as entradas semanticas em vetores no espaço vetorial 
+2. consulta: a consulta do usuario é convertida em vetor
+3. recuperação: o vetor consulta é comparado atravez de similaridade do cosseno com o vetor de indexação e retorna o resultado
+
+para visualizar os vetores por terem muitas dimensões usamos algum algoritmo de redução de dimensionalidade como o tsne e o umap
