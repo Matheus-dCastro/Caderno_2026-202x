@@ -361,3 +361,5 @@ o teste passa imagens q ele nunca viu e depois compara
 
 <mark style="background:#ff4d4f">O interecesse de usar essa esse metodo é a organização dos clusters no espaço latente </mark>
 
+# Embeddings: Notebook 11
+
