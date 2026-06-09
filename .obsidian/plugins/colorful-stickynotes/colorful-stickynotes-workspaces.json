@@ -17,17 +17,17 @@
             "width": 666,
             "height": 546
           },
-          "collapsed": true,
+          "collapsed": false,
           "hidden": false,
           "stretched": false,
           "bindings": [],
           "yamlVisible": false,
           "color": "lavender",
           "markdownMode": "source",
-          "open": true
+          "open": false
         }
       ],
-      "updatedAt": 1780683170889
+      "updatedAt": 1781013940178
     }
   ],
   "trash": []
