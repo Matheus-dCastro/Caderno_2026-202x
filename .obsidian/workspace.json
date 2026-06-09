@@ -4,44 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "49bbcf648328162f",
-        "type": "tabs",
-        "dimension": 72.34121122599704,
-        "children": [
-          {
-            "id": "ef43b9388f33e39a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Revisão unidade 02.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Revisão unidade 02"
-            }
-          },
-          {
-            "id": "74952a6b9c361273",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "8eecf049141551d1",
         "type": "tabs",
-        "dimension": 27.65878877400295,
         "children": [
           {
             "id": "e5bd07d60d90b8d0",
@@ -50,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Aprendizado.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -70,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Revisão para prova unidade 02"
             }
+          },
+          {
+            "id": "88d9fc3a64bf7a09",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +90,7 @@
             }
           },
           {
-            "id": "5a6754f8603931a1",
+            "id": "f5882ec2a855738e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -326,7 +301,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "74952a6b9c361273",
+  "active": "88d9fc3a64bf7a09",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Revisão unidade 02.canvas",
