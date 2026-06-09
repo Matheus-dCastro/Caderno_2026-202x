@@ -22,21 +22,7 @@
             }
           },
           {
-            "id": "65c09bac77bccd40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revisão para prova unidade 02"
-            }
-          },
-          {
-            "id": "aef67e65fc8ed9cb",
+            "id": "5460589ab95aba02",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -46,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +76,7 @@
             }
           },
           {
-            "id": "d622b05c217e84f3",
+            "id": "8e27f8198603bd2e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -301,10 +287,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "aef67e65fc8ed9cb",
+  "active": "5460589ab95aba02",
   "lastOpenFiles": [
-    "StickyNotes/2026/2026-06-04.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Revisão para prova unidade 02.md",
+    "StickyNotes/2026/2026-06-04.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Aprendizado.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Revisão unidade 02.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
