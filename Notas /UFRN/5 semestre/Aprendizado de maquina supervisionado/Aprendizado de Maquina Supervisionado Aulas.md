@@ -441,3 +441,5 @@ Media de desempenho pro rank => caso de empate faz a media de todos os modelos e
 
 como um é melhor do que o outro nesse caso aqui 
 
+
+
