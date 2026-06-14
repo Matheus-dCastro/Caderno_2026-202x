@@ -74,3 +74,5 @@ Roteador n conhece todo o percuso ate o destino, ele sabe somente o proximo rote
 4. **Checksum:** sempre calcula antes do envio para o proximo salto
 5. **Fragmentação:** se o datagrama for maior q MTU da rede de saida ele se divide em pedaços menores cada qual com seu proprio cabeçalho e novos valorede de TTL e checksum
 
+# 10_camada_de_rede_roteamento_dinamico:
+
