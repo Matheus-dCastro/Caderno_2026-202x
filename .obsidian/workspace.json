@@ -4,24 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c50c1a6ae4980df2",
+        "id": "29eddcd9cb5d8405",
         "type": "tabs",
         "children": [
           {
-            "id": "e93e241563ce718c",
+            "id": "16a8365d01d247f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/Revisão.md",
-                "mode": "source",
-                "source": false
+                "url": "about:blank",
+                "mode": "blank"
               },
-              "icon": "lucide-file",
-              "title": "Revisão"
+              "icon": "globe-2",
+              "title": "Novo visualizador web"
+            }
+          },
+          {
+            "id": "f5a1708dfb68ad4d",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +75,7 @@
             }
           },
           {
-            "id": "262b4621a70c3d2b",
+            "id": "e29d8877a0fe24fa",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -277,8 +286,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e93e241563ce718c",
+  "active": "f5a1708dfb68ad4d",
   "lastOpenFiles": [
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/13_camada_de_enlace_1.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/11_camada_de_rede_nat.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/10_camada_de_rede_sistemas_autonomos.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/10_camada_de_rede_roteamento_dinamico.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/09_camada_de_rede_roteamento.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/Revisão.md",
     "Revisão-1781384296817.webp",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
@@ -305,15 +319,11 @@
     "Ink/Drawing/2026.6.5 - 9.42am.drawing",
     "Revisão para prova unidade 02-1780662871831.webp",
     "Ink/Drawing/2026.6.5 - 9.30am.drawing",
-    "Ink/Drawing/2026.6.5 - 9.27am.drawing",
     "Excalidraw/Drawing 2026-06-04 21.53.04.excalidraw.md",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 18.57.26.excalidraw.md",
-    "media-lib/index.base",
     "202605222020.md",
-    "Sem título.base",
-    "Ink/Drawing/2026.6.4 - 21.40pm.drawing",
     "StickyNotes/2026/2026-06-04-1.md",
     "StickyNotes/2026/2026-06-04-2.md",
     "Kanban sem título.md",

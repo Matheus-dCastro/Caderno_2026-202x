@@ -247,3 +247,40 @@ L1 = camada fisica
 
 ### 3. Enquadramento (Framing):
 
+ela utilizar quadros
+-> **Sentinelas de bits Stuffing:** usados padroes de bits para saber o inicio e o fim de um quadro se o sincronismo aparecer nos dados o emisor colocar um bit 0 extra
+
+### 4. Equipamentos de rede
+
+hubs e switches 
+
+
+# 14_tecnologias_de_redes_locais
+
+
+### 1. padrao IEEE 802 camada de enlace
+
+divide a subcamada em duas 
+
+- LLC: interconexão entre tecnologias disferentes e permite multiplos protocolos 
+- MAC: montar o quadro e as regras de gerenciamento
+
+### 2. IEEE 802.3 
+
+para redes cabeadas
+
+- acesso ao meio: para gerenciar tramissao em topologias de barramento
+- permite compatibilidade de padroes novos e antigos
+
+### 3. IEEE 8022.11 
+
+para redes sem fio
+
+- BSS infraestruturada ou ad hoc
+- ESS varias BSS conectadas em sistrma distribuido
+
+### 4. problemas especificos de redes sem fio
+
+- estação oculta: quando uma estação n ve a outra concorrente por esta fora do seu lance fisico => colisoes entre as redes 
+- Problemas de estação exposta: o inverso uma falsa concorrente e n quer enviar o sinal mesmo q o receptor esteja livre para receber
+
