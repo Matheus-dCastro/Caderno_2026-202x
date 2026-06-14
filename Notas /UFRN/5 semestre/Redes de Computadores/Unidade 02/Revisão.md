@@ -76,3 +76,37 @@ Roteador n conhece todo o percuso ate o destino, ele sabe somente o proximo rote
 
 # 10_camada_de_rede_roteamento_dinamico:
 
+### 1. Funcionamento dos Protocolos de Roteamento:
+
+implementam o roteamento dinamico definindo as regras de troca de info entre os roteadores => reaja a falhas se um cair os outros aprendem o caminho alternativo.
+
+### 2. Metricas de Roteamento:
+
+para ter o melhor (mair rapido) caminho de destino
+
+- **Tamanho do caminho:** numero de saltos
+- **Atraso (delay):** tempo detravesia de um enlace
+- **Carga:** nivel de oculpado de roteador
+- **Confiabilidade:** disponibilidade e erros do enlace
+- **Custo administrativo:** config manual ou baseado em negociações do roteadorees
+
+### 3. Tipos de Algoritmos de roteamento:
+
+-> Classifica com base em 3 categorias principais:
+
+- **Vetor de distancia (RIP, EIGRP):**
+		- cada roteador envia periodicamente para seus vizinhos diretos sua tabela
+		- facil implementação: sofre de convergencia lenta
+		- contagem de saltos
+- **Estado de enlace (OSPF,IS-IS):**
+		- informa sua vizinhança a todos os outros do sistema autonomo por meio de LSA
+		- cada um constroi um mapa completo (grafo) e calcula o minimo caminho => algoritmo Dijkstra 
+		- Mais custoso q o vetor de distancia
+- **Vetor de Caminho(BGP):**
+		- associa o endereço destino com atributos no caminho para poder chegar la
+		- usado para interconexão de sistemas autonomos (AS)
+
+# 10_camada_de_rede_sistemas_autonomos:
+
+### 1. Definição de identificação:
+
