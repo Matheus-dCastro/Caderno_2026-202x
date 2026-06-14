@@ -174,3 +174,76 @@ nao é uma aplicação focada em seguraça mesmo q ofereça uma certa privacidad
 
 ### 1. necessidade:
 
+como o IPv4 tava acabando criaram ele para poder comportar o numero de aparelhos
+
+### 2. caracteristicas e vantagens do IPv6:
+
+usa 128 bits tendo cerca de 340 undecilioes de possibilidades de endereços
+- **Principais mudanças:** 
+	- simplificação do cabeçalho para agilizar o processamento
+			=> formado por 40 octetos faz com que seja processado mais rapido pelos roteadores, removeu uns capos q era do IPv4 para da mais velocidade e menos redundancia
+				- campos matidos = versao, origem e destino -> 128bits
+				- os q mudaram: 
+						- classe de trafego: tipo do serviço
+						- tamano do payload: tamanho total
+						- limite de saltos: TTL
+						- proximo cabeçalho: protocolo
+				- os q sairam:
+						- tamanho do cabeçalho
+						- identificação, flags, deslocamento
+						- fragmentação em rota
+						- checksum do cabeçalho
+
+	- melhoria da qualidade de serviço pelo campo classe de trafego
+	- mecanismo de autenticação e privacidade
+	- pode idenficiar fluxos de comunicação
+	- **Cabeçalho de extensão:** inserido entre o cabeçalho IPv6 e a carga util de camada de transporte.
+			- pode add funcionalidades opcionais 
+			- pode ser colocados em serie
+
+
+### 3 Formato e escrita do endereço
+
+- **Estrutura:** 8 hexadecatetos (16 bits) escritos em hexadecimal cada grupo separado por : 
+- **Regra de simplificação:** grupos consecutivos de zeros 0000 viram somente : e se forem no meio viram :: 
+
+### 4. Tipos de endereços Unicast:
+
+uma unica interface possua multiplos indereços simultaneamente
+
+- **Link-local (FE80::/64):** config automatica e obrigatoria funciona somente na mesma sub-rede 
+- **Unique-local (ULA - FC00::/7):** roteavel apenas internamente nas redes privadas como no ipv4
+- **global unicast (GUA):** endereço roteavel na rede publica
+
+
+**Lado do Cliente (Happy Eyeballs):** Para decidir qual versão usar, os clientes utilizam o algoritmo **Happy Eyeballs** (RFC 6555). Ele dispara conexões em paralelo para IPv4 e IPv6
+
+- **Núcleo da Rede Simples:** A fragmentação é feita apenas na origem, e não mais nos roteadores intermediários (_hops_), agilizando o tráfego.
+- **Eficiência Local:** O mecanismo de _broadcast_ foi substituído por **multicast**, o que economiza banda e processamento nas redes locais.
+- **Desempenho de Roteamento:** O uso de um **cabeçalho de tamanho fixo** otimiza o processamento pelos roteadores.
+- **Segurança Nativa:** Inclui mecanismos de autenticação e privacidade integrados através dos cabeçalhos de extensão
+
+
+
+# 13_camada_de_enlace_1: 
+
+L2 = entrega local de quadros entre dispositivos na mesma rede
+L3 = entre a camada de rede e a camada fisica 
+L1 = camada fisica
+
+### 1. implementação e endereçamento:
+
+- **Adaptadores de rede (NIC):** colocada no hardware, nas placas de rede identificador unico de 6bytes -> MAC
+- **Alocação hierarquica:** os primeiros 24bits do MAC = fabricantes e os ultimso 24 bits identificam o adapitador
+- **Protocolo ARP:** usa para achar o MAC quando se sabe apenas do IP
+
+### 2. Tipos de enlaces e controle de acesso:
+
+**Ponto-a-ponto:** para pares de dispositivos
+**Brodcast:** para varios dispositivos
+	- **Problemas de colisoes:** dois nos transmitindo ao mesmo tempo
+	- **CSMA:** o negocio esta ouvindo antes de enviar se estiver livre ele envia se ta oculpado ele espera
+	- **CSMA/CD:** para redes cabeadas ouve e fala oa mesmo tempo se tiver colisao ele para tudo e manda so um sinal de reforço
+
+### 3. Enquadramento (Framing):
+
