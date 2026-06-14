@@ -110,3 +110,67 @@ para ter o melhor (mair rapido) caminho de destino
 
 ### 1. Definição de identificação:
 
+definido como um conjunto de regras controlado por uma unica autoridade admin => compartilham uma unica politica de roteamento e geralmente usam um unico protocolo para geraenciar seus dados cada AS é identificado com um unico numero para todo o sistema. 
+
+### 2. Gestão de endereçamento:
+
+recebe blocos de endereçamento IP diretamente do RIRs -> pertencem ao proprio sistema autonomo esse endereçamento é independente dos provedores dos quais o AS esta conectado => mudanças nos vizinhos nao afetam os endereços internos
+
+### 3. Tipos de sistemas autonomos:
+
+classifica o ASs de acordo com a conectividade
+
+- **Single-homed (stub):** unico ponto de saida externa
+- **Multi-homed:** varios pontos de saida para rede externa
+		- sem trasito: n permite trafego de terceiros na rede interna troca apenas entre pares
+		- com trasito: permite sistemas vizinhos usar a infra para cheagar ate outros ASs facilitando acesso a rede global
+
+### 4. Pontos de troca de trafego(PTT/IX):
+
+facilitam a troca de trafego entre diferentes ASs reduz custo de trasito, melhora a resistentia, diminui a latencia.
+
+### 5. Protocolos de Roteamento e o BGP:
+
+roteamento de ASs se divide em:
+- **Protocolo interno (IGP):** execultado dentro do proprio ASs
+- **Protocolo externo (EGP):** entre diferentes sistemas autonomos:
+	- O BGP é o principal protocolo externo da internet, construção de um grafo de conectividade ASs associa destino a atributos de caminho os sistemas anunciam sua propria rede de pares ou de terceiros dando enfase a caminhos mais curtos para montar a rota
+
+# 11_camada_de_rede_nat:
+
+Tradução dos endereços de rede => autera o endereço de destino ou de origem -> mantem uma tabela de tuplas (tradução) 
+
+### 1. NAT e endereçamento privado:
+
+criado para retardar o fim dos endereços IPv4 permintindo o use de endereços privados nas redes locais
+
+-> ips privados nao sao unicos globalmente como o ip da porta localhost, nao sao roteaves na internet e devem ser descatados nas redes publicas
+
+-> permite q os ips privados acesse a internet por meio de um endereço publico
+
+
+### 2. Tipos de NAT:
+
+- **Estatico (1:1):** mapea um ip privado para um publico
+- **Dinamico:** utiliza pool endereços externos para mapear requisições internas => se o numero de ips privados for maior q o pool alguns ficaram sem acesso
+- **Dinamico com tradução de portas (NAP/PAT):** mapeia multiplos endereços privados para um unico publico 
+
+### 3. Encaminhamento de protas 
+
+usa o tipo de maepamento 1:1 e portas externas para um endereço interno => para permitir q serviços mantidos em redes privadas sejam acessiveis externamente.
+
+### 4. Carrier-Grade Nat (CGNAT):
+
+larga escala pelo provedor de acesso q muitos usuarios compartilham o mesmo ip publico faxa especifica de endereços e traz dificuldades como inviabilização do encamiamento de portas e fica mais dificil de rastrear a origem de praticas ilicitas.
+
+### 5. Pontos negativos e limtações:
+
+quebra do modelo fim-a-fim: o nat mexe na comunicação entre o dipositivo e a internet
+maior latencia
+ruim para aplicações q precisam de atualização ao vivo
+nao é uma aplicação focada em seguraça mesmo q ofereça uma certa privacidade não é ainda o ideial ja q ela é uma solução de roteamento/indereçamento
+
+# 12_camada_de_rede_ipv6
+
+### 1. necessidade:
+
