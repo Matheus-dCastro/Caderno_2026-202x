@@ -21,8 +21,6 @@
   "ninja-cursor",
   "notes-explorer",
   "omnisearch",
-  "pdf-writer",
-  "pdf-plus",
   "pomodoro-timer",
   "quick-latex",
   "settings-search",
@@ -30,5 +28,7 @@
   "obsidian-admonition",
   "obsidian-git",
   "colorful-stickynotes",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "pdf-writer",
+  "pdf-plus"
 ]

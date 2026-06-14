@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29eddcd9cb5d8405",
+        "id": "70f83810613bdddd",
         "type": "tabs",
         "children": [
           {
-            "id": "16a8365d01d247f8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "about:blank",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Novo visualizador web"
-            }
-          },
-          {
-            "id": "f5a1708dfb68ad4d",
+            "id": "942c47dabd9977a1",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -30,8 +17,27 @@
               "title": "Notes explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d8a06f248b729f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ca84245a3dbc70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/Revisão.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revisão"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +81,7 @@
             }
           },
           {
-            "id": "e29d8877a0fe24fa",
+            "id": "1d491c8a881bf6f3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -286,13 +292,19 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f5a1708dfb68ad4d",
+  "active": "45ca84245a3dbc70",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/13_camada_de_enlace_1.pdf",
-    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/11_camada_de_rede_nat.pdf",
-    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/10_camada_de_rede_sistemas_autonomos.pdf",
-    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/10_camada_de_rede_roteamento_dinamico.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/09_camada_de_rede_roteamento.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/10._Autoencoders.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/07._PCA.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/08._t-SNE.pdf",
+    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/06._Reduo_da_Dimensionalidade.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/10_camada_de_rede_roteamento_dinamico.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/08_enderecamento_ip.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01/06_camada_de_transporte.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01/01_historico.pdf",
+    "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/11_camada_de_rede_nat.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/Revisão.md",
     "Revisão-1781384296817.webp",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
@@ -304,9 +316,6 @@
     "Aprendizado-1780786365602.webp",
     "Aprendizado-1780786051250.webp",
     "Aprendizado-1780780326033.webp",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/PAUTA SESSAO 17ª ORDINARIA 2026.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/10._Autoencoders.pdf",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Slides/11._Embeddings.pdf",
     "Revisão para prova unidade 02-1780750274668.webp",
     "Revisão para prova unidade 02-1780693485922.webp",
     "Revisão para prova unidade 02-1780693150709.webp",
@@ -314,11 +323,8 @@
     "Clippings/Função de verossimilhança – Wikipédia, a enciclopédia livre.md",
     "Clippings/Teorema de Bayes – Wikipédia, a enciclopédia livre.md",
     "Excalidraw/Teorema de Bayes.excalidraw.md",
-    "Clippings",
     "Revisão para prova unidade 02-1780663698820.webp",
-    "Ink/Drawing/2026.6.5 - 9.42am.drawing",
     "Revisão para prova unidade 02-1780662871831.webp",
-    "Ink/Drawing/2026.6.5 - 9.30am.drawing",
     "Excalidraw/Drawing 2026-06-04 21.53.04.excalidraw.md",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
