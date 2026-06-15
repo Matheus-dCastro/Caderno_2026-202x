@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Revisão"
             }
-          },
-          {
-            "id": "b143b27d2e5084fb",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +277,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "b143b27d2e5084fb",
+  "active": "45ca84245a3dbc70",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/08_enderecamento_ip.pdf",
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/Revisão.md",
