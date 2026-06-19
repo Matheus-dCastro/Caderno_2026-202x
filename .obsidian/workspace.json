@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "a48368a785870c49",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
             "id": "fa822c39c45e0940",
             "type": "leaf",
             "state": {
@@ -35,7 +45,8 @@
               "title": "Revisão unidade 02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +90,7 @@
             }
           },
           {
-            "id": "3a234fc40a938641",
+            "id": "edba0128e59bf0d5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -291,7 +302,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "ad226a75e4cd1294",
+  "active": "a48368a785870c49",
   "lastOpenFiles": [
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02/Revisão unidade 02.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01/Revisão unidade 01.md",
