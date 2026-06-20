@@ -283,4 +283,3 @@ para redes sem fio
 
 - estação oculta: quando uma estação n ve a outra concorrente por esta fora do seu lance fisico => colisoes entre as redes 
 - Problemas de estação exposta: o inverso uma falsa concorrente e n quer enviar o sinal mesmo q o receptor esteja livre para receber
-

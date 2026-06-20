@@ -22,7 +22,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -55,7 +55,12 @@
     "//Notas /Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores/Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02",
     "//Notas /Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores",
     "//Notas /Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores/Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01",
-    "//Notas /Notas /UFRN/Notas /UFRN/IEEE"
+    "//Notas /Notas /UFRN/Notas /UFRN/IEEE",
+    "//Notas ",
+    "Notas /UFRN",
+    "Notas /UFRN/Notas /UFRN/5 semestre",
+    "Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores",
+    "Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores/Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
