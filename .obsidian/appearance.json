@@ -3,7 +3,7 @@
   "cssTheme": "AnuPpuccin",
   "baseFontSizeAction": true,
   "nativeMenus": true,
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "interfaceFontFamily": "Fira Code",
   "enabledCssSnippets": [
     "cursor-smooth-obsidian"
