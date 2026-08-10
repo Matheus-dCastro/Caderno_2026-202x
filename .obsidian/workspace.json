@@ -30,9 +30,18 @@
               "icon": "lucide-file",
               "title": "Para Bruna"
             }
+          },
+          {
+            "id": "75ec0fe9a146d51d",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +85,7 @@
             }
           },
           {
-            "id": "27b318e67546f675",
+            "id": "8ad21add3bdd686e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -288,7 +297,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "eddd86249cd5a5c9",
+  "active": "ec63753fca6c53da",
   "lastOpenFiles": [
     "Para Bruna.md",
     "Clippings/Teorema de Bayes – Wikipédia, a enciclopédia livre.md",
