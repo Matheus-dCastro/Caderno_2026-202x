@@ -18,8 +18,29 @@
               "icon": "lucide-file",
               "title": "6 Semestre"
             }
+          },
+          {
+            "id": "44cba0586fe7c0ef",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "83cf3b4a47f74cd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +84,7 @@
             }
           },
           {
-            "id": "9c4b41195e3e6a2a",
+            "id": "7634ba4620ee9646",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -274,7 +295,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "4473b8d5413befdf",
+  "active": "4a9cb581902c318a",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/Sistema Integrado de Gestão de Atividades Acadêmicas.pdf",
     "Notas /UFRN/6 Semestre/DETRAN/DETRAN.md",
