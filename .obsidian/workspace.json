@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas"
             }
+          },
+          {
+            "id": "04c7f1e092ad1881",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +76,7 @@
             }
           },
           {
-            "id": "39e26001ac048b0c",
+            "id": "41d1d11f02508e4e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -279,7 +290,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "a4fa8e68c15f8bc9",
+  "active": "04c7f1e092ad1881",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO.md",
