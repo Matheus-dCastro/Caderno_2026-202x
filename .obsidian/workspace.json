@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df4c3785f012ed16",
+        "id": "8b4751a45818aa12",
         "type": "tabs",
         "children": [
           {
-            "id": "e55777b56ba118b7",
+            "id": "16922de6a9cf365b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APRENDIZADO POR REFORÇO - Aulas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -279,7 +275,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e55777b56ba118b7",
+  "active": "16922de6a9cf365b",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
