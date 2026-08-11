@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO PROFUNDO - Aulas"
             }
+          },
+          {
+            "id": "983988c8079e23c2",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +76,7 @@
             }
           },
           {
-            "id": "6cfda85912b9d73d",
+            "id": "814063d87d22dfab",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -276,7 +287,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "c6182908c5a289d3",
+  "active": "983988c8079e23c2",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
