@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d05b3efe7a2f2411",
+        "id": "df4c3785f012ed16",
         "type": "tabs",
         "children": [
           {
-            "id": "a4fa8e68c15f8bc9",
+            "id": "e55777b56ba118b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas.md",
+                "file": "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas"
-            }
-          },
-          {
-            "id": "04c7f1e092ad1881",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,10 +279,12 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "04c7f1e092ad1881",
+  "active": "e55777b56ba118b7",
   "lastOpenFiles": [
-    "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas.md",
+    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO.md",
+    "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
@@ -312,7 +303,6 @@
     "Notas /UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas /UFRN/6 Semestre/BANCO DE DADOS",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO",
-    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO",
     "Notas /UFRN/5 semestre/5 semestre.md",
     "Notas /UFRN/6 Semestre",
@@ -329,7 +319,6 @@
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01/Redes de Computadores anotações.md",
     "Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01/Redes de Computadores.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprendizado de Maquina Supervisionado Aulas.md",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Untitled.md",
     "Revisão-1781384296817.webp",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Revisão unidade 02.canvas",
     "Aprendizado-1780786365602.webp",
