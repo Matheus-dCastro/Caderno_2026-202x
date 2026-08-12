@@ -3,3 +3,17 @@
 ### Modelo de Linguagem:
 
 <mark style="background:#fff88f">decondificação autoregressiva</mark>
+
+
+**token** é a menor unidade de texto que o modelo manipula definida por um vacabulario fixo construido antes de treino => pega o texto cru byte por byte, cada modelo tera seu tokenizador ou seja sempre irar produzir a mesmas seguencia (deterministico)
+
+*cada token é associado a um indece ou seja cada palavra terá um id dentro do "Dicionario"* -> isso cria o vocabulario do angete/modelo
+
+<mark style="background:#9254de">nesse passo ele ainda n determiniu o significado e nem a lingua apenas estas otimizando o texto para poder ser mais eficiente</mark>
+
+### Formas de tokenizar:
+
+por caractere => cada letra ja é basicamente o proprio token
+por palavra => cada palavra vira um token (resumoe em um caracter) -> pode gerar falta de palavras e necessita de token especial
+por subword => quebra em pedaços para evitar e otimizar o fluxo e o useo de token subistitutos (especiais: quando n aquele coisa cadastrada) sendo quase uma junção das duas anteriores <font color="#ffff00">ele pega sempre pelos mais frenquentes e vai quebrando</font>
+

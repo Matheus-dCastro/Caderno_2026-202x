@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b4751a45818aa12",
+        "id": "4ae94971c642a11e",
         "type": "tabs",
         "children": [
           {
-            "id": "16922de6a9cf365b",
+            "id": "f88df8c077af7ede",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
           }
         ]
@@ -275,8 +279,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "16922de6a9cf365b",
+  "active": "f88df8c077af7ede",
   "lastOpenFiles": [
+    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO.md",
@@ -285,7 +290,6 @@
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
-    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas /UFRN/6 Semestre/6 Semestre.md",
     "Notas /UFRN/6 Semestre/Sistema Integrado de Gestão de Atividades Acadêmicas.pdf",
     "Notas /UFRN/6 Semestre/DETRAN/DETRAN.md",
