@@ -17,3 +17,18 @@ por caractere => cada letra ja é basicamente o proprio token
 por palavra => cada palavra vira um token (resumoe em um caracter) -> pode gerar falta de palavras e necessita de token especial
 por subword => quebra em pedaços para evitar e otimizar o fluxo e o useo de token subistitutos (especiais: quando n aquele coisa cadastrada) sendo quase uma junção das duas anteriores <font color="#ffff00">ele pega sempre pelos mais frenquentes e vai quebrando</font>
 
+passamor por um processo de vetorizar nos indeces para n implicar em vies no modelo
+
+Artitimetica, soletração contagem custo sao umas das limitações.
+
+<mark style="background:#fff88f">Ideas semelhantes ficam proximas no espaço vetorial.</mark>
+
+### Modelo de linguagem:
+
+Um modelo de lingugaem atribui uma distribuição de probalidade ao proximo token dado o texto anterior;
+O modelo gera um token por vez n um contexto interio pela probablidade de ser o fim indeo de k+1 um por vez;
+
+#### Ideia de atenção é mandar tudo de uma vez e gerar de forma paralelizada 
+
+### Bloco do Transformer:
+

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:\"Notas /UFRN/6 Semestre\"  ",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 40447
       }
+    },
+    {
+      "query": "path:\"Notas /UFRN/6 Semestre\"",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8975481607522655,
-  "close": true
+  "scale": 0.6878565427399819,
+  "close": false
 }
