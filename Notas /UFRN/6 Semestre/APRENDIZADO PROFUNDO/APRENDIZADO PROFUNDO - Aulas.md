@@ -28,4 +28,6 @@ passar o -1 no resheape ele competa as dimençoes do vetor dividindo pelo outro 
 
 
 
+
 ```
+
