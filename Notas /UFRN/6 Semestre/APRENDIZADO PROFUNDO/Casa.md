@@ -38,3 +38,7 @@ Usa geralmente a norma euclidiana como paramentro -> tira a raiz
 				   manhattan mesma conta so q sem raiz e soma os valores absolutos da sequancia ou seja cada valor passar por um modulo
 
 
+### Broadcasting:
+
+Tecnica q permite fazer o perações entre tensores de tamanhos diferentes
+- 
