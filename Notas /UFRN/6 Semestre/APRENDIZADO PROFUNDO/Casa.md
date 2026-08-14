@@ -41,4 +41,4 @@ Usa geralmente a norma euclidiana como paramentro -> tira a raiz
 ### Broadcasting:
 
 Tecnica q permite fazer o perações entre tensores de tamanhos diferentes
-- 
+
