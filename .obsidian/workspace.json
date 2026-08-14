@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e85fc6a094339d2",
+        "id": "139bf521c51eda96",
         "type": "tabs",
         "children": [
           {
-            "id": "41566285ebed01d7",
+            "id": "01fc741ee32b2737",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
-                "mode": "source",
-                "source": false
+                "path": "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL"
               },
               "icon": "lucide-file",
-              "title": "GTA estudos"
-            }
-          },
-          {
-            "id": "2aad14f9ff7c11ed",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -291,12 +277,18 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "2aad14f9ff7c11ed",
+  "active": "01fc741ee32b2737",
   "lastOpenFiles": [
+    "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
+    "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL",
+    "Notas /UFRN/6 Semestre/6 Semestre.md",
+    "Notas /UFRN/UFRN.md",
+    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
+    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Pasted image.png",
+    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
     "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
     "Notas /UFRN/6 Semestre/GTA/GTA.md",
     "Notas /UFRN/6 Semestre/GTA",
-    "Notas /UFRN/6 Semestre/6 Semestre.md",
     "Notas /GUIA DE PROJETOS.md",
     "Notas /UFRN/horariso para o 6.jpeg",
     "Notas /Pasted image (2).png",
@@ -308,7 +300,6 @@
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
-    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/.md",
@@ -316,7 +307,6 @@
     "Notas /UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas /UFRN/6 Semestre/DETRAN",
     "Notas /UFRN/Horarios.md",
-    "Notas /UFRN/UFRN.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A",
     "Notas /UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas /UFRN/6 Semestre/MLOPS",
@@ -324,22 +314,18 @@
     "Notas /UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas /UFRN/6 Semestre/BANCO DE DADOS",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO",
-    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO",
     "Notas /UFRN/5 semestre/5 semestre.md",
-    "Notas /UFRN/6 Semestre",
     "Para Bruna.md",
     "Clippings/Teorema de Bayes – Wikipédia, a enciclopédia livre.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Aprendizado.md",
     "Aprendizado-1780780326033.webp",
     "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa -1778005075943.webp",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Aprensentação.md",
     "Revisão-1781384296817.webp",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Revisão unidade 02.canvas",
     "Aprendizado-1780786365602.webp",
     "Aprendizado-1780786051250.webp",
     "Revisão para prova unidade 02-1780750274668.webp",
     "Revisão para prova unidade 02-1780693485922.webp",
-    "Revisão para prova unidade 02-1780693150709.webp",
     "Sem título.canvas"
   ]
 }
