@@ -1,7 +1,9 @@
 # Pytorch:
 
 como usar:
-tensor => generalização de um escalar -> ordem 0 escalar, ordem 1 vetor, ordem 2 matriz
+tensor => generalização de um escalar -> ordem 0 escalar, ordem 1 vetor, ordem 2 matriz ou seja um conjunto de matrizes 
+
+
 
 ``` python
 
@@ -17,3 +19,16 @@ matriz torch.tensor([1,2],[1,2])
 
 ```
 
+comando basicos de preenchimento de tensor
+
+- `torch.zeros(shape)` e `torch.ones(shape)`: tensores preenchidos com 0 e com 1.
+
+- `torch.rand(shape)`: valores de uma distribuição uniforme em $[0, 1)$.
+
+- `torch.randn(shape)`: valores de uma distribuição normal padrão, média 0 e variância 1.
+
+- `torch.arange(start, end, step)`: valores em um intervalo.
+
+- `torch.linspace(start, end, steps)`: `steps` valores igualmente espaçados entre `start` e `end`.
+
+- `torch.eye(n)`: matriz identidade de ordem $n$.
