@@ -32,3 +32,8 @@ comando basicos de preenchimento de tensor
 - `torch.linspace(start, end, steps)`: `steps` valores igualmente espaçados entre `start` e `end`.
 
 - `torch.eye(n)`: matriz identidade de ordem $n$.
+
+
+Usa geralmente a norma euclidiana como paramentro -> tira a raiz
+				   manhattan mesma conta so q sem raiz e soma os valores absolutos da sequancia ou seja cada valor passar por um modulo
+
