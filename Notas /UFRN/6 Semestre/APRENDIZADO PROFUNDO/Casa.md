@@ -37,3 +37,4 @@ comando basicos de preenchimento de tensor
 Usa geralmente a norma euclidiana como paramentro -> tira a raiz
 				   manhattan mesma conta so q sem raiz e soma os valores absolutos da sequancia ou seja cada valor passar por um modulo
 
+
