@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO PROFUNDO - Aulas"
             }
-          },
-          {
-            "id": "1ba2efe3af44a8b3",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,7 +280,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "1ba2efe3af44a8b3",
+  "active": "191d7a947d3c2cee",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
