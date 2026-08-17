@@ -31,3 +31,12 @@ passar o -1 no resheape ele competa as dimençoes do vetor dividindo pelo outro 
 
 ```
 
+# Aula 03
+
+### Revisao de calculo e algebra + probabilidade:
+
+Probabilidade +> determinismo e incerteza linguagem do q nao sabemos -> yugioh
+
+**Frenquntista:** probabilidade é a frequencia realtiva do evento sobre a repetição do evento.
+**Bayesiana:** sobre cresça, probabilidade é o grau de crença sobre o evento, daod o conhecimento disponivel.
+
