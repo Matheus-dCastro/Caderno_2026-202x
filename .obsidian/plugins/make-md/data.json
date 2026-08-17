@@ -22,7 +22,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -53,7 +53,6 @@
     "//Notas /Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores/Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02",
     "//Notas /Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores",
     "//Notas /Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores/Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01",
-    "//Notas ",
     "Notas /UFRN",
     "Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores/Notas /UFRN/5 semestre/Redes de Computadores/Unidade 01",
     "Notas /UFRN/Notas /UFRN/5 semestre/Notas /UFRN/5 semestre/Redes de Computadores/Notas /UFRN/5 semestre/Redes de Computadores/Unidade 02",
@@ -62,7 +61,8 @@
     "Notas /UFRN/Notas /UFRN/6 Semestre/Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A",
     "Notas /UFRN/Notas /UFRN/6 Semestre/Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO",
     "//Notas /Notas /UFRN/Notas /UFRN/6 Semestre/Notas /UFRN/6 Semestre/GTA",
-    "//Notas /Notas /UFRN"
+    "Notas /UFRN/Notas /UFRN/6 Semestre/Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO",
+    "Notas /UFRN/Notas /UFRN/6 Semestre/Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
