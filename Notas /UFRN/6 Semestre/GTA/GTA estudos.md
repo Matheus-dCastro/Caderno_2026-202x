@@ -10,3 +10,4 @@ focada na sintaxe e nos fundamentos dos paradgmas da linguagem,
 -> os tipos base o kotlin seta sozinho
 
 when: quando()
+
