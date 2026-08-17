@@ -18,8 +18,29 @@
               "icon": "lucide-file",
               "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL"
             }
+          },
+          {
+            "id": "8ca5e482f973ffcd",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "be8c0469516fcd58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +84,7 @@
             }
           },
           {
-            "id": "e061c7e66f5019aa",
+            "id": "5969a49477a6d726",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -277,7 +298,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "01fc741ee32b2737",
+  "active": "372123cc23e3f564",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL",
