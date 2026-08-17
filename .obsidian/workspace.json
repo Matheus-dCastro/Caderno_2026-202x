@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "aad375613cf602aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f6da012647f256d8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
-                "page": 69,
-                "left": 68,
-                "top": 436,
-                "zoom": 1.7
-              },
-              "icon": "lucide-file-text",
-              "title": "RLbook2020"
-            }
-          }
-        ]
-      },
-      {
         "id": "56ff9d27f7dbab0b",
         "type": "tabs",
         "children": [
@@ -306,8 +284,8 @@
   },
   "active": "8310308700a9e54c",
   "lastOpenFiles": [
-    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/01._Viso_Geral.pdf",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1",
