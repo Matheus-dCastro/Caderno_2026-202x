@@ -36,3 +36,14 @@ O modelo gera um token por vez n um contexto interio pela probablidade de ser o 
 
 ajustar valores durante a fase de treinamento para pode gerar/guiar a resposta do modelo e o que ele esta fazendo
 
+-> Crescimento de conhecimento e oq pode fazer de forma exponencial
+
+# Emergencia: 
+é o aparecimento no conjunto de um comportamento que nenhuma das paretes exibe isoladamente.
+
+=> modelos de raciocinio -> problema haha;
+
+## Etapa 02
+
+Criar uma ordenação para o modelo saber quais resposta são melhores para cada caso r1>r2.....
+
