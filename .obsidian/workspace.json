@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+                "file": "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APRENDIZADO POR REFORÇO - Aulas"
-            }
-          },
-          {
-            "id": "c0dc7b6cd4e9bdd0",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,8 +282,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "c0dc7b6cd4e9bdd0",
+  "active": "8310308700a9e54c",
   "lastOpenFiles": [
+    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/01._Viso_Geral.pdf",
@@ -316,8 +307,6 @@
     "Sem título 1.md",
     "Sem título.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
-    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
-    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/.md",

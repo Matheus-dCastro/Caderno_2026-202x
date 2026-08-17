@@ -32,3 +32,7 @@ O modelo gera um token por vez n um contexto interio pela probablidade de ser o 
 
 ### Bloco do Transformer:
 
+## Parametros do modelo:
+
+ajustar valores durante a fase de treinamento para pode gerar/guiar a resposta do modelo e o que ele esta fazendo
+
