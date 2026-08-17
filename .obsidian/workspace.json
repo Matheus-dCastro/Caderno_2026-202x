@@ -27,8 +27,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -44,9 +44,19 @@
               "icon": "lucide-file",
               "title": "GTA estudos"
             }
+          },
+          {
+            "id": "4a1be738925474f8",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +102,7 @@
             }
           },
           {
-            "id": "e68ded0e7c382471",
+            "id": "9e6fab5bb9ae5004",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -271,8 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 766.5,
-    "collapsed": true
+    "width": 766.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,24 +316,30 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "d59a0f9adf577e9e",
+  "active": "4a1be738925474f8",
   "lastOpenFiles": [
+    "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/01._Viso_Geral.pdf",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
-    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Pasted image.png",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
-    "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL",
     "Notas /UFRN/6 Semestre/6 Semestre.md",
     "Notas /UFRN/UFRN.md",
-    "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
     "Notas /UFRN/6 Semestre/GTA/GTA.md",
-    "Notas /UFRN/6 Semestre/GTA",
     "Notas /GUIA DE PROJETOS.md",
     "Notas /UFRN/horariso para o 6.jpeg",
     "Notas /Pasted image (2).png",
@@ -335,14 +350,9 @@
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/COMPUTAÇÃO DE ALTO DESEMPENHO - Aulas.md",
     "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO/.md",
-    "Notas /UFRN/6 Semestre/Sistema Integrado de Gestão de Atividades Acadêmicas.pdf",
     "Notas /UFRN/6 Semestre/DETRAN/DETRAN.md",
-    "Notas /UFRN/6 Semestre/DETRAN",
     "Notas /UFRN/Horarios.md",
-    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A",
     "Notas /UFRN/6 Semestre/MLOPS/MLOPS.md",
-    "Notas /UFRN/6 Semestre/MLOPS",
-    "Notas /UFRN/6 Semestre/COMPUTAÇÃO DE ALTO DESEMPENHO",
     "Notas /UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas /UFRN/5 semestre/5 semestre.md",
     "Para Bruna.md",
