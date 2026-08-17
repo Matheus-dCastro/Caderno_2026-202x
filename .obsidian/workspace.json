@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56ff9d27f7dbab0b",
+        "id": "06dfb3246afb1a50",
         "type": "tabs",
         "children": [
           {
-            "id": "8310308700a9e54c",
+            "id": "e5ae1324e4d168cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
+                "file": "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GTA estudos"
+              "title": "APRENDIZADO PROFUNDO - Aulas"
             }
           }
         ]
@@ -285,10 +285,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8310308700a9e54c",
+  "active": "e5ae1324e4d168cd",
   "lastOpenFiles": [
-    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+    "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
+    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
@@ -320,7 +321,6 @@
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Pasted image.png",
-    "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas /UFRN/6 Semestre/6 Semestre.md",
     "Notas /UFRN/UFRN.md",
