@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
+          },
+          {
+            "id": "c0dc7b6cd4e9bdd0",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "9fbe5984fee22ebb",
+            "id": "c22d81c929570eba",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -282,7 +293,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "8310308700a9e54c",
+  "active": "c0dc7b6cd4e9bdd0",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
