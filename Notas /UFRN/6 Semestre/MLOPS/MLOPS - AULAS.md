@@ -9,3 +9,7 @@ Escopo e desing <=> preparar dados <=> preparar modelo <=> implantação e monit
 
 so deve ser avitado voltar para escopo e desing (evitar ao maximo)
 
+<mark style="background:#40a9ff">Projetando projetos de ML</mark>
+
+remover os metada dados e marcas dagua dos documentos.
+
