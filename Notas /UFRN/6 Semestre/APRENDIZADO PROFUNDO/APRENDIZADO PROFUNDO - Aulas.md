@@ -40,3 +40,6 @@ Probabilidade +> determinismo e incerteza linguagem do q nao sabemos -> yugioh
 **Frenquntista:** probabilidade é a frequencia realtiva do evento sobre a repetição do evento.
 **Bayesiana:** sobre cresça, probabilidade é o grau de crença sobre o evento, daod o conhecimento disponivel.
 
+revisao da materia de tetso
+revisao de calculo
+
