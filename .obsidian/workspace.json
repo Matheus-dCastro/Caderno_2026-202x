@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20ab9e44ac9867f5",
+        "id": "9dfe5c6daad4bd5d",
         "type": "tabs",
         "children": [
           {
-            "id": "0cce66f96dab0090",
+            "id": "55e916dfc9dd1e1f",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas /UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLOPS - AULAS"
             }
           }
         ]
@@ -77,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -278,8 +281,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "0cce66f96dab0090",
+  "active": "55e916dfc9dd1e1f",
   "lastOpenFiles": [
+    "Notas /UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
+    "Notas /UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
@@ -315,8 +320,6 @@
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Pasted image.png",
-    "Notas /UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
-    "Notas /UFRN/6 Semestre/6 Semestre.md",
     "Notas /UFRN/horariso para o 6.jpeg",
     "Notas /Pasted image (2).png",
     "Aprendizado-1780780326033.webp",
