@@ -6,7 +6,7 @@
   "readableLineLength": false,
   "vimMode": false,
   "spellcheck": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
