@@ -11,10 +11,10 @@
             "id": "7300e13743a24d01",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "67a99cf470864896",
+            "id": "c4f3de778d8fc065",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -273,7 +273,8 @@
       "workspaces:Gerenciar leiautes da área de trabalho": true,
       "graph:Abrir visualização em gráfico": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "bases:Criar nova base": true
+      "bases:Criar nova base": true,
+      "notes-explorer:Notes explorer": false
     }
   },
   "active": "7300e13743a24d01",
