@@ -21,3 +21,9 @@ PDm tem o agente no ambiente
 
 **Parametro de decisao e score**
 
+# Aula 04:
+
+Os algoritmos precisam achar os numeros do proximo estado => isso depende das policas de ações q nos definimos.
+realizar todos os possiveis proximos
+
+uma politica so é melhor q a outra se ela for melhor em todos os estagios
