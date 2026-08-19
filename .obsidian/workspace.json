@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "a12f64ad61df0153",
+            "id": "67a99cf470864896",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -273,8 +273,7 @@
       "workspaces:Gerenciar leiautes da área de trabalho": true,
       "graph:Abrir visualização em gráfico": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "bases:Criar nova base": true,
-      "notes-explorer:Notes explorer": false
+      "bases:Criar nova base": true
     }
   },
   "active": "7300e13743a24d01",
