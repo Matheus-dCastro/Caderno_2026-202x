@@ -27,3 +27,6 @@ Os algoritmos precisam achar os numeros do proximo estado => isso depende das po
 realizar todos os possiveis proximos
 
 uma politica so é melhor q a outra se ela for melhor em todos os estagios
+
+Equação de bellman => fazer por casos de substituição e distribuir os estados e probabilidade
+
