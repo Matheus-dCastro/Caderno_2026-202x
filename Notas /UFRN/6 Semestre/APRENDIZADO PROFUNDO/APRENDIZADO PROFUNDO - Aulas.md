@@ -43,5 +43,5 @@ Probabilidade +> determinismo e incerteza linguagem do q nao sabemos -> yugioh
 revisao da materia de tetso
 revisao de calculo
 
-# Aula 04
+# Aula 04:
 

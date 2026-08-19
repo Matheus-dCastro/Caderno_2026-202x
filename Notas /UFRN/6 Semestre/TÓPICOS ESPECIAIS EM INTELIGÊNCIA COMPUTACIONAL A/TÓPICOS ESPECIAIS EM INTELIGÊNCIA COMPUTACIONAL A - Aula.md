@@ -1,6 +1,8 @@
 - Tempo de capacidade cognitiva
 
 ### Modelo de Linguagem:
+define qual sera o proximo texto mais provavel de ser gerado 
+<font color="#ffff00">agente ve o mundo envia para o modelo oq ele viu (texto) e sai do modelo para o agente como texto.</font>
 
 <mark style="background:#fff88f">decondificação autoregressiva</mark>
 
@@ -13,11 +15,13 @@
 
 ### Formas de tokenizar:
 
-por caractere => cada letra ja é basicamente o proprio token
-por palavra => cada palavra vira um token (resumoe em um caracter) -> pode gerar falta de palavras e necessita de token especial
-por subword => quebra em pedaços para evitar e otimizar o fluxo e o useo de token subistitutos (especiais: quando n aquele coisa cadastrada) sendo quase uma junção das duas anteriores <font color="#ffff00">ele pega sempre pelos mais frenquentes e vai quebrando</font>
+<mark style="background:#d2cbff">por caractere</mark> => uma sequncia de simbolos, sequencias longas fazem com q o modelo gaste camadas para poder remontar oq foi mandado para ele <font color="#b2a2c7">(bola => "b" "o" "l" "a")</font>
 
-passamor por um processo de vetorizar nos indeces para n implicar em vies no modelo
+<mark style="background:#d2cbff">por palavra</mark> => cada palavra vira um token (sequencias curtas, resumoe em um caracter) -> pode gerar falta de palavras e necessita de token especial pois cada palavra nova ou com erro de digitação cai em um UNK (algo como desconhecido)
+
+<mark style="background:#d2cbff">por subword</mark> => quebra em pedaços para evitar o uso de caracteres especiais e otimizar o fluxo e o useo de token subistitutos sendo quase uma junção das duas anteriores <font color="#ffff00">ele pega sempre pelos mais frenquentes e vai quebrando</font> escolha de todos os modelo de linguagem no momento.
+
+Com muitos tokens sao representações numericas das palavras, é preciso passar por um processo de vetorizar nos indeces dessas palavras para n implicar em vies no modelo assim ids maiores tem o mesmo grau de importancia de ids menores.
 
 Artitimetica, soletração contagem custo sao umas das limitações.
 
@@ -25,8 +29,23 @@ Artitimetica, soletração contagem custo sao umas das limitações.
 
 ### Modelo de linguagem:
 
+*mantem as palavras mais frenquentes inteira e as raras em pedaços reutilizaveis*
+
+
+
 Um modelo de lingugaem atribui uma distribuição de probalidade ao proximo token dado o texto anterior;
 O modelo gera um token por vez n um contexto interio pela probablidade de ser o fim indeo de k+1 um por vez;
+
+
+<font color="#92d050">**Byte Pair Encoding:**</font> os bytes sozinhos se unem a um adjacente mais frequente da mensagem. a cada nova fusao é add uma nova entrada ao vacabulario, processa para o tamanho escolhido.
+
+## Oq dificulta quando faz:
+- aritimetica -> contas grande se partem e o modelo se perde nos pedaços
+- soletração -> contar letras n é uma info q o token expõe
+- contagem -> pedir texto com x palavras esbarra no problema de token vs palavra
+- custo -> quanto mais token produzidos masi custo 
+
+***pagina 16 do slinde *** 
 
 #### Ideia de atenção é mandar tudo de uma vez e gerar de forma paralelizada 
 
@@ -49,7 +68,7 @@ Criar uma ordenação para o modelo saber quais resposta são melhores para cada
 
 
 
-# Aula 04:
+# Aula 03:
 
 O prompt passa a ser parte da etapa de desenvolvimento
 system -> exemplos -> historico -> ferramentas -> recuperado -> user
@@ -68,3 +87,4 @@ few-short: dois a dezenas de formato incomum ou vacabulario improprio
 many-short: formado de forma dinamica
 
 ## Cahin-of-thought: pedir por passos a passo ou cadeia de pensamentos
+
