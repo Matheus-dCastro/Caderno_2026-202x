@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "d68217eb1a8f1ef9",
+            "id": "d5dc2000d91d7f00",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "51f530b59e11914b",
+            "id": "45b9ff2aa8c135ec",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -232,9 +232,19 @@
               "icon": "layout-list",
               "title": "Sticky list"
             }
+          },
+          {
+            "id": "0b828f97150e4921",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dicionário"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "b62281f8980fb188",
@@ -307,7 +317,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "d68217eb1a8f1ef9",
+  "active": "d5dc2000d91d7f00",
   "lastOpenFiles": [
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",

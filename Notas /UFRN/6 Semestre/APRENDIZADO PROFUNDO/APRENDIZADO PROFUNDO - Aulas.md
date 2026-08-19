@@ -45,3 +45,7 @@ revisao de calculo
 
 # Aula 04:
 
+Modelos lineares
+
+### Atividad:
+
