@@ -47,3 +47,24 @@ ajustar valores durante a fase de treinamento para pode gerar/guiar a resposta d
 
 Criar uma ordenação para o modelo saber quais resposta são melhores para cada caso r1>r2.....
 
+
+
+# Aula 04:
+
+O prompt passa a ser parte da etapa de desenvolvimento
+system -> exemplos -> historico -> ferramentas -> recuperado -> user
+*tudo isso em uma unica sequencia de tokens e o modelo le a sequncia interira*
+
+### mensagem de sistema:
+uma mensagem fixa q oq muda geralmente sera apenas o historico da convera
+**Delimitadores de prompt para melhores resultados** seja em md ou seja em xml(sendo esse para colocar marcadores e delimitadores de informaçoes das entradas do user)
+
+
+#### Aprendizado em contexto:
+
+zero-short: apenas a tarefa
+one-short: com 1 exemplo
+few-short: dois a dezenas de formato incomum ou vacabulario improprio
+many-short: formado de forma dinamica
+
+## Cahin-of-thought: pedir por passos a passo ou cadeia de pensamentos
