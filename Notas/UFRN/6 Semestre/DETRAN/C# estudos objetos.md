@@ -58,4 +58,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 -> so aceita text n da para passar outros tipos de dados
 
-eu n fecho a requisição eu deixo ela em aberto e coloco um intervalo entre um disparo de uma nova requisição e outra nesse caso eu preciso manter
+eu n fecho a requisição eu deixo ela em aberto e coloco um intervalo entre um disparo de uma nova requisição e outra nesse caso eu preciso manter oq o user esta fazendo em aberto pa
