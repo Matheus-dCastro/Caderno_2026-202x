@@ -57,4 +57,5 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
  ### SSE -> o servidor notifica quando tem um novo evento n precisa ficar batento renexão automatica (via front)
 
 -> so aceita text n da para passar outros tipos de dados
-conexão bidirecional apos 
+conexão bidirecional apos ter feito o aperto de mão
+
