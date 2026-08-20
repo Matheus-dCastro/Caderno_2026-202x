@@ -54,4 +54,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 # Arquitetura:
 
- ### SSE -> o servidor notifica quando tem um novo evento n precisa ficar bat
+ ### SSE -> o servidor notifica quando tem um novo evento n precisa ficar batento renex
