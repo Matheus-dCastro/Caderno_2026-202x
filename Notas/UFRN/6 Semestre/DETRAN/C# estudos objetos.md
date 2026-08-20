@@ -15,4 +15,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 => return: infos do processo e documentos
 => error: token invalido (401)
-=> error: sem permi
+=> error: sem permição (40)
