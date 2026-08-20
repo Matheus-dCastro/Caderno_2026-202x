@@ -39,4 +39,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 *get/.../orgaos:* lista quais orgaos o operador tem
 
-NOTE: saber pq os metodos
+NOTE: saber pq os metodos post,identificação e ex
