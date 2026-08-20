@@ -28,9 +28,26 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
+          },
+          {
+            "id": "9d141f820ceaa717",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -299,10 +316,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "40b65295ecddb4b4",
+  "active": "9d141f820ceaa717",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
+    "Sem título.canvas",
+    "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Notas/UFRN/UFRN.md",
@@ -338,7 +356,6 @@
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/symposium-publish/SKILL.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Pasted image.png",
     "Notas /UFRN/horariso para o 6.jpeg",
     "Notas /Pasted image (2).png",
@@ -348,7 +365,6 @@
     "Aprendizado-1780786365602.webp",
     "Aprendizado-1780786051250.webp",
     "Revisão para prova unidade 02-1780750274668.webp",
-    "Revisão para prova unidade 02-1780693485922.webp",
-    "Sem título.canvas"
+    "Revisão para prova unidade 02-1780693485922.webp"
   ]
 }
