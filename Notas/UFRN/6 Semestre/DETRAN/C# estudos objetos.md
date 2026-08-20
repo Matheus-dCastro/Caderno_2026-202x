@@ -26,4 +26,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 => return: success: bool, data (lista) mensagem: string (caso de erro messagem -> error:string)
 
 
-*post/.../:*
+*post/.../anexarParecer:*
