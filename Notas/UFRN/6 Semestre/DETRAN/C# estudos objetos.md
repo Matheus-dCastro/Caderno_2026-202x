@@ -9,4 +9,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 <mark style="background:#40a9ff">techs:</mark>  Entity Framework, Docker, Kubernets, Swagger/Swashbuckle,
 <mark style="background:#40a9ff">seguranaça:</mark> token JWT
 
-*post/.../arquivos:* metodo responsavel por -> 
+*post/.../arquivos:* metodo responsavel -> 
