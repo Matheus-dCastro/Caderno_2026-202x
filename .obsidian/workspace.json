@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/DETRAN/Untitled.md",
+                "file": "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "C# estudos objetos"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -293,7 +294,7 @@
   },
   "active": "c9fe6ce9d80c7fa3",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/DETRAN/Untitled.md",
+    "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Notas/UFRN/UFRN.md",
