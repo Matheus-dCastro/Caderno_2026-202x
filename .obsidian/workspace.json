@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "MLOPS - AULAS"
             }
+          },
+          {
+            "id": "fc5f8312d3f39814",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "ab8998aed55389ee",
+            "id": "7eb4e9e45e2fa25f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -288,12 +299,10 @@
       "colorful-stickynotes:Open stickies": false,
       "colorful-stickynotes:Sticky list": false,
       "colorful-stickynotes:Sticky workspaces": false,
-      "notes-explorer:Notes explorer": false,
-      "config-sync:Config Sync": false,
-      "config-sync:Config Sync: Open Sync Center": false
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "b32a9800a536119c",
+  "active": "fc5f8312d3f39814",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
