@@ -3,3 +3,4 @@
 
 Consultar, visualizar (parecer, depachos, votos) e atramitação de processos entre setores => validando requisitos: [*obrigatorios*] : assinaturas e despachos.
 
+#
