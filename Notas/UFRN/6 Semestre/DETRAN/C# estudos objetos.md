@@ -29,7 +29,7 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 *post/.../anexarParecer:* gera pdf apartir do html -> registra no processo e de forma opcional pode fazer o upload em lote dos arquivos => pdf é obtido por meio do token jwt (multipart/form-data: content-type)
 
 => reurn: 
-	- ```json
+
  "codigoOrgao": 120100,
   "instancia": 2,
   "numeroProcesso": 123456,
