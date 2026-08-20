@@ -24,3 +24,5 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 - Todos os meios sao string
 
 => return: success: bool, data (lista) mensagem: string (caso de erro messagem -> error:string)
+
+
