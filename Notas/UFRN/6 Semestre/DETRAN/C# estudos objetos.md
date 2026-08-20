@@ -17,4 +17,6 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 => error: token invalido (401)
 => error: sem permição (403)
 
-*post/.../enviar:* finaliza a analise e tramita, validação de negocio (ex.Despachos, assinatura de voto)
+*post/.../enviar:* finaliza a analise e tramita, validação de negocio (ex.Despachos, assinatura de voto) 
+
+**Antes de mov**
