@@ -22,7 +22,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -72,7 +72,7 @@
     "Notas",
     "Notas/Notas/UFRN",
     "Notas/Notas/UFRN/Notas/UFRN/6 Semestre",
-    "Notas/Notas/UFRN/Notas/UFRN/6 Semestre/Notas/UFRN/6 Semestre/MLOPS"
+    "Notas/Notas/UFRN/Notas/UFRN/6 Semestre/Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
