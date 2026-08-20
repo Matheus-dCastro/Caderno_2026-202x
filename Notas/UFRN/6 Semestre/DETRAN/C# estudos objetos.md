@@ -60,4 +60,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 eu n fecho a requisição eu deixo ela em aberto e coloco um intervalo entre um disparo de uma nova requisição e outra nesse caso eu preciso manter oq o user esta fazendo em aberto para n ficar enchendo o serve toda hora.
 
-#
+## Gerenciando 
