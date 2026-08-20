@@ -214,8 +214,8 @@
             "state": {
               "type": "dictionary-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "dictionary-view"
+              "icon": "quote-glyph",
+              "title": "Dicionário"
             }
           }
         ],
@@ -256,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 766.5,
-    "collapsed": true
+    "width": 766.5
   },
   "left-ribbon": {
     "hiddenItems": {
