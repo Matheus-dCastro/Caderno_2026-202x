@@ -14,4 +14,5 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 - Todos os meios sao string
 
 => return: infos do processo e documentos
-=> erro: token 
+=> erro: token invalido (401)
+=
