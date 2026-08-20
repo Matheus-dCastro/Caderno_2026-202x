@@ -1,4 +1,4 @@
-# Recurso de infração
+=# Recurso de infração
 
 
 Consultar, visualizar (parecer, depachos, votos) e atramitação de processos entre setores => validando requisitos: [*obrigatorios*] : assinaturas e despachos.
@@ -35,4 +35,3 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
   "anoProcesso": 2026,
   restante: string
 
-=> return: 
