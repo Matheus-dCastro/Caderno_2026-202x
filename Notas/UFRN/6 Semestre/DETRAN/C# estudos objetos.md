@@ -37,4 +37,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 *get/.../tipoArquivos:* reponsavel listar tipos de arquivos rela ao processo
 
-*get/.../orgaos:* lista quais org
+*get/.../orgaos:* lista quais orgaos o operador tem
