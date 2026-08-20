@@ -18,35 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-08-20 08.44.43.excalidraw"
             }
-          },
-          {
-            "id": "40b65295ecddb4b4",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
-          },
-          {
-            "id": "9d141f820ceaa717",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Livros/UERJ.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 795,
-                "zoom": 0.9338235294117647
-              },
-              "icon": "lucide-file-text",
-              "title": "UERJ"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,8 +288,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "9d141f820ceaa717",
+  "active": "c9fe6ce9d80c7fa3",
   "lastOpenFiles": [
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
+    "Livros/UERJ.pdf",
     "Livros/SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas.html",
     "Livros/Luis Felipe Dias Lopes.pdf",
     "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
@@ -325,7 +301,6 @@
     "Revisão para prova unidade 02-1780676182740.webp",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
@@ -348,16 +323,13 @@
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
     "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/json-canvas/references",
     "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Pasted image.png",
     "Notas /UFRN/horariso para o 6.jpeg",
     "Notas /Pasted image (2).png",
