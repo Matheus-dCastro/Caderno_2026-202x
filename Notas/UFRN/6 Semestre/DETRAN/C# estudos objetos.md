@@ -13,4 +13,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 - Todos os meios sao string
 
-=> return: infos do processo e dema
+=> return: infos do processo e demais cois
