@@ -35,4 +35,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
   "anoProcesso": 2026,
   restante: string
 
-=> return 
+=> return: 
