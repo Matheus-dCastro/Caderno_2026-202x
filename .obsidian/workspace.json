@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "C# estudos objetos"
             }
+          },
+          {
+            "id": "69ea488a36b065a3",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "1e73c6329fd3be17",
+            "id": "ab8998aed55389ee",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,6 +272,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Criar um novo quadro": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -279,7 +291,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "omnisearch:Omnisearch": false,
@@ -292,7 +303,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "b32a9800a536119c",
+  "active": "69ea488a36b065a3",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
