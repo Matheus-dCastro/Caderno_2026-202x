@@ -5,4 +5,5 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 ### Techs:
 
-<mark style="background:#40a9ff">db:</mark> sql serve, postgress SQL
+<mark style="background:#40a9ff">db:</mark> sql serve, postgress SQL;
+
