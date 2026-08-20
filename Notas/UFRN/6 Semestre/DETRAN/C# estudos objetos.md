@@ -19,4 +19,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 *post/.../enviar:* finaliza a analise e tramita, validação de negocio (ex.Despachos, assinatura de voto) 
 
-**Antes de mov**
+**Antes de mover:** 
