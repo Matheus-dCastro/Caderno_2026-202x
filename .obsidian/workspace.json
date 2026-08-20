@@ -35,10 +35,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Livros/Algebra Linear Boldrini_251207_182559.pdf"
+                "file": "Livros/Luis Felipe Dias Lopes.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 846,
+                "zoom": 0.9588926174496645
               },
               "icon": "lucide-file-text",
-              "title": "Algebra Linear Boldrini_251207_182559"
+              "title": "Luis Felipe Dias Lopes"
             }
           }
         ],
@@ -313,6 +317,9 @@
   },
   "active": "9d141f820ceaa717",
   "lastOpenFiles": [
+    "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
+    "Livros/a99487ebb1f652768691614fee042a9e.pdf",
+    "Livros/Algebra Linear Boldrini_251207_182559.pdf",
     "Revisão para prova unidade 02-1780676182740.webp",
     "Sem título 1.canvas",
     "Sem título.canvas",
@@ -347,8 +354,6 @@
     "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases",
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "copilot/skills/obsidian-markdown/references/EMBEDS.md",
@@ -361,7 +366,6 @@
     "Revisão-1781384296817.webp",
     "Aprendizado-1780786365602.webp",
     "Aprendizado-1780786051250.webp",
-    "Revisão para prova unidade 02-1780750274668.webp",
-    "Revisão para prova unidade 02-1780693485922.webp"
+    "Revisão para prova unidade 02-1780750274668.webp"
   ]
 }
