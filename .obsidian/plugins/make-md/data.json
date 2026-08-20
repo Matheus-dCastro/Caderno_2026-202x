@@ -72,7 +72,9 @@
     "//Notas/Notas/UFRN/Notas/UFRN/6 Semestre",
     "//Excalidraw",
     "//Livros",
-    "Notas"
+    "Notas",
+    "Notas/Notas/UFRN",
+    "Notas/Notas/UFRN/Notas/UFRN/6 Semestre"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
