@@ -41,3 +41,13 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 # JAIR: Junta Administrativa de Recursos de Infração
 
+
+
+
+- **`Domain` (Núcleo do Negócio):** É o centro da aplicação e não deve ter dependências externas. Contém entidades de negócio, _Value Objects_, _Enums_, interfaces de repositórios e regras puras do domínio.
+    
+- **`Application` (Regras de Aplicação):** Orquestra os fluxos do sistema. Costuma conter casos de uso (_Use Cases_ / _Handlers_ como MediatR/CQRS), DTOs, _mappings_ (AutoMapper/Mapster), validações (FluentValidation) e interfaces de serviços.
+    
+- **`Persistence` (Camada de Dados):** Implementa as interfaces de repositórios definidas no _Domain_. Contém o `DbContext` do Entity Framework Core, migrações (_Migrations_), mapeamentos relacionais e scripts de banco de dados.
+    
+- **`RecursoInfracaoDetranet` (Camada de Apresentação/Host):** Ponto de entrada executável da aplicação no .NET 8 (provavelmente uma **ASP.NET Core Web API** ou **Worker Service**). Contém o `Program.cs`, _Controllers_ ou _Minimal APIs_, `appsettings.json` e a injeção de dependência que amarra todas as outras camadas.
