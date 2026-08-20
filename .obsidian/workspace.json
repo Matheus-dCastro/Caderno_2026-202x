@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
+                "file": "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C# estudos objetos"
-            }
-          },
-          {
-            "id": "69ea488a36b065a3",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "title": "MLOPS - AULAS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -300,11 +288,16 @@
       "colorful-stickynotes:Open stickies": false,
       "colorful-stickynotes:Sticky list": false,
       "colorful-stickynotes:Sticky workspaces": false,
-      "notes-explorer:Notes explorer": false
+      "notes-explorer:Notes explorer": false,
+      "config-sync:Config Sync": false,
+      "config-sync:Config Sync: Open Sync Center": false
     }
   },
-  "active": "69ea488a36b065a3",
+  "active": "b32a9800a536119c",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
+    "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
+    "Tags/#nested",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
@@ -318,7 +311,6 @@
     "Revisão para prova unidade 02-1780676182740.webp",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/UFRN.md",
     "Tags",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
@@ -336,7 +328,6 @@
     "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/SKILL.md",

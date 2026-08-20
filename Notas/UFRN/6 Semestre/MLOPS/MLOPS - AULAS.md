@@ -13,3 +13,15 @@ so deve ser avitado voltar para escopo e desing (evitar ao maximo)
 
 remover os metada dados e marcas dagua dos documentos.
 
+
+# Aula 02:
+
+predição é local a explicação é global
+
+### Quando faz sentido usar ML?
+
+
+/foto do slide
+
+**Coisas de processo criativo**
+
