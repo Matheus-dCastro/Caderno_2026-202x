@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b93bb1d207642c3",
+        "id": "4e825fa9b1b6d34d",
         "type": "tabs",
         "children": [
           {
-            "id": "c9fe6ce9d80c7fa3",
+            "id": "b32a9800a536119c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-08-20 08.44.43.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -253,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 766.5
+    "width": 766.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,10 +287,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "c9fe6ce9d80c7fa3",
+  "active": "b32a9800a536119c",
   "lastOpenFiles": [
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "Livros/UERJ.pdf",
     "Livros/SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas.html",
     "Livros/Luis Felipe Dias Lopes.pdf",
