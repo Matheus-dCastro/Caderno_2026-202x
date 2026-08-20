@@ -35,14 +35,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Livros/Luis Felipe Dias Lopes.pdf",
+                "file": "Livros/UERJ.pdf",
                 "page": 1,
                 "left": -16,
-                "top": 846,
-                "zoom": 0.9588926174496645
+                "top": 795,
+                "zoom": 0.9338235294117647
               },
               "icon": "lucide-file-text",
-              "title": "Luis Felipe Dias Lopes"
+              "title": "UERJ"
             }
           }
         ],
@@ -317,6 +317,8 @@
   },
   "active": "9d141f820ceaa717",
   "lastOpenFiles": [
+    "Livros/SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas.html",
+    "Livros/Luis Felipe Dias Lopes.pdf",
     "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
     "Livros/a99487ebb1f652768691614fee042a9e.pdf",
     "Livros/Algebra Linear Boldrini_251207_182559.pdf",
@@ -349,9 +351,7 @@
     "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/json-canvas/references",
-    "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-markdown/SKILL.md",
