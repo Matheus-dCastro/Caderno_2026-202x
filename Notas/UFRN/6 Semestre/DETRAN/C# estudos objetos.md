@@ -1,4 +1,4 @@
 # Recurso de infração
 
 
-Consultar, visualizar (parecer, depachos, votos) e atramitação de processos entre setores => validando requ
+Consultar, visualizar (parecer, depachos, votos) e atramitação de processos entre setores => validando requisitos: ass
