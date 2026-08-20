@@ -27,8 +27,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -94,7 +94,7 @@
             }
           },
           {
-            "id": "45b9ff2aa8c135ec",
+            "id": "a7835079e5c23e3a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -288,6 +288,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "canvas:Criar novo canvas": false,
       "switcher:Abrir a troca rápida": false,
       "templates:Inserir modelo": false,
@@ -306,14 +309,14 @@
       "obsidian-kanban:Create new board": false,
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
-      "notes-explorer:Notes explorer": false,
       "omnisearch:Omnisearch": false,
       "pomodoro-timer:Toggle timer panel": false,
       "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
       "colorful-stickynotes:Open stickies": false,
       "colorful-stickynotes:Sticky list": false,
-      "colorful-stickynotes:Sticky workspaces": false
+      "colorful-stickynotes:Sticky workspaces": false,
+      "notes-explorer:Notes explorer": false
     }
   },
   "active": "f745bb8ca7187c27",
