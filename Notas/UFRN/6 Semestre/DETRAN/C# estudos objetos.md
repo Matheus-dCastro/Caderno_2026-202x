@@ -5,4 +5,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 ### Techs:
 
-db:
+<mark style="background:#40a9ff">db:</mark> 
