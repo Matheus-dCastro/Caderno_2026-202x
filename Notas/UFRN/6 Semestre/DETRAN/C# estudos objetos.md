@@ -56,4 +56,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
  ### SSE -> o servidor notifica quando tem um novo evento n precisa ficar batento renexão automatica (via front)
 
--> so aceita text n da para pa
+-> so aceita text n da para passar outros tipos de dados
