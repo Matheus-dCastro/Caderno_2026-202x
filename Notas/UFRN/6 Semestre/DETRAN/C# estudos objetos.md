@@ -39,5 +39,3 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 *get/.../orgaos:* lista quais orgaos o operador tem
 
-<mark style="background:#ff4d4f">NOTE: metodos de veiculo podem ser incurtados para refatoração</mark>
-
