@@ -51,3 +51,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 - **`Persistence` (Camada de Dados):** Implementa as interfaces de repositórios definidas no _Domain_. Contém o `DbContext` do Entity Framework Core, migrações (_Migrations_), mapeamentos relacionais e scripts de banco de dados.
     
 - **`RecursoInfracaoDetranet` (Camada de Apresentação/Host):** Ponto de entrada executável da aplicação no .NET 8 (provavelmente uma **ASP.NET Core Web API** ou **Worker Service**). Contém o `Program.cs`, _Controllers_ ou _Minimal APIs_, `appsettings.json` e a injeção de dependência que amarra todas as outras camadas.
+
