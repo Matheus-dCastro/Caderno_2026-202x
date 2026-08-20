@@ -39,4 +39,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 *get/.../orgaos:* lista quais orgaos o operador tem
 
-# JAIR: Junta administrativa de recu
+# JAIR: Junta administrativa de recursos de infra
