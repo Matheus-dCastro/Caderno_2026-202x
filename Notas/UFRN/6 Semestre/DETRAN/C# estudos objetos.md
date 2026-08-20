@@ -58,4 +58,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 -> so aceita text n da para passar outros tipos de dados
 
-eu n fecho as
+eu n fecho a requisição eu deixo ela em aberto e colo
