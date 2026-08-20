@@ -21,4 +21,5 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 **Antes de mover:** 
 
-- t
+- Todos os meios sao string
+- 
