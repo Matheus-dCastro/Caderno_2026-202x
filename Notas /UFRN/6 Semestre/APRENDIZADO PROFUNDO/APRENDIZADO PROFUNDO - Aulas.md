@@ -46,6 +46,9 @@ revisao de calculo
 # Aula 04:
 
 Modelos lineares
+Gradiente descendente extocatico
+Regressao logistica
 
-### Atividad:
+Definição de neuronio => modelo linear com uma nao lineariedade no final com pesos, para produzir a saida
+
 
