@@ -184,8 +184,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "b62281f8980fb188",
@@ -291,7 +291,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "7385c34f348614ca",
+  "active": "e1451f4144784fda",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
