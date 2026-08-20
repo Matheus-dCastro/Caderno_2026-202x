@@ -12,3 +12,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 *post/.../arquivos:* metodo responsavel -> lista (pdf, imagens) realiza bloqueio de visualizar (Auditoria)
 
 - Todos os meios sao string
+
