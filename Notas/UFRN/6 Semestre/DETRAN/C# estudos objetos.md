@@ -10,3 +10,5 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 <mark style="background:#40a9ff">seguranaça:</mark> token JWT
 
 *post/.../arquivos:* metodo responsavel -> lista (pdf, imagens) realiza bloqueio de visualizar (Auditoria)
+
+- Todos os meios js
