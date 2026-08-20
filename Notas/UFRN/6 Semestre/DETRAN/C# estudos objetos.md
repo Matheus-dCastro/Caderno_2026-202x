@@ -26,4 +26,4 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 => return: success: bool, data (lista) mensagem: string (caso de erro messagem -> error:string)
 
 
-*post/.../anexarParecer:* gera pdf apartir do html -> registra no processo e de forma opcional pode fazer o upload em lote dos arquivos
+*post/.../anexarParecer:* gera pdf apartir do html -> registra no processo e de forma opcional pode fazer o upload em lote dos arquivos => pdf 
