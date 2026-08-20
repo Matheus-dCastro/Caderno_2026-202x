@@ -26,4 +26,5 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 => return: success: bool, data (lista) mensagem: string (caso de erro messagem -> error:string)
 
 
-*post/.../anexarParecer:* gera pdf apartir do html -> registra no processo e de forma opcional pode fazer o upload em lote dos arquivos => pdf é obtido por meio do token jwt (multipart/form-data: )
+*post/.../anexarParecer:* gera pdf apartir do html -> registra no processo e de forma opcional pode fazer o upload em lote dos arquivos => pdf é obtido por meio do token jwt (multipart/form-data: content-type)
+
