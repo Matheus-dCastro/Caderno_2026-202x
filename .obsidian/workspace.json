@@ -194,8 +194,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "timer-view"
+              "icon": "timer",
+              "title": "Timer"
             }
           },
           {
@@ -204,8 +204,8 @@
             "state": {
               "type": "colorful-sticky-notes-list",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "colorful-sticky-notes-list"
+              "icon": "layout-list",
+              "title": "Sticky list"
             }
           },
           {
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       },
       {
         "id": "b62281f8980fb188",
@@ -291,7 +291,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "c9fe6ce9d80c7fa3",
+  "active": "7385c34f348614ca",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
