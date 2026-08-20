@@ -33,10 +33,17 @@
             "id": "9d141f820ceaa717",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "canvas",
+              "state": {
+                "file": "Sem título 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -465,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título 1"
             }
           }
         ],
@@ -311,6 +318,7 @@
   },
   "active": "9d141f820ceaa717",
   "lastOpenFiles": [
+    "Sem título 1.canvas",
     "Sem título.canvas",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
