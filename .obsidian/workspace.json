@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "C# estudos objetos"
             }
-          },
-          {
-            "id": "a503e61f453b94f3",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,8 +292,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "a503e61f453b94f3",
+  "active": "b32a9800a536119c",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
@@ -318,7 +308,6 @@
     "Revisão para prova unidade 02-1780676182740.webp",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/UFRN.md",
     "Tags",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",

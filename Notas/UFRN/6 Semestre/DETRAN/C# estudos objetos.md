@@ -60,4 +60,14 @@ Consultar, visualizar (parecer, depachos, votos) e atramitação de processos en
 
 eu n fecho a requisição eu deixo ela em aberto e coloco um intervalo entre um disparo de uma nova requisição e outra nesse caso eu preciso manter oq o user esta fazendo em aberto para n ficar enchendo o serve toda hora.
 
- 
+### Camada de dominio:
+
+Logica principal: Modelos, entidades, interface e serviços 
+
+### Camada de infra:
+
+serve para conseguir usar dependecias e outras coisas de terceiros
+
+### Camada de aplicação:
+
+aqui criamos o DTO
