@@ -75,9 +75,20 @@ quanto maior uma janela mais caro sera o procesamento do modelo => sobe o custo 
 
 
 <mark style="background:#40a9ff">Codificação:</mark> traduz o texto em ID o unico tipo de entrada acieto pelo modelo
-<mark style="background:#40a9ff">Execultar o forward pass</mark>
-<mark style="background:#40a9ff">Escolher o ID</mark>
-<mark style="background:#40a9ff">Decodificar </mark>
+<mark style="background:#40a9ff">Execultar o forward pass: </mark> valores reais q n passam pela normalização sua distribuição sobre o vacabulario resulta em uma softmax, 
+<mark style="background:#40a9ff">Escolher o ID:</mark> recebe os ids para fazer a distribuições => saida corresponde a continuação do texto e seleciona um deles (oq tem a maior possição ou chance de ser aquele [Probabilidade]) 
+<mark style="background:#40a9ff">Decodificar: </mark> traduz de volta para texto normal feita de forma autoregressiva, selecionar o token mais provavel se chama decodificação greedy, usando a função generate com d_sample=false.
+
+=> esses passos por cada palavra nova q o modelo for colocar no texto.
+
+# Temperatura Top-k e Top-p:
+T fica em   1 < T > 1, achata a curva de probabilidade que aumenta a chance dos tokens improvaveis encurtando a comparação. faz dois cortes e restringe o numero de candidatos antes do sorteio eliminando a cauda de tokens q a alta temperatura deixou eles possiveis
+
+**Top-K:** mantem os de maior probabilidade
+**Top-p:** amostragem por nucleo, mantem o menor conjunto, ordenados de forma decresente
+
+-< a quantidade de candidatos varia a cada passo  (modelos indecisos).
+sequencias raras continuam segmentadas menos raras se agrupam.
 
 
 
