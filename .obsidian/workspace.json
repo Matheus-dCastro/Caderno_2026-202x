@@ -4,31 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4e825fa9b1b6d34d",
+        "id": "3752b60a920eacf1",
         "type": "tabs",
         "children": [
           {
-            "id": "b32a9800a536119c",
+            "id": "106c9abab35f832b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/3 - Chapter 1 Basic Concepts.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 176,
+                "zoom": 1.1162889147219106
+              },
+              "icon": "lucide-file-text",
+              "title": "3 - Chapter 1 Basic Concepts"
+            }
+          },
+          {
+            "id": "af52bf1d7cbd2e87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C# estudos objetos"
-            }
-          },
-          {
-            "id": "54b02f7a48c7043c",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
           }
         ],
@@ -87,8 +93,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,28 +308,44 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "54b02f7a48c7043c",
+  "active": "af52bf1d7cbd2e87",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/3 - Chapter 1 Basic Concepts.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/2 - Overview of this book.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/1 - Table of contents.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/01._Viso_Geral.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/src/__pycache__/utils.cpython-311.pyc",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/src/__pycache__/grid_world.cpython-38.pyc",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/src/__pycache__/grid_world.cpython-311.pyc",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/examples/__pycache__/arguments.cpython-311.pyc",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/src/grid_world.py",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/src/__pycache__",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample4.png",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample3.png",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample2.png",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample1.png",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/trajectory_Q_learning.jpg",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/trajectory_Bellman_Equation_dotted.jpg",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/trajectory_Bellman_Equation.jpg",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/policy_offline_Q_learning.jpg",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Readme_Images/review2.jpg",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Readme_Images/EnglishLectureVideo.png",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Lecture slides/Readme.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/README.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Readme.md",
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "Livros/UERJ.pdf",
-    "Livros/SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas.html",
-    "Livros/Luis Felipe Dias Lopes.pdf",
-    "Livros/Codigo Limpo - Completo PT_260210_225952.pdf",
-    "Livros/a99487ebb1f652768691614fee042a9e.pdf",
-    "Livros/Algebra Linear Boldrini_251207_182559.pdf",
-    "Revisão para prova unidade 02-1780676182740.webp",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas/UFRN/UFRN.md",
-    "Tags",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
-    "Notas /UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/02_-_Modelos_de_Linguagem_e_LLMs.pptx",
     "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
@@ -335,24 +356,8 @@
     "Notas /UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas /UFRN/6 Semestre/GTA/GTA estudos.md",
     "copilot/skills/obsidian-cli/SKILL.md",
-    "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Pasted image.png",
-    "Notas /UFRN/horariso para o 6.jpeg",
-    "Notas /Pasted image (2).png",
-    "Aprendizado-1780780326033.webp",
-    "Notas /UFRN/5 semestre/Aprendizado de maquina supervisionado/Unidade02/Unidade 02 estudos em casa -1778005075943.webp",
-    "Revisão-1781384296817.webp",
-    "Aprendizado-1780786365602.webp",
-    "Aprendizado-1780786051250.webp",
-    "Revisão para prova unidade 02-1780750274668.webp"
+    "copilot/skills/obsidian-bases/SKILL.md"
   ]
 }

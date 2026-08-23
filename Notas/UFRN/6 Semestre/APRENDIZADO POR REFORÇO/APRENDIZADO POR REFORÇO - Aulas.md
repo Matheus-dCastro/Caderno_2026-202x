@@ -30,3 +30,5 @@ uma politica so é melhor q a outra se ela for melhor em todos os estagios
 
 Equação de bellman => fazer por casos de substituição e distribuir os estados e probabilidade
 
+# Capitulo 01:
+
