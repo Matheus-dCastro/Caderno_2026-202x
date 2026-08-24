@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "C# estudos objetos"
             }
+          },
+          {
+            "id": "4323b2666d9ecd15",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "47681ee8cb4e5f01",
+            "id": "3d8de72e556f380c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,7 +272,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -292,7 +303,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "aae07fc31e4d6457",
+  "active": "4323b2666d9ecd15",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
