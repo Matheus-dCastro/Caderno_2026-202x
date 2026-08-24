@@ -1,0 +1,35 @@
+# Aula 03 - Agentes:
+
+Ambiente >- sensor -< action -> ambiente
+
+Quando um comportamento n te um clasuara de parada => Clasura erradica (**Irracional**)
+*<font color="#ffc000">Medida de desempenho</font>*
+
+### Principios da Racionalidade em IA:
+
+- media de desempenho que define o criterio de sucesso
+- o conhecimento previo que o agente tem do ambiente
+- as ações q o agente pode executar
+- a sequência de percepções do agente ate o instante atual
+
+Mapiar o ambiente e seus limites
+-> regras n gatante q crie racionalidade;
+
+#### Racionalidade != Onisciência
+
+maximizar o desempenho não garante soluções otimas(oni)
+
+### Modelagem de agentes racionais
+
+parece com levantamento de requisitos de engenharia de software;
+<mark style="background:#affad1">Medida de desempenho (P), Ambiente (E), Atuadores (A), Sensores (S)</mark>
+
+#### Tipos de ambiente:
+- Totalmente observavel vs parcialmente
+- Agente unico vs multiagente
+- deterministico vs estocastico
+- episodico vs senquêncial
+
+### Estrutura do Agente:
+
+agente = arquitetura + programa (modelo)
