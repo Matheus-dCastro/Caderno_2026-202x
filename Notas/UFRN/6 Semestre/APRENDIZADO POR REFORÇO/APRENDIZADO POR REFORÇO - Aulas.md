@@ -119,3 +119,15 @@ fazemos uma equação para cada ação possivel na quele estado
 
 Valores de estado e equação de Bellman
 
+para cada uma dos possivies estados teremos uma prob
+
+=> Comparar par a par para todos os elementos para poder achar quem é o melhor caminho para a resposta -> para ser melhor tem q ser melhor q todos
+
+**Otimilidade de Bellman:** é a mesmas coisa q a bellman normal so q eu tiro o max pos resolver as equações ou seja eu faço a comparação de forma mais imdiata para achar o melhor. 
+
+*Deterministica goloza*
+
+### Achar os pontos fixos de uma função:
+
+normas da funções -> 2 para euclidiana, 1 para mahanta, inifinito é a de manhanta so q aplicando a max
+
