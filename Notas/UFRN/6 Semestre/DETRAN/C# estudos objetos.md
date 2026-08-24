@@ -70,4 +70,3 @@ serve para conseguir usar dependecias e outras coisas de terceiros
 
 ### Camada de aplicação:
 
-aqui criamos o DTO
