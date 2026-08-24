@@ -115,3 +115,7 @@ fazemos uma equação para cada ação possivel na quele estado
 
 **NOTA: fazer a questao da aula passada quando ele postar o material das aulas** 
 
+# Aula do dia 24-08:
+
+Valores de estado e equação de Bellman
+
