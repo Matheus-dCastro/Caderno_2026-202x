@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "BANCO DE DADOS - AULA"
             }
+          },
+          {
+            "id": "7e9d31af09c089a7",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "26280a6ababc8068",
+            "id": "e0db9dc9f2293365",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -292,7 +303,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "6bf68b9a40c73a4f",
+  "active": "7e9d31af09c089a7",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
