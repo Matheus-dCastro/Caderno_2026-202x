@@ -27,4 +27,6 @@ predição é local a explicação é global
 
 # Aula 03:
 
-weapons of math destruction
+weapons of math destruction 
+Drift de modelo
+
