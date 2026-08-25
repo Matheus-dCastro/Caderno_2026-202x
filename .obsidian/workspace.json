@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4bc25de40c72a52a",
+        "id": "a9b47f68162ce49a",
         "type": "tabs",
         "children": [
           {
-            "id": "f494aaa60572981b",
+            "id": "93226f5a0e81b236",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLOPS - AULAS"
             }
           }
         ]
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "8f71e6423aea7d88",
+            "id": "2c126f949c9db104",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -77,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -287,8 +292,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f494aaa60572981b",
+  "active": "93226f5a0e81b236",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
@@ -337,7 +343,6 @@
     "Notas /UFRN/5 semestre/5 semestre.md",
     "Notas /UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas /UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-    "Notas /UFRN/6 Semestre/MLOPS/MLOPS.md",
-    "Notas /UFRN/6 Semestre/GTA/GTA estudos.md"
+    "Notas /UFRN/6 Semestre/MLOPS/MLOPS.md"
   ]
 }

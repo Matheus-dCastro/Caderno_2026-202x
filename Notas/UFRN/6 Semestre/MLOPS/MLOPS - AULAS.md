@@ -25,3 +25,6 @@ predição é local a explicação é global
 
 **Coisas de processo criativo**
 
+# Aula 03:
+
+weapons of math destruction
