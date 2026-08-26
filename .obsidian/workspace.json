@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6413e27d7cae0e03",
+        "id": "3bbf68bf22a94f36",
         "type": "tabs",
         "children": [
           {
-            "id": "afaca34a2a7a7b54",
+            "id": "d13158b62cc2a1f5",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
           }
         ]
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "e896beec1de1a69f",
+            "id": "6ec1039d3feb1468",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -288,10 +292,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "afaca34a2a7a7b54",
+  "active": "d13158b62cc2a1f5",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas/UFRN/6 Semestre/GTA/GTA estudos.md",
@@ -300,7 +305,6 @@
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/Artificial Intelligence A Modern Approach 3rd.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/3 - Chapter 3 Optimal State Values and Bellman Optimality Equation.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/3 - Chapter 4 Value Iteration and Policy Iteration.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
