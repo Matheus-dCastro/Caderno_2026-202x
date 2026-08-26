@@ -33,3 +33,20 @@ parece com levantamento de requisitos de engenharia de software;
 ### Estrutura do Agente:
 
 agente = arquitetura + programa (modelo)
+
+
+# Aula 04 -
+
+### T#eoria dos grafos:
+tarefas de busca espacionalmente definida
+
+-> Representação do ambiente: espaço de estados, agentes baseados em objetos
+
+cidade = vertices
+estradas = arestas
+
+#### Estrura de Agente:
+
+#### Arvores de Busca:
+
+**Tipos de busca:** largura, profundidade, 
