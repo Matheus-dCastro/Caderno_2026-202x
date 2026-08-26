@@ -131,3 +131,7 @@ para cada uma dos possivies estados teremos uma prob
 
 normas da funções -> 2 para euclidiana, 1 para mahanta, inifinito é a de manhanta so q aplicando a max
 
+
+0<gama<1
+
+

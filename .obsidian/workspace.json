@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
+          },
+          {
+            "id": "9f9a876b6f344cc1",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "6ec1039d3feb1468",
+            "id": "30dfede0ff3d05ce",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -292,7 +303,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "d13158b62cc2a1f5",
+  "active": "9f9a876b6f344cc1",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
