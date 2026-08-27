@@ -43,9 +43,28 @@ Probabilidade +> determinismo e incerteza linguagem do q nao sabemos -> yugioh
 revisao da materia de tetso
 revisao de calculo
 
+vetores sao representações de data point(as coordenadas sao os valores de cada feture)
+
+Como o numero é retornado define ja a relação entre dois vetores: 
+
+**positivo:** essa projeção as direções são semelhantes e se colocar um sobre o outro tem o mesmo sentido
+**negativo:** direções opostas, projeção aponta para o sentido aposto
+**ZERO:** são ortogonais nenhuma parte de um é projetada no outro 
+
+
 # Aula 04:
 
-Modelos lineares
+Modelos lineares: deve satisfazer duas propriedades:
+	- A transformação da soma é igual a soma das transformações
+	- escalar a entrada escala proporcionalmente a saída
+	=> o modelo supoem que a saida é uma combinação linear das entrada mais um deslocamento
+		os pesos dizem o quanto aquela feture pesa(é significante) para formar aquela saida
+		o vies desloca a saida quando todos os pesos são nulos
+		a superfice da resposta é sempre um hiperplano no espaço das fetures
+		A **Fronteira** é sempre d-1 dimensoes sendo d o numero de dimenções(caracteristicas) dos dados
+		-> na pre-ativação da função é onde a parte linear e unico lugar em que vai aparecer
+		-> na função é onde add a parte não linear do modelo e é aqui q descide qual tipo de saida o modelo irá produzir.
+	
 Gradiente descendente extocatico
 Regressao logistica
 
