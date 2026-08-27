@@ -20,43 +20,8 @@
               "icon": "lucide-file",
               "title": "MLOPS - AULAS"
             }
-          },
-          {
-            "id": "895dc7364929e843",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "8bcde70560d8d3ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MLOPS - AULAS"
-            }
-          },
-          {
-            "id": "4f91a6a14dd4a041",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -326,11 +291,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "4f91a6a14dd4a041",
+  "active": "bdb5d2c7831075b7",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
-    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pptx",

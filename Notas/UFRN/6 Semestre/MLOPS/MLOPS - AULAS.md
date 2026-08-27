@@ -30,3 +30,15 @@ predição é local a explicação é global
 weapons of math destruction 
 Drift de modelo
 
+# Aula 04:
+
+**Formatos de dados:**  json, csv, parquet(baseado em colunas binario)
+podemos modelar inicalmente assim como modelamos em banco de dados (diagrama de entidades e relacionamento)
+
+Data warehouse => apenas para dados processados
+Data lakes => para dados brutos em grande escala (pode tudo)
+***HDFS***
+
+Broker para gerenciar a fila de dados: Filas para processamento assincrono. (event-drive)
+
+***ETL(Extract, Transform, Load)*** é como cozinhas as coisas na cozinha e so levar o prato para o caba comer 
