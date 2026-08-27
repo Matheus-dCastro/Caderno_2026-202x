@@ -52,3 +52,26 @@ Regressao logistica
 Definição de neuronio => modelo linear com uma nao lineariedade no final com pesos, para produzir a saida
 
 
+# Redes Neurais:
+
+pre-ativação -> ativação => determina a imagem de saida
+
+### Limites dos modelos lineares:
+
+deformar o espaço para achar um hiperplano q separe perfeitamente ou quase os dados
+cada peso de cada neuronio é idependente e cada peso por cada neuronio cria uma nova representação da entrada
+
++> introduzir n linearidade
+sigmoid = para saida probabilistica
+tahh = para saidas de ecopo de -1 a 1
+relu = para saidas lineares -> zera o lado negativo e deixa o positivo intacta 
+
+
+#### Saturação e Gradiente:
+
+satuação: pre-ativação o grandiente a derivada tende a zero
+
+### Teorema do aproximador universal
+
+pode ser continua e descontinua contado q esteja em um espaço medio compacto
+
