@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "1efd198e5a9b5358",
+            "id": "f125d9fd9c3d5f2d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -271,7 +271,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-kanban:Create new board": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
