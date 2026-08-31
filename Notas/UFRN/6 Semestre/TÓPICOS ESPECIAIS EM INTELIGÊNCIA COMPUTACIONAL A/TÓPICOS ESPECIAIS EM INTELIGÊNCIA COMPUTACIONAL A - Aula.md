@@ -131,3 +131,8 @@ many-short: formado de forma dinamica
 
 ## Cahin-of-thought: pedir por passos a passo ou cadeia de pensamentos
 
+# Ferramentas e composição de chamadas (Tools notebook-04):
+
+ele vai delimitar qual ferramenta ou forma de processar melhor se encaixa para cada tipo de entrada para enviar ou fazer a melhor resposta
+
++> no projeto final lembrar de fazer as verificações das tools e como esta tendo essa validação
