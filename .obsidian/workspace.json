@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
             }
+          },
+          {
+            "id": "ecfde88fcf230de8",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "166078ae53cb27fc",
+            "id": "3d0609ef8e70a8d5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -292,7 +303,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "cb404c1aac72590f",
+  "active": "ecfde88fcf230de8",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
