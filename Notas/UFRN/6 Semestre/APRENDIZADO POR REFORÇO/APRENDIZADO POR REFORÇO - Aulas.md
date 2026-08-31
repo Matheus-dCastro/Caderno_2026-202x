@@ -129,6 +129,15 @@ $\gamma$  => define o coeficiente de ganho de cada ação
 Gama é o futuro do babo
 fazemos uma equação para cada ação possivel na quele estado
 
+*devemos dividir em dois casos essas equações =>*
+1. recompensas imediatas
+2. recompensas futuras
+
+quando temos o um caso estocatio ou seja nao determisitico devemos dividir nosso caso em duas ou mais partes e colocar o coeficiente de probabilididade de ser aquele caso e fazer as contas com base nisso 
+
+
+
+
 **NOTA: fazer a questao da aula passada quando ele postar o material das aulas** 
 
 # Aula do dia 24-08:
