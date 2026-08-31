@@ -50,3 +50,10 @@ estradas = arestas
 #### Arvores de Busca:
 
 **Tipos de busca:** largura, profundidade, 
+
+# Aula 05 Resolução de problemas com metodos de buscas:
+
+o algotmo da estrela pode ser interpretado como uma versão com um plus do da busca gulosa
+um no ja fechado pode ser reusado a depender do estado atual
+<mark style="background:#9254de">euristica dimisivel </mark>
+

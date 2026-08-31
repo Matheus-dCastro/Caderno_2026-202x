@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbba353bc8a185e5",
+        "id": "c152b03fad2a8a52",
         "type": "tabs",
         "children": [
           {
-            "id": "f91432c441141568",
+            "id": "cb404c1aac72590f",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
             }
           }
         ]
@@ -288,8 +292,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f91432c441141568",
+  "active": "cb404c1aac72590f",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II - IMD3001_Aula_05_-_Busca_II.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
@@ -313,8 +320,6 @@
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/3 - Chapter 3 Optimal State Values and Bellman Optimality Equation.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/3 - Chapter 4 Value Iteration and Policy Iteration.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/RLbook2020.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/3 - Chapter 2 State Values and Bellman Equation.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
