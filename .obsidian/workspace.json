@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e4ebf551b5ee1c",
+        "id": "9f7da847471f7559",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb5d2c7831075b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MLOPS - AULAS"
-            }
-          },
-          {
-            "id": "b27aeb9d574ff91c",
+            "id": "56f45dadee9ca0f7",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -31,8 +17,27 @@
               "title": "Notes explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d7aa878303dc0548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c22f603757c1596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APRENDIZADO POR REFORÇO - Aulas"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +83,7 @@
             }
           },
           {
-            "id": "1efd198e5a9b5358",
+            "id": "f706f96c593a4e59",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -302,7 +307,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "b27aeb9d574ff91c",
+  "active": "9c22f603757c1596",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
