@@ -11,10 +11,10 @@
             "id": "f91432c441141568",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "c9f8b32a49e45663",
+            "id": "166078ae53cb27fc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
