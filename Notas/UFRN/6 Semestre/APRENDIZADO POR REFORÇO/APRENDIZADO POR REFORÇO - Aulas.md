@@ -108,6 +108,22 @@ O conhecimento do estado atual é suficiente para determinar o proximo estado in
 - se o passado é fundamental para determial o estado futuro n é um processo de descisao de markov
 - precisamos apenas do estado presente para determinar o estado de amaha
 
+##### Tem dois tipos de modelo:
+**Estacionario:** o modelo n muda com o tempo -> as regras do jogo nunca mudam mesmo com o passar do tempo (xadrez)
+**Não Estacionario:** o moldeo muda com o tempo -> as regras do jogo podem mudar com o decorrer do tempo da partida
+
+$\pi$  => define a probabliidade de uma ação acontecer em determinado estado
+$\gamma$  => define o coeficiente de ganho de cada ação
+
+**Uma cadeia de markov é quando o estado futuro depende exclusivamente do estado atual**
+
+<font color="#ffff00">O valo de estado é usado para determinar a qualidade da politica em medio tempo</font>
+-> para tarefaças episodicas: sem taxa de desconto
+-> para tarefaças continuas: com taxa de desconto
+
+=> esta terminal ou estado absorvente
+
+
 # Equação de Bellman:
 
 Gama é o futuro do babo

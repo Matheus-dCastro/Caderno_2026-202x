@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7da847471f7559",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56f45dadee9ca0f7",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
-          }
-        ]
-      },
-      {
         "id": "d7aa878303dc0548",
         "type": "tabs",
         "children": [
@@ -36,8 +20,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
+          },
+          {
+            "id": "c5176f81ba294c69",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +78,7 @@
             }
           },
           {
-            "id": "f706f96c593a4e59",
+            "id": "43024fd52784fd84",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -307,7 +302,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "9c22f603757c1596",
+  "active": "c5176f81ba294c69",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
