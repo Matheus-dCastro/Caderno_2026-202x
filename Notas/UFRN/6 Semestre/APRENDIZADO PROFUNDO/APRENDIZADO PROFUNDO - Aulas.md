@@ -94,3 +94,8 @@ satuação: pre-ativação o grandiente a derivada tende a zero
 
 pode ser continua e descontinua contado q esteja em um espaço medio compacto
 
+# Aula do dia 31/08
+
+Revisão de tensor inicial
+
+Revisar OO, revisar tensorflow, revisar estrutura de camadas de um neural network,
