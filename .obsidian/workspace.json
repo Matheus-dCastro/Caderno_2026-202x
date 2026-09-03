@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29651a1d7c2504a1",
+        "id": "32c390c3d411c6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "913f27da37f9daff",
+            "id": "bc8edbc9771f3aa0",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BANCO DE DADOS - AULA"
             }
           }
         ]
@@ -287,8 +291,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "913f27da37f9daff",
+  "active": "bc8edbc9771f3aa0",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/].pdf",
