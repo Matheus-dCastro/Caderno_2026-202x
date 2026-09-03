@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14d3b9703e7d9d8e",
+        "id": "29651a1d7c2504a1",
         "type": "tabs",
         "children": [
           {
-            "id": "e25567b71fc1d259",
+            "id": "913f27da37f9daff",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "09d7da00bc3325e6",
+            "id": "97717b8a7cdd96ab",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -287,8 +287,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e25567b71fc1d259",
+  "active": "913f27da37f9daff",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/].pdf",
     "Notas/UFRN/6 Semestre/Aula1_-_Banco_de_Dados.pdf",
@@ -298,7 +299,6 @@
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II - IMD3001_Aula_05_-_Busca_II.pdf",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "conflict-files-obsidian-git.md",

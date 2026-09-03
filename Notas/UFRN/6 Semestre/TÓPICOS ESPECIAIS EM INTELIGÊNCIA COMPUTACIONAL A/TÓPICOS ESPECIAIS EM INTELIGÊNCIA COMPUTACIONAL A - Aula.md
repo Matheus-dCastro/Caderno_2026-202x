@@ -136,3 +136,10 @@ many-short: formado de forma dinamica
 ele vai delimitar qual ferramenta ou forma de processar melhor se encaixa para cada tipo de entrada para enviar ou fazer a melhor resposta
 
 +> no projeto final lembrar de fazer as verificações das tools e como esta tendo essa validação
+
+
+# Memoria e Estado
+
+Curto Prazo: Geração de infos 
+Longo Prazo: Aloca uma parte da memoria para poder guardar em uma memoria de contexto 
+
