@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "BANCO DE DADOS - AULA"
             }
+          },
+          {
+            "id": "2136db61abadbf6c",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "e845187b4d838176",
+            "id": "87212761fdf4d96d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -291,14 +302,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bc8edbc9771f3aa0",
+  "active": "2136db61abadbf6c",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/].pdf",
     "Notas/UFRN/6 Semestre/Aula1_-_Banco_de_Dados.pdf",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
@@ -314,7 +326,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pptx",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pptx",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pptx",
-    "Notas/UFRN/IEEE/Certificados/Matheus Vinicius Silva Freire de Castro.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/GTA/GTA estudos.md",
     "Notas/UFRN/6 Semestre/GTA/GTA.md",
