@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32c390c3d411c6cb",
+        "id": "26d2dcf5617a11f9",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8edbc9771f3aa0",
+            "id": "e6a7aed9c7de995d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BANCO DE DADOS - AULA"
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "674b2df0797a45d4",
+            "id": "4908c222731164a1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -218,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "b62281f8980fb188",
@@ -288,33 +284,41 @@
       "colorful-stickynotes:Open stickies": false,
       "colorful-stickynotes:Sticky list": false,
       "colorful-stickynotes:Sticky workspaces": false,
+      "freedraw-pdf:Toggle annotation mode on active PDF": false,
+      "freedraw-pdf:Create blank annotatable PDF": false,
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bc8edbc9771f3aa0",
+  "active": "e6a7aed9c7de995d",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Instalao_do_Docker_-_Aula_IMD-UFRN.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Das_fitas_magnticas_aos_bancos_vetoriais.mp3",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Drawing 2026-09-03 21.13.38.excalidraw.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/New annotatable PDF.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/New annotatable PDF.pdf.annot.json",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf.annot.json",
+    "Excalidraw/Teorema de Bayes.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-03 21.05.09.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/].pdf",
     "Notas/UFRN/6 Semestre/Aula1_-_Banco_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II - IMD3001_Aula_05_-_Busca_II.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "conflict-files-obsidian-git.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pptx",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pptx",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pptx",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/GTA/GTA estudos.md",
     "Notas/UFRN/6 Semestre/GTA/GTA.md",
@@ -322,7 +326,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
-    "Notas/UFRN/UFRN.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample4.png",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample3.png",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample2.png",
@@ -333,14 +336,8 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/policy_offline_Q_learning.jpg",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Readme_Images/review2.jpg",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Readme_Images/EnglishLectureVideo.png",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Lecture slides/Readme.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/README.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Readme.md",
-    "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "Notas /UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade02/Revisão unidade 02.canvas"
   ]

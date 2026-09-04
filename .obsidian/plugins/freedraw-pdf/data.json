@@ -1,0 +1,115 @@
+{
+  "pressureCaptureVersion": 1,
+  "toolDefaults": {
+    "activeTool": "region",
+    "activeColor": "#6bcf8a",
+    "activeOpacity": 0.22,
+    "eraserMode": "segment",
+    "selectionMode": "single",
+    "selectedPresetId": "highlight-slot-2",
+    "selectedPresetIds": {
+      "pen": "pen-slot-1",
+      "highlighter": "highlight-slot-2",
+      "eraser": "eraser-slot-2"
+    },
+    "widths": {
+      "pen": 3,
+      "highlighter": 16,
+      "eraser": 18
+    }
+  },
+  "presets": [
+    {
+      "id": "pen-slot-1",
+      "label": "Pen 1",
+      "kind": "pen",
+      "color": "#202124",
+      "width": 3,
+      "opacity": 0.96
+    },
+    {
+      "id": "pen-slot-2",
+      "label": "Pen 2",
+      "kind": "pen",
+      "color": "#55b4ff",
+      "width": 5,
+      "opacity": 0.96
+    },
+    {
+      "id": "pen-slot-3",
+      "label": "Pen 3",
+      "kind": "pen",
+      "color": "#a855f7",
+      "width": 8,
+      "opacity": 0.96
+    },
+    {
+      "id": "highlight-slot-1",
+      "label": "Highlighter 1",
+      "kind": "highlighter",
+      "color": "#ffcb47",
+      "width": 12,
+      "opacity": 0.24
+    },
+    {
+      "id": "highlight-slot-2",
+      "label": "Highlighter 2",
+      "kind": "highlighter",
+      "color": "#6bcf8a",
+      "width": 16,
+      "opacity": 0.22
+    },
+    {
+      "id": "highlight-slot-3",
+      "label": "Highlighter 3",
+      "kind": "highlighter",
+      "color": "#8fdff0",
+      "width": 20,
+      "opacity": 0.22
+    },
+    {
+      "id": "eraser-slot-1",
+      "label": "Eraser 1",
+      "kind": "eraser",
+      "color": "#ffffff",
+      "width": 10,
+      "opacity": 1
+    },
+    {
+      "id": "eraser-slot-2",
+      "label": "Eraser 2",
+      "kind": "eraser",
+      "color": "#ffffff",
+      "width": 18,
+      "opacity": 1
+    },
+    {
+      "id": "eraser-slot-3",
+      "label": "Eraser 3",
+      "kind": "eraser",
+      "color": "#ffffff",
+      "width": 30,
+      "opacity": 1
+    }
+  ],
+  "textColor": "#202124",
+  "preferInlineToolbar": false,
+  "showRegionToolbarButton": true,
+  "showCopyEmbedToolbarButton": true,
+  "autoCopyRegionEmbed": true,
+  "showAnnotatedEmbedHeader": true,
+  "showDrawingNotices": true,
+  "showRenderTelemetry": false,
+  "inkInputPolicy": "allow-touch",
+  "livePreviewMode": "balanced",
+  "inkRenderSettings": {
+    "thinning": 0.5,
+    "streamline": 0.5,
+    "smoothing": 0.5,
+    "easing": "linear",
+    "taperStart": 0,
+    "taperEnd": 0,
+    "pressureMode": "auto"
+  },
+  "autosaveDelayMs": 600
+}

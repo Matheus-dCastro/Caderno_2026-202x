@@ -68,3 +68,11 @@ produzir uma incosistencia.
 - ***I***: **I**solamento -> Operações simultanias não interferem uma nas outras
 - ***D***: **D**urabilidade -> Tudo q foi confirmado sobrivivera a uma queda do sistema
 
+
+# Slide 02:
+
+Primari key -> PK
+Candidate Key -> CK >=> SK>CK>PK
+Super key -> SK
+
+
