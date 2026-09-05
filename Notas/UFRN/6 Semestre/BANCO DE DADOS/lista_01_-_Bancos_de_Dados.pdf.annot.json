@@ -1,0 +1,38 @@
+{
+  "version": 8,
+  "sourceFile": "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
+  "sourcePdf": {
+    "path": "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
+    "name": "lista_01_-_Bancos_de_Dados.pdf",
+    "basename": "lista_01_-_Bancos_de_Dados",
+    "size": 299868,
+    "ctime": 1788644026415,
+    "mtime": 1788644026416
+  },
+  "updatedAt": "2026-09-05T21:35:20.321Z",
+  "strokes": [],
+  "eraserPaths": [],
+  "textItems": [],
+  "shapes": [],
+  "imageItems": [],
+  "pdfPageTemplates": [],
+  "nativePageTemplatesEditable": false,
+  "appendedPages": [
+    {
+      "id": "page-1788644119721-zwwqn5ft",
+      "title": "Inserted page after PDF page 3",
+      "kind": "template",
+      "sourceLabel": "Template page",
+      "template": "blank",
+      "paperColor": "#ffffff",
+      "pageSize": "a4",
+      "strokes": [],
+      "textItems": [],
+      "shapes": [],
+      "insertAfterPdfPage": 3
+    }
+  ],
+  "deletedPdfPages": [],
+  "permanentlyDeletedPdfPages": [],
+  "removedPages": []
+}

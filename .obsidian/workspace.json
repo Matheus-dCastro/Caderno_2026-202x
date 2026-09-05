@@ -16,8 +16,25 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
+          },
+          {
+            "id": "904fefe2790901de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
+                "page": 3,
+                "left": -176,
+                "top": 96,
+                "zoom": 1.9
+              },
+              "icon": "lucide-file-text",
+              "title": "lista_01_-_Bancos_de_Dados"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,8 +306,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e6a7aed9c7de995d",
+  "active": "904fefe2790901de",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf.annot.json",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
@@ -300,13 +319,11 @@
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Drawing 2026-09-03 21.13.38.excalidraw.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/New annotatable PDF.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/New annotatable PDF.pdf.annot.json",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf.annot.json",
     "Excalidraw/Teorema de Bayes.excalidraw.md",
     "Excalidraw/Drawing 2026-09-03 21.05.09.excalidraw.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/].pdf",
     "Notas/UFRN/6 Semestre/Aula1_-_Banco_de_Dados.pdf",
