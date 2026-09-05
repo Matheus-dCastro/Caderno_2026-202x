@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f05fb48735d3f9fa",
+        "id": "5b009ae929db4f11",
         "type": "tabs",
         "children": [
           {
-            "id": "73e0feb07dad170d",
+            "id": "b796ed5c586b247a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lista 01 da Unidade 01"
-            }
-          },
-          {
-            "id": "bf499ccc94458de2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
-                "page": 3,
-                "left": -7,
-                "top": 315,
-                "zoom": 2.3472167774113744
-              },
-              "icon": "lucide-file-text",
-              "title": "lista_01_-_Bancos_de_Dados"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,7 +291,7 @@
       "pdf-notes:PDF.notes (New blank file)": false
     }
   },
-  "active": "bf499ccc94458de2",
+  "active": "b796ed5c586b247a",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
