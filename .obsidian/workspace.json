@@ -18,23 +18,22 @@
             }
           },
           {
-            "id": "904fefe2790901de",
+            "id": "8fe84e22538ca4e5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
+                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados native mixed working.pdf",
                 "page": 3,
-                "left": -176,
-                "top": 96,
-                "zoom": 1.9
+                "left": -601,
+                "top": 808,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
-              "title": "lista_01_-_Bancos_de_Dados"
+              "title": "lista_01_-_Bancos_de_Dados native mixed working"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,7 @@
             }
           },
           {
-            "id": "b9207d5ac3f6f77a",
+            "id": "1f3b23b86d3663bf",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -306,13 +305,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "904fefe2790901de",
+  "active": "e6a7aed9c7de995d",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados native mixed working.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados native mixed working.pdf.annot.json",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf.annot.json",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Instalao_do_Docker_-_Aula_IMD-UFRN.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Das_fitas_magnticas_aos_bancos_vetoriais.mp3",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
@@ -329,7 +330,6 @@
     "Notas/UFRN/6 Semestre/Aula1_-_Banco_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "conflict-files-obsidian-git.md",
