@@ -16,15 +16,24 @@
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
                 "page": 1,
-                "left": -6,
-                "top": 121,
-                "zoom": 2.697098180326893
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "05._DP"
             }
+          },
+          {
+            "id": "ac1f025102c5532b",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7ce4f4ac1fd190d",
@@ -91,7 +100,7 @@
             }
           },
           {
-            "id": "d8bf2f2c257d2e66",
+            "id": "1cfce99e1a26435e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -318,7 +327,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "4b3b1ec5e9d534b3",
+  "active": "ac1f025102c5532b",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
