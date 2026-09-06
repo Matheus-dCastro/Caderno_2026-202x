@@ -11,10 +11,10 @@
             "id": "b796ed5c586b247a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "254296381bee2e29",
+            "id": "468aa5c40cbea040",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -286,9 +286,7 @@
       "colorful-stickynotes:Sticky workspaces": false,
       "freedraw-pdf:Toggle annotation mode on active PDF": false,
       "freedraw-pdf:Create blank annotatable PDF": false,
-      "notes-explorer:Notes explorer": false,
-      "pdf-notes:PDF.notes": false,
-      "pdf-notes:PDF.notes (New blank file)": false
+      "notes-explorer:Notes explorer": false
     }
   },
   "active": "b796ed5c586b247a",
