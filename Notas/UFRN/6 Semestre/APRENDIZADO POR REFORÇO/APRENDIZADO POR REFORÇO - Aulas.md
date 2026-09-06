@@ -1,4 +1,4 @@
-# Processos de Decição de Markov:
+****# Processos de Decição de Markov:
 
 modelo matematica que descreve sistemas matematicos e estocaticos; => estacionario
 	- estados, todas as estruturas possiveis
@@ -160,3 +160,22 @@ normas da funções -> 2 para euclidiana, 1 para mahanta, inifinito é a de manh
 0<gama<1
 
 
+## MDP:
+
+Usamos a equação de bellman para poder decisdir qual o melhor trajeto para nosso agente no ambiente, 
+
+dividimos o meio em duas formas o meio
+
+*Deterministico:* O proximo estado é totalmente dependende do estado atual
+*<u>Não</u> Deternistico:* É um sistema onde apresenta multiplas posibilidades apartir do estado atual.
+
+A equação de bellman resolver isso achando o caminho que maximize o ganho e diminua as percas no caminho.
+
+Entrando assim no processo de decisão de Markov:
+-> Divide em estado S e em ações A
+e cada uma pode apresnetar na matriz combinações diferentes para dada ação tomada em cada estado => apresneta sistema de recompesas para o agente.
+
+
+-> Em um ambiente deterministico usamos a equação:
+
+$$Q(s, a) = r(s, a) + \gamma \max_{a'} Q(s', a')$$

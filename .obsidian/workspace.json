@@ -4,11 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "5b009ae929db4f11",
+        "id": "7de799094f2052ed",
         "type": "tabs",
+        "dimension": 62.16315983757844,
         "children": [
           {
-            "id": "b796ed5c586b247a",
+            "id": "4b3b1ec5e9d534b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
+                "page": 8,
+                "left": -12,
+                "top": 46,
+                "zoom": 1.27421875
+              },
+              "icon": "lucide-file-text",
+              "title": "02._MDP_1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f7ce4f4ac1fd190d",
+        "type": "tabs",
+        "dimension": 37.83684016242156,
+        "children": [
+          {
+            "id": "3d5f786e7d970e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APRENDIZADO POR REFORÇO - Aulas"
+            }
+          },
+          {
+            "id": "b98b8d2477fa2c80",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -17,7 +55,8 @@
               "title": "Notes explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +102,7 @@
             }
           },
           {
-            "id": "468aa5c40cbea040",
+            "id": "d8bf2f2c257d2e66",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -77,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -289,23 +329,25 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "b796ed5c586b247a",
+  "active": "b98b8d2477fa2c80",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf.annot.json",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/06._DP_Experimento_1.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/07._DP_Experimento_2.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/08._DP_Experimento_3.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/01._Viso_Geral.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Lista 01 da Unidade 01-1788650199295.webp",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf.annot.json",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados native mixed working.pdf",
-    "Notas/UFRN/6 Semestre/Sistema Integrado de Gestão de Atividades Acadêmicas.pdf",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados native mixed working.pdf.annot.json",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Instalao_do_Docker_-_Aula_IMD-UFRN.pdf",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Das_fitas_magnticas_aos_bancos_vetoriais.mp3",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Drawing 2026-09-03 21.13.38.excalidraw.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/New annotatable PDF.pdf",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/New annotatable PDF.pdf.annot.json",
     "Excalidraw/Teorema de Bayes.excalidraw.md",
     "Excalidraw/Drawing 2026-09-03 21.05.09.excalidraw.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
@@ -315,7 +357,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "conflict-files-obsidian-git.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
@@ -324,7 +365,6 @@
     "Notas/UFRN/6 Semestre/GTA/GTA estudos.md",
     "Notas/UFRN/6 Semestre/GTA/GTA.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/DETRAN/C# estudos objetos.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample4.png",
