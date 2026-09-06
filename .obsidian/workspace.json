@@ -16,24 +16,15 @@
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -4,
+                "top": 164,
+                "zoom": 3.4048590762066664
               },
               "icon": "lucide-file-text",
               "title": "05._DP"
             }
-          },
-          {
-            "id": "ac1f025102c5532b",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f7ce4f4ac1fd190d",
@@ -53,8 +44,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
+          },
+          {
+            "id": "9fea7f0b527f992d",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +102,7 @@
             }
           },
           {
-            "id": "1cfce99e1a26435e",
+            "id": "15d05ad94eea12ca",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -327,8 +329,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "ac1f025102c5532b",
+  "active": "9fea7f0b527f992d",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf.annot.json",
@@ -341,7 +344,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf.annot.json",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf.annot.json",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/06._DP_Experimento_1.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/07._DP_Experimento_2.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/08._DP_Experimento_3.pdf",

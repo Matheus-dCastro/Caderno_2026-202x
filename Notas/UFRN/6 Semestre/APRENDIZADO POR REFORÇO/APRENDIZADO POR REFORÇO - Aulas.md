@@ -209,3 +209,4 @@ Quanto maior o valor de $\gamma$ mais o a politica sera corajosa ou seja o model
 quanto mais perto do alvo maior os valores de retorno o oposto tambem é veridico.
 
 se um estado precisa demais passos para chegar ao alvo seu valor é menor pq esta mais longe do "gerador" de pontos
+
