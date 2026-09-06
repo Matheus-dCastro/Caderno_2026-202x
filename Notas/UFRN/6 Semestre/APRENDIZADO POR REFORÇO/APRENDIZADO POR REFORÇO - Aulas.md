@@ -179,3 +179,33 @@ e cada uma pode apresnetar na matriz combinações diferentes para dada ação t
 -> Em um ambiente deterministico usamos a equação:
 
 $$Q(s, a) = r(s, a) + \gamma \max_{a'} Q(s', a')$$
+-> Já em um meio nao deterministico usamos:
+$$Q(s, a) = R(s, a) + \gamma \sum_{s'} P(s' \vert{} s, a) \max_{a'} Q(s', a')$$
+
+$\pi(a|s)$ Representa a politica adotada em cada escolha nas ações do agente
+
+==sempre cada estado depende APENAS do estado atual.== 
+
+deve ter em memten o fator de desconto $\gamma$ sobre a ação tomada pelo agente. 
+
+Quando a equação esta em função de $V\pi(S)$ a primeira parte sao é das recompensas imediatas q devem ser levadas em conta porem n sao elas q estamos querendo maximas e sim a segunda parte ou seja o segundo termo da equação q sao as recompesas futuras.
+
+=> podemos separa essas duas partes em duas equações diferentes para facilitar
+
+
+![[APRENDIZADO POR REFORÇO - Aulas-1788733017750.webp]]
+
+
+#### Verificamos 4 ponto para uma politica ser melhor q outra:
+
+**Existencia:** A politica otima existe
+**Unicidade:** Ela é unica?
+**Estocasticidade:** Ela é uma politica determistica ou estocastica
+**Algoritmo:** Como é calculado os valores otimos e como é obtido a politica.
+
+
+Quanto maior o valor de $\gamma$ mais o a politica sera corajosa ou seja o modelo irá se aventurar mais quanto menor o valor de $\gamma$ menos o modelo irar se aventurar
+
+quanto mais perto do alvo maior os valores de retorno o oposto tambem é veridico.
+
+se um estado precisa demais passos para chegar ao alvo seu valor é menor pq esta mais longe do "gerador" de pontos

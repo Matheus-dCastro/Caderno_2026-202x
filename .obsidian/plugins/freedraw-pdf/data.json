@@ -4,18 +4,18 @@
     "activeTool": "pen",
     "activeColor": "#202124",
     "activeOpacity": 0.96,
-    "eraserMode": "segment",
+    "eraserMode": "object",
     "selectionMode": "single",
     "selectedPresetId": "pen-slot-1",
     "selectedPresetIds": {
       "pen": "pen-slot-1",
       "highlighter": "highlight-slot-3",
-      "eraser": "eraser-slot-2"
+      "eraser": "eraser-slot-3"
     },
     "widths": {
       "pen": 3,
       "highlighter": 20,
-      "eraser": 18
+      "eraser": 30
     }
   },
   "presets": [
@@ -98,7 +98,7 @@
   "showCopyEmbedToolbarButton": true,
   "autoCopyRegionEmbed": true,
   "showAnnotatedEmbedHeader": true,
-  "showDrawingNotices": true,
+  "showDrawingNotices": false,
   "showRenderTelemetry": false,
   "inkInputPolicy": "allow-touch",
   "livePreviewMode": "balanced",
