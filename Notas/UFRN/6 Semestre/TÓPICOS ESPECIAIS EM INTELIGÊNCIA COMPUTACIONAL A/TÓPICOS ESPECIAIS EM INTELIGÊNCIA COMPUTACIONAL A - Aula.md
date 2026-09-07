@@ -125,6 +125,16 @@ ajustar valores durante a fase de treinamento para pode gerar/guiar a resposta d
 
 => modelos de raciocinio -> problema haha;
 
+# Notebook 01: modelos de lingaugem.
+
+-> Tokenizar -> leitura dos logits -> controles de geração 
+
+faz a comparação de um modelo base com um modelo ajustado com instruções.
+
+
+
+
+
 ## Etapa 02
 
 Criar uma ordenação para o modelo saber quais resposta são melhores para cada caso r1>r2.....

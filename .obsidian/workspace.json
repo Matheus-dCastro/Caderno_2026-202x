@@ -4,32 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "7de799094f2052ed",
-        "type": "tabs",
-        "dimension": 62.16315983757844,
-        "children": [
-          {
-            "id": "4b3b1ec5e9d534b3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
-                "page": 2,
-                "left": -14,
-                "top": 86,
-                "zoom": 1.1604166666666667
-              },
-              "icon": "lucide-file-text",
-              "title": "03._Prompt_Engineering_e_Contexto"
-            }
-          }
-        ]
-      },
-      {
         "id": "f7ce4f4ac1fd190d",
         "type": "tabs",
-        "dimension": 37.83684016242156,
         "children": [
           {
             "id": "3d5f786e7d970e61",
@@ -44,19 +20,8 @@
               "icon": "lucide-file",
               "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
-          },
-          {
-            "id": "62ea32cd047234c4",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +67,7 @@
             }
           },
           {
-            "id": "c2dd8e963784bf7b",
+            "id": "cac25e489186cb86",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -329,7 +294,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "62ea32cd047234c4",
+  "active": "3d5f786e7d970e61",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
