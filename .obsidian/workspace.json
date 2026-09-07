@@ -15,10 +15,8 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
-                "page": 25,
-                "left": -4,
-                "top": 202,
-                "zoom": 3.4048590762066673
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "05._DP"
@@ -44,8 +42,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
+          },
+          {
+            "id": "70e97a57e73e7524",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +100,7 @@
             }
           },
           {
-            "id": "77f79190100230ee",
+            "id": "ecd54d417ef70f4d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -318,7 +327,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "3d5f786e7d970e61",
+  "active": "70e97a57e73e7524",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
     "Notas/UFRN/Estrutura-Curricular-BIA.pdf",
