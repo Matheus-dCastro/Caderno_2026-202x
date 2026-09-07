@@ -210,3 +210,40 @@ quanto mais perto do alvo maior os valores de retorno o oposto tambem é veridic
 
 se um estado precisa demais passos para chegar ao alvo seu valor é menor pq esta mais longe do "gerador" de pontos
 
+
+### Algoritmos para achar Otimas politicas:
+
+*Interação de valor*
+*Interação de politica*
+*Interação de politica truncada*
+
+NOTA: Todos os algoritmos acima precinsam de conhecer previamente o ambiente.
+-> Não são muito praticos para problemas muito grandes
+
+### Interação de valor:
+
+vem por meio do algoritmo do ponto fixo:
+
+Ação q maximiza o valor ->
+
+1. Atuliza a politica
+2. Atualiza o valor
+
+=> Monta uma tabela e seleciona os estado de maior valor
+
+
+
+
+
+### Interação de Politica:
+
+Ela não resolve a equação mas no lugar ajuda a convergir em uma otima politica
+1. Avaliação de politica
+	- Avalia o valor do estado de uma politica dada 
+2. Melhoria de politica
+	- Gera uma politica melhor que a anterior
+
+=> a solução analitica n é usavel na pratica apenas teorica
+ela assim com na de valor maximixa o aragumento ou seja busva o maior valor de forma gulosa
+ela descide por um sinal de nova>= anterios
+
