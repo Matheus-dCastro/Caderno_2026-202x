@@ -14,12 +14,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
+                "page": 2,
+                "left": -14,
+                "top": 86,
+                "zoom": 1.1604166666666667
               },
               "icon": "lucide-file-text",
-              "title": "05._DP"
+              "title": "03._Prompt_Engineering_e_Contexto"
             }
           }
         ]
@@ -35,16 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+                "file": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APRENDIZADO POR REFORÇO - Aulas"
+              "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
           },
           {
-            "id": "70e97a57e73e7524",
+            "id": "62ea32cd047234c4",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -100,7 +102,7 @@
             }
           },
           {
-            "id": "ecd54d417ef70f4d",
+            "id": "c2dd8e963784bf7b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -327,8 +329,18 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "70e97a57e73e7524",
+  "active": "62ea32cd047234c4",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+    "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788816732783.webp",
+    "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815569240.webp",
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf.annot.json",
+    "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815138826.webp",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
     "Notas/UFRN/Estrutura-Curricular-BIA.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/01_-_Apresentao_da_Disciplina.pptx",
@@ -337,16 +349,11 @@
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/05._Ferramentas_e_Composio_de_Chamadas.pptx",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/06._Estado_e_Memria.pptx",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pptx",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/06._DP_Experimento_1.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/07._DP_Experimento_2.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/slides de aula U1.md",
     "Notas/UFRN/6 Semestre/IEEE/IEEE.md",
     "Excalidraw/Drawing 2026-09-06 19.18.52.excalidraw.md",
     "APRENDIZADO POR REFORÇO - Aulas-1788733017750.webp",
     "APRENDIZADO POR REFORÇO - Aulas-1788732838445.webp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
     "Lista 01 da Unidade 01-1788650199295.webp",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
@@ -357,10 +364,8 @@
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "conflict-files-obsidian-git.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
@@ -372,9 +377,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample3.png",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample2.png",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample1.png",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/trajectory_Q_learning.jpg",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/trajectory_Bellman_Equation_dotted.jpg",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/matlab_version/trajectory_Bellman_Equation.jpg",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",

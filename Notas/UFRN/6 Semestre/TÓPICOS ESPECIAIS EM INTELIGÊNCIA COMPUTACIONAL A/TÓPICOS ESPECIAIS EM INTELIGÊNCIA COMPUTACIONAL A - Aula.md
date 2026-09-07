@@ -27,6 +27,11 @@ Artitimetica, soletração contagem custo sao umas das limitações.
 
 <mark style="background:#fff88f">Ideas semelhantes ficam proximas no espaço vetorial.</mark>
 
+**Aritmética**. Números longos se quebram em pedaços arbitrários, e o modelo opera sobre esses pedaços. 
+**Soletração**. Contar as letras de uma palavra exige informação que o token único não expõe. 
+**Contagem**. Pedir um texto com número exato de palavras esbarra na diferença entre palavra e token. 
+**Custo**. O preço e o consumo da janela crescem com a contagem de tokens produzida pelo tokenizador.
+
 ### Modelo de linguagem:
 
 *mantem as palavras mais frenquentes inteira e as raras em pedaços reutilizaveis*
@@ -59,7 +64,10 @@ assim o proximo token é predito atravez das relações de uso durante o treino 
 
 - **Indexação:** cada documento vira um vetor cacula uma vez e guarda
 - **Consulta:** a pergunta tambem vira um vetor
-- **Ordenação:** documentos saim ordenados pela simelaridade da consulta.
+- **Ordenação:** documentos saim ordenados pela simelaridade da consulta
+
+***Similaridade de cosseno*** é oq diz o quanto dois embeddings estao proximos atravez da medida do angulo entre eles esse resultado deve fizar entre **-1 e 1** 1 para quando os dois vetores estão na mesma direção.
+
 
 #### Posição entra com info add
 
@@ -81,6 +89,15 @@ quanto maior uma janela mais caro sera o procesamento do modelo => sobe o custo 
 
 => esses passos por cada palavra nova q o modelo for colocar no texto.
 
+![[TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815138826.webp]]
+
+
+**Existe duas fomar de gerar um token para uma sequencia:**  
+*Greedy:* Toma o token de maior probabilidade
+*Amostragem:* Sorteia o token em uma amostra respietando as probabilidades -> cada extração pode resultar em uma saida diferennte.
+
+-> o valor de temperatura divide os logits e os controlam na distribuição.
+
 # Temperatura Top-k e Top-p:
 T fica em   1 < T > 1, achata a curva de probabilidade que aumenta a chance dos tokens improvaveis encurtando a comparação. faz dois cortes e restringe o numero de candidatos antes do sorteio eliminando a cauda de tokens q a alta temperatura deixou eles possiveis
 
@@ -90,7 +107,7 @@ T fica em   1 < T > 1, achata a curva de probabilidade que aumenta a chance dos 
 -< a quantidade de candidatos varia a cada passo  (modelos indecisos).
 sequencias raras continuam segmentadas menos raras se agrupam.
 
-
+![[TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815569240.webp]]
 
 ### Bloco do Transformer:
 
@@ -99,6 +116,9 @@ sequencias raras continuam segmentadas menos raras se agrupam.
 ajustar valores durante a fase de treinamento para pode gerar/guiar a resposta do modelo e o que ele esta fazendo
 
 -> Crescimento de conhecimento e oq pode fazer de forma exponencial
+=> na faze de treinamento usamos a cross entropia
+->  se a perplexidade da 1 é pq o modelo tem certeza sobre o proximo token
+-> Escala em log mostra q maiores ganhos sao na parte de treino
 
 # Emergencia: 
 é o aparecimento no conjunto de um comportamento que nenhuma das paretes exibe isoladamente.
@@ -109,7 +129,16 @@ ajustar valores durante a fase de treinamento para pode gerar/guiar a resposta d
 
 Criar uma ordenação para o modelo saber quais resposta são melhores para cada caso r1>r2.....
 
+Pretraining: é basicamente a etapa q em q o modelo vasculhas os dados para aprender sobre aquilo, e caso de error os vies  o modelo irar carregar com ele.
 
+### Large:
+faixa de escala em que o mesmo objetivo de treino pode produzir comportamentos ausentes em modelos menores =>
+- Tres eixos: parametros, quantidade de dados para treinar e computação empregada
+-> em ponto flutuante
+- Sem mudar o metodo: arq e a função de perda são as mesma de quanto estava em um modelo pequeno
+- Ganho previsivel: os testes cai regulamente a medida que os 3 eixos aumentam, prever a regualaridade apatir de pequenas "corridas" chegamos em uma corrida grande
+- Faixa movel: oq era grande antes agora é pequeno hoje computacionalmente.
+![[TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788816732783.webp]]
 
 # Aula 03:
 
