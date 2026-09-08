@@ -68,11 +68,44 @@ produzir uma incosistencia.
 - ***I***: **I**solamento -> Operações simultanias não interferem uma nas outras
 - ***D***: **D**urabilidade -> Tudo q foi confirmado sobrivivera a uma queda do sistema
 
+# Hierárquico e rede - a era dos ponteiros:
+
+-> Nesse os modelos sao ligados por ponteiro fisico no disco oq nos consede
+- Uma *estrutura* de <u>arvore</u> => nós são resgistros, arestas sao os caminhos ate os dados
+- A *relação* => 1:N estritra -> um filho para um so pai
+- E a *ligação* => por meio de um ponteiro fisico q esta gravado no disco
+
+### Como se consulta - DL/1:
+
+vai a raiz q satisfaça a codinção
+caminha do pai para o filho
+retorna o caminho hierarquico da raiz a folha
+
+### Modelo de rede:
+
+Grafo de uma direção com ponteiro q vai nas duas 
+pode fazer consultas M:N sem duplicidade
+
+**Forma de consulta:** 
+coloca no registro q quer
+do membro atual para o seu proprietario
+vasculha na lista de membros de um set
+associa membro a um conjunto
+
+
+**OLTP:** TRANSAÇÃO ->  *Muita* escrita de poucas linhas 
+**OLAP:** ANALISE -> *Poucas leituras de muitas linhas*
+**DATA WAREHOUSE** -> HISTORICO - repositorio separado da produção
+
+![[BANCO DE DADOS - AULA-1788902728492.webp]]
+
+![[BANCO DE DADOS - AULA-1788902832791.webp]]
 
 # Slide 02:
 
 Primari key -> PK
 Candidate Key -> CK >=> SK>CK>PK
 Super key -> SK
+
 
 
