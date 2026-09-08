@@ -46,4 +46,12 @@ Broker para gerenciar a fila de dados: Filas para processamento assincrono. (eve
 
 *AutoML e Auto-sklearn*
 
+# Aula 05:
+**Workflow:** apenas a sequência de tarefaças
+**Pipeline:** é o Workflow q processa dados A para B
+-> o agendamento é via *CRON*
 
+***Apache AriFlow*** -> apenas Tarefaças sequênciais não tem tarefaças ciclicas. 
+- de forma direcional. 
+- *dag*: Organiza e define o floxo de trabalho de um pipeline.
+- 
