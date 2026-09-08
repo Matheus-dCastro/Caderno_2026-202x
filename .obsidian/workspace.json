@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
+          },
+          {
+            "id": "90e6ecb45d555ab0",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "bc1bd5a04740b87c",
+            "id": "983a59393701a189",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -294,7 +305,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "3d5f786e7d970e61",
+  "active": "90e6ecb45d555ab0",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
