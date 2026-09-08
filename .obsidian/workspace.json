@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+                "file": "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
-            }
-          },
-          {
-            "id": "90e6ecb45d555ab0",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "title": "MLOPS - AULAS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +67,7 @@
             }
           },
           {
-            "id": "983a59393701a189",
+            "id": "c1179f84cba64a04",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -305,11 +294,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "90e6ecb45d555ab0",
+  "active": "3d5f786e7d970e61",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788816732783.webp",
     "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815569240.webp",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf.annot.json",
@@ -324,7 +315,6 @@
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/04._Sada_Estruturada_e_Validao.pptx",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/05._Ferramentas_e_Composio_de_Chamadas.pptx",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/06._Estado_e_Memria.pptx",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pptx",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/slides de aula U1.md",
     "Notas/UFRN/6 Semestre/IEEE/IEEE.md",
     "Excalidraw/Drawing 2026-09-06 19.18.52.excalidraw.md",
@@ -343,8 +333,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "conflict-files-obsidian-git.md",
-    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-    "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/GTA/GTA estudos.md",

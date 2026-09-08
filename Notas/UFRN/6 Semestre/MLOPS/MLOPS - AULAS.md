@@ -42,3 +42,8 @@ Data lakes => para dados brutos em grande escala (pode tudo)
 Broker para gerenciar a fila de dados: Filas para processamento assincrono. (event-drive)
 
 ***ETL(Extract, Transform, Load)*** é como cozinhas as coisas na cozinha e so levar o prato para o caba comer 
+
+
+*AutoML e Auto-sklearn*
+
+
