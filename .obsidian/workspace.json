@@ -21,8 +21,19 @@
               "icon": "lucide-file-text",
               "title": "aula_2"
             }
+          },
+          {
+            "id": "211846d0f5828125",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3ccc575747785d0c",
@@ -42,19 +53,8 @@
               "icon": "lucide-file",
               "title": "BANCO DE DADOS - AULA"
             }
-          },
-          {
-            "id": "6d4f54ba1b926774",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             }
           },
           {
-            "id": "20914ff265a9631c",
+            "id": "002c20be64d1f84e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -327,10 +327,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "6d4f54ba1b926774",
+  "active": "211846d0f5828125",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
     "BANCO DE DADOS - AULA-1788902832791.webp",
     "BANCO DE DADOS - AULA-1788902728492.webp",
