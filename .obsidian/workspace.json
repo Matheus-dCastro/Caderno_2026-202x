@@ -17,7 +17,7 @@
                 "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
                 "page": 20,
                 "left": -25,
-                "top": 102,
+                "top": 107,
                 "zoom": 0.5984375
               },
               "icon": "lucide-file-text",
@@ -37,19 +37,8 @@
               "icon": "lucide-file",
               "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
-          },
-          {
-            "id": "9863a4145d67f764",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3ccc575747785d0c",
@@ -116,7 +105,7 @@
             }
           },
           {
-            "id": "dd9d42b703c4a73b",
+            "id": "55334c1db5270778",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       },
       {
         "id": "b62281f8980fb188",
@@ -340,13 +329,16 @@
       "colorful-stickynotes:Sticky workspaces": false,
       "freedraw-pdf:Toggle annotation mode on active PDF": false,
       "freedraw-pdf:Create blank annotatable PDF": false,
-      "notes-explorer:Notes explorer": false
+      "notes-explorer:Notes explorer": false,
+      "obsidian-importer:Importar notas": false,
+      "sticky-notes:Open sticky note": false
     }
   },
-  "active": "9863a4145d67f764",
+  "active": "7090c11610e9fe3f",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+    "StickyNotes/2026/2026-06-04.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
