@@ -200,3 +200,9 @@ ele vai delimitar qual ferramenta ou forma de processar melhor se encaixa para c
 Curto Prazo: Geração de infos 
 Longo Prazo: Aloca uma parte da memoria para poder guardar em uma memoria de contexto 
 
+# Planejamento:
+
+Pensar nas sequências de passos antes e com a entrada de dados revisar essas sequências
+
+Usar agentes diferentes um para gerar outro para revisar
+loops é oq dar autonomia aos agentes 
