@@ -37,9 +37,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
+          },
+          {
+            "id": "b6eedd2d3d25541f",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3ccc575747785d0c",
@@ -106,7 +116,7 @@
             }
           },
           {
-            "id": "edffba1f57d84d6a",
+            "id": "13894cdea94cc0bd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -333,7 +343,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "6d6f6bc839a669a7",
+  "active": "b6eedd2d3d25541f",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
