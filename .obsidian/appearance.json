@@ -4,11 +4,11 @@
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "baseFontSize": 20,
-  "interfaceFontFamily": "Maple Mono,Fira Code",
+  "interfaceFontFamily": "Maple Mono NF CN,Fira Code",
   "enabledCssSnippets": [
     "cursor-smooth-obsidian"
   ],
-  "textFontFamily": "Maple Mono,Fira Code",
-  "monospaceFontFamily": "Maple Mono,Fira Code",
+  "textFontFamily": "Maple Mono NF CN,Fira Code",
+  "monospaceFontFamily": "Maple Mono NF CN,Fira Code",
   "showRibbon": true
 }
