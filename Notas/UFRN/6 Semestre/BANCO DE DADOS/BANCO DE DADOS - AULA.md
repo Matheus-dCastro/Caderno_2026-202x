@@ -107,5 +107,3 @@ Primari key -> PK
 Candidate Key -> CK >=> SK>CK>PK
 Super key -> SK
 
-
-

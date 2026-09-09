@@ -156,6 +156,24 @@ O prompt passa a ser parte da etapa de desenvolvimento
 system -> exemplos -> historico -> ferramentas -> recuperado -> user
 *tudo isso em uma unica sequencia de tokens e o modelo le a sequncia interira*
 
+### Componentes de um Prompt:
+  
+
+- **papel**, que diz quem responde -> <font color="#ffff00"> Orquesta a vez de cada um</font>
+
+- **tarefa e escopo**, que dizem o que fazer e sobre qual conjunto de saídas -> <font color="#ffff00">Define por quem passa os dados para formar e como será formado a saida</font>
+
+- **contexto operacional**, que dá o vocabulário do domínio -> <font color="#ffff00">basicamente o dicionario para o modelo fromar suas saida</font>
+
+- **regras e restrições**, que resolvem os casos ambíguos -> <font color="#ffff00">Define oq o modelo pode e oq n pode fazer</font>
+
+- **formato de saída**, que diz o que a próxima linha de código vai receber 
+
+- **exemplos**, que mostram a resposta pronta -> <font color="#ffff00">Como o modelo deve se basear para faszer a sua saida de resposta para o user</font>
+
+
+
+
 ### mensagem de sistema:
 uma mensagem fixa q oq muda geralmente sera apenas o historico da convera
 **Delimitadores de prompt para melhores resultados** seja em md ou seja em xml(sendo esse para colocar marcadores e delimitadores de informaçoes das entradas do user)
