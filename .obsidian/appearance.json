@@ -8,7 +8,7 @@
   "enabledCssSnippets": [
     "cursor-smooth-obsidian"
   ],
-  "textFontFamily": "Maple Mono NF CN,Fira Code",
+  "textFontFamily": "Maple Mono,Maple Mono NF CN,Fira Code",
   "monospaceFontFamily": "Maple Mono NF CN,Fira Code",
   "showRibbon": true
 }

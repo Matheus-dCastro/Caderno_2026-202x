@@ -15,21 +15,13 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 27,
+                "left": -25,
+                "top": 129,
+                "zoom": 0.5984375
               },
               "icon": "lucide-file-text",
               "title": "aula_2"
-            }
-          },
-          {
-            "id": "e3278ea16835ec3f",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
             }
           },
           {
@@ -38,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
+              "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
           }
         ],
@@ -124,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -341,12 +333,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e3278ea16835ec3f",
+  "active": "6d6f6bc839a669a7",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "StickyNotes/2026/2026-06-04.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
     "BANCO DE DADOS - AULA-1788902832791.webp",
@@ -362,7 +355,6 @@
     "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815138826.webp",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
     "Notas/UFRN/Estrutura-Curricular-BIA.pdf",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/01_-_Apresentao_da_Disciplina.pptx",
@@ -386,7 +378,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/GTA/GTA estudos.md",
-    "Notas/UFRN/6 Semestre/GTA/GTA.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample4.png",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample3.png",
     "Sem título 1.canvas",

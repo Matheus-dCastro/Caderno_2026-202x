@@ -247,3 +247,5 @@ Ela não resolve a equação mas no lugar ajuda a convergir em uma otima politic
 ela assim com na de valor maximixa o aragumento ou seja busva o maior valor de forma gulosa
 ela descide por um sinal de nova>= anterios
 
+# Metodo de Monte Carlo
+
