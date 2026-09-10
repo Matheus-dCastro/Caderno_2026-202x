@@ -1,12 +1,12 @@
 {
   "pressureCaptureVersion": 1,
   "toolDefaults": {
-    "activeTool": "pen",
-    "activeColor": "#202124",
-    "activeOpacity": 0.96,
+    "activeTool": "highlighter",
+    "activeColor": "#ffcb47",
+    "activeOpacity": 0.22,
     "eraserMode": "object",
     "selectionMode": "single",
-    "selectedPresetId": "pen-slot-1",
+    "selectedPresetId": "highlight-slot-3",
     "selectedPresetIds": {
       "pen": "pen-slot-1",
       "highlighter": "highlight-slot-3",
@@ -63,7 +63,7 @@
       "id": "highlight-slot-3",
       "label": "Highlighter 3",
       "kind": "highlighter",
-      "color": "#8fdff0",
+      "color": "#ffcb47",
       "width": 20,
       "opacity": 0.22
     },

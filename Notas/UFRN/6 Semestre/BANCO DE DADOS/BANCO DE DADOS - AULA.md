@@ -107,3 +107,19 @@ Primari key -> PK
 Candidate Key -> CK >=> SK>CK>PK
 Super key -> SK
 
+**Superchave:** pares de valores q identifica as tuplas.
+**Chave Candita:** o mesmo q uma super mas nada nela pode ser removida.
+**Atributo principal:** está dentro de alguma chave candidta
+**Atributo não principal:** não faz parte de nenhuma chave candidata 
+
+![[BANCO DE DADOS - AULA-1789076075472.webp]]
+
+### 1FN: Só valores atômicos
+
+Apneas valores atomico =>
+
+**Proibido:** Celula com lista, tuplas ou tabela dentro
+-> **Consequência:** se violada nem chega a ser uma relação.
+
+### 2NF: Nada depende de metade da chave
+
