@@ -123,3 +123,12 @@ Apneas valores atomico =>
 
 ### 2NF: Nada depende de metade da chave
 
+### 5NF: 
+
+Dependecias de junção cria uma tabela para junta as coisas q foram decompostas
+
+=> a volta para tabela *original* n é possivel
+
+tabela original separa em sub-tabelas menores(projeção)
+depois une novamente em uma nova tabela q **não** é a original criando novas linhas na tabela agregando novas infos
+
