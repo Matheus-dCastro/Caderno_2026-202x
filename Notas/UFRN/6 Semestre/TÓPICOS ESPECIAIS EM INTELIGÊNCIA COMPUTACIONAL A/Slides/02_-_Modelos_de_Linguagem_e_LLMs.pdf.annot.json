@@ -5,11 +5,11 @@
     "path": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
     "name": "02_-_Modelos_de_Linguagem_e_LLMs.pdf",
     "basename": "02_-_Modelos_de_Linguagem_e_LLMs",
-    "size": 2771127,
+    "size": 2777101,
     "ctime": 1788811179812,
-    "mtime": 1788815023218
+    "mtime": 1788816616273
   },
-  "updatedAt": "2026-09-07T21:09:46.881Z",
+  "updatedAt": "2026-09-12T22:37:32.890Z",
   "strokes": [
     {
       "id": "stroke-1788815348823-i9jqvbsx",
@@ -639,7 +639,16 @@
         }
       ],
       "zIndex": 0,
-      "createdAt": "2026-09-07T21:09:08.823Z"
+      "createdAt": "2026-09-07T21:09:08.823Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815352235-2oj2khbc",
@@ -921,7 +930,16 @@
         }
       ],
       "zIndex": 1,
-      "createdAt": "2026-09-07T21:09:12.235Z"
+      "createdAt": "2026-09-07T21:09:12.235Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815353097-vvlo9gtp",
@@ -1071,7 +1089,16 @@
         }
       ],
       "zIndex": 2,
-      "createdAt": "2026-09-07T21:09:13.097Z"
+      "createdAt": "2026-09-07T21:09:13.097Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815353689-a1h90s17",
@@ -1137,7 +1164,16 @@
         }
       ],
       "zIndex": 3,
-      "createdAt": "2026-09-07T21:09:13.689Z"
+      "createdAt": "2026-09-07T21:09:13.689Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815354185-hy9nrsb9",
@@ -1551,7 +1587,16 @@
         }
       ],
       "zIndex": 4,
-      "createdAt": "2026-09-07T21:09:14.185Z"
+      "createdAt": "2026-09-07T21:09:14.185Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815355077-16tdk8ld",
@@ -1755,7 +1800,16 @@
         }
       ],
       "zIndex": 5,
-      "createdAt": "2026-09-07T21:09:15.077Z"
+      "createdAt": "2026-09-07T21:09:15.077Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815355519-2xil0vv0",
@@ -1839,7 +1893,16 @@
         }
       ],
       "zIndex": 6,
-      "createdAt": "2026-09-07T21:09:15.519Z"
+      "createdAt": "2026-09-07T21:09:15.519Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815355848-ey0t75ot",
@@ -2061,7 +2124,16 @@
         }
       ],
       "zIndex": 7,
-      "createdAt": "2026-09-07T21:09:15.848Z"
+      "createdAt": "2026-09-07T21:09:15.848Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815357575-5p0bkief",
@@ -2427,7 +2499,16 @@
         }
       ],
       "zIndex": 8,
-      "createdAt": "2026-09-07T21:09:17.575Z"
+      "createdAt": "2026-09-07T21:09:17.575Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815358630-11xai0l9",
@@ -2559,7 +2640,16 @@
         }
       ],
       "zIndex": 9,
-      "createdAt": "2026-09-07T21:09:18.630Z"
+      "createdAt": "2026-09-07T21:09:18.630Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815359110-drrjcn0y",
@@ -2739,7 +2829,16 @@
         }
       ],
       "zIndex": 10,
-      "createdAt": "2026-09-07T21:09:19.110Z"
+      "createdAt": "2026-09-07T21:09:19.110Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815359560-1113zyme",
@@ -2865,7 +2964,16 @@
         }
       ],
       "zIndex": 11,
-      "createdAt": "2026-09-07T21:09:19.560Z"
+      "createdAt": "2026-09-07T21:09:19.560Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815359906-0c74lzpn",
@@ -2925,7 +3033,16 @@
         }
       ],
       "zIndex": 12,
-      "createdAt": "2026-09-07T21:09:19.906Z"
+      "createdAt": "2026-09-07T21:09:19.906Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815360146-btepeond",
@@ -3153,7 +3270,16 @@
         }
       ],
       "zIndex": 13,
-      "createdAt": "2026-09-07T21:09:20.146Z"
+      "createdAt": "2026-09-07T21:09:20.146Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815361114-3osxuch8",
@@ -3363,7 +3489,16 @@
         }
       ],
       "zIndex": 14,
-      "createdAt": "2026-09-07T21:09:21.114Z"
+      "createdAt": "2026-09-07T21:09:21.114Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815361631-mfmd5wi4",
@@ -3585,7 +3720,16 @@
         }
       ],
       "zIndex": 15,
-      "createdAt": "2026-09-07T21:09:21.631Z"
+      "createdAt": "2026-09-07T21:09:21.631Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815362094-64nte7p1",
@@ -3855,7 +3999,16 @@
         }
       ],
       "zIndex": 16,
-      "createdAt": "2026-09-07T21:09:22.094Z"
+      "createdAt": "2026-09-07T21:09:22.094Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815362846-psv0yowm",
@@ -3939,7 +4092,16 @@
         }
       ],
       "zIndex": 17,
-      "createdAt": "2026-09-07T21:09:22.846Z"
+      "createdAt": "2026-09-07T21:09:22.846Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815363575-s4h9cho1",
@@ -4221,7 +4383,16 @@
         }
       ],
       "zIndex": 18,
-      "createdAt": "2026-09-07T21:09:23.575Z"
+      "createdAt": "2026-09-07T21:09:23.575Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815364218-5hjfsezn",
@@ -4383,7 +4554,16 @@
         }
       ],
       "zIndex": 19,
-      "createdAt": "2026-09-07T21:09:24.218Z"
+      "createdAt": "2026-09-07T21:09:24.218Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815364630-hrqp49gx",
@@ -4479,7 +4659,16 @@
         }
       ],
       "zIndex": 20,
-      "createdAt": "2026-09-07T21:09:24.630Z"
+      "createdAt": "2026-09-07T21:09:24.630Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815365036-5nf7u51w",
@@ -4821,7 +5010,16 @@
         }
       ],
       "zIndex": 21,
-      "createdAt": "2026-09-07T21:09:25.036Z"
+      "createdAt": "2026-09-07T21:09:25.036Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815365801-gq50azoz",
@@ -5085,7 +5283,16 @@
         }
       ],
       "zIndex": 22,
-      "createdAt": "2026-09-07T21:09:25.801Z"
+      "createdAt": "2026-09-07T21:09:25.801Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815366430-00240rqf",
@@ -5199,7 +5406,16 @@
         }
       ],
       "zIndex": 23,
-      "createdAt": "2026-09-07T21:09:26.430Z"
+      "createdAt": "2026-09-07T21:09:26.430Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815366724-tt1m4kah",
@@ -5259,7 +5475,16 @@
         }
       ],
       "zIndex": 24,
-      "createdAt": "2026-09-07T21:09:26.724Z"
+      "createdAt": "2026-09-07T21:09:26.724Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815366970-hrqydsvq",
@@ -5277,7 +5502,16 @@
         }
       ],
       "zIndex": 25,
-      "createdAt": "2026-09-07T21:09:26.970Z"
+      "createdAt": "2026-09-07T21:09:26.970Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815367444-j7d1epot",
@@ -5619,7 +5853,16 @@
         }
       ],
       "zIndex": 26,
-      "createdAt": "2026-09-07T21:09:27.444Z"
+      "createdAt": "2026-09-07T21:09:27.444Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815368074-tovmd3yu",
@@ -5931,7 +6174,16 @@
         }
       ],
       "zIndex": 27,
-      "createdAt": "2026-09-07T21:09:28.074Z"
+      "createdAt": "2026-09-07T21:09:28.074Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815368658-ezswjrpi",
@@ -6117,7 +6369,16 @@
         }
       ],
       "zIndex": 28,
-      "createdAt": "2026-09-07T21:09:28.658Z"
+      "createdAt": "2026-09-07T21:09:28.658Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815369146-d2w3ytnz",
@@ -6231,7 +6492,16 @@
         }
       ],
       "zIndex": 29,
-      "createdAt": "2026-09-07T21:09:29.146Z"
+      "createdAt": "2026-09-07T21:09:29.146Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815369400-hc8wdpf5",
@@ -6471,7 +6741,16 @@
         }
       ],
       "zIndex": 30,
-      "createdAt": "2026-09-07T21:09:29.401Z"
+      "createdAt": "2026-09-07T21:09:29.401Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815373457-wbiyb53t",
@@ -6711,7 +6990,16 @@
         }
       ],
       "zIndex": 31,
-      "createdAt": "2026-09-07T21:09:33.457Z"
+      "createdAt": "2026-09-07T21:09:33.457Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815374221-xebokuz7",
@@ -6855,7 +7143,16 @@
         }
       ],
       "zIndex": 32,
-      "createdAt": "2026-09-07T21:09:34.221Z"
+      "createdAt": "2026-09-07T21:09:34.221Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815375400-9z1go8xj",
@@ -7101,7 +7398,16 @@
         }
       ],
       "zIndex": 33,
-      "createdAt": "2026-09-07T21:09:35.400Z"
+      "createdAt": "2026-09-07T21:09:35.400Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815375932-w0y0uqg6",
@@ -7209,7 +7515,16 @@
         }
       ],
       "zIndex": 34,
-      "createdAt": "2026-09-07T21:09:35.932Z"
+      "createdAt": "2026-09-07T21:09:35.932Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815376277-dkjic32v",
@@ -7407,7 +7722,16 @@
         }
       ],
       "zIndex": 35,
-      "createdAt": "2026-09-07T21:09:36.277Z"
+      "createdAt": "2026-09-07T21:09:36.277Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815377642-ojdoexpl",
@@ -7611,7 +7935,16 @@
         }
       ],
       "zIndex": 36,
-      "createdAt": "2026-09-07T21:09:37.642Z"
+      "createdAt": "2026-09-07T21:09:37.642Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815378241-bzm9pil3",
@@ -7719,7 +8052,16 @@
         }
       ],
       "zIndex": 37,
-      "createdAt": "2026-09-07T21:09:38.241Z"
+      "createdAt": "2026-09-07T21:09:38.241Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815378626-y63cjxi4",
@@ -7941,7 +8283,16 @@
         }
       ],
       "zIndex": 38,
-      "createdAt": "2026-09-07T21:09:38.626Z"
+      "createdAt": "2026-09-07T21:09:38.626Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815379226-m8z6x462",
@@ -8211,7 +8562,16 @@
         }
       ],
       "zIndex": 39,
-      "createdAt": "2026-09-07T21:09:39.226Z"
+      "createdAt": "2026-09-07T21:09:39.226Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815379977-4r7055pl",
@@ -8517,7 +8877,16 @@
         }
       ],
       "zIndex": 40,
-      "createdAt": "2026-09-07T21:09:39.977Z"
+      "createdAt": "2026-09-07T21:09:39.977Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815380531-ym92aztg",
@@ -8613,7 +8982,16 @@
         }
       ],
       "zIndex": 41,
-      "createdAt": "2026-09-07T21:09:40.531Z"
+      "createdAt": "2026-09-07T21:09:40.531Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815381176-e29m5f9i",
@@ -8889,7 +9267,16 @@
         }
       ],
       "zIndex": 42,
-      "createdAt": "2026-09-07T21:09:41.176Z"
+      "createdAt": "2026-09-07T21:09:41.176Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815381909-k62uouqc",
@@ -8997,7 +9384,16 @@
         }
       ],
       "zIndex": 43,
-      "createdAt": "2026-09-07T21:09:41.909Z"
+      "createdAt": "2026-09-07T21:09:41.909Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815382236-jrilci61",
@@ -9021,7 +9417,16 @@
         }
       ],
       "zIndex": 44,
-      "createdAt": "2026-09-07T21:09:42.236Z"
+      "createdAt": "2026-09-07T21:09:42.236Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815382488-acqez3r1",
@@ -9165,7 +9570,16 @@
         }
       ],
       "zIndex": 45,
-      "createdAt": "2026-09-07T21:09:42.488Z"
+      "createdAt": "2026-09-07T21:09:42.488Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815382877-97ynf1y7",
@@ -9267,7 +9681,16 @@
         }
       ],
       "zIndex": 46,
-      "createdAt": "2026-09-07T21:09:42.877Z"
+      "createdAt": "2026-09-07T21:09:42.877Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815383156-sl7l9z9g",
@@ -9285,7 +9708,16 @@
         }
       ],
       "zIndex": 47,
-      "createdAt": "2026-09-07T21:09:43.156Z"
+      "createdAt": "2026-09-07T21:09:43.156Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815383410-o6vshoc0",
@@ -9549,7 +9981,16 @@
         }
       ],
       "zIndex": 48,
-      "createdAt": "2026-09-07T21:09:43.410Z"
+      "createdAt": "2026-09-07T21:09:43.410Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815383936-minc55xq",
@@ -9675,7 +10116,16 @@
         }
       ],
       "zIndex": 49,
-      "createdAt": "2026-09-07T21:09:43.936Z"
+      "createdAt": "2026-09-07T21:09:43.936Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815384295-gtqdxggu",
@@ -10035,7 +10485,16 @@
         }
       ],
       "zIndex": 50,
-      "createdAt": "2026-09-07T21:09:44.295Z"
+      "createdAt": "2026-09-07T21:09:44.295Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815384961-uza4l9rt",
@@ -10299,7 +10758,16 @@
         }
       ],
       "zIndex": 51,
-      "createdAt": "2026-09-07T21:09:44.961Z"
+      "createdAt": "2026-09-07T21:09:44.961Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815385449-yd6uz1t8",
@@ -10401,7 +10869,16 @@
         }
       ],
       "zIndex": 52,
-      "createdAt": "2026-09-07T21:09:45.449Z"
+      "createdAt": "2026-09-07T21:09:45.449Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     },
     {
       "id": "stroke-1788815385886-cumgdaqn",
@@ -10641,7 +11118,16 @@
         }
       ],
       "zIndex": 53,
-      "createdAt": "2026-09-07T21:09:45.886Z"
+      "createdAt": "2026-09-07T21:09:45.886Z",
+      "inkSettings": {
+        "thinning": 0.5,
+        "streamline": 0.5,
+        "smoothing": 0.5,
+        "easing": "linear",
+        "taperStart": 0,
+        "taperEnd": 0,
+        "pressureMode": "auto"
+      }
     }
   ],
   "eraserPaths": [],
