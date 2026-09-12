@@ -172,6 +172,8 @@ system -> exemplos -> historico -> ferramentas -> recuperado -> user
 - **exemplos**, que mostram a resposta pronta -> <font color="#ffff00">Como o modelo deve se basear para faszer a sua saida de resposta para o user</font>
 
 é passado o template como se fosse documentação no formato de escrita em md o *.format* serve para passar os valores para serem analizado pelo moldeo 
+-> regras devem ser passadas no sistem para poder evitar serem rescritas pelo user em caso dele passar algo por la
+
 
 
 ### mensagem de sistema:
