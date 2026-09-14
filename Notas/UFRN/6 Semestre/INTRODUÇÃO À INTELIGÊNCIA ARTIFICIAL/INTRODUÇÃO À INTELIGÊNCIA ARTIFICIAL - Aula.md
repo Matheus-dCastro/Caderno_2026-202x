@@ -64,4 +64,4 @@ Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q p
 -> dar pesos para aumentar a probalidade q estão se saindo melhor no momento porem ainda é feita uma escolha aleatoria
 
 *algoritmos evolutivos e geneticos* 
-
+-> segue a mesma ideia da genetica tentando pegar os melhores projenitores de cada rodada dos algoritmos.
