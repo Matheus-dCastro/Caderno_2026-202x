@@ -57,3 +57,11 @@ o algotmo da estrela pode ser interpretado como uma versão com um plus do da bu
 um no ja fechado pode ser reusado a depender do estado atual
 <mark style="background:#9254de">euristica dimisivel </mark>
 
+# Aula 07: Busca em Ambientes Complexos parte 02:
+
+Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q parte dele é inserido em tempo real por ex
+*nem sempre excolher de forma imediatista* 
+-> dar pesos para aumentar a probalidade q estão se saindo melhor no momento porem ainda é feita uma escolha aleatoria
+
+*algoritmos evolutivos e geneticos* 
+
