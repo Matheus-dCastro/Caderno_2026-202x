@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c769e54573f3af",
+        "id": "fc6c9dea7b7c72cc",
         "type": "tabs",
         "children": [
           {
-            "id": "84442cc78674694e",
+            "id": "f259fe02101c4baa",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APRENDIZADO PROFUNDO - Aulas"
             }
           }
         ]
@@ -290,7 +294,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "84442cc78674694e",
+  "active": "f259fe02101c4baa",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",

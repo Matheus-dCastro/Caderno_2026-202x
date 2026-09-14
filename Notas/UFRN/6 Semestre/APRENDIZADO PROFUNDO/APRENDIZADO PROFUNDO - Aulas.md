@@ -99,3 +99,7 @@ pode ser continua e descontinua contado q esteja em um espaço medio compacto
 Revisão de tensor inicial
 
 Revisar OO, revisar tensorflow, revisar estrutura de camadas de um neural network,
+
+# Aula do dia 14/09
+### Estabilidade e Treinamento:
+
