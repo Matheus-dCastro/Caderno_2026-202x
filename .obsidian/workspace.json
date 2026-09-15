@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fc6c9dea7b7c72cc",
+        "id": "248b7a0724af71be",
         "type": "tabs",
         "children": [
           {
-            "id": "f259fe02101c4baa",
+            "id": "a00926c30049f9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+                "file": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APRENDIZADO PROFUNDO - Aulas"
+              "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
           },
           {
-            "id": "3ff750fc910fe125",
+            "id": "566fe719f0c6a2cf",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "1ed968a4fc51e0a6",
+            "id": "afec988a621f8b8d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -305,8 +305,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "3ff750fc910fe125",
+  "active": "566fe719f0c6a2cf",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
@@ -347,7 +348,6 @@
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "conflict-files-obsidian-git.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",

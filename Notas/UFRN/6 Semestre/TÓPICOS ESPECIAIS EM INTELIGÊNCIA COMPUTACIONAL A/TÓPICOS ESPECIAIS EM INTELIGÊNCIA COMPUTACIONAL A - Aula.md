@@ -208,3 +208,7 @@ Pensar nas sequências de passos antes e com a entrada de dados revisar essas se
 
 Usar agentes diferentes um para gerar outro para revisar
 loops é oq dar autonomia aos agentes 
+
+
+# Revisão para prova da U01:
+
