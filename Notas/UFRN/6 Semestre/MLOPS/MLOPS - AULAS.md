@@ -54,4 +54,6 @@ Broker para gerenciar a fila de dados: Filas para processamento assincrono. (eve
 ***Apache AriFlow*** -> apenas Tarefaças sequênciais não tem tarefaças ciclicas. 
 - de forma direcional. 
 - *dag*: Organiza e define o floxo de trabalho de um pipeline.
-- 
+
+# Aula 06:
+
