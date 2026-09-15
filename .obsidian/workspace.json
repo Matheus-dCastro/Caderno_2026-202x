@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc724baa217ef3e",
+        "id": "3c52dcf909da0f6e",
         "type": "tabs",
-        "dimension": 65.1639344262295,
         "children": [
           {
-            "id": "f3a383610b1302e9",
+            "id": "bf02b074b65e353b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/MLOPS/6 - Gerenciamento de workflows com Airflow.pdf",
-                "page": 5,
-                "left": -3,
-                "top": 202,
-                "zoom": 1.15
-              },
-              "icon": "lucide-file-text",
-              "title": "6 - Gerenciamento de workflows com Airflow"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a25600e72e17bb4d",
-        "type": "tabs",
-        "dimension": 34.83606557377049,
-        "children": [
-          {
-            "id": "2a2d0178159e996d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MLOPS - AULAS"
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ]
@@ -91,7 +63,7 @@
             }
           },
           {
-            "id": "afec988a621f8b8d",
+            "id": "7604699c9310aa7d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -318,7 +290,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "2a2d0178159e996d",
+  "active": "bf02b074b65e353b",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/MLOPS/6 - Gerenciamento de workflows com Airflow.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
