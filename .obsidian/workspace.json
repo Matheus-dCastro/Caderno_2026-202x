@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "APRENDIZADO PROFUNDO - Aulas"
             }
+          },
+          {
+            "id": "3ff750fc910fe125",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "6530da5451441e66",
+            "id": "1ed968a4fc51e0a6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -294,7 +305,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f259fe02101c4baa",
+  "active": "3ff750fc910fe125",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
