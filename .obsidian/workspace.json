@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
+          },
+          {
+            "id": "e5f4a16f98bd1699",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
             }
           },
           {
-            "id": "38c4c4b3d2d543af",
+            "id": "4f46ebdc56abff24",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -294,7 +305,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "b294a9de83c010ae",
+  "active": "e5f4a16f98bd1699",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "StickyNotes/2026/2026-06-04.md",
