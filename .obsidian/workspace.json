@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c52dcf909da0f6e",
+        "id": "6f76cada237c07ae",
         "type": "tabs",
         "children": [
           {
-            "id": "bf02b074b65e353b",
+            "id": "b294a9de83c010ae",
             "type": "leaf",
             "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula"
             }
           }
         ]
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "7604699c9310aa7d",
+            "id": "bae707699d81801c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -290,11 +294,12 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bf02b074b65e353b",
+  "active": "b294a9de83c010ae",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
+    "StickyNotes/2026/2026-06-04.md",
     "Notas/UFRN/6 Semestre/MLOPS/6 - Gerenciamento de workflows com Airflow.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
@@ -307,7 +312,6 @@
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
-    "StickyNotes/2026/2026-06-04.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
     "BANCO DE DADOS - AULA-1788902832791.webp",
