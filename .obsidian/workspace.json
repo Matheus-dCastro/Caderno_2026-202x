@@ -17,7 +17,7 @@
                 "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula_02.pdf",
                 "page": 18,
                 "left": -30,
-                "top": 298,
+                "top": 303,
                 "zoom": 0.5072916666666667
               },
               "icon": "lucide-file-text",
@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "4f46ebdc56abff24",
+            "id": "f3089ea0153ad942",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -314,10 +314,7 @@
       "colorful-stickynotes:Sticky workspaces": false,
       "freedraw-pdf:Toggle annotation mode on active PDF": false,
       "freedraw-pdf:Create blank annotatable PDF": false,
-      "obsidian-importer:Importar notas": false,
-      "notes-explorer:Notes explorer": false,
-      "pdf-notes:PDF.notes": false,
-      "pdf-notes:PDF.notes (New blank file)": false
+      "obsidian-importer:Importar notas": false
     }
   },
   "active": "16fd0f26e7ab1d45",
