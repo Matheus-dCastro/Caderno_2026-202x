@@ -65,3 +65,6 @@ Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q p
 
 *algoritmos evolutivos e geneticos* 
 -> segue a mesma ideia da genetica tentando pegar os melhores projenitores de cada rodada dos algoritmos.
+
+
+# Aula 08: 
