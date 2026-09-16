@@ -132,3 +132,7 @@ Dependecias de junção cria uma tabela para junta as coisas q foram decompostas
 tabela original separa em sub-tabelas menores(projeção)
 depois une novamente em uma nova tabela q **não** é a original criando novas linhas na tabela agregando novas infos
 
+### Modelo ER e construção de um ERD:
+
+Como será a modelagem tanto conceitual quando funcional.
+
