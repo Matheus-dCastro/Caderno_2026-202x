@@ -110,3 +110,4 @@ Revisar OO, revisar tensorflow, revisar estrutura de camadas de um neural networ
 
 
 # Aula do dia 16/09:
+
