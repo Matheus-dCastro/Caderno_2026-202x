@@ -116,3 +116,5 @@ no processo de zera as coisa => como se parace de fazer os neuronios vissar com 
 *L1:* vai levar varias features a zero e ficar relamente somente com oq é mais relavante
 
 *adamW:* faz com que ele reduza erro de validação e serve para otimizar o aprendizado do modelo
+*dropout:* para reduzir a redundancia -> aumenta a variancia dos dados
+
