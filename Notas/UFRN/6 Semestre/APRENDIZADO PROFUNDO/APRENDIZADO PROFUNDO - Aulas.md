@@ -107,3 +107,6 @@ Revisar OO, revisar tensorflow, revisar estrutura de camadas de um neural networ
 ***liner -> BN -> ReLu*** a ordem mais aceita para as camadas de ativação. 
 <font color="#00b050">queremos sempre evitar picos</font>  
 **Clipping por normal e valor** tenta evitar a exposisão do gradiente limitando o tamanho maximo do vetor reduzida tambem o custo -> Durante o treinamento da rede neural.
+
+
+# Aula do dia 16/09:
