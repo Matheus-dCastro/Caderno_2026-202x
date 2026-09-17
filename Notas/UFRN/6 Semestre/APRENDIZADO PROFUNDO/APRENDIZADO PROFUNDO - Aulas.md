@@ -111,3 +111,8 @@ Revisar OO, revisar tensorflow, revisar estrutura de camadas de um neural networ
 
 # Aula do dia 16/09:
 
+no processo de zera as coisa => como se parace de fazer os neuronios vissar com as coisas
+*L2:* tende a condesar as coisas no ponto zero mais n zerar
+*L1:* vai levar varias features a zero e ficar relamente somente com oq é mais relavante
+
+*adamW:* faz com que ele reduza erro de validação e serve para otimizar o aprendizado do modelo
