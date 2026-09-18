@@ -118,3 +118,9 @@ no processo de zera as coisa => como se parace de fazer os neuronios vissar com 
 *adamW:* faz com que ele reduza erro de validação e serve para otimizar o aprendizado do modelo
 *dropout:* para reduzir a redundancia -> aumenta a variancia dos dados
 
+
+
+# Revisão para prova da unidade 01:
+
+#### Revisão matematica:
+representramos dados como vetores assim podemos representar dados muito complexos de maneira simples e estruturada, oq permite a mdelos serem mais eficiente na hora de interpretar dados.

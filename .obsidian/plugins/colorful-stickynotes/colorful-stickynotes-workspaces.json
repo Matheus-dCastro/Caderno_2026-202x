@@ -25,9 +25,26 @@
           "color": "lavender",
           "markdownMode": "source",
           "open": false
+        },
+        {
+          "id": "a367dd9f-ea97-4790-bf81-991a97a2cbae",
+          "path": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
+          "stickyId": "a367dd9f-ea97-4790-bf81-991a97a2cbae",
+          "bounds": {
+            "left": 667,
+            "top": 350,
+            "width": 420,
+            "height": 360
+          },
+          "collapsed": false,
+          "hidden": false,
+          "stretched": false,
+          "bindings": [],
+          "yamlVisible": false,
+          "open": false
         }
       ],
-      "updatedAt": 1789501879265
+      "updatedAt": 1789739736704
     }
   ],
   "trash": []

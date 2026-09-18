@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f62c19049b2db636",
+        "id": "92fad4ebaa947abe",
         "type": "tabs",
         "children": [
           {
-            "id": "63ad7622ee8eef37",
+            "id": "c6f791f6d89505a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relatorio"
+              "title": "APRENDIZADO PROFUNDO - Aulas"
             }
           }
         ]
@@ -293,43 +293,84 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "63ad7622ee8eef37",
+  "floating": {
+    "id": "dca580e2021aae82",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4aa52ae3b564befd",
+        "type": "window",
+        "children": [
+          {
+            "id": "659cdd0b0c5ffdd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53d50bd04f42ed40",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
+                    "page": 5,
+                    "left": -10,
+                    "top": 38,
+                    "zoom": 1.771875
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "02._Reviso_Matemtica"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 16,
+        "y": 10,
+        "width": 1059,
+        "height": 1144,
+        "maximize": true,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu233872cylp.tmp",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu230452cj6g.tmp",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/06._Otimizadores.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu227122c5i7.tmp",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/05._Backpropagation_e_Diferenciao_Automtica.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu224202brqw.tmp",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Casa.md",
+    "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
     "Relatorio-1789698449810.webp",
     "Relatorio-1789698199500.webp",
     "Relatorio-1789698199499.webp",
     "Notas/UFRN/6 Semestre/MLOPS/Screenshot from 2026-09-17 20-43-141.png",
     "Notas/UFRN/6 Semestre/MLOPS/Screenshot from 2026-09-17 22-33-33.png",
     "Notas/UFRN/6 Semestre/MLOPS/Screenshot from 2026-09-17 20-43-14.png",
-    "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
-    "Notas/UFRN/6 Semestre/MLOPS/relatorio.ipynb",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Excalidraw/Drawing 2026-09-17 08.28.05.excalidraw.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula_02.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/07._Planejamento_e_Reflexo.pdf",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf",
     "StickyNotes/2026/2026-06-04.md",
-    "Notas/UFRN/6 Semestre/MLOPS/6 - Gerenciamento de workflows com Airflow.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
     "BANCO DE DADOS - AULA-1789076075472.webp",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf.annot.json",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/lista_01_-_Bancos_de_Dados.pdf",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
     "BANCO DE DADOS - AULA-1788902832791.webp",
     "BANCO DE DADOS - AULA-1788902728492.webp",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
     "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788816732783.webp",
-    "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815569240.webp",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/slides de aula U1.md",
     "Notas/UFRN/6 Semestre/IEEE/IEEE.md",
     "Excalidraw/Drawing 2026-09-06 19.18.52.excalidraw.md",
@@ -340,7 +381,6 @@
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
