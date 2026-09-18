@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c595122b48d62ce",
+        "id": "f62c19049b2db636",
         "type": "tabs",
         "children": [
           {
-            "id": "640d4a5ddf9b8652",
+            "id": "63ad7622ee8eef37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Relatorio"
             }
           }
         ]
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "a864f49231ffa48d",
+            "id": "50c4d24580fc01eb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -289,8 +293,17 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "640d4a5ddf9b8652",
+  "active": "63ad7622ee8eef37",
   "lastOpenFiles": [
+    "Relatorio-1789698449810.webp",
+    "Relatorio-1789698199500.webp",
+    "Relatorio-1789698199499.webp",
+    "Notas/UFRN/6 Semestre/MLOPS/Screenshot from 2026-09-17 20-43-141.png",
+    "Notas/UFRN/6 Semestre/MLOPS/Screenshot from 2026-09-17 22-33-33.png",
+    "Notas/UFRN/6 Semestre/MLOPS/Screenshot from 2026-09-17 20-43-14.png",
+    "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
+    "Notas/UFRN/6 Semestre/MLOPS/relatorio.ipynb",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Excalidraw/Drawing 2026-09-17 08.28.05.excalidraw.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
@@ -314,19 +327,13 @@
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula1_-_Banco_de_Dados.pdf",
     "BANCO DE DADOS - AULA-1788902832791.webp",
     "BANCO DE DADOS - AULA-1788902728492.webp",
-    "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/03._Prompt_Engineering_e_Contexto.pdf",
     "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788816732783.webp",
     "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815569240.webp",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/Slides/02_-_Modelos_de_Linguagem_e_LLMs.pdf.annot.json",
-    "TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula-1788815138826.webp",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/slides de aula U1.md",
     "Notas/UFRN/6 Semestre/IEEE/IEEE.md",
     "Excalidraw/Drawing 2026-09-06 19.18.52.excalidraw.md",
-    "APRENDIZADO POR REFORÇO - Aulas-1788733017750.webp",
-    "APRENDIZADO POR REFORÇO - Aulas-1788732838445.webp",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
-    "Lista 01 da Unidade 01-1788650199295.webp",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Drawing 2026-09-03 21.13.38.excalidraw.md",
     "Excalidraw/Teorema de Bayes.excalidraw.md",
     "Excalidraw/Drawing 2026-09-03 21.05.09.excalidraw.md",
@@ -334,9 +341,6 @@
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
     "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
     "conflict-files-obsidian-git.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Book-Mathematical-Foundation-of-Reinforcement-Learning/Code for grid world/python_version/plots/sample4.png",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
