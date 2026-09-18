@@ -311,14 +311,14 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
-                    "page": 18,
+                    "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
+                    "page": 3,
                     "left": -10,
-                    "top": 412,
+                    "top": 409,
                     "zoom": 1.771875
                   },
                   "icon": "lucide-file-text",
-                  "title": "02._Reviso_Matemtica"
+                  "title": "03._Modelos_Lineares"
                 }
               }
             ]
@@ -334,10 +334,11 @@
       }
     ]
   },
-  "active": "c6f791f6d89505a7",
+  "active": "53d50bd04f42ed40",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu233872cylp.tmp",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
@@ -346,7 +347,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu227122c5i7.tmp",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/05._Backpropagation_e_Diferenciao_Automtica.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu224202brqw.tmp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Casa.md",
     "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
     "Relatorio-1789698449810.webp",

@@ -142,4 +142,16 @@ essas camadas fazem necessario q eu coloque uma camada de n lineareidade para au
 **Distancia entre vetores:** mede o quanto duas informações estão proximas ou o quanto elas se diferem no espaço das features
 -> 
 	Norma:
-		- L2, Euclidiana: 
+		- L2, Euclidiana: distancia em linha reta 
+		- L1, Manhattan: deslocamento em uma grade
+		- L $\infty$, Chebyshev: a coordenada que mais separa
+*O numero devolvido pela operação ja classifia a relação entre os dois vetore (as contas são feitas em tuplas de pares)*
+
+**Zero:** ortogonaiz
+**Positivo:** direção semelhante
+**Negativo:** direções opostas
+
+#### 03 Modelos Lineares:
+
+**Linearidade:** 
+	- **
