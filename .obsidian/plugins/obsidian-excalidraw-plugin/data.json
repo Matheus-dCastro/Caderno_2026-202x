@@ -9,7 +9,7 @@
   "libraryFolderPath": "Excalidraw/Libraries",
   "libraryFileName": "local-library",
   "libraryStorageMode": "data-json",
-  "libraryMigrationStatus": "pending",
+  "libraryMigrationStatus": "opted-out",
   "libraryMigrationSnoozeUntil": 0,
   "cropFolder": "",
   "annotateFolder": "",
@@ -126,7 +126,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag2.23.12",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.27.3",
     "libraryItems": [
       {
         "status": "unpublished",

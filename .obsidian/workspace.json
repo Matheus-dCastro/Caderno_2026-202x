@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a8edc2dceb0fcac8",
+        "id": "3c595122b48d62ce",
         "type": "tabs",
         "children": [
           {
-            "id": "a1780e1095b7996a",
+            "id": "640d4a5ddf9b8652",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APRENDIZADO PROFUNDO - Aulas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "1615610b6540932a",
+            "id": "a864f49231ffa48d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -293,8 +289,10 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "a1780e1095b7996a",
+  "active": "640d4a5ddf9b8652",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+    "Excalidraw/Drawing 2026-09-17 08.28.05.excalidraw.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Aula_02.pdf",
@@ -305,7 +303,6 @@
     "StickyNotes/2026/2026-06-04.md",
     "Notas/UFRN/6 Semestre/MLOPS/6 - Gerenciamento de workflows com Airflow.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf",
     "BANCO DE DADOS - AULA-1789076075472.webp",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/aula_2.pdf.annot.json",
