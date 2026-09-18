@@ -124,3 +124,22 @@ no processo de zera as coisa => como se parace de fazer os neuronios vissar com 
 
 #### Revisão matematica:
 representramos dados como vetores assim podemos representar dados muito complexos de maneira simples e estruturada, oq permite a mdelos serem mais eficiente na hora de interpretar dados.
+as matrizes sao dataframes q ajudando a tornar o uso desses dados mais leves desde numericos literais imagens e afins
+
+atravez dos espaços vetoriais podemos abstrair a ideia de aproximação entre os pontos oq ira convergir na ideia de um RAG assim ideias parecidas tenderam a se acumular mais proximas uma das outras (a distancia entre vetore e seus angulos passam a ser dados de analise para o modelo)
+
+- **Combinação Linear e Subespaço Gerado (Span):**
+	- **Combinação Linear:** É a soma ponderada de vetores ($c_1 v_1 + c_2 v_2 + \dots + c_k v_k$), onde os números $c_i$ multiplicam (esticam, encolhem ou invertem) cada vetor antes de somar.
+	- **Subespaço Gerado:** É o conjunto de **todas** as combinações lineares possíveis que aquele grupo de vetores consegue formar. É todo o "território" (linha, plano 2D, volume 3D) que você consegue cobrir brincando com esses multiplicadores.
+	- **Conexão com Redes Neurais (Camada Densa):**
+		- Uma camada linear apenas calcula combinações lineares das entradas, onde os **pesos ($W$)** são justamente esses coeficientes.
+		- Se você empilhar várias camadas lineares puras sem ativação no meio, o resultado continua sendo apenas uma combinação linear (a rede fica presa no mesmo subespaço plano).
+		- **Por isso a não-linearidade (ReLU, etc.) é obrigatória:** ela quebra essa restrição e deforma o espaço para a rede conseguir separar dados complexos.
+
+essas camadas fazem necessario q eu coloque uma camada de n lineareidade para aumentar a variança das probabilidades do emberdings
+
+**Norma:** mede o tamanho do vetor ou seja o tamanho de sua informação
+**Distancia entre vetores:** mede o quanto duas informações estão proximas ou o quanto elas se diferem no espaço das features
+-> 
+	Norma:
+		- L2, Euclidiana: 
