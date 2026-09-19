@@ -6,6 +6,28 @@
       {
         "id": "92fad4ebaa947abe",
         "type": "tabs",
+        "dimension": 57.84543325526932,
+        "children": [
+          {
+            "id": "53d50bd04f42ed40",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "03._Modelos_Lineares"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b33b26f7e30e35f",
+        "type": "tabs",
+        "dimension": 42.15456674473068,
         "children": [
           {
             "id": "c6f791f6d89505a7",
@@ -67,7 +89,7 @@
             }
           },
           {
-            "id": "cb4506e065e4e771",
+            "id": "06596b7cbdcc26df",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -293,51 +315,10 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "floating": {
-    "id": "dca580e2021aae82",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4aa52ae3b564befd",
-        "type": "window",
-        "children": [
-          {
-            "id": "659cdd0b0c5ffdd3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "53d50bd04f42ed40",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
-                    "page": 3,
-                    "left": -8,
-                    "top": 395,
-                    "zoom": 1.771875
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "03._Modelos_Lineares"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 16,
-        "y": 10,
-        "width": 1059,
-        "height": 1144,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "53d50bd04f42ed40",
+  "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu233872cylp.tmp",

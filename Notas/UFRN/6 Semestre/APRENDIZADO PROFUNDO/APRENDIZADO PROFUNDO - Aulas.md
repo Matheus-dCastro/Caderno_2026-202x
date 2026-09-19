@@ -154,4 +154,26 @@ essas camadas fazem necessario q eu coloque uma camada de n lineareidade para au
 #### 03 Modelos Lineares:
 
 **Linearidade:** 
-	- **
+	- *Aditividdade:* a soma das transformação é igual a transformação das somas
+	- *Homogeneidade:* Escalar a entrada escala a saida igualmente
+
+**Supõe que a saida é uma combinação linear das entradas mais um deslocamento.**
+
+A fronteira entre os dados é sempre um hiperplano.
+
+O modelo opera com 3 pontos importantes:
+
+Entrada
+pesos
+vies
+
+*Pré-ativação e ativação:*
+
+Pre: lado linear do modelo é onde passamos os parametros
+ativaçãao: a parte não linear que decide q tipo de saida o neuronio irá produzir
+
+
+Na ativação pode trabalhar com duas funções
+a de identidade onde sera qualquer valor real -> regressao linear
+sigmoid trabalhar entre 0 e 1 e faz uma regressão logistica
+
