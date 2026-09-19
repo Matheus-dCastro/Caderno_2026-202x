@@ -186,3 +186,13 @@ ele faz isso ao quadrado para q possa penalizar erro ainda maiores mais q propor
 e usa a media para tornar o valor de erro comparavel entre os conjuntos de sizes diferente
 
 # Parametros
+
+uso do gradiente => vetor das derivadas parciais do custo em relação a cada paramentro escolhido pelo modelo apontando para direção de maior  crescimento -> aponta para o crescimento do erro do modelo
+
+o Gradiente *Descendente*  funciona atualizando cada valor por cada passo q o modelo usa na direção oposta ao do gradiente ate q o custo do modelo parar de cair -> usa para tentar dinimiuir o erro do modelo
+
+
+**O passo para esses dois casos é usado apartir do hiperparamento da taxa de aprendizado do modelo**
+-> ==sendo esse o valor mais senssivel durante o treino do modelo==
+
+**A parada é oq define o numero maximo de epocas **
