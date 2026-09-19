@@ -14,14 +14,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
-                "page": 13,
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
+                "page": 1,
                 "left": -18,
-                "top": 19,
+                "top": 409,
                 "zoom": 0.9760416666666667
               },
               "icon": "lucide-file-text",
-              "title": "03._Modelos_Lineares"
+              "title": "04._Redes_Neurais"
             }
           }
         ]
@@ -319,6 +319,7 @@
   },
   "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",

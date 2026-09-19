@@ -195,4 +195,30 @@ o Gradiente *Descendente*  funciona atualizando cada valor por cada passo q o mo
 **O passo para esses dois casos é usado apartir do hiperparamento da taxa de aprendizado do modelo**
 -> ==sendo esse o valor mais senssivel durante o treino do modelo==
 
-**A parada é oq define o numero maximo de epocas **
+**A parada é oq define o numero maximo de epocas ou o custo abaixo de um limiar**
+
+quanto maior a taxa de aprendizado, mais a chance do modelo ser burro quanto menor mais a chance dele decorar 
+
+a regreção logisca pode ser usar para classicar as coisas em classes e preve essas classes
+a regressao linear pode ser usar para prever valores e classificar esses valores
+
+#### A função sigmoid:
+
+a função opera entre -1 a 1 pela derivada da probabilidade da entradas
+-> a saida vira probabilidade
+-> a derivada é barata
+
+**Fronteira de decisão:** recorte de um hiperplano para clusterizar os dados recebidos 
+**Verossimilhança:** quão plausivel é este modelo (o quanto esse modelo tem de qualidade ou qual seria a qualidade desse modelo)
+
+
+*Estimação:* escolhemos parametros para aumentar maximizar a verossimilhaça
+
+
+para resolver problemas com hiper planos podemos 
+ou aumentar o hiperplano e achar um forma de passar a faca nele e achar um reta q o desenhe ou podemos dobrar os dados assim iremos achar uma resposta sem precisar gasta processamento subindo os dados
+
+separamos o neuronio em dois a parte dos parametros da parte de ativação -> que descide o tipo de saida 
+
+#### Redes neurais
+
