@@ -220,5 +220,15 @@ ou aumentar o hiperplano e achar um forma de passar a faca nele e achar um reta 
 
 separamos o neuronio em dois a parte dos parametros da parte de ativação -> que descide o tipo de saida 
 
+Conhecer os parametros de origem pode ser util para comparar no final oq cada metodo recuperou
+=> usa aqui bastante o MSE 
+quando pegamos a matriz de solução add uma matriz de 1 e multiplicamos pelo bias(vies) oq faz trazer ele para dentro do mesmo vetor $\theta$ 
+
+como as matrizes sao inversiveis as condiçoes tornam inviavel o metodo para milhes de parametros em uma rede neural
+
+os valores de vies add nessa matriz ficam proximos dos dados de geração mas a diferença é dada pelo ruido palicado 
+
+O logit percorre toda a reta real e a sigmoid traz esses numeros de volta a serem probabilidades
+
 #### Redes neurais
 
