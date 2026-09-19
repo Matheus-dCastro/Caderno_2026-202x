@@ -177,3 +177,12 @@ Na ativação pode trabalhar com duas funções
 a de identidade onde sera qualquer valor real -> regressao linear
 sigmoid trabalhar entre 0 e 1 e faz uma regressão logistica
 
+### Função de custo: erro quadratico médio
+
+o custo opera sobre um número ao quadrado e o modelo erra sobre esse conjunto inteiro
+
+ele faz isso ao quadrado para q possa penalizar erro ainda maiores mais q proporcionalmente e elimina o residou do sinal
+
+e usa a media para tornar o valor de erro comparavel entre os conjuntos de sizes diferente
+
+# Parametros
