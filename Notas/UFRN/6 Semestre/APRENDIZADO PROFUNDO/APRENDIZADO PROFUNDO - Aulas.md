@@ -239,3 +239,41 @@ O logit percorre toda a reta real e a sigmoid traz esses numeros de volta a sere
 **Vies (bies):** desloca as coisas sem depeder da entrada
 **Ativação:** uma função aplicado ao numero Z
 
+As camadas de neuronios possuem parametros proprios cada um com seu vies e nada entre essas camadas é compartilhado -> **CAMADA DENSA OU FULLY CONNECTED**
+
+as camadas ocultas sao camadas desensas q formam representaçoes *intermediarias* da entrada q n da para voltar e saia é a parte q o modelo devolvo do q ele produz
+
+Só é espeficicado da primeira camada e a saida dos dados ja processados mas nada entres eleas
+
+o uso da camada da função de ativação se da pq varias comadas lineares montam outra saida linear e o papel de ativação é impedir justamente q as matrizes se juntem em uma unica representração
+
+-> sigmoid= entre 0 e 1 -| vem de logistica e sai como probabilidede
+-> tanh= entre -1 e 1   -| da a camada seguinte valores de media nula
+
+tanto a sigmoid e tanh tem derivadas baratas de se produzir
+-> ReLu= entre 0 e $+\infty$  com a ReLu zera a parte negativa mante a parte ativa da rede q é somente realemente necessario para gerar o melhor conjunto de resposta do modelo
+
+
+a leaky da uma leve indicativa para o lado negativo ja a gelu é mas como uma curva zerando o lado negativo ao poucos => a ReLu ainda é o padrao de mais moderno no mercado 
+
+as camadas de redes multicamadas eles sao capazes de setar os proprios pesos assim a rede é capaz de escolher oq cada parametro irá representrar difente de antes q quem definia isso era quem desenhava/criava a rede oq além de mais autonomia traz mas desempenho aos modelo pois agora todas as camadas estao conectadas a todos os tipos de entrada de dados 
+
+O forward pass é o processo dos dados passarem cama a cama até produzir uma resposta 
+
+o broardcast é o processo de repetir o uso da matriz de vies porem se construir ela apartir de um matriz de 1s
+
+pega os logits coloca a um exponensial e depois normalizar pelo soma -> produs as K classes
+
+ele passa por
+	exponecial -> invariancia(processo da soma) -> estabilidade(subitrai o maior logit)
+
+quando a informação de um resultado cresce quando a probabilidade dele cai
+
+**O backpropagation:** se trata da regra da cadeia aplicada diretamento no forward pass
+	- a 1° guarda as ativações e a 2° passagem aplica a derivada no processo
+	- como o custo de voltar aplicando as derivadas custa quase o mesmo q guarda as coisas de ativação torna viavel treinar grandes redes
+
+_Em Resumo_ uma camada oculta ela opera sobre varias matrizes lineares sobre funções de ativação n lineares e é escrita como um grande produto de matrizes
+
+-> a softmax nos devolve a distrubuição dos dados e a cross entropia compara com os rotulos as saidas dos modelo
+
