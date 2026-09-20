@@ -14,7 +14,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf"
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
+                "page": 4,
+                "left": -18,
+                "top": 41,
+                "zoom": 0.9760416666666667
               },
               "icon": "lucide-file-text",
               "title": "04._Redes_Neurais"
@@ -316,8 +320,8 @@
   "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu233872cylp.tmp",
@@ -326,7 +330,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/06._Otimizadores.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu227122c5i7.tmp",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/05._Backpropagation_e_Diferenciao_Automtica.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu224202brqw.tmp",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Casa.md",
     "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
     "Relatorio-1789698449810.webp",

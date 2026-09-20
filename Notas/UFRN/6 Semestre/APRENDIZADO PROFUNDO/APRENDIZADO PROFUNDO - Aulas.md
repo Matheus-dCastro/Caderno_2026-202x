@@ -230,5 +230,12 @@ os valores de vies add nessa matriz ficam proximos dos dados de geração mas a 
 
 O logit percorre toda a reta real e a sigmoid traz esses numeros de volta a serem probabilidades
 
-#### Redes neurais
+## Redes neurais
+
+#### Inspiração neurocinetifica:
+
+**Entrada:** as n partes de um vetor X
+**Pesos:** será um por cada tipo de entrada medindo o quanto é significante para a informação final 
+**Vies (bies):** desloca as coisas sem depeder da entrada
+**Ativação:** uma função aplicado ao numero Z
 
