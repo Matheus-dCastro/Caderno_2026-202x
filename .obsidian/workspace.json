@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/05._Backpropagation_e_Diferenciao_Automtica.pdf",
-                "page": 1,
-                "left": -27,
-                "top": 409,
-                "zoom": 0.5916666666666668
+                "page": 2,
+                "left": -8,
+                "top": 150,
+                "zoom": 1.02
               },
               "icon": "lucide-file-text",
               "title": "05._Backpropagation_e_Diferenciao_Automtica"
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -318,9 +319,9 @@
   },
   "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-20 16.35.22.excalidraw.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/05._Backpropagation_e_Diferenciao_Automtica.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+    "Excalidraw/Drawing 2026-09-20 16.35.22.excalidraw.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
@@ -363,7 +364,6 @@
     "Excalidraw/Drawing 2026-09-03 21.05.09.excalidraw.md",
     "Excalidraw/Drawing 2026-08-20 08.44.43.excalidraw.md",
     "Excalidraw/Drawing 2026-04-14 15.15.05.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-08 19.47.10.excalidraw.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",

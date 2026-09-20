@@ -277,3 +277,9 @@ _Em Resumo_ uma camada oculta ela opera sobre varias matrizes lineares sobre fun
 
 -> a softmax nos devolve a distrubuição dos dados e a cross entropia compara com os rotulos as saidas dos modelo
 
+### Backpropagation:
+
+-> **Custo:** A função de perda mede o erro do q o modelo preveu errado
+	- os pesos variam 
+	- o exemplos de treino sao **in**variavies
+	- e foca em achar pesos q dexem o menor possivel o custo
