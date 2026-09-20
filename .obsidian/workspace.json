@@ -15,10 +15,8 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
-                "page": 4,
-                "left": -18,
-                "top": 41,
-                "zoom": 0.9760416666666667
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "04._Redes_Neurais"
@@ -91,7 +89,7 @@
             }
           },
           {
-            "id": "465b0e9a80d706d6",
+            "id": "70527094acfbf032",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
