@@ -283,3 +283,31 @@ _Em Resumo_ uma camada oculta ela opera sobre varias matrizes lineares sobre fun
 	- os pesos variam 
 	- o exemplos de treino sao **in**variavies
 	- e foca em achar pesos q dexem o menor possivel o custo
+
+
+##### Formas de diferenciação:
+
+**Simbolico:** aplica na expreção -> a expressão é refeita a cada mudaça
+**Numérico:** duas avaliações por peso e o resultado é aproximado -> pertuba o peso e ve o custo
+**Automático:** percorre um grafo -> guardao o valor do forward
+
+
+ *o resto do conteudo é baseado no metodo automático*
+
+cada fator é a derivada de uma etapa
+as cadeias ficam longas com quanto mais etapas encadeadas entram oq faz o produto ganhar mais fatores 
+
+a volta do forward é a multiplicação das derivadas por um fator por etapa (aqui é o inicio do backpropagation)
+
+
+***Fatores*** -> em relação a $W$ 
+- 1°depende apenas f.perda escolhida
+- 2° é a derivada da ativação avalianda na etapa de pre
+- 3° é a derivada da pre em relação aos pesos (a propria entrada)
+
+
+***Fatores*** -> em relação a $b$
+
+- 3° é a pre q depende do vies com coeficiente igual a 1 pq sera uma soma
+- **Conta reaproveitada** o produto entre o 1°e o 2°fator serve para o peso e o viés
+
