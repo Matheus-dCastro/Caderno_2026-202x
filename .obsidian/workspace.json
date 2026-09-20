@@ -15,10 +15,8 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/06._Otimizadores.pdf",
-                "page": 2,
-                "left": -16,
-                "top": 149,
-                "zoom": 0.99375
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "06._Otimizadores"
@@ -91,7 +89,7 @@
             }
           },
           {
-            "id": "70527094acfbf032",
+            "id": "f70c7031a82e5023",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
