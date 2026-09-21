@@ -348,3 +348,5 @@ O momento guada uma media das interações anteriores e seus caminhos
 *Himmelblau:* serve para ver a trajetorio de um problma cabendo a visualização em um grafico possue 4 minimos todos com o valor zero
 cristas e pontos de sela
 
+basicamente se escreve em ordem o numeros debaixo para cima pela len deles eu vou ter do mais lento ao mais rapido com as diferença entre seus comportamentos
+
