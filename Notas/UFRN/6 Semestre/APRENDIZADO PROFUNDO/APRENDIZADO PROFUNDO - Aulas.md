@@ -333,7 +333,7 @@ sinais oposto o passo se anula pense na sela de cavalo
 
 proximo a zero será o platô pense em um pato e o quando ele anda devagar e passo fica igual -> baixo
 
-**Batch** o gradiente sobre todo o volume dos dados se da de forma determinisitca e o passo estabiliza sobte o minimo -> cada passo se torna caro em um conjunto muito grande
+**Batch** o gradiente sobre todo o volume dos dados se da de forma determinisitca e o passo estabiliza sobee o minimo -> cada passo se torna caro em um conjunto muito grande
 
 **stochastic** o gradiente q vem de um ex sorteado tem maior variância e n fica estabilizado no minimo
 
