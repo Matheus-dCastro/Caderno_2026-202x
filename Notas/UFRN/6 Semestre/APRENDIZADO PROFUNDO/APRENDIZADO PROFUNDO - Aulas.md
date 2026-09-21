@@ -339,3 +339,12 @@ proximo a zero será o platô pense em um pato e o quando ele anda devagar e pas
 
 **Mini** quando vem de uma amostra provente de um sorteio, usado para o regime de treino e com a memoria limitada do acelerador
 
+#### Momentum 
+
+O momento guada uma media das interações anteriores e seus caminhos
+
+-> Adam combina a ideia do momentum em guardar o caminho da interações do gradiente descendetem como o MSE (Ambas as medidas começam em zero e depois se normalizam)
+
+*Himmelblau:* serve para ver a trajetorio de um problma cabendo a visualização em um grafico possue 4 minimos todos com o valor zero
+cristas e pontos de sela
+
