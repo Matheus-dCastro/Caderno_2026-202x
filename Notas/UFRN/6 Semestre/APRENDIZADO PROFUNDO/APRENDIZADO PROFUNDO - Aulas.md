@@ -311,3 +311,31 @@ a volta do forward é a multiplicação das derivadas por um fator por etapa (aq
 - 3° é a pre q depende do vies com coeficiente igual a 1 pq sera uma soma
 - **Conta reaproveitada** o produto entre o 1°e o 2°fator serve para o peso e o viés
 
+### Otimizadores:
+
+Minimo local: o ponto (passo de aprender) fica proximo e cresce em qualquer direção igualmente
+Plato: n diverge muito e o ponto n chega a esta em um minimo -> avança muito poucoo
+Vale: crece para em uma estremidade mais q outra o ponto fica no centro do vale ->
+Sela: o ponto n esta no minimo local e o formato fica com se fosse um chips de batata e o passo se anula
+
+curva para cima positiva 
+curva para baixo negativa
+curva reta nula
+
+
+a depender do angulo terá uma movimentação dos dados difetente a depender de como analisemos podemos ter uma curma mais ou menos asentuada e até diferente para o modelo se comportar 
+
+em um estado de minimo local o passo converge pense em um prato para cima
+
+em um estado de maximo local o passo diverge pense no mesmo prato so q de cabeça para baixo
+
+sinais oposto o passo se anula pense na sela de cavalo
+
+proximo a zero será o platô pense em um pato e o quando ele anda devagar e passo fica igual -> baixo
+
+**Batch** o gradiente sobre todo o volume dos dados se da de forma determinisitca e o passo estabiliza sobte o minimo -> cada passo se torna caro em um conjunto muito grande
+
+**stochastic** o gradiente q vem de um ex sorteado tem maior variância e n fica estabilizado no minimo
+
+**Mini** quando vem de uma amostra provente de um sorteio, usado para o regime de treino e com a memoria limitada do acelerador
+
