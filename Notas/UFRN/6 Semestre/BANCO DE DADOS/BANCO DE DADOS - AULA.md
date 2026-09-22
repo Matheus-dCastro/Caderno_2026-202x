@@ -136,3 +136,5 @@ depois une novamente em uma nova tabela q **não** é a original criando novas l
 
 Como será a modelagem tanto conceitual quando funcional.
 
+# Aula do dia 22.09
+
