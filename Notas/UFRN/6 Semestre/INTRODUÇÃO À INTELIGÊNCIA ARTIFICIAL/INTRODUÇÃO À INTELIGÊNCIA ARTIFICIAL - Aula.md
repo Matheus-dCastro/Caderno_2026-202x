@@ -83,5 +83,6 @@ Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q p
 podemos ter algumas abordagens:
 *Não informada:* explora sem ter conhecimento previo
 *Informada:* Utiliza conhecimento previo (heuristica)
+*Local e de otimização:* funciona como um algoritomo de busca em profundidade ou em largura
+*Adversarial:* seta o objetivo no player e faz o npc se mexer atraz do player
 
-*Local e de otimização:* 
