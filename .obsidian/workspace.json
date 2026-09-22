@@ -6,7 +6,7 @@
       {
         "id": "2b33b26f7e30e35f",
         "type": "tabs",
-        "dimension": 55.386416861826696,
+        "dimension": 55.38641686182669,
         "children": [
           {
             "id": "c6f791f6d89505a7",
@@ -15,10 +15,8 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_01_-_Apresentação da disciplina.pdf",
-                "page": 19,
-                "left": -19,
-                "top": 34,
-                "zoom": 0.9322916666666669
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "IMD3001_Aula_01_-_Apresentação da disciplina"
@@ -29,7 +27,7 @@
       {
         "id": "d76b1e76c6d0ebdb",
         "type": "tabs",
-        "dimension": 44.613583138173304,
+        "dimension": 44.61358313817331,
         "children": [
           {
             "id": "fd9e4c014b0f9e4b",
@@ -91,7 +89,7 @@
             }
           },
           {
-            "id": "723862cceff8f408",
+            "id": "b6b373c5f5e8524e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
