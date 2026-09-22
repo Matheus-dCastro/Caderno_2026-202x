@@ -79,3 +79,9 @@ Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q p
 		- Reflexo **Utilidade**
 
 ### Metodos de Busca:
+
+podemos ter algumas abordagens:
+*Não informada:* explora sem ter conhecimento previo
+*Informada:* Utiliza conhecimento previo (heuristica)
+
+*Local e de otimização:* 
