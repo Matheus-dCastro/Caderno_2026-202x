@@ -6,19 +6,43 @@
       {
         "id": "2b33b26f7e30e35f",
         "type": "tabs",
+        "dimension": 55.386416861826696,
         "children": [
           {
             "id": "c6f791f6d89505a7",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_01_-_Apresentação da disciplina.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 404,
+                "zoom": 0.9322916666666669
+              },
+              "icon": "lucide-file-text",
+              "title": "IMD3001_Aula_01_-_Apresentação da disciplina"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d76b1e76c6d0ebdb",
+        "type": "tabs",
+        "dimension": 44.613583138173304,
+        "children": [
+          {
+            "id": "fd9e4c014b0f9e4b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",
+                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reunião 2109"
+              "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
             }
           }
         ]
@@ -295,9 +319,14 @@
   },
   "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_01_-_Apresentação da disciplina.pdf",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_07_-_Ambientes_Complexos_II.pdf",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/ACFrOgAgrJv9eJvQVDrYX_4e4Av1OXajgkvWdtGQ-xw0yziRGu0m1aXQjKOZL1_duK215-bYsLHoiT1Q_S81_OUr622zeDZpzxoJYxEYpDUciLIXO9LHMVJChAr_4FEA6eLe-Wib4pmsKeykmqnuVmWnTM3DwwJRteMv0hFwBrf7-3-2oZC8WWgnjRPauKFxjFq_5_gqFCPw01qSdNEm-0sRa7JbB4BpuU3-zYll86Mf4UE19F-gNwn1",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_02_-_Fundamentos_e_Agentes.pdf",
+    "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
-    "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/06._Otimizadores.pdf",
@@ -305,10 +334,6 @@
     "Excalidraw/Drawing 2026-09-20 16.35.22.excalidraw.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/04._Redes_Neurais.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/03._Modelos_Lineares.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/02._Reviso_Matemtica.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu233872cylp.tmp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu230452cj6g.tmp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu227122c5i7.tmp",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Casa.md",
     "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
     "Relatorio-1789698449810.webp",
@@ -319,7 +344,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/Screenshot from 2026-09-17 20-43-14.png",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Excalidraw/Drawing 2026-09-17 08.28.05.excalidraw.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "StickyNotes/2026/2026-06-04.md",

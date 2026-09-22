@@ -69,3 +69,5 @@ Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q p
 
 # Aula 08: Laboratorio pratico
 
+# Estudo dirigido e Revisão para prova:
+
