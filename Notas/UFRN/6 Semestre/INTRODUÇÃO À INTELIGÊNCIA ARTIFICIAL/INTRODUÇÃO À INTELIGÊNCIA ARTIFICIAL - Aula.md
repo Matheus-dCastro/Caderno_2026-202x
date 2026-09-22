@@ -71,3 +71,11 @@ Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q p
 
 # Estudo dirigido e Revisão para prova:
 
+-> campo da ciência do desing de agentes
+=> **Fromas reflexo de um *Agente*** 
+		- Reflexo **Simples**
+		- Reflexo **baseado em modelo**
+		- Reflexo **Objeto**
+		- Reflexo **Utilidade**
+
+### Metodos de Busca:
