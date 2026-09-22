@@ -78,8 +78,6 @@ Não possue o ambiente mapeado -> n tem conhecimento sobre todos os dados ja q p
 		- Reflexo **Objeto**
 		- Reflexo **Utilidade**
 
-### Metodos de Busca:
-
 podemos ter algumas abordagens:
 *Não informada:* explora sem ter conhecimento previo
 *Informada:* Utiliza conhecimento previo (heuristica)
@@ -101,3 +99,19 @@ Engenharia da Computação: Desenvolvimento de hardware (computadores digitais, 
 Teoria de Controle e Cibernética: Foco em sistemas auto-reguláveis e otimização de funções de custo
 
 
+#### Tipos de agentes:
+
+**Completamente** tem todas as infos acessiveis
+**Parcialmente** tem partes das infos n acessiveis
+**Discreto** o estado e as ações são finitas
+**Contínuo** o estado e as ações são infinitas (só aumentam com o passar do tempo)
+**Episodico** suas ações n dependem do estado anterior
+**Sequencial** as ações influênciam tanto o ambiente quando as proximas escolhas
+**Estatico** o ambiente n muda com o tempo 
+**Dinamico** o ambiente muda com o tempo
+
+![[INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula-1790106483587.webp]]
+
+**Agente baseado em tabela** ele monta uma tabela com todas as ações possivesi para todas as sequências perceptivesi possivel.
+
+**Agente reativo simples** 
