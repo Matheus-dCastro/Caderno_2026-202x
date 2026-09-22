@@ -86,3 +86,17 @@ podemos ter algumas abordagens:
 *Local e de otimização:* funciona como um algoritomo de busca em profundidade ou em largura
 *Adversarial:* seta o objetivo no player e faz o npc se mexer atraz do player
 
+Filosofia: Conceitos como a mente como máquina, conhecimento e ação. 
+
+Matemática: Lógica formal, teoria da probabilidade, algoritmos, computabilidade e intratabilidade (problemas NP-completos). 
+
+Economia: Teoria da decisão, teoria da utilidade, teoria dos jogos, otimização de operações e o conceito de satisficing (encontrar soluções "boas o suficiente"). 
+
+Neurociência: Entendimento do cérebro, neurônios e processamento de informações. 
+
+Psicologia: Estudo do pensamento e comportamento humanos, cognição e processamento de informações. 
+
+Engenharia da Computação: Desenvolvimento de hardware (computadores digitais, paralelismo massivo) e software (sistemas operacionais, linguagens de programação) que tornam a IA possível 
+
+Teoria de Controle e Cibernética: Foco em sistemas auto-reguláveis e otimização de funções de custo
+
