@@ -13,10 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf"
+                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_07_-_Ambientes_Complexos_II.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 409,
+                "zoom": 1.7260416666666667
               },
               "icon": "lucide-file-text",
-              "title": "IMD3001_Aula_05_-_Busca_II"
+              "title": "IMD3001_Aula_07_-_Ambientes_Complexos_II"
             }
           }
         ]
@@ -65,7 +69,7 @@
             }
           },
           {
-            "id": "c7c04ebfd41e3a91",
+            "id": "57b43ce86d05b96f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -293,8 +297,9 @@
   },
   "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/aula04.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/Laboratório #1.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II - IMD3001_Aula_05_-_Busca_II.pdf",
