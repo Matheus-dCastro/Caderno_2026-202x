@@ -13,11 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_07_-_Ambientes_Complexos_II.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 409,
-                "zoom": 1.7260416666666667
+                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_07_-_Ambientes_Complexos_II.pdf"
               },
               "icon": "lucide-file-text",
               "title": "IMD3001_Aula_07_-_Ambientes_Complexos_II"
@@ -69,7 +65,7 @@
             }
           },
           {
-            "id": "57b43ce86d05b96f",
+            "id": "5f53815c2baa7220",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
