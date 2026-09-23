@@ -249,3 +249,11 @@ ela descide por um sinal de nova>= anterios
 
 # Metodo de Monte Carlo
 
+# Revisão em sala para prova da unidade 01:
+
+-> A diferença entre as 3 formas de aprendizado de maquina: *Supervisionado, Não-Supervisionado, Reforço*
+-> compontes de um ***PDM*** => divisão entre as ideias de ação e estado
+-> Propriedade de Markov => 
+-> Tipos de política: deterministica e estocatica
+-> fromas de recomepensas => imediatistica ou total
+-> Equação de bellman => o quao bom é está naquele valor de estado
