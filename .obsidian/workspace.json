@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c14228b252e66bdb",
+        "id": "cc4d570b2e29735e",
         "type": "tabs",
         "children": [
           {
-            "id": "febc494cd7ffcb64",
+            "id": "dab374ffd12b4f73",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -289,7 +289,7 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "febc494cd7ffcb64",
+  "active": "dab374ffd12b4f73",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Recording 20260923151427.m4a",
