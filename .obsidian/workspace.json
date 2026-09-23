@@ -13,32 +13,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/aula04.pdf",
-                "page": 41,
-                "left": -10,
-                "top": 371,
-                "zoom": 1.7104166666666667
+                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "aula04"
-            }
-          },
-          {
-            "id": "cccbb7fa3692cd53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BANCO DE DADOS - AULA"
+              "title": "IMD3001_Aula_05_-_Busca_II"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +65,7 @@
             }
           },
           {
-            "id": "0bca20a4a229d921",
+            "id": "c7c04ebfd41e3a91",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -307,17 +288,16 @@
       "colorful-stickynotes:Sticky workspaces": false,
       "freedraw-pdf:Toggle annotation mode on active PDF": false,
       "freedraw-pdf:Create blank annotatable PDF": false,
-      "obsidian-importer:Importar notas": false,
-      "pdf-notes:PDF.notes": false,
-      "pdf-notes:PDF.notes (New blank file)": false
+      "obsidian-importer:Importar notas": false
     }
   },
-  "active": "cccbb7fa3692cd53",
+  "active": "c6f791f6d89505a7",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/aula04.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/Laboratório #1.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II - IMD3001_Aula_05_-_Busca_II.pdf",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_02_-_Fundamentos_e_Agentes.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_01_-_Apresentação da disciplina.pdf",
@@ -329,8 +309,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/06._Otimizadores.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/05._Backpropagation_e_Diferenciao_Automtica.pdf",
     "Excalidraw/Drawing 2026-09-20 16.35.22.excalidraw.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Casa.md",
     "Notas/UFRN/6 Semestre/MLOPS/Relatorio.md",
