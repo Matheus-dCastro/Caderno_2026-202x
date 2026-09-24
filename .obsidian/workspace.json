@@ -298,27 +298,27 @@
     "type": "floating",
     "children": [
       {
-        "id": "7baf165a1c4bf395",
+        "id": "242cca0dfa097ba3",
         "type": "window",
         "children": [
           {
-            "id": "0ce8910e5dad3cb6",
+            "id": "f00b00981b91b523",
             "type": "tabs",
             "children": [
               {
-                "id": "056f7188eeb41bfc",
+                "id": "e257b5d21af4a825",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
-                    "page": 1,
+                    "file": "Notas/UFRN/6 Semestre/MLOPS/2 - Introdução a Engenharia de Dados.pdf",
+                    "page": 22,
                     "left": -10,
-                    "top": 409,
+                    "top": 298,
                     "zoom": 1.771875
                   },
                   "icon": "lucide-file-text",
-                  "title": "1 - Introdução ao Design de Sistemas de Machine Learning"
+                  "title": "2 - Introdução a Engenharia de Dados"
                 }
               }
             ]
@@ -334,10 +334,11 @@
       }
     ]
   },
-  "active": "dab374ffd12b4f73",
+  "active": "e257b5d21af4a825",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
+    "Notas/UFRN/6 Semestre/MLOPS/2 - Introdução a Engenharia de Dados.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/Introduc807a771o_ao_Design_Thinking_e_Exemplos_de_Proposta_de_Valor.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/6 - Rastreamento de experimentos de ML.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/IntentClassifier.ipynb",
@@ -346,7 +347,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/Guia_de_Feature_Engineering_(v2).ipynb",
     "Notas/UFRN/6 Semestre/MLOPS/4 - Engenharia de Features.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/3 - Dados de Treinamento.pdf",
-    "Notas/UFRN/6 Semestre/MLOPS/2 - Introdução a Engenharia de Dados.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",

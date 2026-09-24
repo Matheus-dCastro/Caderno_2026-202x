@@ -57,3 +57,28 @@ Broker para gerenciar a fila de dados: Filas para processamento assincrono. (eve
 
 # Revisão da Unidade 01:
 
+**Escopo e desing:** escalerecer o problema e planejar solução
+**Preparação dos dados:** definir e coletar dados, rotular e organizar, definir e transformar as features
+**Modelagem de ML:** treinar e avaliar, selecionar e otimizar
+**Implantação:** implantar e monitorar (testes), // (produção), avaliar e refletir o impacto
+
+-> A estrutura deve compor os dados da melhor maneira para n tornar a analise e o uso deles caotica
+Dados -> coleta -> armazenameto (a forma aqui é crucial no futuro) -> processamento -> analise -> Dados (eles refinados e trazendo novas informações)
+
+Dados de usarios => todos os formatos (texto, imagem, video) q eles mesmos inserem
+Dados de sistemas => logs ou e resultados de modelos (erros em apps)
+Base de dados => Dados de invetario (loja)
+Dados de terceiros => Dados adquiridos de outra fonte sem ser fonte primaria (fontes de outra empresa)
+
+Os principais desafios nesse nesse processo de preparar os dados se encontram em:
+- estrutura dos dados -> json (flexivel e legivel), csv (como um exel), parquet (binario porem eficiente mesmo q n seja legivel)
+		- Relacional -> esquemas fixos diagramas
+		- nao relacional -> documentos linhas/coluna/grafos => modelagem Hierarquica
+		- Modelo de dados é a logica, banco de dados é a implementação fisica
+				- csv, bancos relacionais, NoSQL
+				- *Data Warehouse* dados ja processados (relatorios ja fechads)
+				- *Data Lakes* para dados ainda n processados (brutos) grande escala
+- erros de formatação
+- volume
+- privacidade
+- esquema dos dados
