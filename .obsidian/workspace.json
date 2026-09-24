@@ -11,10 +11,14 @@
             "id": "dab374ffd12b4f73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "MLOPS - AULAS"
             }
           }
         ]
@@ -289,22 +293,64 @@
       "obsidian-importer:Importar notas": false
     }
   },
+  "floating": {
+    "id": "de06ec23015a9686",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7baf165a1c4bf395",
+        "type": "window",
+        "children": [
+          {
+            "id": "0ce8910e5dad3cb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "056f7188eeb41bfc",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
+                    "page": 1,
+                    "left": -10,
+                    "top": 409,
+                    "zoom": 1.771875
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1 - Introdução ao Design de Sistemas de Machine Learning"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 16,
+        "y": 10,
+        "width": 944,
+        "height": 522,
+        "maximize": true,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "dab374ffd12b4f73",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
+    "Notas/UFRN/6 Semestre/MLOPS/Introduc807a771o_ao_Design_Thinking_e_Exemplos_de_Proposta_de_Valor.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/6 - Rastreamento de experimentos de ML.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/IntentClassifier.ipynb",
+    "Notas/UFRN/6 Semestre/MLOPS/Introdução_ao_Keras.ipynb",
+    "Notas/UFRN/6 Semestre/MLOPS/5 - Gerenciamento de workflows com Airflow.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/Guia_de_Feature_Engineering_(v2).ipynb",
+    "Notas/UFRN/6 Semestre/MLOPS/4 - Engenharia de Features.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/3 - Dados de Treinamento.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/2 - Introdução a Engenharia de Dados.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
-    "Recording 20260923151427.m4a",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
-    "Recording 20260923150803.m4a",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_07_-_Ambientes_Complexos_II.pdf",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_06_-_Ambientes_Complexos.pdf",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/aula04.pdf",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/Laboratório #1.pdf",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II - IMD3001_Aula_05_-_Busca_II.pdf",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_02_-_Fundamentos_e_Agentes.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_01_-_Apresentação da disciplina.pdf",
     "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula-1790106483587.webp",
     "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
@@ -322,7 +368,6 @@
     "Excalidraw/Drawing 2026-09-17 08.28.05.excalidraw.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "StickyNotes/2026/2026-06-04.md",
-    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "BANCO DE DADOS - AULA-1789076075472.webp",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
