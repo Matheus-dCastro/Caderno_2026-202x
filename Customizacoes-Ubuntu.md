@@ -10,6 +10,7 @@
 
 - [ ] **GNOME Tweaks (Ajustes)**
   - Mudar a fonte global do sistema para a fonte **Maple Mono**
+  - mudar o cursor
 
 - [ ] **DBeaver CE**
   - Instalar o **DBeaver Community Edition**

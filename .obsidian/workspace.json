@@ -293,51 +293,10 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "floating": {
-    "id": "de06ec23015a9686",
-    "type": "floating",
-    "children": [
-      {
-        "id": "242cca0dfa097ba3",
-        "type": "window",
-        "children": [
-          {
-            "id": "f00b00981b91b523",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e257b5d21af4a825",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Notas/UFRN/6 Semestre/MLOPS/2 - Introdução a Engenharia de Dados.pdf",
-                    "page": 22,
-                    "left": -10,
-                    "top": 298,
-                    "zoom": 1.771875
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "2 - Introdução a Engenharia de Dados"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 16,
-        "y": 10,
-        "width": 944,
-        "height": 522,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "e257b5d21af4a825",
+  "active": "dab374ffd12b4f73",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/2 - Introdução a Engenharia de Dados.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/Introduc807a771o_ao_Design_Thinking_e_Exemplos_de_Proposta_de_Valor.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/6 - Rastreamento de experimentos de ML.pdf",
