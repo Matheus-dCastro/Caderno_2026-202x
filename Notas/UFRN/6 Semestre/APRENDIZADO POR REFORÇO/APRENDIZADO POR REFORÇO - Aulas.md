@@ -262,4 +262,21 @@ ela descide por um sinal de nova>= anterios
 
 # Revisão em casa para prova da 1°Unidade:
 
--> Oq é aprendizado de maquina: **
+-> Oq é aprendizado de maquina: *é a forma com que um computador aprende apatir de uma experiência por meio de uma tarefa atravez de uma medida de desempenho.*
+
+
+processo de aprendizado para classificação (Regreção logistica)
+processo de aprendizado para predição (Regreção linear)
+processo de aprendizado para resulução (reforço) => tomada de descição para realizar tarefaças em um espaço q pode ser deterministico(sempre a mesma saida) ou estocastivo(aleatoriedade)
+
+
+estrutura de passos e ações pre-estabelicidas do q o agente pode executar e receber mas as descisões de tomar elas sao do agente/algoritmo ou seja aprende interagindo com o abinete recebendo um estimlo para reforçar aquela ação.
+
+*Estado:* se refere a onde o agente está e define com ele vai tomar a próxima descição
+*Ação:* refre-se ao q o agente pode fazer
+*Political:* é a regra de descição q o agente irá usar para tomar suas descições ou seja , é uma função ou distribuição de probabilidade denotada por $\pi(a\vert{}s)$ 
+
+### Processos de Decisão de Markov
+
+
+ ![InkDrawing](<Ink/Drawing/2026.9.27 - 16.57pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=500&aspectRatio=1.778&viewBoxX=0&viewBoxY=0&viewBoxW=2000&viewBoxH=1125)
