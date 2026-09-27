@@ -288,3 +288,9 @@ $\pi$ -> S -> A ou seja é a politica do agente e como ele vai dado um estado at
 
 
 Temos o objetivo de achar a melhor politica para o agente pode andar 
+podemos separa nosso horizonte em dois tipos 
+*Horizonte finito:* nossa quantidade de ações é finita  -> politica não-estacionaria
+- uma contagem de quantos passo eu posso da ate chegar ao meu destino
+*Horizonte infinito:* nossa quantidade de ações pode ser infinita para maximizar os ganhos 
+- é estacionario ou seja não depende do tempo ou numero de passos 
+
