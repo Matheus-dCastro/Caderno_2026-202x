@@ -280,3 +280,5 @@ estrutura de passos e ações pre-estabelicidas do q o agente pode executar e re
 
 
  ![InkDrawing](<Ink/Drawing/2026.9.27 - 16.57pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=1122&aspectRatio=2.677&viewBoxX=0&viewBoxY=0&viewBoxW=4488&viewBoxH=1676.813)
+
+
