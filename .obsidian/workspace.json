@@ -14,10 +14,8 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
-                "page": 10,
-                "left": -12,
-                "top": 294,
-                "zoom": 1.2859375
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "02._MDP_1"
@@ -105,7 +103,7 @@
             }
           },
           {
-            "id": "a5ae322dd8ae952f",
+            "id": "20bb69c0a847bfb4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
