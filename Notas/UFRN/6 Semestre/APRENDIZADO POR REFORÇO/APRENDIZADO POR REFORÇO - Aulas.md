@@ -294,3 +294,13 @@ podemos separa nosso horizonte em dois tipos
 *Horizonte infinito:* nossa quantidade de ações pode ser infinita para maximizar os ganhos 
 - é estacionario ou seja não depende do tempo ou numero de passos 
 
+Nesse processo temos uma função em somatorio q vai no maximo ate 1 q representará probabilidade de recompesa $r(s,a)$-> nao sabemos o proximo estado ja para $r(s,a,a')$ -> representa quando ja sabemos o proximo estado => ambas tratam do valor de recompensa para o agente 
+
+#### Uma PDM -> PM quando fixamos uma politiva $\pi$ nesse processo 
+
+- **O PDM (Processo de Decisão de Markov):** É o cenário geral onde o agente tem **liberdade de escolha** (várias ações possíveis em cada estado).
+    
+- **O PM (Processo de Markov) / Cadeia de Markov:** Acontece **quando a política é fixada**. Ou seja, se você fixa uma regra de comportamento ($\pi$), o agente deixa de "escolher livremente" e passa a seguir probabilidades estáticas de transição entre os estados.
+		- **A relação com Bellman:** Para calcular o valor de um estado sob uma política fixa ($v_\pi(s)$), o PDM vira efetivamente um PM, permitindo que a **Equação de Bellman** monte um sistema de equações lineares para resolver esses valores.
+		*No processo de transformar uma PDM em uma PM usamos bellman para pode achar um valor otimo para $\pi$ *
+
