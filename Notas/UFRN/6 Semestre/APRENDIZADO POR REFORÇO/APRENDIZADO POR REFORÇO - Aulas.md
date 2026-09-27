@@ -257,3 +257,9 @@ ela descide por um sinal de nova>= anterios
 -> Tipos de política: deterministica e estocatica
 -> fromas de recomepensas => imediatistica ou total
 -> Equação de bellman => o quao bom é está naquele valor de estado
+
+
+
+# Revisão em casa para prova da 1°Unidade:
+
+-> Oq é aprendizado de maquina: **
