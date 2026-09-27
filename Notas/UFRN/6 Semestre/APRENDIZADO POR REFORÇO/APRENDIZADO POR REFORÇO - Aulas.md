@@ -278,7 +278,13 @@ estrutura de passos e ações pre-estabelicidas do q o agente pode executar e re
 
 ### Processos de Decisão de Markov
 
+$MDP = (S,A,R, P, \gamma)$ ela só depende disso para funcionar  sendo 
+S -> conjunto de estados possiveis ou seja oq ele ainda pode ir 
+A -> conjunto das ações 
+R -> S -> $\mathbb{R}$ um map de recompesas para cada estado
+P -> Probailiade de transição de um estado para outro dada uma ação
+$\gamma$ -> fator de desconto da politica
+$\pi$ -> S -> A ou seja é a politica do agente e como ele vai dado um estado atual vá proxima ação pelo agente 
 
- ![InkDrawing](<Ink/Drawing/2026.9.27 - 16.57pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=1122&aspectRatio=2.677&viewBoxX=0&viewBoxY=0&viewBoxW=4488&viewBoxH=1676.813)
 
-
+Temos o objetivo de achar a melhor politica para o agente pode andar 
