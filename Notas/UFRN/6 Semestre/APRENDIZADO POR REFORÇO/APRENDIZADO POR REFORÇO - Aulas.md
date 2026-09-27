@@ -279,4 +279,4 @@ estrutura de passos e ações pre-estabelicidas do q o agente pode executar e re
 ### Processos de Decisão de Markov
 
 
- ![InkDrawing](<Ink/Drawing/2026.9.27 - 16.57pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=500&aspectRatio=1.778&viewBoxX=0&viewBoxY=0&viewBoxW=2000&viewBoxH=1125)
+ ![InkDrawing](<Ink/Drawing/2026.9.27 - 16.57pm.svg>) [Edit Drawing](https://youtu.be/2arL1jh8ihA?type=inkDrawing&width=1122&aspectRatio=2.677&viewBoxX=0&viewBoxY=0&viewBoxW=4488&viewBoxH=1676.813)
