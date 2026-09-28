@@ -304,3 +304,22 @@ Nesse processo temos uma função em somatorio q vai no maximo ate 1 q represent
 		- **A relação com Bellman:** Para calcular o valor de um estado sob uma política fixa ($v_\pi(s)$), o PDM vira efetivamente um PM, permitindo que a **Equação de Bellman** monte um sistema de equações lineares para resolver esses valores.
 		*No processo de transformar uma PDM em uma PM usamos bellman para pode achar um valor otimo para $\pi$* 
 
+
+## Interação de valor:
+
+vem do teorema do ponto fisico -> sempre garante q existe um ponto no espaço q sempre terá um ponto fixo em qualquer mapa sendo imposivel misturar e mudar a posição de todos os pontos de forma continua nunca mistura completamente falha sempre em um ponto 
+
+*terá como objetivo achar $\pi *$*  ou seja eu quero achar a melhor polica para o cenario q estou
+
+### Interação de polica:
+
+nao resolve diretamente a eq. bellman porem ela leva a uma politica otima convergendo a eq. bellman
+
+avalia a politica -> melhora a politica
+
+- A iteração de política requer múltiplas iterações internas (avaliação de política). 
+-  A iteração de política converge em menos iterações externas, porém cada iteração pode ser custosa. 
+- A iteração de valor faz uma atualização mais simples, mas pode precisar de mais iterações para convergir. -> menos custosa
+
+todas os altorimos interativos requem q seja o conhecimento do modelo do sistema/ambiente
+

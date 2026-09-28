@@ -2,7 +2,6 @@
   "advanced-canvas",
   "table-editor-obsidian",
   "cmenu-plugin",
-  "obsidian-dictionary-plugin",
   "editing-toolbar",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
@@ -16,10 +15,8 @@
   "latex-autocomplete",
   "make-md",
   "media-extended",
-  "minidoro",
   "ninja-cursor",
   "omnisearch",
-  "pomodoro-timer",
   "quick-latex",
   "terminal",
   "obsidian-admonition",
@@ -28,5 +25,6 @@
   "obsidian-annotator",
   "freedraw-pdf",
   "pdf-plus",
-  "pdf-writer"
+  "pdf-writer",
+  "star-notebooklm"
 ]
