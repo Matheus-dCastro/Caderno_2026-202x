@@ -323,3 +323,5 @@ avalia a politica -> melhora a politica
 
 todas os altorimos interativos requem q seja o conhecimento do modelo do sistema/ambiente
 
+### Modelo de monte carlo:
+
