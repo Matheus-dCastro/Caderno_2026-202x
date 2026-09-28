@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "627d363c16923116",
+        "id": "84be5cc1c214b7fa",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf823b4fa6b5f5d",
+            "id": "3e7cdef9d5970062",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
-                "page": 3,
-                "left": -6,
-                "top": 160,
-                "zoom": 2.7400930011046363
-              },
-              "icon": "lucide-file-text",
-              "title": "05._DP"
-            }
-          },
-          {
-            "id": "0738b2f7325ce154",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
-                "page": 10,
-                "left": -13,
-                "top": 545,
-                "zoom": 1.2945312500000001
-              },
-              "icon": "lucide-file-text",
-              "title": "Aula_14_-_Correo_da_1a_avaliao"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -85,7 +63,7 @@
             }
           },
           {
-            "id": "04dc03c8636de7a0",
+            "id": "ff1d1342700b1457",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -311,10 +289,11 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "bbf823b4fa6b5f5d",
+  "active": "3e7cdef9d5970062",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf",
     "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
@@ -327,7 +306,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/Introduc807a771o_ao_Design_Thinking_e_Exemplos_de_Proposta_de_Valor.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/6 - Rastreamento de experimentos de ML.pdf",
-    "Notas/UFRN/6 Semestre/MLOPS/IntentClassifier.ipynb",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
