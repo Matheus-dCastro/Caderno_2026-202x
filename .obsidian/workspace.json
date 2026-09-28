@@ -13,11 +13,27 @@
             "state": {
               "type": "pdf",
               "state": {
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
+                "page": 3,
+                "left": -6,
+                "top": 160,
+                "zoom": 2.7400930011046363
+              },
+              "icon": "lucide-file-text",
+              "title": "05._DP"
+            }
+          },
+          {
+            "id": "0738b2f7325ce154",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
-                "page": 19,
-                "left": -20,
-                "top": 268,
-                "zoom": 0.7828125
+                "page": 10,
+                "left": -13,
+                "top": 545,
+                "zoom": 1.2945312500000001
               },
               "icon": "lucide-file-text",
               "title": "Aula_14_-_Correo_da_1a_avaliao"
@@ -83,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -296,8 +313,10 @@
   },
   "active": "bbf823b4fa6b5f5d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf",
+    "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Ink/Drawing/2026.9.27 - 16.57pm.svg",
@@ -309,7 +328,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/Introduc807a771o_ao_Design_Thinking_e_Exemplos_de_Proposta_de_Valor.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/6 - Rastreamento de experimentos de ML.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/IntentClassifier.ipynb",
-    "Notas/UFRN/6 Semestre/MLOPS/Introdução_ao_Keras.ipynb",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
