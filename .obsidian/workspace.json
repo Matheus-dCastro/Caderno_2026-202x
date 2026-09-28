@@ -8,53 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74994d3165f965e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "02._MDP_1"
-            }
-          },
-          {
             "id": "bbf823b4fa6b5f5d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 54,
-                "zoom": 1.2859375
+                "page": 19,
+                "left": -20,
+                "top": 268,
+                "zoom": 0.7828125
               },
               "icon": "lucide-file-text",
               "title": "Aula_14_-_Correo_da_1a_avaliao"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fc0ebfd8dd400f05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccdac345d92581ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
           }
         ]
@@ -103,7 +69,7 @@
             }
           },
           {
-            "id": "20bb69c0a847bfb4",
+            "id": "04dc03c8636de7a0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -117,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5,
-    "collapsed": true
+    "width": 654.5
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -329,11 +294,12 @@
       "obsidian-importer:Importar notas": false
     }
   },
-  "active": "ccdac345d92581ff",
+  "active": "bbf823b4fa6b5f5d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
     "Ink/Drawing/2026.9.27 - 16.57pm.svg",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/01._Viso_Geral.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/09._MC.pdf",
@@ -375,7 +341,6 @@
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Drawing 2026-09-03 21.13.38.excalidraw.md",
     "Excalidraw/Teorema de Bayes.excalidraw.md",
-    "Excalidraw/Drawing 2026-09-03 21.05.09.excalidraw.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",

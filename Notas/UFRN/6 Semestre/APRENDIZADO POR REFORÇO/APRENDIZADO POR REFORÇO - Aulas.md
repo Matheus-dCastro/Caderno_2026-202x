@@ -302,5 +302,5 @@ Nesse processo temos uma função em somatorio q vai no maximo ate 1 q represent
     
 - **O PM (Processo de Markov) / Cadeia de Markov:** Acontece **quando a política é fixada**. Ou seja, se você fixa uma regra de comportamento ($\pi$), o agente deixa de "escolher livremente" e passa a seguir probabilidades estáticas de transição entre os estados.
 		- **A relação com Bellman:** Para calcular o valor de um estado sob uma política fixa ($v_\pi(s)$), o PDM vira efetivamente um PM, permitindo que a **Equação de Bellman** monte um sistema de equações lineares para resolver esses valores.
-		*No processo de transformar uma PDM em uma PM usamos bellman para pode achar um valor otimo para $\pi$ *
+		*No processo de transformar uma PDM em uma PM usamos bellman para pode achar um valor otimo para $\pi$* 
 
