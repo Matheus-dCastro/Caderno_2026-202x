@@ -11,10 +11,16 @@
             "id": "85a6f9a9641b3175",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 846,
+                "zoom": 2.0887960258703795
+              },
+              "icon": "lucide-file-text",
+              "title": "lista-revisao"
             }
           }
         ]
