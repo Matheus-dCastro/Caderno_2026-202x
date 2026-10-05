@@ -11,13 +11,34 @@
             "id": "ac5a950fa4d8de98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
+                "page": 1,
+                "left": -41,
+                "top": 845,
+                "zoom": 0.4222973256889421
+              },
+              "icon": "lucide-file-text",
+              "title": "lista-revisao"
+            }
+          },
+          {
+            "id": "9244fbc69d447a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/Revisão da unidade.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Revisão da unidade"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +84,7 @@
             }
           },
           {
-            "id": "c676b2effd26f7a6",
+            "id": "e84f07d6935e304a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -77,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2420d9d156b21ce",
@@ -214,23 +236,9 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "7943404aacededd8",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.deezer.com/en/",
-                "title": "Botija - Seuab, Pelícano - Deezer",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Botija - Seuab, Pelícano - Deezer"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -272,11 +280,12 @@
       "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "ac5a950fa4d8de98",
+  "active": "9244fbc69d447a59",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/Revisão da unidade.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
     "Notas/GUIA DE PROJETOS.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/09._MC.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
@@ -318,8 +327,6 @@
     "Notas/UFRN/6 Semestre/IEEE/IEEE.md",
     "Excalidraw/Drawing 2026-09-06 19.18.52.excalidraw.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/Lista 01 da Unidade 01.md",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/Drawing 2026-09-03 21.13.38.excalidraw.md",
-    "Excalidraw/Teorema de Bayes.excalidraw.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
