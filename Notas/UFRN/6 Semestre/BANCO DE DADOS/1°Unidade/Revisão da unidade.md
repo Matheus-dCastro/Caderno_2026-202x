@@ -35,4 +35,6 @@ D Durabilidade O que foi confirmado sobrevive a uma queda do sistema
 ***Limitações:*** *Mudar o esquema dos dados obriga reescrever o programa, Nao pode ter (M:N) sem q ele acabe dublicando os dados, sem independecia logica nem fisica*
 
 **No modelo de Rede:** A relação é (M:N) na estrutura de um grafo direcional com ponteiros bidirecionais Consegue separa por nivel oq cada user consegue acessar, 
-***Vantagens:*** n tem redundancia, acesso é eficas 
+***Vantagens:*** n tem redundancia, acesso é eficas, menos duplicação dos dados.
+***Limitações:*** Mais alta complexidade, quase nenhuma indepencia, Mudanças quebram as rotinas 
+
