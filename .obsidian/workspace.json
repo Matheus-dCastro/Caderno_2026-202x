@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d968e29b17369026",
+        "id": "9498dd5a4426a3e5",
         "type": "tabs",
         "children": [
           {
-            "id": "85a6f9a9641b3175",
+            "id": "ac5a950fa4d8de98",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 512,
-                "zoom": 1.2631102099711047
-              },
-              "icon": "lucide-file-text",
-              "title": "lista-revisao"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -69,7 +63,7 @@
             }
           },
           {
-            "id": "657fe6418a9cb101",
+            "id": "c676b2effd26f7a6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -278,8 +272,11 @@
       "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "85a6f9a9641b3175",
+  "active": "ac5a950fa4d8de98",
   "lastOpenFiles": [
+    "Notas/GUIA DE PROJETOS.md",
+    "Notas/UFRN/6 Semestre/6 Semestre.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/09._MC.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
@@ -293,7 +290,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/MLOPS/2 - Introdução a Engenharia de Dados.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
-    "Notas/UFRN/6 Semestre/MLOPS/Introduc807a771o_ao_Design_Thinking_e_Exemplos_de_Proposta_de_Valor.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
@@ -315,7 +311,6 @@
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
     "StickyNotes/2026/2026-06-04.md",
     "BANCO DE DADOS - AULA-1789076075472.webp",
-    "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "BANCO DE DADOS - AULA-1788902832791.webp",
