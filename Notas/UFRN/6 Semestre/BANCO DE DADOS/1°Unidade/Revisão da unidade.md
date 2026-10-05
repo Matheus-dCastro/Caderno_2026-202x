@@ -10,4 +10,9 @@ O que é dado: *fatos conhecidos que podem ser registrados e q tem significado.*
 	- Significativo
 
 Banco de dados: *coleção de dados relacionais*
+	coleção relacionada
+	dominio de discurso
+	escopo definido
+
+O que é um SGBD:
 	
