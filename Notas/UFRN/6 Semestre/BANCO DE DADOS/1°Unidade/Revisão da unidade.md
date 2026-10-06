@@ -38,3 +38,27 @@ D Durabilidade O que foi confirmado sobrevive a uma queda do sistema
 ***Vantagens:*** n tem redundancia, acesso é eficas, menos duplicação dos dados.
 ***Limitações:*** Mais alta complexidade, quase nenhuma indepencia, Mudanças quebram as rotinas 
 
+O grande marco com a chegado do modelo relacional foi quando a idependecia dos dados
+*Declarativo, Otimizador (ele escolhe o meio fisico) => O esquema muda sem quebrar quem o busca* 
+
+![[Revisão da unidade-1791247666534.webp]]
+
+Sua principal desvantagem seria escalar horizontal
+
+
+Ja no NoSQL -> perede a atomacidade e o isolamento de forma total/parcial 
+
+**OLAP:** Colunar, quardando cada coluna de forma continua no disco
+
+*OLTP: transação, OLAP: analise, Data W: O historico do dados*
+
+***Fatos, Dimensões e cubos:***
+*Fatos: a medida da receita (o passo a passo)*
+*Dimensões: o eixo da analise*
+*Cubo: Os fatos organizados*
+
+![[Revisão da unidade-1791248396147.webp]]
+
+os modelos mais antigos n deixaram de ser usados principalmente pelo custo, estabilidade, consequencia de ter q fazer a migração
+
+-> usar um modelo de banco para cada tipo de aplicação,
