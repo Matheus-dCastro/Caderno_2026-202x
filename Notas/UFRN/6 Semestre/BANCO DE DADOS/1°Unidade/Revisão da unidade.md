@@ -77,4 +77,7 @@ o mesmo x para dois x tem q ter o mesmo valor de y para os dois
 
 # Primeira forma normal 1FN:
 
-nessa forma o objetio é evitar q o mesmo dado seja armazenado repetidas vezes previnindi
+nessa forma o objetio é evitar q o mesmo dado seja armazenado repetidas vezes, contendo apenas valores *atomicos* (um valor indivisivel) e oq o unico valor em uma tupla seja apenas o unico valor no dominio. => se violar a 1FN n chega nem a ser uma relação.
+
+# Segunda forma normal 2FN:
+
