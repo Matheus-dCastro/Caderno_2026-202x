@@ -81,3 +81,12 @@ nessa forma o objetio é evitar q o mesmo dado seja armazenado repetidas vezes, 
 
 # Segunda forma normal 2FN:
 
+ja deve está respeitando a 1°forma e n ter dependecia parcial -> todos os atributos q nao fazem parte da chave primario devem depender dela.
+
+# Terceira forma normal 3FN:
+
+ja deve esta na 1° e na 2° nao ter dependencia transitiva -> qualquer atributo q n é chave deve depender da chave primaria
+*-> uma variante é a Boyce-Codd: que é quando exite multiplas chavez candidatas q se sobrepoem*
+
+# Quarta forma noemal 4FN:
+
