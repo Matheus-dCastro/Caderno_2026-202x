@@ -13,11 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
-                "page": 3,
-                "left": -8,
-                "top": 832,
-                "zoom": 2.0887960258703795
+                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf"
               },
               "icon": "lucide-file-text",
               "title": "lista-revisao"
@@ -83,7 +79,7 @@
             }
           },
           {
-            "id": "60afb05c4ce6740a",
+            "id": "a9eec86d2d1526d0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
