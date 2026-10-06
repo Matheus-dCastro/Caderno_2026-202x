@@ -62,3 +62,19 @@ Ja no NoSQL -> perede a atomacidade e o isolamento de forma total/parcial
 os modelos mais antigos n deixaram de ser usados principalmente pelo custo, estabilidade, consequencia de ter q fazer a migração
 
 -> usar um modelo de banco para cada tipo de aplicação,
+
+
+### Dependência funcional e chaves:
+
+o mesmo x para dois x tem q ter o mesmo valor de y para os dois
+
+-> *Superchave:* atributos q identicam cada tupla
+-> *chave candodata:* uma superchave q nada poder ser removido
+-> *Atributo principal:* participa de alguma chave candidata
+-> *Atributo não principal:* n participa de nenhuma chave candidata
+
+![[Revisão da unidade-1791285718064.webp]]
+
+# Primeira forma normal 1FN:
+
+nessa forma o objetio é evitar q o mesmo dado seja armazenado repetidas vezes previnindi
