@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "895c4b0c5facf187",
+            "id": "665d4f52966dc3ff",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -256,7 +256,6 @@
       "templates:Inserir modelo": false,
       "daily-notes:Abrir a nota de hoje": true,
       "command-palette:Abrir paleta de comandos": true,
-      "markdown-importer:Abrir importador Markdown": false,
       "zk-prefixer:Criar nova nota única": true,
       "random-note:Abrir nota aleatória": true,
       "workspaces:Gerenciar leiautes da área de trabalho": true,
