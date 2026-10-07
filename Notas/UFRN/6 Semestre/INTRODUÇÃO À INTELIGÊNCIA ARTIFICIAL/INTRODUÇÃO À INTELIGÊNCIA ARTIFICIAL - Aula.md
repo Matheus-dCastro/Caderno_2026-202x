@@ -115,3 +115,7 @@ Teoria de Controle e Cibernética: Foco em sistemas auto-reguláveis e otimizaç
 **Agente baseado em tabela** ele monta uma tabela com todas as ações possivesi para todas as sequências perceptivesi possivel.
 
 **Agente reativo simples** 
+
+
+# Busca Adversarial e MCTS
+
