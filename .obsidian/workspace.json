@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9498dd5a4426a3e5",
+        "id": "1689fe0e1e58a8f4",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5a950fa4d8de98",
+            "id": "b7feb641f0ff618c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "lista-revisao"
-            }
-          },
-          {
-            "id": "9244fbc69d447a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/Revisão da unidade.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Revisão da unidade"
+              "title": "Nova aba"
             }
           }
         ]
@@ -81,7 +63,7 @@
             }
           },
           {
-            "id": "594e4f26ab84122b",
+            "id": "fdecad6a8b66f433",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -276,13 +258,13 @@
       "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "ac5a950fa4d8de98",
+  "active": "b7feb641f0ff618c",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/Revisão da unidade.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
     "Revisão da unidade-1791285718064.webp",
     "Revisão da unidade-1791248396147.webp",
     "Revisão da unidade-1791247666534.webp",
-    "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
     "Notas/GUIA DE PROJETOS.md",
     "Notas/UFRN/6 Semestre/6 Semestre.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
