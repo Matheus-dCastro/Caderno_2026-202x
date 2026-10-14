@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1689fe0e1e58a8f4",
+        "id": "82c3afa70574b017",
         "type": "tabs",
         "children": [
           {
-            "id": "b7feb641f0ff618c",
+            "id": "270a6ab47e18dd53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
+              "title": "APRENDIZADO POR REFORÇO - Aulas"
             }
           }
         ]
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "f7e72b0bda491958",
+            "id": "3b1645be351c7cb0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -262,8 +262,10 @@
       "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "b7feb641f0ff618c",
+  "active": "270a6ab47e18dd53",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/Revisão da unidade.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
     "Revisão da unidade-1791285718064.webp",
@@ -274,7 +276,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/09._MC.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf",
     "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
@@ -286,7 +287,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/1 - Introdução ao Design de Sistemas de Machine Learning.pdf",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula-1790106483587.webp",
     "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
