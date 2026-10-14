@@ -119,3 +119,5 @@ Teoria de Controle e Cibernética: Foco em sistemas auto-reguláveis e otimizaç
 
 # Busca Adversarial e MCTS
 
+# Aula 10:
+
