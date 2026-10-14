@@ -121,3 +121,7 @@ Teoria de Controle e Cibernética: Foco em sistemas auto-reguláveis e otimizaç
 
 # Aula 10:
 
+mundo wumpus: => agente de busca, agnete baseado emconhecimento analisar um ambiente pre definido ou estocastico (muda) casos de games para fazer a ia trabalhar em um ambiente
+
+o cicio tell -> adk -> tell
+
