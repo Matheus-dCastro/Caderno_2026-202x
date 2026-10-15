@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
             }
-          },
-          {
-            "id": "4a15dfd34cb25b4c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.google.com/search?q=google+health+usando+iphone&sca_esv=d11bf3d68244a04c&biw=1694&bih=937&sxsrf=APpeQntha9JH3wwHe0HBXT8OhPY6zz4bGw%3A1792015981441&ei=ZP7PauL1Csbd5OUPw86FqAY&uact=5&sclient=gws-wiz-serp&udm=50&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszkLt6nAp8aiRKj5vMjqZApKYr2wv-EHakX1SS4JF8fY1OAHmsXq59YBfu7dh6O2RM03m9LuaqZa9S5KBk8FC578Vx8MpNSoPklzut7dbNwQpva_gkA2ykczTRrrtaFvn0mHSF5HMpiMOJNG462Swq9HWKRghC9_273ghlH7iOPSBjGrgrw3foMNrdlzmruNlb-9Yr9w&aep=10&ntc=1&mstk=AUtExfA-DtPPgY0g4-iY3ZEcTEmNwIBTWLZmqA7W_tq4TxVySfKKZdkMZ38-_tCuYE_L2VY9rgVYK_MIw-onhUFhzkMTaK51NSBG8WENh76rH5rGMVvw0GSYlXEz1AHp7Ghn6b7CfMb_CEoNPlzBuoV5hu8NYmN8l0GeXTY&aioh=3&csuir=1&cs=1&mtid=mP7PapjXApPZ5OUPiPKq8AE",
-                "title": "google health usando iphone - Pesquisa Google",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "google health usando iphone - Pesquisa Google"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +67,7 @@
             }
           },
           {
-            "id": "db1ba526312ee8e8",
+            "id": "fcae16c73adbfdb3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -277,7 +262,7 @@
       "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "4a15dfd34cb25b4c",
+  "active": "270a6ab47e18dd53",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
