@@ -139,3 +139,8 @@ Como será a modelagem tanto conceitual quando funcional.
 # Aula do dia 22.09
 
 Diagrama de modelagem de e relacionamento em banco de dados -> os desenhos vao cair na prova 
+
+
+# Aula do dia 15/10
+
+contener usando docker de como configura o e usar o postegress como banco de dados
