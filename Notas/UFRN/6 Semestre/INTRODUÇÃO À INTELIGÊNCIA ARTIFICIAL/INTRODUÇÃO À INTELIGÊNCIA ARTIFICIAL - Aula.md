@@ -125,3 +125,7 @@ mundo wumpus: => agente de busca, agnete baseado emconhecimento analisar um ambi
 
 o cicio tell -> adk -> tell
 
+# Aula do dia 19/11
+#### Agentes logicos wumpus *laboratorio*:
+
+-- implementação de como saber se esta safe ou n aquela casa 

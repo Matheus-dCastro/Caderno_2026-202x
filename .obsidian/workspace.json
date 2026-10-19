@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe4f38e7b0fccdf5",
+        "id": "7e70019879b17f24",
         "type": "tabs",
         "children": [
           {
-            "id": "8712c419da325ba8",
+            "id": "e2cef3cdf2510a3d",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://xn--qual%20a%20diferena%20entre%20o%20conda%20e%20o%20-vke.env,%20e%20quando%20vale%20a%20epena%20uasr%20o%20conda%20e%20pq%20usar%20o%20conda/",
-                "title": "xn--qual%20a%20diferena%20entre%20o%20conda%20e%20o%20-vke.env,%20e%20quando%20vale%20a%20epena%20uasr%20o%20conda%20e%20pq%20usar%20o%20conda",
-                "mode": "error"
+                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "xn--qual%20a%20diferena%20entre%20o%20conda%20e%20o%20-vke.env,%20e%20quando%20vale%20a%20epena%20uasr%20o%20conda%20e%20pq%20usar%20o%20conda"
+              "icon": "lucide-file",
+              "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
             }
           }
         ]
@@ -261,15 +261,15 @@
       "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "8712c419da325ba8",
+  "active": "e2cef3cdf2510a3d",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e.pdf",
     "mlops/2.md",
     "mlops",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/2°Unidade/entrega_1.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/2°Unidade/lista_1_sql_bd.pdf",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/BANCO DE DADOS.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/Revisão da unidade.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/1°Unidade/lista-revisao.pdf",
@@ -284,7 +284,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf",
     "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/02._MDP_1.pdf",
     "Ink/Drawing/2026.9.27 - 16.57pm.svg",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
