@@ -5,12 +5,9 @@
   "editing-toolbar",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
-  "execute-code",
   "obsidian-icon-folder",
   "image-converter",
   "obsidian-importer",
-  "ink",
-  "jupyter-viewer",
   "obsidian-kanban",
   "latex-autocomplete",
   "make-md",
@@ -18,13 +15,11 @@
   "ninja-cursor",
   "omnisearch",
   "quick-latex",
-  "terminal",
   "obsidian-admonition",
   "obsidian-git",
   "colorful-stickynotes",
   "obsidian-annotator",
   "freedraw-pdf",
-  "pdf-plus",
-  "pdf-writer",
-  "star-notebooklm"
+  "star-notebooklm",
+  "pdf-plus"
 ]

@@ -1,7 +1,7 @@
 {
   "pressureCaptureVersion": 1,
   "toolDefaults": {
-    "activeTool": "highlighter",
+    "activeTool": "text",
     "activeColor": "#ffcb47",
     "activeOpacity": 0.22,
     "eraserMode": "object",
