@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2af58408a02f9022",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 31,
-                "zoom": 2.030637254901961
-              },
-              "icon": "lucide-file-text",
-              "title": "Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e"
-            }
-          },
-          {
             "id": "8712c419da325ba8",
             "type": "leaf",
             "state": {
@@ -83,7 +67,7 @@
             }
           },
           {
-            "id": "c7b7750e82c96711",
+            "id": "4a6f6158e4f8797c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -266,7 +250,6 @@
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "omnisearch:Omnisearch": false,
-      "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
       "colorful-stickynotes:Open stickies": false,
       "colorful-stickynotes:Sticky list": false,
@@ -275,12 +258,10 @@
       "freedraw-pdf:Create blank annotatable PDF": false,
       "obsidian-importer:Importar notas": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false,
-      "pdf-notes:PDF.notes": false,
-      "pdf-notes:PDF.notes (New blank file)": false
+      "star-notebooklm:Open NotebookLM": false
     }
   },
-  "active": "2af58408a02f9022",
+  "active": "8712c419da325ba8",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e.pdf",
     "mlops/2.md",
