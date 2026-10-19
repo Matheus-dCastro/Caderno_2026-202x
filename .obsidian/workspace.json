@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e70019879b17f24",
+        "id": "5982b9c93b762c66",
         "type": "tabs",
         "children": [
           {
-            "id": "e2cef3cdf2510a3d",
+            "id": "7f9da9a864095bf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
+              "title": "Nova aba"
             }
           }
         ]
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "4a6f6158e4f8797c",
+            "id": "b5f007fb2451cacb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas /UFRN/IEEE/Reunião CS 2905.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Reunião CS 2905"
+              "title": "Links inversos"
             }
           },
           {
@@ -122,21 +117,6 @@
               },
               "icon": "links-going-out",
               "title": "Links de saída"
-            }
-          },
-          {
-            "id": "da2fd9998e173879",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
             }
           },
           {
@@ -219,9 +199,24 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "fcf20156cd76caff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -251,19 +246,22 @@
       "media-extended:Open media quick switcher": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "colorful-stickynotes:Open stickies": false,
       "colorful-stickynotes:Sticky list": false,
       "colorful-stickynotes:Sticky workspaces": false,
       "freedraw-pdf:Toggle annotation mode on active PDF": false,
       "freedraw-pdf:Create blank annotatable PDF": false,
       "obsidian-importer:Importar notas": false,
       "star-notebooklm:Send to NotebookLM": false,
-      "star-notebooklm:Open NotebookLM": false
+      "star-notebooklm:Open NotebookLM": false,
+      "colorful-stickynotes:New sticky note": false,
+      "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "e2cef3cdf2510a3d",
+  "active": "7f9da9a864095bf7",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
+    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e.pdf",
     "mlops/2.md",
     "mlops",
@@ -282,11 +280,9 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/09._MC.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/03._MDP_2.pdf",
     "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
     "Ink/Drawing/2026.9.27 - 16.57pm.svg",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-    "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula-1790106483587.webp",
     "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",

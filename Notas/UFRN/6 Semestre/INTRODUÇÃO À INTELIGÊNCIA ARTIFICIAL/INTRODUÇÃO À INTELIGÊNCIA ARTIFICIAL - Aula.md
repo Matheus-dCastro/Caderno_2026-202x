@@ -128,4 +128,5 @@ o cicio tell -> adk -> tell
 # Aula do dia 19/11
 #### Agentes logicos wumpus *laboratorio*:
 
--- implementação de como saber se esta safe ou n aquela casa 
+-- implementação de como saber se esta safe ou n aquela casa e como ele interagi com o mundo
+-- Agente logicos sao conservadores, mas seguros para manter em mundos estocasticos
