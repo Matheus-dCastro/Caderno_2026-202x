@@ -82,3 +82,6 @@ Os principais desafios nesse nesse processo de preparar os dados se encontram em
 - volume
 - privacidade
 - esquema dos dados
+
+
+# CI e CD : 
