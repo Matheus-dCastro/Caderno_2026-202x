@@ -352,5 +352,5 @@ basicamente se escreve em ordem o numeros debaixo para cima pela len deles eu vo
 
 # Aula do dia 19/10:
 
--- Detection object: passamos um oq foi achado em um box (como é um jogos) para q possamos fazer o fining tuning dos objetos para dentro do modelo e ele ja treinado clusterisar e tentar dizer oq o objeto passado é
+Detection object: passamos um oq foi achado em um box (como é um jogos) para q possamos fazer o fining tuning dos objetos para dentro do modelo e ele ja treinado clusterisar e tentar dizer oq o objeto passado é
 
