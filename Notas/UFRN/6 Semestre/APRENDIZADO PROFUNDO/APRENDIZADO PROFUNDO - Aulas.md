@@ -350,3 +350,7 @@ cristas e pontos de sela
 
 basicamente se escreve em ordem o numeros debaixo para cima pela len deles eu vou ter do mais lento ao mais rapido com as diferença entre seus comportamentos
 
+# Aula do dia 19/10:
+
+-- Detection object: passamos um oq foi achado em um box (como é um jogos) para q possamos fazer o fining tuning dos objetos para dentro do modelo e ele ja treinado clusterisar e tentar dizer oq o objeto passado é
+
