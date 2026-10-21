@@ -144,3 +144,6 @@ Diagrama de modelagem de e relacionamento em banco de dados -> os desenhos vao c
 # Aula do dia 15/10
 
 contener usando docker de como configura o e usar o postegress como banco de dados
+
+# Aula do dia 20/10:
+
