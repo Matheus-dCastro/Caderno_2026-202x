@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula"
+              "title": "APRENDIZADO PROFUNDO - Aulas"
             }
           }
         ]
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "eedd2241b3a8acbe",
+            "id": "180720a3673e4605",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
