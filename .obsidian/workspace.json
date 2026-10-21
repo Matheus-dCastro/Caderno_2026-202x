@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
+                "file": "file:/home/alomy/Documents/ideias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BANCO DE DADOS - AULA"
+              "title": "ideias"
             }
           }
         ]
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "28898fa78ae81d3b",
+            "id": "f2667b752a3bf9fb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
