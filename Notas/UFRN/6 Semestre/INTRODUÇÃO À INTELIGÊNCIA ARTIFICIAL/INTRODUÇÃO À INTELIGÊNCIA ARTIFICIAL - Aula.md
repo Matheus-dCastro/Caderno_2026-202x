@@ -125,8 +125,11 @@ mundo wumpus: => agente de busca, agnete baseado emconhecimento analisar um ambi
 
 o cicio tell -> adk -> tell
 
-# Aula do dia 19/11
+# Aula do dia 19/10
 #### Agentes logicos wumpus *laboratorio*:
 
 -- implementação de como saber se esta safe ou n aquela casa e como ele interagi com o mundo
 -- Agente logicos sao conservadores, mas seguros para manter em mundos estocasticos
+
+# Aula do dia 21/10:
+
