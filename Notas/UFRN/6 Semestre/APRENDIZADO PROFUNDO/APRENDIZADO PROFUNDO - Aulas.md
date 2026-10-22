@@ -356,3 +356,13 @@ Detection object: passamos um oq foi achado em um box (como é um jogos) para q 
 
 # Aula do dia 21/10:
 
+### Seguimentação de imagens:
+
+processo inverso de se fazer um poling
+-> oq ele faz é passar cada pixel a ser um canal usando cross entropia nas imagens geradas.
+
+mesmo com uma baixa aparição na imagem modelos q o nunca nem viram essa class vao ter um bom acerto por aquela fração da imagem ser tao baixo.
+
+é possivel usar um IoU aplicado em pixel n pelas classes.
+da para aprender o objeto n apenas fazer um clustering diferencial do q o k-men q seria algo mais sistematico.
+
