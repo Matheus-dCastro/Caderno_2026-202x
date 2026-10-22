@@ -1,3 +1,4 @@
+
 Esse projeto nasceu como emergencia da dor dos porcesso acumulados dos agentes analiticos do departamento de transito. Nesse sentido, foi desenhando para servir de apoio para a descicoes administrativas e de elaboraçao de minutas para as juntas administrativas, atualmente, esta restrigindo a junta de recuro infraçao (JARI) do DETRAN SEDE RN Natal.
 
 Resumo do MVP do sistema agentico analico de processos da CTB apenas na instacia JARI:
