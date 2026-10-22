@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "962c13baebfd12e5",
+        "id": "733f862b58f97efe",
         "type": "tabs",
         "children": [
           {
-            "id": "99a3990011f8dc6c",
+            "id": "c62b888c0be6a039",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APRENDIZADO PROFUNDO - Aulas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "180720a3673e4605",
+            "id": "f6a656a819a64003",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -229,7 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-kanban:Create new board": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -261,13 +257,13 @@
       "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "99a3990011f8dc6c",
+  "active": "c62b888c0be6a039",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "file:/home/alomy/Documents/ideias.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/IMD3001_Aula_05_-_Busca_II.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e.pdf",
