@@ -85,3 +85,12 @@ Os principais desafios nesse nesse processo de preparar os dados se encontram em
 
 
 # CI e CD : 
+ CI -> testes unitarios, testes de integração, testes end-to-end 
+ CD -> delivery => deploy
+
+Entrega: 
+	- Imagem do docker atulizada e publicada (publica ou privada): Container register
+Deploy: 
+	- entrega da imagem a um servidor 
+		-- Continuer deploy é fazer isso de forma automatica
+		
