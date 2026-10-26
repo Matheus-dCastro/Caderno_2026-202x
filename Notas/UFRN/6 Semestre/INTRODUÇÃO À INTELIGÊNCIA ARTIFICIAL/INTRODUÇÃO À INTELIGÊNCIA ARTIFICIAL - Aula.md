@@ -134,3 +134,7 @@ o cicio tell -> adk -> tell
 # Aula do dia 21/10:
 
 algoritmo baseados em temora "bayes" quase dado o conhecido qual a chance daquele conjunto eu obeter x
+
+
+# Aula do dia 26/10:
+### Laboratorio_Agentes_Probabilisticos_Wumpus:
