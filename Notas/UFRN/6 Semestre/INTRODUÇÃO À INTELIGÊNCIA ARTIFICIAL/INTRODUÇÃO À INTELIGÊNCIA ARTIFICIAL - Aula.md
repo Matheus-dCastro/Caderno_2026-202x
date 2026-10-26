@@ -138,3 +138,6 @@ algoritmo baseados em temora "bayes" quase dado o conhecido qual a chance daquel
 
 # Aula do dia 26/10:
 ### Laboratorio_Agentes_Probabilisticos_Wumpus:
+usando o teomrema de bayes fazemo o "radar" das probabilidades de movimentação do agente levando em conta a diposição do tabuleiro e o quanto é corajoso para dar um salto de fé. 
+
+quanto mais baixa a recompesa vai ser mais conservador quanto maior ele vai ser arriscar mais
