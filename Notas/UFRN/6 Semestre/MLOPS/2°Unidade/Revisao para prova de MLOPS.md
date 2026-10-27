@@ -51,3 +51,35 @@ analise online chega o precisa ser processado e é devolvido momentos depois, ja
 
 **6.3** Previa: Docker
 
+esse é o ponto em q empacotamos o codigo do agente e subimos essa aplicaçao para ser usado 
+mas nem todo conteneir é de fato um VM ele chega apenas a compartilhar os recursos do pc
+
+
+## Intodução ao CI e CD (cdd): 
+
+- Integração continua (CI):
+	integra as mudaças de todos com frequência fazendo o check de cada uma automaticamente
+
+	Quando: da um push ou pull
+- Entrega e implantação (CD):
+	leva para o usuario a resposta
+	depois de dar merge na main
+	manda a imagem docker pronta para publicar
+	cada mudança sobe para produção sozinha
+
+sem esses passos pode restringir a "*funciona na minha maquina*" 
+	agiliza e automatiza os processos de deploy alem de implementarde forma automatica os testes
+
+Todo **PR** é sempre verificado do mesmo jeito sempre em uma maquina limpa caso de erro aparece minutos depois onde foi o erro depois de dar push
+
+nunca faz merge com teste vermelho na main 
+o processo sempre vira codigo versionado junto da main
+
+biblioteca: Pytest => encontra e roda testes escritos em python, apenas em passar o nome do arquivo
+
+*Os principais teste:* 
+	Unitarios: testar funcioes isoladas
+	Integração: testar oq passou no unitario juntos
+	Ponta a ponta: testar todo o sistema de verdade
+	Smoke test: um e2e minimo, o sistema liga e reponde
+
