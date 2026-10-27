@@ -84,3 +84,14 @@ biblioteca: Pytest => encontra e roda testes escritos em python, apenas em passa
 	Smoke test: um e2e minimo, o sistema liga e reponde
 
 
+### Slide 10:
+
+O CI garante q o codio passe nos testes porem ainda falta ninguem de fora tem acesso a api e o container e a imagem somem quando acaba o trbalho
+
+usamos um GHCR para pode mantes a imagem depois de cabar os job da aplicação essa imagem é enviada por meio de um token do githuib para deixar empacotado mas deixando publico pos o nascimento dele ele se torna possivel qualquer pessoa possa ter acesso a sua imagem cada imagem recebe um numero da versao para mantes o versionamento uma vez q cada novo push passa aponta para uma outra imagem
+
+
+patch -> correção 
+minor -> novidade nada quebra
+major -> mudança obriga a quem usa a api se adptar 
+
