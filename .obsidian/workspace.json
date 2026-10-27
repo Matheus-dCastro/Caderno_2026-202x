@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0d33a27fd168401",
+        "id": "31afd3b962df8c69",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c25b0027fe4132",
+            "id": "ac2e2d616120bed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -261,7 +261,7 @@
       "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "d9c25b0027fe4132",
+  "active": "ac2e2d616120bed4",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Revisao para prova de MLOPS.md",
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Estudo Dirigido de MLOps - Revisao Completa.pdf",

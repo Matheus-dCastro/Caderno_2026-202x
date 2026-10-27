@@ -83,3 +83,4 @@ biblioteca: Pytest => encontra e roda testes escritos em python, apenas em passa
 	Ponta a ponta: testar todo o sistema de verdade
 	Smoke test: um e2e minimo, o sistema liga e reponde
 
+
