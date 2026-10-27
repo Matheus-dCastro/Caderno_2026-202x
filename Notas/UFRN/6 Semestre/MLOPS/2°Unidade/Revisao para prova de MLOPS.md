@@ -29,6 +29,20 @@ Como dividir melhor os sistema e como elas iram se comunicar
 +> usar uma arquitetura de microsserviços sem uma separaçao das equipes é um tiro no pé
 
 **3.0** cada pastinha tem uma responsabilidade para o sistema essa separação ajuda a manter o controle e o fluxo das informações o mais comum sendo:
-	- Model
-	- View
-	- Controller
+	- Model: acesso ao banco
+	- View: interface de usuarios
+	- Controller: meio termo entre o view e o model para fazer o controle das requisiçoes
+no esquemas mais novos o model tem acesso apenas aos equema ja o repository q tem acesso ao banco de fato
+
+*Modelos de ML ficam no service encapsulando o modelo e suas defs*
+
+geralmente são trabalhados de modo http via metodos get, post alem de outros metodos especificos para cada tipo de coisa q queira fazer no sistema.
+
+**5.0** Encapsular o modelo de ML:
+
+- Manutenção do codigo e do sistema do ML;
+- Encapsular ajuda a metigar os problema q podem surgir para da manutenção
+	- um mesmo encapsulador deve atender os dois requisitos tanto para quem vai prestar manuteção no treino quanto no serviço da aplicação;
+	- e puxa no service a solução de ML 
+
+**6.0**  
