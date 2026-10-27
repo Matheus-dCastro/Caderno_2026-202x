@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9cd4974d55bfb58c",
+        "id": "a0d33a27fd168401",
         "type": "tabs",
         "children": [
           {
-            "id": "d82a71ee887a846b",
+            "id": "d9c25b0027fe4132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+                "file": "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Revisao para prova de MLOPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APRENDIZADO PROFUNDO - Aulas"
+              "title": "Revisao para prova de MLOPS"
             }
           }
         ]
@@ -261,14 +261,17 @@
       "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "d82a71ee887a846b",
+  "active": "d9c25b0027fe4132",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Revisao para prova de MLOPS.md",
+    "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Estudo Dirigido de MLOps - Revisao Completa.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/1°Unidade/MLOPS.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "DETRAN-1792756513553.webp",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
     "file:/home/alomy/Documents/ideias.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Documentação do agente DETRAN.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS - AULA.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL.md",
@@ -290,7 +293,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/Aula_14_-_Correo_da_1a_avaliao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/09._MC.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/05._DP.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/slides de aula U1/04._MDP_3.pdf",
     "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
     "Ink/Drawing/2026.9.27 - 16.57pm.svg",
     "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula-1790106483587.webp",
@@ -306,9 +308,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS.md",
     "Excalidraw/Drawing 2026-09-17 08.28.05.excalidraw.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/BANCO DE DADOS.md",
-    "StickyNotes/2026/2026-06-04.md",
-    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Notas /UFRN/5 semestre/Aprendizado de maquina NAO supervisionado/Unidade01/Revisao da unidade 01.canvas",
