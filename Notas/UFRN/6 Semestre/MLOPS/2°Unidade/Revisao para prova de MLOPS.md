@@ -45,4 +45,9 @@ geralmente são trabalhados de modo http via metodos get, post alem de outros me
 	- um mesmo encapsulador deve atender os dois requisitos tanto para quem vai prestar manuteção no treino quanto no serviço da aplicação;
 	- e puxa no service a solução de ML 
 
-**6.0**  
+**6.0**  Online ou em Lote:
+
+analise online chega o precisa ser processado e é devolvido momentos depois, ja o sistema em lotes recebe uma ruma de coisa e é devolvido com um tempo depois
+
+**6.3** Previa: Docker
+
