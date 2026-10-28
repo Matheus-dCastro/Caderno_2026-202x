@@ -83,3 +83,65 @@ biblioteca: Pytest => encontra e roda testes escritos em python, apenas em passa
 	Ponta a ponta: testar todo o sistema de verdade
 	Smoke test: um e2e minimo, o sistema liga e reponde
 
+
+### Slide 10:
+
+O CI garante q o codio passe nos testes porem ainda falta ninguem de fora tem acesso a api e o container e a imagem somem quando acaba o trbalho
+
+usamos um GHCR para pode mantes a imagem depois de cabar os job da aplicação essa imagem é enviada por meio de um token do githuib para deixar empacotado mas deixando publico pos o nascimento dele ele se torna possivel qualquer pessoa possa ter acesso a sua imagem cada imagem recebe um numero da versao para mantes o versionamento uma vez q cada novo push passa aponta para uma outra imagem
+
+
+patch -> correção 
+minor -> novidade nada quebra
+major -> mudança obriga a quem usa a api se adptar 
+
+# Resumo geral de MLOPS:
+
+Pre-Porcessamento dos dados: limpeza e como processar no modelo de ML
+-> deve se usados modelos IA quando o escopo do problema é fluido constantemente => em um volume maior de dados para poder utilizar essas soluções 
+
+ETL: extrair transformar carregar
+ELT: extrair carregar transformar
+
+Raw: sao basicamente os dados brutos ainda n pre-processados -> em seu estado original
+curated (silver): sao os dados limpos validados e integrados
+analytic(gold): sao os dados processados e agregados
+
+formas de realizar o treinamento de um modelo de ML:
+problemas tecnicos:
+	- Falta de dados/custo
+	- desbalenceamento
+	- quatidade e qualidade dos dados
+
+formas de mitigar:
+	- modelagem -> hipotese
+	- extraçao -> reduzir custos sobre as dimensões 
+	- transformação
+	- seleção
+	- armazenamento
+
+Realizar engenharia de features para complementar as informaçoes sobre os dados
+
+Gerenciar workflows para tornar a exec automatizada e sempre com um time de extração especifica para q a janela de tempo n seja um fator de vies sobre os dados.
+usar dags
+
+analisar e avaliar qual modelo esta sobreposto ao outro e como coletar de forma automaica hiperparametros
+utlização do github actions e pytest:
+
+realizar teste reais sobre um contaner docker e quais tipos de testes realizar
+CI -> integraçao (informaçoes) de forma continua 
+CD -> Entrega e deploy continuo das aplicaçoes +> na materia estamos usando Azure e GHCR 
+
+essa estrategia permite usar rollback sobre as aplicações
+
+tipo de modelos para prover as aplicaçoes
+
+-> Monolitica: um unico serviço para todo o sistema (simples para desenvolvimento)
+-> Monolitica modular: partes independetes q fazem seus trabalho e se juntam no final.
+-> Microsserviços: divide em varios serviços separados para atender uma necessidade sua vantagem é a especificidade podendo fazer mais de ums saas consumir um mesmo microserviço
+-> Orientada a serviços: SOA reuso entre sistemas governança de contratos entre serviçoes
+-> Orientada a eventos: consome oq cada def faz oq ela gerou de objeto ou arquivo e afins 
+-> Em camadas: Separa o sistema em niveis horizontais defindos com cada responsabilidade
+
+slid 10 foca no uso da ferramenta azure apenas.
+

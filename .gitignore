@@ -13,3 +13,7 @@
 *.rar
 
 *.m4a
+
+.makemd/fileCache.mdc
+.makemd/superstate.mdc
+.obsidian/workspace.json
