@@ -141,3 +141,13 @@ algoritmo baseados em temora "bayes" quase dado o conhecido qual a chance daquel
 usando o teomrema de bayes fazemo o "radar" das probabilidades de movimentação do agente levando em conta a diposição do tabuleiro e o quanto é corajoso para dar um salto de fé. 
 
 quanto mais baixa a recompesa vai ser mais conservador quanto maior ele vai ser arriscar mais
+
+
+# Aula do dia 28/10:
+
+a priori 1 em 50.000
+causa 70%
+evidencia 1% tem por causa da minigite
+
+$\frac{0.7 * \frac{1}{50.000}}{0.01}$ => 0.0014
+
