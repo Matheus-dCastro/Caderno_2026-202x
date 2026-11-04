@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/UFRN/Curso HUB/Curso HUB - Aula.md",
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso HUB - Aula"
+              "title": "APRENDIZADO PROFUNDO - Aulas"
+            }
+          },
+          {
+            "id": "151af976ff503dd7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://getartcraft.com/apps/craft-anything",
+                "title": "Craft Anything: Understand how software works, then craft your own. - ArtCraft",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Craft Anything: Understand how software works, then craft your own. - ArtCraft"
+            }
+          },
+          {
+            "id": "5891d92a10ced97d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/search?q=Craft+Anything+clone+de+qual+app&udm=50&fbs=ACAhTvwDHIJOqwlL4Oqvyxosc1dF5o2wLFqWhgq2EVRLAiesxhoNFpSLNbF2KqOqzyv0ZJrYmPNAYrR4MmJrE12StZ0V_Q_FyN7sLn3dw9ZGaa_f6fg9_cht4kWK-mImwJ2oXvg1-Xhmur8a5BOz3k82tJyE80m83tys1Xj72vXGn1fBXSNYBAcbhujDevggdgVFKY0gEiaZou7AKD-jvSJyQ3LvP69Aqg&aep=10&ntc=1&sxsrf=AKL5yDjs7aLlCvteuBaogsZp8yRWB6H_Qg%3A1793836181101&mstk=AUtExfD7LAqoD2xLDsnQYZYCdp4650Pro3VlmjLBK_n3wJrgm5ouDqmtxPqYCgduJ79ZaUWBymogNJbwZwDbWqKQIIL7iBgHgSEhF3RqOPlM93vzoyVzXC5iPD_peQsaL2pvoqBxmeCzlnhZtsI0hAOrOTNTEOYu8e79UMU&aioh=3&csuir=1&cs=1&mtid=lcTrauyoL8rT1sQPue29-A4",
+                "title": "Craft Anything clone de qual app - Pesquisa Google",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Craft Anything clone de qual app - Pesquisa Google"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,8 +290,10 @@
       "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "e33c625a832d7ba2",
+  "active": "5891d92a10ced97d",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
+    "Excalidraw/Drawing 2026-11-04 20.42.06.excalidraw.md",
     "Notas/UFRN/Curso HUB/Curso HUB - Aula.md",
     "Notas/UFRN/Curso HUB",
     "Notas/UFRN/UFRN.md",
@@ -274,7 +305,6 @@
     "Notas/UFRN/6 Semestre/MLOPS/1°Unidade/Relatorio.md",
     "Notas/UFRN/6 Semestre/MLOPS/1°Unidade/Aula 3 - Dados de Treinamento.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Estudo Dirigido de MLOps - Revisao Completa.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "DETRAN-1792756513553.webp",
     "Notas/UFRN/6 Semestre/MLOPS/MLOPS - AULAS.md",
@@ -304,7 +334,6 @@
     "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",
     "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Excalidraw/Drawing 2026-09-20 16.35.22.excalidraw.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Casa.md",
     "Relatorio-1789698449810.webp",
     "Relatorio-1789698199500.webp",
     "Relatorio-1789698199499.webp",
