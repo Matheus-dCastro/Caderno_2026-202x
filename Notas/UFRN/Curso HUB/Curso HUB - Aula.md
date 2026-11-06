@@ -4,3 +4,4 @@
 
 ### - Dinâmica dos Fluidos:
 
+Como o fluido se comporta e como o comportamento e h de onde esta o ser influencia na presão 
