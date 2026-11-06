@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5b11a12c1007bb07",
+        "id": "ce1694fd25fcf207",
         "type": "tabs",
         "children": [
           {
-            "id": "e33c625a832d7ba2",
+            "id": "ea7d7a9654c64e5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APRENDIZADO PROFUNDO - Aulas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -67,7 +63,7 @@
             }
           },
           {
-            "id": "f5c261f3675a4ddc",
+            "id": "3f0402594a4a991d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,7 +257,7 @@
       "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "e33c625a832d7ba2",
+  "active": "ea7d7a9654c64e5e",
   "lastOpenFiles": [
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Excalidraw/Drawing 2026-11-04 20.42.06.excalidraw.md",

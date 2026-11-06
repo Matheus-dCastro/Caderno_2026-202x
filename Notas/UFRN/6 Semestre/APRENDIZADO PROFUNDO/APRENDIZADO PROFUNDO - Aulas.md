@@ -368,3 +368,4 @@ da para aprender o objeto n apenas fazer um clustering diferencial do q o k-men 
 
 # Revisão para prova:
 
+do 9 ao 14
