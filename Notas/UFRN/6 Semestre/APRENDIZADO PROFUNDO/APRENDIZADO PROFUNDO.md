@@ -41,4 +41,7 @@ seria como se fossem agendadores no apredizado da maquina,
  
 ## Slide 08:
 
-Erro impirico: 
+Erro impirico: media da funçao de perca da loss sobre a amostra do conjunto 
+-> n garante q o molode n tenha ouverfinting 
+
+os mesmo atributos estao fazendo intersecsao entre classes diferentes 
