@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
-                "page": 29,
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
+                "page": 2,
                 "left": -15,
-                "top": 103,
+                "top": 33,
                 "zoom": 1.028125
               },
               "icon": "lucide-file-text",
-              "title": "07._Estabilidade_no_Treinamento"
+              "title": "08._Generalizacao_e_Regularizacao"
             }
           }
         ]
@@ -285,8 +285,9 @@
   },
   "active": "e4884f23ace70e14",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Revisao para prova da 2°U.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Untitled.canvas",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/13._Deteco_de_Keypoints.pdf",
@@ -297,7 +298,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu24892093ebz.tmp",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/10._Arquiteturas_Convolucionais_e_Transfer_Learning.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu244004933p5.tmp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/09._Redes_Neurais_Convolucionais.pdf",
     "Notas/UFRN/Curso HUB/Curso HUB - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Excalidraw/Drawing 2026-11-04 20.42.06.excalidraw.md",

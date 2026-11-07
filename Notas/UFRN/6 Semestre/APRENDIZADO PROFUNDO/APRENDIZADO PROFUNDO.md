@@ -1,3 +1,6 @@
+
+## Slide 07:
+
 Todas as ativações sao realizadas por meio de camadas divididas em 3 tipos:
 
 Camada de entrada
@@ -24,3 +27,18 @@ Oq esse processo faz é colocar a meida a 0 e a variancia a 1
 
 O processo de Batch Normalization infere em aumentar a taxa de aprendizado sem fazer o modelo convergir estabilizando o gradiente tornando o mdoelo menso dependete da inicialização (sorteio dos pesos)
 
+### Learning rate constante
+
+seria como se fossem agendadores no apredizado da maquina, 
+**step decay:** reduz a traxa de aprender em intervalos fixos -> quando orçamento fixo e conhecido de epocas => ajusta o fator de reduçao e o intervalo das epocas so decai esse passo de aprender quando o erro para de reduzir
+
+**Explonential dacay** funciona da mesma forma da de cima porem de maneira mais suave ne fazendo um decaimento na taxa de aprender de forma abrupta 
+
+**Cosine annealing** esse aqui no lugar de se via exponencial vai fazendo um decaimento na taxa de aprendizado usando uma func cosseno => padroa mais moderno hoje para visao 
+
+**Warmup** ela da um passo grande em aprender muito no inicio e tenta balancear essa taxa de aprender no decorrer q se mantenha na mesma de q quando iniciou. ela tenta segurar a intenreçao inical
+
+ 
+## Slide 08:
+
+Erro impirico: 
