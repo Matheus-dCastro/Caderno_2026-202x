@@ -45,3 +45,6 @@ Erro impirico: media da funçao de perca da loss sobre a amostra do conjunto
 -> n garante q o molode n tenha ouverfinting 
 
 os mesmo atributos estao fazendo intersecsao entre classes diferentes 
+
+**Kernel:** é uma matriz q delisa sobre a matriz das imagens afim de detectar padroes sobre os numeros e depois encontrando bordas e testuras realizando por meio de produtos internos e somos ponderas sobre os pesos q queremos achar
+
