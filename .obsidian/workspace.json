@@ -6,7 +6,6 @@
       {
         "id": "460e34b5fe1401e6",
         "type": "tabs",
-        "dimension": 56.641000962463906,
         "children": [
           {
             "id": "4aa5e7c2066f95b2",
@@ -15,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
-                "page": 3,
-                "left": -13,
-                "top": 365,
-                "zoom": 1.1718750000000002
+                "page": 29,
+                "left": -15,
+                "top": 103,
+                "zoom": 1.028125
               },
               "icon": "lucide-file-text",
               "title": "07._Estabilidade_no_Treinamento"
@@ -29,7 +28,6 @@
       {
         "id": "2cd9e3b1800c7545",
         "type": "tabs",
-        "dimension": 43.358999037536094,
         "children": [
           {
             "id": "e4884f23ace70e14",
