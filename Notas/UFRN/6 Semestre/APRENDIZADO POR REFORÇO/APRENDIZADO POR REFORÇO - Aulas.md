@@ -358,3 +358,14 @@ O a gente escolhe a ação q mais irá impactar positivamente o seu desempenho o
  • Com ε maior (0.3), ele sobe ainda mais no grid (mais longe do penhasco). 
  • Com γ = 0 ou 0.5, há "miopia": como todos os passos dão -1, o agente não enxerga o objetivo e fica em loop.
 
+$\alpha$ alto aminezia -> aprender
+$\epsilon$ -> quanto maior mais longe da borda ja q a taxa de explocar aumenta 
+$y$  o quanto ele ve no futuro quanto menos mais cego
+
+### Q-Learning
+
+
+coloca em todos os estados valores 0 q sao o quanto o algoritmo ganha por realizar cada ação dentro de um estado ainda bem parecido com o sarsa
+
+os valores de cada ação estao zerados e o proprio angente vai atribuindo valores para cada ação pelo estado q ele se encontra com base nas recompesas q ele recebe sejam negativas ou positivas
+
