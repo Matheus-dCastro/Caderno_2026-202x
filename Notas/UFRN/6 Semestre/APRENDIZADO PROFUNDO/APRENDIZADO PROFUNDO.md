@@ -48,3 +48,8 @@ os mesmo atributos estao fazendo intersecsao entre classes diferentes
 
 **Kernel:** é uma matriz q delisa sobre a matriz das imagens afim de detectar padroes sobre os numeros e depois encontrando bordas e testuras realizando por meio de produtos internos e somos ponderas sobre os pesos q queremos achar
 
+LeNet-5 => lenta limitada apenas para numeros manuscritos
+AlexNet => introduziu o uso da ReLu como camada de ativação, features aprendidas por gradientes sobre as features
+VGG/VGG-16 => profundidade omogenia kernel pequenos -> pesada e custosa 
+GoogLeNet => focada em ser eficiente e add o variavel de custo para medir o desempenho
+ResNet => 
