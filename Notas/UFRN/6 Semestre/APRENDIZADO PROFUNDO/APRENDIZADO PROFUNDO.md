@@ -52,4 +52,5 @@ LeNet-5 => lenta limitada apenas para numeros manuscritos
 AlexNet => introduziu o uso da ReLu como camada de ativação, features aprendidas por gradientes sobre as features
 VGG/VGG-16 => profundidade omogenia kernel pequenos -> pesada e custosa 
 GoogLeNet => focada em ser eficiente e add o variavel de custo para medir o desempenho
-ResNet => 
+ResNet => mais profundo, cada bloco aprende uma função residual, o gradiente n desaparece diretamente no backpropagation 
+
