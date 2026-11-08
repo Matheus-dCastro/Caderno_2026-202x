@@ -343,6 +343,7 @@ _Esse dilema nos permite avaliar como a taxa de exploração (_$\epsilon$_) e a 
 
 O nome desse algortmo vem por meio do anagrama dos 5 passos para formar a transição dos passos no ambiente:
 
+O a gente escolhe a ação q mais irá impactar positivamente o seu desempenho ou seja o agente irá olhar para o seu laque de opt e vai escolher oq ele vai perder menos 
 
 
 
