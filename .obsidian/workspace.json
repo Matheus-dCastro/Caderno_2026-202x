@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/10._Arquiteturas_Convolucionais_e_Transfer_Learning.pdf",
-                "page": 32,
-                "left": -15,
-                "top": 22,
-                "zoom": 1.028125
+                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/11._Deteco_de_Objetos.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 409,
+                "zoom": 1.0114583333333333
               },
               "icon": "lucide-file-text",
-              "title": "10._Arquiteturas_Convolucionais_e_Transfer_Learning"
+              "title": "11._Deteco_de_Objetos"
             }
           }
         ]
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "b849de456118a7ea",
+            "id": "9f3d38a24fb3df1e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -283,10 +283,11 @@
       "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "4aa5e7c2066f95b2",
+  "active": "e4884f23ace70e14",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/11._Deteco_de_Objetos.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/10._Arquiteturas_Convolucionais_e_Transfer_Learning.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/09._Redes_Neurais_Convolucionais.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
@@ -296,7 +297,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu259851941k7.tmp",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/12._Segmentao_de_Imagens.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu25383293nly.tmp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/11._Deteco_de_Objetos.pdf",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu24892093ebz.tmp",
     "Notas/UFRN/Curso HUB/Curso HUB - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",

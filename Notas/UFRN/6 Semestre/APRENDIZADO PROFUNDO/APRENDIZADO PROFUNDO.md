@@ -54,3 +54,10 @@ VGG/VGG-16 => profundidade omogenia kernel pequenos -> pesada e custosa
 GoogLeNet => focada em ser eficiente e add o variavel de custo para medir o desempenho
 ResNet => mais profundo, cada bloco aprende uma função residual, o gradiente n desaparece diretamente no backpropagation 
 
+## Slide 09:
+
+tratamento das imagens pode meio de matrizes balenacear e extrair infos
+
+
+## Slide 10:
+
