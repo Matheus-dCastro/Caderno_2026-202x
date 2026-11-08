@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "460e34b5fe1401e6",
+        "id": "5d042142c31e269d",
         "type": "tabs",
         "children": [
           {
-            "id": "4aa5e7c2066f95b2",
+            "id": "74c791a071a89dcd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/12._Segmentao_de_Imagens.pdf",
-                "page": 15,
-                "left": -6,
-                "top": 52,
-                "zoom": 2.6104166666666666
-              },
-              "icon": "lucide-file-text",
-              "title": "12._Segmentao_de_Imagens"
-            }
-          },
-          {
-            "id": "d7d2b130ec9f29b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APRENDIZADO POR REFORÇO - Aulas"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +63,7 @@
             }
           },
           {
-            "id": "f94ef35740a2c3d8",
+            "id": "5deff59196a021bc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -115,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/UFRN/6 Semestre/APRENDIZADO POR REFORÇO/APRENDIZADO POR REFORÇO - Aulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +215,8 @@
               "title": "Etiquetas"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -278,21 +257,19 @@
       "colorful-stickynotes:Sticky dashboard": false
     }
   },
-  "active": "d7d2b130ec9f29b8",
+  "active": "74c791a071a89dcd",
   "lastOpenFiles": [
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/12._Segmentao_de_Imagens.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/13._Deteco_de_Keypoints.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/11._Deteco_de_Objetos.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/10._Arquiteturas_Convolucionais_e_Transfer_Learning.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/09._Redes_Neurais_Convolucionais.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/08._Generalizacao_e_Regularizacao.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/07._Estabilidade_no_Treinamento.pdf",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Revisao para prova da 2°U.md",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/Untitled.canvas",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu259851941k7.tmp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu25383293nly.tmp",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/lu24892093ebz.tmp",
+    "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Lab4 - CD com GitHub Actions e Azure Container Apps.pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/1°Unidade/MLOPS.md",
+    "Notas/UFRN/6 Semestre/BANCO DE DADOS/2°Unidade/entrega_2.pdf",
+    "Notas/UFRN/6 Semestre/Lab4 - CD com GitHub Actions e Azure Container Apps.pdf",
+    "Notas/UFRN/6 Semestre/entrega_2.pdf",
+    "Notas/UFRN/entrega_2.pdf",
+    "Notas/UFRN/Lab4 - CD com GitHub Actions e Azure Container Apps.pdf",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/09._Redes_Neurais_Convolucionais.pptx",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/10._Arquiteturas_Convolucionais_e_Transfer_Learning.pptx",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/12._Segmentao_de_Imagens.pptx",
+    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/11._Deteco_de_Objetos.pptx",
     "Notas/UFRN/Curso HUB/Curso HUB - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Excalidraw/Drawing 2026-11-04 20.42.06.excalidraw.md",
@@ -301,7 +278,6 @@
     "Notas/UFRN/Horarios.md",
     "Notas/UFRN/6 Semestre/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL/INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula.md",
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Revisao para prova de MLOPS.md",
-    "Notas/UFRN/6 Semestre/MLOPS/1°Unidade/MLOPS.md",
     "Notas/UFRN/6 Semestre/MLOPS/1°Unidade/Relatorio.md",
     "Notas/UFRN/6 Semestre/DETRAN/DETRAN.md",
     "DETRAN-1792756513553.webp",
@@ -322,6 +298,8 @@
     "Excalidraw/Drawing 2026-09-27 20.10.50.excalidraw.md",
     "Ink/Drawing/2026.9.27 - 16.57pm.svg",
     "INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula-1790106483587.webp",
+    "Notas/UFRN/6 Semestre/IEEE/Notas/Reunião 2109.md",
+    "Notas/UFRN/6 Semestre/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A/TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL A - Aula.md",
     "Relatorio-1789698449810.webp",
     "Relatorio-1789698199500.webp",
     "Relatorio-1789698199499.webp",
