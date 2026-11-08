@@ -354,7 +354,6 @@ O a gente escolhe a ação q mais irá impactar positivamente o seu desempenho o
 
 3. Resultado: Por isso, a política aprendida e a trajetória gulosa do SARSA escolhem o caminho seguro pelo alto (15 passos). Ele prefere andar mais a correr o risco de tropeçar e levar -100.
 
-
 4. Efeito dos hiperparâmetros:
  • Com ε maior (0.3), ele sobe ainda mais no grid (mais longe do penhasco). 
  • Com γ = 0 ou 0.5, há "miopia": como todos os passos dão -1, o agente não enxerga o objetivo e fica em loop.
