@@ -327,3 +327,34 @@ todas os altorimos interativos requem q seja o conhecimento do modelo do sistema
 
 #### Algoritmo TD:
 
+
+
+
+# Apresentação:
+
+-> CliffWalking: Trata-se do problema do penhasco (usado para comparar diferentes algoritmos de controle) => dimenções 4x12 e penhasco fica entre o npc e o objetivo dele
+a cada passo ele recebe -1 e caso caia ele recebe -100 usamos aqui recompensas negativas para mendir o custo de passos e de explocação do agente para q ele prefira realizar a tarefa de modo menos custos
+
+pode ser inferido um caminho linha para controle do poder de explorar o ambiente e fazer o a gente chegar logo no destino, ou seja controla o quando o agente vai ser "safado"
+
+_Esse dilema nos permite avaliar como a taxa de exploração (_$\epsilon$_) e a escolha do algoritmo (__On-policy_ _vs_ _Off-policy__) influenciam se o agente será 'destemido' e arriscará a borda ou se será 'cauteloso' e preferirá o topo._
+
+### SARSA:
+
+O nome desse algortmo vem por meio do anagrama dos 5 passos para formar a transição dos passos no ambiente:
+
+
+
+
+1. Conceito: O SARSA é um método on-policy. Ele aprende o valor da política que ele realmente está executando (a ε-gulosa). 
+
+
+2. A Fórmula: Mostre a tupla (Sₜ, Aₜ, Rₜ₊₁, Sₜ₊₁, Aₜ₊₁). Destaque: "O SARSA sorteia a próxima ação Aₜ₊₁ antes de atualizar a tabela Q. Como essa ação pode ser aleatória (exploratória), o agente incorpora o perigo de errar e cair no penhasco." 
+
+3. Resultado: Por isso, a política aprendida e a trajetória gulosa do SARSA escolhem o caminho seguro pelo alto (15 passos). Ele prefere andar mais a correr o risco de tropeçar e levar -100.
+
+
+4. Efeito dos hiperparâmetros:
+ • Com ε maior (0.3), ele sobe ainda mais no grid (mais longe do penhasco). 
+ • Com γ = 0 ou 0.5, há "miopia": como todos os passos dão -1, o agente não enxerga o objetivo e fica em loop.
+
