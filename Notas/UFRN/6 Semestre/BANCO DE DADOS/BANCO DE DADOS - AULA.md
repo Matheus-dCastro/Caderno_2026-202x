@@ -148,4 +148,9 @@ contener usando docker de como configura o e usar o postegress como banco de dad
 # Aula do dia 20/10:
 
 union, intersect e except
-  
+
+
+
+# Revisão da 2°U
+
+Agregação, ACID, 
