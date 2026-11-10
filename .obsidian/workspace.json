@@ -11,10 +11,12 @@
             "id": "74c791a071a89dcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "pdf",
+              "state": {
+                "file": "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Laborato769rio_3__Rodando_a_API_de_Intent_Classifier_na_sua_ma769quina_e_e"
             }
           }
         ]
@@ -63,7 +65,7 @@
             }
           },
           {
-            "id": "ccf0ffe61f1579bc",
+            "id": "ad6af3252b723bc0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -258,6 +260,8 @@
   },
   "active": "74c791a071a89dcd",
   "lastOpenFiles": [
+    "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/9 - Integração Contínua e Entrega Contínua (CI_CD).pdf",
+    "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/10 - Lab4 sobre CD com Azure Container Apps e GH Actions.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/2°Unidade/Lab4 - CD com GitHub Actions e Azure Container Apps.pdf",
     "Notas/UFRN/6 Semestre/MLOPS/1°Unidade/MLOPS.md",
     "Notas/UFRN/6 Semestre/BANCO DE DADOS/2°Unidade/entrega_2.pdf",
@@ -268,7 +272,6 @@
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/09._Redes_Neurais_Convolucionais.pptx",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/10._Arquiteturas_Convolucionais_e_Transfer_Learning.pptx",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/12._Segmentao_de_Imagens.pptx",
-    "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/11._Deteco_de_Objetos.pptx",
     "Notas/UFRN/Curso HUB/Curso HUB - Aula.md",
     "Notas/UFRN/6 Semestre/APRENDIZADO PROFUNDO/APRENDIZADO PROFUNDO - Aulas.md",
     "Excalidraw/Drawing 2026-11-04 20.42.06.excalidraw.md",
