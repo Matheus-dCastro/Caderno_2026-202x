@@ -14,6 +14,12 @@
 
 *.m4a
 
-.makemd/fileCache.mdc
-.makemd/superstate.mdc
-.obsidian/workspace.json
+# Obsidian workspace e estado de abas (conflitos constantes)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspace*.json
+
+# Make.md caches e estado interno
+.makemd/
+**/.makemd/
+.obsidian/plugins/make-md/data.json
