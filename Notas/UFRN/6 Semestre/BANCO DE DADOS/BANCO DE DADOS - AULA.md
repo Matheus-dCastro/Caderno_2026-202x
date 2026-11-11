@@ -189,3 +189,17 @@ is null
 **Count:** depende de como usado pode contar nulls(linhas) nao conta nulls(colunas) count(Distinct) conta todos os valores diferentes e ignora os nulls
 
 
+### Aula 10:
+
+**Inner join:** cruzamento mais rigoroso (JOIN) exige o par perfeito, so faz a junção se em duas tabelas existir um correspondente perfeito
+
+**Left join:** Cruza de forma boazinha, com quem esta a esquerda, caso n tenha um par perfeito ele simplesmente preenche com nulls, 
+
+**self join:** junçao com ela mesma, tem q passar apelidos para as tabelas.
+
+**WHERE, HAVING e as três contagens:**
+
+where: filtra linhas antes de agrupar, filtra linhas iddividuais
+having: filtra grupos depois de agrupar, filtra por grupos
+count: aquele esquema de como ele faz a contagem depende do q vc passa como argumento
+
