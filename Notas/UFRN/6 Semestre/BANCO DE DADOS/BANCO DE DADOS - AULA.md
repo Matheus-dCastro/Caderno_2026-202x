@@ -153,4 +153,5 @@ union, intersect e except
 
 # Revisão da 2°U
 
-Agregação, ACID, 
+Agregação, ACID, Operaçoes sobre tabelas, Consultas
+
