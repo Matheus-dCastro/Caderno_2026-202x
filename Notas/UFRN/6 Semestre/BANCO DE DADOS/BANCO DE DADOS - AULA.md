@@ -199,7 +199,9 @@ is null
 
 **WHERE, HAVING e as três contagens:**
 
-where: filtra linhas antes de agrupar, filtra linhas iddividuais
-having: filtra grupos depois de agrupar, filtra por grupos
-count: aquele esquema de como ele faz a contagem depende do q vc passa como argumento
+where: filtra linhas antes de agrupar, filtra linhas idividuais junta tudo porem é cego para medidas, 
+having: filtra grupos depois de agrupar, filtra por grupos bom para juntar as coisas quando sao valores numericos
+count: aquele esquema de como ele faz a contagem depende do q vc passa como argumento.
+
+**UNION, INTERSECT e EXCEPT**
 
