@@ -170,3 +170,22 @@ esses tipos montam as tabelas ou seja atribui valores de tipagens a variaveis
 
 **Como criar a tabela:**
 
+### Aula 09:
+
+Inserir, alterar e remover linhas em tabelas relacionais
+
+**Select:** escolhe linhas
+**Where:** filtra nas linhas sobre condições booleanas
+**Order by e Limit:** uma relação n tem ordem
+
+***WHERE:*** 
+usa operadores de = <> <> = para int
+and or not
+between
+in
+like ilike
+is null
+
+**Count:** depende de como usado pode contar nulls(linhas) nao conta nulls(colunas) count(Distinct) conta todos os valores diferentes e ignora os nulls
+
+
