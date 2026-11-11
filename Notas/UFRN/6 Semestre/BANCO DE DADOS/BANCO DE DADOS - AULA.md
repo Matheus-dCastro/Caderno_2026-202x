@@ -155,3 +155,18 @@ union, intersect e except
 
 Agregação, ACID, Operaçoes sobre tabelas, Consultas
 
+### Aula 08: 
+
+Está usando via Docker para deixando o ambenti replicavel
+
+Cliente -> atributos de informação; 
+	   -> PK: CPF unica por entidade
+	   -> FK: Fazem um pedido ser a ponte entre varias tabelas(cliente <-> pedidos<->loja<->funcionario<-> pagamento <-> item <-> produto <-> estoque <-> categoria)
+	- nesse diagrama basta seguir as setas entre as tabelas para poder fazer montar as tabelas e como as entidades se relacionam
+
+**Tipos de dados que mais vamos usar**
+
+esses tipos montam as tabelas ou seja atribui valores de tipagens a variaveis
+
+**Como criar a tabela:**
+
