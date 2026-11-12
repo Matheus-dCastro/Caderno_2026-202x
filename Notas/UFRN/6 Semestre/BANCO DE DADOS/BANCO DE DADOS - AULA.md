@@ -220,4 +220,16 @@ CTEs subconsultas organizadas:
 	**With e With recursive:** fazem o mesmo parecem com um select e fazem de cima para baixo
 
 Funções de procedures:
-	
+	funçoes sao como em outras linguagens ja as procedures elas sao destinadas a exec brutas grandes regras de negocio no banco de dados
+
+**Views:** 
+	- Comum: guarda apenas o codigo n os dados q o codigo retorna, resolve o reuso ja q a outras coisas como join entre tabelas ficam deterministicas mas n ficam percistentes em disco apenas no momento de run
+	- materalizada: aqui fazemos o mesmo passo da comum porem gravamos essas coisas em disco porem ela n atualiza junto com as outras tabelas sempre precisa recriala
+
+**Gatilhos:** 
+	- São regras q o proprio bando dispara sozinho ele define quando chamar ou realizar alguma função quando é necessario
+	- Estrutura ECA: eventi codição ação
+		- **Evento:** insert update delete
+		- **Condição:** passo opcional when como e se o gatilho deve agir
+		- **Ação:** sempre sera uma function escrita no banco para realizar uma ação
+	quando se cria um triger ja se define quando ele vai agir antes depois ou no lugar de algo quando é exec um chamado alguma função no banco de dados
