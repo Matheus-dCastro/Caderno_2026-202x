@@ -205,3 +205,5 @@ count: aquele esquema de como ele faz a contagem depende do q vc passa como argu
 
 **UNION, INTERSECT e EXCEPT**
 
+**Union:** uniao junta tudo e remove as repetidas
+**Intersct:** 
