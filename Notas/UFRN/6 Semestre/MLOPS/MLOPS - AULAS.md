@@ -93,4 +93,16 @@ Entrega:
 Deploy: 
 	- entrega da imagem a um servidor 
 		-- Continuer deploy é fazer isso de forma automatica
-		
+
+
+
+
+# Aula do dia 12/11
+
+Grafana-labs, Prometheus, 
+
+drift 
+	- dados: $P(x) -> media$
+	- conceito: $P(x|y) -> media$ 
+
+testes estatisticos e para cada tipo de grafico/variavel e tipo de dado 
