@@ -206,4 +206,18 @@ count: aquele esquema de como ele faz a contagem depende do q vc passa como argu
 **UNION, INTERSECT e EXCEPT**
 
 **Union:** uniao junta tudo e remove as repetidas
-**Intersct:** 
+**Intersct:** devolve todo q tem em comum entre as duas tabelas
+**Select:** serve para lista coisas entre duas tabelas
+**Exept:** devolve oq esta fora da interseção
+**From** pega todos e subtrai apartir de um filto os id q satisfaz esse filtro subtrativo
+
+### Aula 11:
+
+Um select dentro do outro: 
+	ele primeiro resolve a busca interna para depois resolver a busca do select externo assim q resolve esse passos de dentro pra fora retorna a lista do elementos q se encaixaram la
+
+CTEs subconsultas organizadas:
+	**With e With recursive:** fazem o mesmo parecem com um select e fazem de cima para baixo
+
+Funções de procedures:
+	
