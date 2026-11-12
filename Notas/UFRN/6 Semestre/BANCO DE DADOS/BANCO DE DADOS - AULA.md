@@ -233,3 +233,27 @@ Funções de procedures:
 		- **Condição:** passo opcional when como e se o gatilho deve agir
 		- **Ação:** sempre sera uma function escrita no banco para realizar uma ação
 	quando se cria um triger ja se define quando ele vai agir antes depois ou no lugar de algo quando é exec um chamado alguma função no banco de dados
+
+### Aula 14:
+
+**Indexação:** serve para evitar desperdicio de recursos do banco e tempo nos processos,
+
+1- Como se fosse um B-tree
+	busca e indexa como raiz e folhas para realizar as buscas
+
+	TID apenas quarda o endereço de onde esta a info q o id esta acossiado
+
+### Aula 15:
+
+voltamos as quatro garantias do ACID
+
+A- atomicidade: tudo acontece ou nada acontece
+C- Consistencia: de um estado valido para outro estado valido
+I- isolamento: transacoes q acontecem ao mesmo tempo n devem interferir umas nas outras 
+D- durabilidade: ele deve subreviver a falhar no sistema
+
+
+-- Os perigos da concorrencia:
+
+leitura suja, nao repetivel, leitura fantasmas, atualizaçao perdida, write skew
+
