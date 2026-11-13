@@ -1,3 +1,19 @@
+W.A.V.E.R. (Wi-Fi Assisted Volumetric Environment Reconstruction): Framework para Gêmeos Digitais Paramétricos 3D e Estimativa de Densidade Interna Cross-Modal.
+
+• Conceito Principal: Transformar matrizes de sinal Wi-Fi CSI (coletadas via ESP32 de baixo custo) em objetos 3D vetorizados e simuláveis (malhas sólidas .obj/.stl), indo muito além de mapas de calor 2D ou esqueletos de palito.
+
+• Pipeline de IA Híbrido:
+
+  • CNN: Atua na percepção e extração de características de baixo nível e atenuação dielétrica a partir dos dados de rádio.
+
+  • LLM / VLM: Atua como o cérebro paramétrico, aplicando conhecimento prévio (anatomia e física) para estruturar a geometria e preencher lacunas de resolução.
+
+  
+
+• O Diferencial de Densidade (Cross-Modal Learning): Uso de Tomografia por Impedância Elétrica (EIT) como "Professor" em ambiente simulado/laboratório para ensinar a IA a correlacionar a atenuação das ondas de rádio com a matriz de densidade interna de variados objetos, permitindo generalização de materiais sem hardware de contato na inferência.
+
+
+
 **Título do Projeto:** Sensoriamento RF Generativo: Da Matriz CSI à Vetorização 3D e Análise Volumétrica Cruzada.
 
 **1. O Problema** As pesquisas atuais de _RF-Sensing_ (inclusive do MIT) param na geração de mapas de calor 2D ou na estimativa de "esqueletos de palito" (_keypoints_). O rádio atual não enxerga matéria, densidade ou volume sólido, limitando-se a rastrear humanos de forma abstrata.

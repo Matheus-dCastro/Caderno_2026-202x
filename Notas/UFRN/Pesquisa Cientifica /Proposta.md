@@ -175,3 +175,43 @@ Diretriz Metodológica (Fase Atual):
 
 • Pesquisa de Emulação de Sinais (EIT): Inclui-se no escopo de estudo teórico a pesquisa de bibliotecas e arcabouços voltados a emular matematicamente os sinais e malhas de Tomografia por Impedância Elétrica (EIT) para o treinamento virtual, sem aquisição ou montagem física de hardware nesta etapa. O desenvolvimento físico e PoC prática ficam estritamente programados para iniciar em janeiro.
 
+
+
+# Projeto: Wi-Fi CSI, EIT, Gêmeos Digitais e Biomecânica
+
+## Objetivo Principal e Diferencial
+
+• Objetivo: Reconstrução paramétrica 3D (Gêmeos Digitais) de objetos e humanos usando Wi-Fi CSI capturado por ESP32 e roteadores comuns. • Diferencial: Supera pesquisas tradicionais (ex: MIT) que geram apenas mapas de calor 2D ou esqueletos de linhas ("homens-palito"). Gera geometria vetorial 3D sólida com propriedades de material e densidade.
+
+  
+
+## Como Funciona a Densidade (Ensino Cross-Modal)
+
+• Treinamento (Teacher-Student): No laboratório, o EIT (Tomografia por Impedância Elétrica) atua como professor mapeando a densidade física. A rede neural correlaciona a atenuação do sinal Wi-Fi com essa matriz de densidade. • Inferência (VLM / LLM): Em produção, sem EIT, o modelo (Qwen2.5-VL) analisa a Assinatura Dielétrica Global e infere a anatomia interna/densidade usando restrições físicas e anatômicas.
+
+  
+
+## Pipeline de Execução (Fase de Simulação)
+
+1. Captura e Dados: Datasets Widar3.0 / PySensing com processamento de matrizes CSI via CNNs.
+
+  
+
+2. Densidade: Emulação matemática via Framework PyEIT.
+
+  
+
+3. Cérebro (IA): CNN + Qwen2.5-VL para geração da lógica geométrica.
+
+  
+
+4. Motor 3D & Biomecânica: Renderização e física de tecidos macios (Soft-body) no Blender / NVIDIA Omniverse (Isaac Sim / FleX).
+
+  
+
+## Vantagens e Diretriz Atual
+
+• Vantagens: Visão através de paredes (NLOS), privacidade total por natureza, imune a variações de luz e baixíssimo custo de hardware. • Diretriz Atual: Foco exclusivo em modelagem teórica, formulação e simulação computacional. Desenvolvimento prático de hardware programado para janeiro.
+
+
+

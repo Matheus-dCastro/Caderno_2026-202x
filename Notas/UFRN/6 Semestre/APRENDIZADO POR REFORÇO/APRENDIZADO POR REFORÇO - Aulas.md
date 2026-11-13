@@ -369,3 +369,28 @@ coloca em todos os estados valores 0 q sao o quanto o algoritmo ganha por realiz
 
 os valores de cada ação estao zerados e o proprio angente vai atribuindo valores para cada ação pelo estado q ele se encontra com base nas recompesas q ele recebe sejam negativas ou positivas
 
+# Aprendizado por Reforço: Guia Completo (Labs 7 ao 10)
+
+## 1. Ambiente CliffWalking
+
+• Configuração: Grid 4x12. Início [3,0], Alvo [3,11] e Penhasco [3, 1..10]. • Recompensas: -1 por passo em terra; -100 ao cair no penhasco (com retorno ao início). • Dilema: Rota ótima estrita (13 passos na beirada, retorno -13) vs Rota segura (15-17 passos pelo interior, retorno -15 a -17).
+
+  
+
+## 2. SARSA (On-Policy) vs Q-Learning (Off-Policy)
+
+• SARSA: Avalia a política comportamental real (ε-greedy). Atualização: Q(S,A) ← Q(S,A) + α [R + γ Q(S', A') - Q(S,A)]. Incorpora o risco de passos exploratórios, aprendendo a rota segura longe do penhasco. Melhor recompensa acumulada durante o treino. • Q-Learning: Estima diretamente a função ótima q*(s,a) usando max_a Q(S', a). Aprende a rota determinística ótima pela borda, mas sofre penalidades severas (-100) na exploração em treino.
+
+  
+
+## 3. Impacto dos Hiperparâmetros
+
+• Taxa de Aprendizado (α): Muito baixa = convergência lenta; muito alta = oscilações e instabilidade. • Fator de Desconto (γ): Baixo = miopia (foco imediato); alto = visão de longo prazo até o objetivo. • Exploração (ε): Maior ε força o SARSA a se afastar ainda mais da borda. Com ε → 0, SARSA converge para o caminho ótimo de 13 passos. • Número de Episódios (N): Como a propagação TD(0) atualiza 1 passo por vez, são necessários muitos episódios (ex: N=1000) para o sinal do alvo retropropagar até a origem.
+
+  
+
+## 4. Expected SARSA, n-step Bootstrapping e Função
+
+• Expected SARSA: Substitui a amostragem de A' pelo valor esperado ponderado ∑_a π(a|S') Q(S', a), reduzindo a variância estocástica. • n-step SARSA: Acumula recompensas reais por n passos antes de aplicar bootstrapping, acelerando o aprendizado com menos episódios. • Aproximação de Função (Linear e Redes): Transição de tabelas discretas para pesos parametrizados q̂(s, a, w). O SARSA linear é estável por ser on-policy, contornando a tríade mortal (deadly triad).
+
+
