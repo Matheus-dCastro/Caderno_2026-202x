@@ -8,9 +8,14 @@ W.A.V.E.R. (Wi-Fi Assisted Volumetric Environment Reconstruction): Framework par
 
   • LLM / VLM: Atua como o cérebro paramétrico, aplicando conhecimento prévio (anatomia e física) para estruturar a geometria e preencher lacunas de resolução.
 
-  
-
 • O Diferencial de Densidade (Cross-Modal Learning): Uso de Tomografia por Impedância Elétrica (EIT) como "Professor" em ambiente simulado/laboratório para ensinar a IA a correlacionar a atenuação das ondas de rádio com a matriz de densidade interna de variados objetos, permitindo generalização de materiais sem hardware de contato na inferência.
+
+
+
+
+
+
+
 
 
 
