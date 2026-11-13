@@ -49,3 +49,12 @@ W.A.V.E.R. (Wi-Fi Assisted Volumetric Environment Reconstruction): Framework par
 - O quanto a distância entre os pontos de Wi-Fi influencia a resolução da leitura?
 - Essa ideia poderia ser desenvolvida com roteadores comerciais?
 
+
+
+simular a malha e a trilateração 
+mapeamento do objeto 3d
+vetorização do objeto 3
+
+se de certo
+
+criar modelo para ajusta resolução
