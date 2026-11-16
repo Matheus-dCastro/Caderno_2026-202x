@@ -155,3 +155,5 @@ $\frac{0.7 * \frac{1}{50.000}}{0.01}$ => 0.0014
 
 # Aula de revisão:
 
+Cadeia de markov
+
