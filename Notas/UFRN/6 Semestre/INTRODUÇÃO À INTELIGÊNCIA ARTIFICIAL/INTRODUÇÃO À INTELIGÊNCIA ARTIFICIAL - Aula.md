@@ -153,7 +153,7 @@ $\frac{0.7 * \frac{1}{50.000}}{0.01}$ => 0.0014
 
 
 
-# Aula de revisão:
+# Aula do dia 16/11:
 
 Cadeia de markov
-
+ambientes e algoritmos probabilisticos
