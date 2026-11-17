@@ -200,7 +200,7 @@ pode ser representada de forma binairia, numerica, sim
 
 ***Busca competitiva ou adversarial:*** 
 -> busca usando multiplos agentes (o agente n está sozinho no ambiente) => agentes com objetivos opostos
-nesse modelo o ambiente passa a revidar apartir das açoes do agente 
+nesse modelo o ambiente passa a revidar apartir das açoes do agente jogos nesse escopo sao baesado pricipalmente em turnos e levam em consideraçao economia, nao-deterministico ou aleatorio e modelagem explicita 
 
 
 1. **Descreva o funcionamento do algoritmo Minimax e explique por que ele é considerado uma estratégia de “pior caso”.**
