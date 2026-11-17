@@ -169,6 +169,32 @@ Começa inicalizando k estados aleatorios e cada passo gera todos os sucessores 
 
 no reinicio ele busca fazer de forma independetes cada reinicio
 
+qual a vantagem disso computacionalmente -> redução da complexidade de busca 
+ja a sua versao estocastica prisa pela escolha do sucesso a partir dos melhores K produz uma convergencia entre as soluçoes chegando na solução "otima"
+
+quando add a probabilidade podemos assim explocar caminho q seriam menos favoraveis
+
+***Algoritmos evolutivos e geneticos:*** 
+	Usa o mesmo presuposto da evoluçao q eles vao acasalando e se melhorando geneticamente acada nova interação 
+	Uma população de candidatos que **evolui coletivamente** 
+	-> usa como base a busca local estocastica
+	cada algoritmo é representado como uma string (booleana) 
+		- mede a qualidade => fitness
+		- seleciona o mais apto
+		- recombina as infos dos mais aptos e geram um filho => crossover
+		- matação introduzindo aleatoriamente mudanças para manter a diversidade
+		- forma a proxima geração de soluções
+	**população, cromossomo, gene**
+	- *Gene:* unidade basica de informação
+	- *Cromossomo: (individuo)* formado por varios genes -> formam uma solução
+	- *População:* conjuto de cromossomos para uma soluçao
+
+pode ser representada de forma binairia, numerica, sim
+
+***Minimax:***
+	utiliza da função de utilidade payoff mede a satisfação ou ganho apos uma escolha -> nivel de felicidade => estado terminal
+	
+
 
 1. **Descreva o funcionamento do algoritmo Minimax e explique por que ele é considerado uma estratégia de “pior caso”.**
 
