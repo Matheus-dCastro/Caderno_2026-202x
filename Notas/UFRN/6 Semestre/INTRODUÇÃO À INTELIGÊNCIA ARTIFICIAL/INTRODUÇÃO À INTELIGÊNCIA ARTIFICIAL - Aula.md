@@ -198,6 +198,5 @@ pode ser representada de forma binairia, numerica, sim
 
 1. **Descreva o funcionamento do algoritmo Minimax e explique por que ele é considerado uma estratégia de “pior caso”.**
 
-27 - 42 lab busca competitiva 1
+*Resposta:* No algortmo MinMax ele tem o presuposto  que o jogador vai sempre tomar a melhor descição que destruao ou seja ele é um algortimo de pior caso uma vez que ele simula o pior cenairo apartir das ações externas q podem ser colocadas sobre ele, e ele tenta evitar esse pior cenario tentando maximizar seus ganhos a longo prazo ou minimizar seus prejuizos
 
-*Resposta:* 
