@@ -227,6 +227,8 @@ usamos um teste de corte: sendo isso q descide quando parar a exploração.
 +=> Problemas **Quiescencia e Efeito Horizonte**
 
 
+***Busca em arvore Monte carlo:***
+
 
 
 
@@ -243,7 +245,18 @@ usamos um teste de corte: sendo isso q descide quando parar a exploração.
 A busca irá realizar as podas com base nos limiter definodos por essas duas variaveis.
 
 3. **Explique o princípio da Poda Alpha-Beta, detalhando como os limites α e β são utilizados para cortar a busca quando o valor de um nó é conhecido por ser pior do que o limite estabelecido pelo jogador em um nível superior.**
-* [Aula 08 - Busca Competitiva](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_08_-_Busca_Competitiva%20-%20IMD3001_Aula_08_-_Busca_Competitiva.pdf#page=45): Slides 45 a 53 (passo a passo com o vetor $[\alpha, \beta]$).
-* [Aula 09 - Busca Competitiva II](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_09_-_Busca_Competitiva_II%20-%20IMD3001_Aula_09_-_Busca_Competitiva_II.pdf#page=6): Slides 6 a 13.
 
-*Resposta:* 
+*Resposta:* Como dito acima n precisa gastar tempo explorando um ramo do jogo se ja sabe q n vai acontecer ja q a descisao do oponte n leva para aquilo ou seja e já descobriu que o oponente tem como forçar uma situação pior do que uma alternativa que você já tem garantida assim o algoritmo mantem dois valores 
+- $\alpha$ => valor maximo -> ja garantido
+- $\beta$ => valor minimo -> ja garantido
+
+Tendo duas situações onde a direta leva a 5 e a esquera a 3 sendo $\alpha$ = 5 e $\beta$ = 3 logo como temos que $\alpha$ como maior ja de forma garantido essa descisao n precisamos explorar o caminho q seria cirado por $\beta$ ja q ele n traz uma recompesa maior para o agente logo podamos $\beta$.
+
+4. **Demonstre como a qualidade da ordenação dos movimentos (move ordering) influencia drasticamente a eficiência, explicando que o Alpha-Beta com ordenação perfeita pode resolver uma árvore aproximadamente duas vezes mais profunda que o Minimax.**
+
+*Resposta:* como a eficiencia da pode esta ligado diretamente ao numero e a ordem dos movimentos em q sao feitos uma vez q sempre exploramos os melhores movimentos primeiros tornamos a poda mais eficiente ja q podemos definir os melhores movimento por experiencias previas ou seja os killer moves sendo esses os q demonstram os melhores rendimetos em minmax dessa forma como minimizamos o numero de passos para os melhores caminhos inciais quase q dobramos o numero da profundidade e cai a complexidade de tempo.
+
+
+5. **Quais são as limitações do algoritmo Minimax e da poda Alpha-Beta que motivam o uso de Monte Carlo Tree Search (MCTS) em jogos mais complexos como Go?**
+
+*Resposta:* um dos problemas do minmax é tentar ler de forma larga o tabuleiro varrendo quase todas possiveis jogas mesmo com a poda seja perfeita o torna o processamento mais lento do que apenas inferir a proxima jogado pelo valor atual de ação estado como é no monte carlo simulando a proxima jogada n perdendo tempo tento prever ou inferir as coisas se torna mais eficiente e depois retropropaga os resultado.
