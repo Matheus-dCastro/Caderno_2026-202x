@@ -193,10 +193,19 @@ pode ser representada de forma binairia, numerica, sim
 
 ***Minimax:***
 	utiliza da função de utilidade payoff mede a satisfação ou ganho apos uma escolha -> nivel de felicidade => estado terminal
-	
+
+
+![[INTRODUÇÃO À INTELIGÊNCIA ARTIFICIAL - Aula-1794928998114.webp]]
+
+
+***Busca competitiva ou adversarial:*** 
+-> busca usando multiplos agentes (o agente n está sozinho no ambiente) => agentes com objetivos opostos
+nesse modelo o ambiente passa a revidar apartir das açoes do agente 
 
 
 1. **Descreva o funcionamento do algoritmo Minimax e explique por que ele é considerado uma estratégia de “pior caso”.**
 
 *Resposta:* No algortmo MinMax ele tem o presuposto  que o jogador vai sempre tomar a melhor descição que destruao ou seja ele é um algortimo de pior caso uma vez que ele simula o pior cenairo apartir das ações externas q podem ser colocadas sobre ele, e ele tenta evitar esse pior cenario tentando maximizar seus ganhos a longo prazo ou minimizar seus prejuizos
+
+2. **A Poda Alpha-Beta é uma otimização do Minimax. Em termos conceituais, o que significa “podar” um ramo da árvore e como essa técnica melhora a eficiência da busca?**
 
