@@ -162,3 +162,5 @@ ambientes e algoritmos probabilisticos
 
 # Estudo dirigido:
 
+1. **Descreva o funcionamento do algoritmo Minimax e explique por que ele é considerado uma estratégia de “pior caso”.**
+
