@@ -260,3 +260,30 @@ Tendo duas situações onde a direta leva a 5 e a esquera a 3 sendo $\alpha$ = 5
 5. **Quais são as limitações do algoritmo Minimax e da poda Alpha-Beta que motivam o uso de Monte Carlo Tree Search (MCTS) em jogos mais complexos como Go?**
 
 *Resposta:* um dos problemas do minmax é tentar ler de forma larga o tabuleiro varrendo quase todas possiveis jogas mesmo com a poda seja perfeita o torna o processamento mais lento do que apenas inferir a proxima jogado pelo valor atual de ação estado como é no monte carlo simulando a proxima jogada n perdendo tempo tento prever ou inferir as coisas se torna mais eficiente e depois retropropaga os resultado.
+
+6. **Explique os quatro estágios do MCTS (Seleção, Expansão, Simulação e Retropropagação) e como eles contribuem para a melhoria progressiva da árvore de busca.**
+
+*Resposta:* ele seleciona um valor de estado ação para realizar depois expande quais as suas proximas possibilidades simula as jogas futuras apartir dos passos de espasao toma a descisao e depois retropropaga o numero de vezes q o no foi usado e o numero de vitorias q ele consegiu por meio daquele valor de estado ação e  toma a descisao no tabuleiro n simulado e sim no real 
+
+
+7. **O MCTS utiliza um equilíbrio entre exploração e explotação (exploration vs. exploitation). Explique essa dualidade e como o critério UCT (Upper Confidence Bounds for Trees) lida com esse equilíbrio.**
+
+*Resposta:* a explotaçao e a parte gananciosa q visa continuar expandido os ramos q ja provaram ter uma alta taxa de vitorio para aquele jogo ja e exploração é a parte curiosa do algoritmo q visa visitar ramos q foram pouco vistos ou poucos testados depois da simulação em caso do agente ter um lado desse com mais vies do q o outro a variedade dos caminhos q ele pode tormar ou q ele pode acabar mudando de rota seriam baixos alem de q caso ele so seja curioso ele so vai ficar abrindo novas possibilidades e ja se ele for muito ganancioso sera miope so vendo um unico caminho o UCT entra nesse equilibrio como uma politica de seleção q considera a frenquencia de vitorias de cada no visitado oq equilibra o agente ser ganancioso e ser curioso.
+
+8. **Por que o MCTS é considerado mais robusto a erros em comparação a algoritmos baseados em heurísticas fixas?**
+
+*Resposta:* ele é mais robusto a erros justamente pode tambem ser curioso e explorar novos caminhos e simular esses caminhos retropropagando essa politica aprendendo muito mais rapido e com mais variacia nos dados e pela parte gulosa ele maximiza o melhor caminho depois de te-lo visitado na simulação. Ja os de forma Heuristicas fixas ele sao formulas fechadas ou seja elas carregam um vies e os erros de quem define essas formulas como no caso do efeito horizonte 
+
+
+9. **Explique a diferença entre um agente lógico e um agente baseado em busca, destacando como cada um representa o conhecimento e toma decisões. Em que tipo de problema o raciocínio lógico se mostra mais vantajoso?**
+
+*Resposta:* um agente baseado em busca explora as possibilidade e determina qual será a melhor sempre pela situação atual do tabuleiro ja um agente logico ele toma as usa descisoes por meio de uma base de conhecimento ou seja ele precisa pre conhecer o ambiente antes de tomar uma escolha
+
+10. **Por que a Lógica Proposicional é considerada o ponto de partida para o raciocínio em Inteligência Artificial? Explique como ela fornece uma estrutura formal para que agentes possam inferir conclusões válidas.**
+
+*Resposta:* a logica proposional por pode atribuir valor logico ou seja verdadeiro e falso a senteçãs é base desse tipo de agente afinal ele precisa conhcer o ambiente em q ele esta trabalhando e depos de analisar ele toma descisoes logica ou seja verdadeiro q irei para essa casa ou falso n irei para essa casa e ligado com o processo de inferencia ele pode atribuir ou indentificar/deduzir novas informações antes de realizar sua ação ou seja deduzir aspectos n observaveis.
+
+
+11. **A inferência automática em agentes lógicos depende de representar o conhecimento em uma forma adequada ao processamento mecânico. Explique como a Forma Normal Conjuntiva (CNF), a Regra de Resolução e o método de Prova por Refutação se relacionam dentro desse processo.**
+
+*Resposta:*  
