@@ -236,5 +236,8 @@ usamos um teste de corte: sendo isso q descide quando parar a exploração.
 *Resposta:* No algortmo MinMax ele tem o presuposto  que o jogador vai sempre tomar a melhor descição que destruao ou seja ele é um algortimo de pior caso uma vez que ele simula o pior cenairo apartir das ações externas q podem ser colocadas sobre ele, e ele tenta evitar esse pior cenario tentando maximizar seus ganhos a longo prazo ou minimizar seus prejuizos
 
 2. **A Poda Alpha-Beta é uma otimização do Minimax. Em termos conceituais, o que significa “podar” um ramo da árvore e como essa técnica melhora a eficiência da busca?**
+
+*Resposta:* 
+
 * [Aula 08 - Busca Competitiva](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_08_-_Busca_Competitiva%20-%20IMD3001_Aula_08_-_Busca_Competitiva.pdf#page=45): Slides 45 a 53 (passo a passo com o vetor $[\alpha, \beta]$).
 * [Aula 09 - Busca Competitiva II](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_09_-_Busca_Competitiva_II%20-%20IMD3001_Aula_09_-_Busca_Competitiva_II.pdf#page=6): Slides 6 a 13.
