@@ -202,10 +202,39 @@ pode ser representada de forma binairia, numerica, sim
 -> busca usando multiplos agentes (o agente n está sozinho no ambiente) => agentes com objetivos opostos
 nesse modelo o ambiente passa a revidar apartir das açoes do agente jogos nesse escopo sao baesado pricipalmente em turnos e levam em consideraçao economia, nao-deterministico ou aleatorio e modelagem explicita 
 
+ainda sobre o mimmax ele foca no presuposto de nao ter prejuizo como foco principal
+toda a arvore sempre apresenta mais de uma soluçaão final para ambiente porem isso so depende dos agentes q estao se enfretando
+
+*Descisoes otimas nos jogos:* 
+-> no jogo da velha max foca em ganhar ja min foca em minimizar o valor de estado para n perder
+ou seja max planeja oq vai fazer contando com as açõe de min ja min foca apenas em n ter prejuizo
+
+***Poda alpha-beta:*** o processo de poda foca em otimizar e evitar uma busca muito exaustiva de maneira a encontrar decisoes sem explorar d+ cada no
+- ignora grandes partes da arvores q n estao influenciando na descisao final do agente
+- $\alpha$ => valor maximo 
+- $\beta$ => valor minimo
+A busca irá realizar as podas com base nos limiter definodos por essas duas variaveis.
+
+*Eficiencia da poda e ordenação de movimentos:*
+
+sua eficiencia esta sempre ligada a como os movimentos sucessores da poda estao sendo examinados 
+se sempre conseguimos explorar sempre os melhores movimentos logo a poda sempre será mais eficiente -> precisa de experiencia previa ou seja killer moves +> permitindo assim q busque quase q o dobro da profundidade no mesmo periodo de tempo 
+
+*heuristica de profundidade limitada:* 
+
+Define um limite o quanto pode explora no lugar de cortar os ramos +> bastante utel em xadrez por exemplo
+usamos um teste de corte: sendo isso q descide quando parar a exploração.
++=> Problemas **Quiescencia e Efeito Horizonte**
+
+
+
+
+
 
 1. **Descreva o funcionamento do algoritmo Minimax e explique por que ele é considerado uma estratégia de “pior caso”.**
 
 *Resposta:* No algortmo MinMax ele tem o presuposto  que o jogador vai sempre tomar a melhor descição que destruao ou seja ele é um algortimo de pior caso uma vez que ele simula o pior cenairo apartir das ações externas q podem ser colocadas sobre ele, e ele tenta evitar esse pior cenario tentando maximizar seus ganhos a longo prazo ou minimizar seus prejuizos
 
 2. **A Poda Alpha-Beta é uma otimização do Minimax. Em termos conceituais, o que significa “podar” um ramo da árvore e como essa técnica melhora a eficiência da busca?**
-
+* [Aula 08 - Busca Competitiva](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_08_-_Busca_Competitiva%20-%20IMD3001_Aula_08_-_Busca_Competitiva.pdf#page=45): Slides 45 a 53 (passo a passo com o vetor $[\alpha, \beta]$).
+* [Aula 09 - Busca Competitiva II](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_09_-_Busca_Competitiva_II%20-%20IMD3001_Aula_09_-_Busca_Competitiva_II.pdf#page=6): Slides 6 a 13.
