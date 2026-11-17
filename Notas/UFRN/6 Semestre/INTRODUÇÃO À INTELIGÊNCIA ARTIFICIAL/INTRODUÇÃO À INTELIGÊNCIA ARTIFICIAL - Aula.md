@@ -162,5 +162,16 @@ ambientes e algoritmos probabilisticos
 
 # Estudo dirigido:
 
+***Busca Local por feixe*** 
+	Manter k estados em paralelo (quantos candidatos são mantidos por etapa) -> representa a *largura* do feixe ou seja quantas soluções ficam na memoria 
+
+Começa inicalizando k estados aleatorios e cada passo gera todos os sucessores de todos os k, pega os melhores k passo repetido ate achar a otima solução ou acabar o numero de tentativas.
+
+no reinicio ele busca fazer de forma independetes cada reinicio
+
+
 1. **Descreva o funcionamento do algoritmo Minimax e explique por que ele é considerado uma estratégia de “pior caso”.**
 
+27 - 42 lab busca competitiva 1
+
+*Resposta:* 
