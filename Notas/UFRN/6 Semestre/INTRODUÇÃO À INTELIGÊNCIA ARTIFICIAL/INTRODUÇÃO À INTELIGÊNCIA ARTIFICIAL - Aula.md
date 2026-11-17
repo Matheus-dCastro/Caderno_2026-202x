@@ -237,7 +237,13 @@ usamos um teste de corte: sendo isso q descide quando parar a exploração.
 
 2. **A Poda Alpha-Beta é uma otimização do Minimax. Em termos conceituais, o que significa “podar” um ramo da árvore e como essa técnica melhora a eficiência da busca?**
 
-*Resposta:* 
+*Resposta:* Como o MinMax olha jogadas a frente e montando e esperando sempre que o oponente quer destrui-lo ele acaba espandido tambem possibilidades de nos q nunca vao acontecer a pode serve justamente para evitar que fique como possibilidades q n vao acontecer na memoria do algoritomo fazendo ele parar de espandir aquile no ignorando grandes partes da arvores q n estao influenciando na descisao final do agente, otimizando e evitando uma busca muito exaustiva de maneira a encontrar decisoes sem explorar d+ cada no.
+- $\alpha$ => valor maximo 
+- $\beta$ => valor minimo
+A busca irá realizar as podas com base nos limiter definodos por essas duas variaveis.
 
+3. **Explique o princípio da Poda Alpha-Beta, detalhando como os limites α e β são utilizados para cortar a busca quando o valor de um nó é conhecido por ser pior do que o limite estabelecido pelo jogador em um nível superior.**
 * [Aula 08 - Busca Competitiva](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_08_-_Busca_Competitiva%20-%20IMD3001_Aula_08_-_Busca_Competitiva.pdf#page=45): Slides 45 a 53 (passo a passo com o vetor $[\alpha, \beta]$).
 * [Aula 09 - Busca Competitiva II](file:///home/alomy/Downloads/materiais%202°U/IMD3001_Aula_09_-_Busca_Competitiva_II%20-%20IMD3001_Aula_09_-_Busca_Competitiva_II.pdf#page=6): Slides 6 a 13.
+
+*Resposta:* 
