@@ -323,4 +323,8 @@ a formula de bayes em agentes probabilisitco ajuda a decompor ambientes complexo
 
 17. **Descreva o princípio do Classificador Naive Bayes e explique por que ele é chamado de “ingênuo”. Em que tipo de problema essa suposição de independência condicional se mostra eficiente, e em que situações ela pode ser irrealista?**
 
-*Resposta:* inicialmente sabemos q o naive bayes usa o teorema de bayes como base para classifcar as coisa ou seja, 
+*Resposta:* inicialmente sabemos q o naive bayes usa o teorema de bayes como base para classifcar as coisa ou seja, ela apenas atua em usar classificar entre as features da informação a mais provavel qual grupo aquela informação mais se ecaixa ou seja classificando ela em grupos ele se torna ingenou pq ele faz uma suposição matematica independeica condicional entre os atributos atuais ou seja q todas as caracteristicas sao independentes entre as classes entao ele simplesmente multiplica a probablidade individual de cada um oq evita sobreposiçao 
+
+18. **Explique o que é uma Rede Bayesiana, descrevendo o papel do grafo acíclico dirigido (DAG) e das tabelas de probabilidade condicional (CPTs). Por que essa representação é mais compacta que a distribuição conjunta completa? Use o exemplo do alarme para comparar o número de parâmetros necessários em cada caso.**
+
+*Resposta:* 
