@@ -301,5 +301,23 @@ Tendo duas situações onde a direta leva a 5 e a esquera a 3 sendo $\alpha$ = 5
 *Resposta:* quando se fala de apriori é o chute inicial antes de olhar para o ambiente ou seja a probabilidade generica de algo acontecer quando ainda esta miupe e a posteriori é a condiçao seria qual a chance de acontecer, dado oq foi visto agora. O papel dessa duas é justamente para raciocinar sob incertezas saindo de uma probabilidade base e a medida q captura as informaçoes sobre o ambiente atualiza a creça do agente.
 
 14. **Explique o significado da Regra do Produto P(A ∧ B) = P(A | B) ⋅ P(B) e descreva como ela fundamenta a relação entre causa e efeito em inferência probabilística. Por que essa relação é essencial para a dedução racional de agentes inteligentes?**
+P(A ∧ B) = P(A | B) ⋅ P(B) 
+*Resposta:* agente probabilisticos q geralemente iream usar o teorema de bayses nesse estariamos falando de uma estatistica baysiana nesse caso da formula P(A ∧ B) = P(A | B) ⋅ P(B)  temos q P(A ∧ B) como essa probobalidade n é calculada de forma isolada entre os dois conjunto e sim dado q o evento a priori aconteceu e q causou um efeito qual é a probablidade do efeito acontecer por essa causa dessa forma é possivel decompor ambientes complexos de maneira menos custosa para os agentes abstraindo eles em ambientes calculaveis.
 
-*Resposta:* agente probabilisticos q geralemente iream usar o teorema de bayses nesse estariamos falando de uma estatistica baysiana 
+
+15. **O Teorema de Bayes usa quatro termos principais: A Priori, Verossimilhança, Evidência e A Posteriori. O que representa cada um deles no raciocínio de um agente que tenta descobrir uma causa a partir de uma evidência?**
+
+*Resposta:* 
+
+o termo a priori *P(A)* é o conhecimento previo q o agente possui sobre o problema, ou seja a causa
+o termo da verossimilhança *P(B|A)* é dado a causa qual a chance de ter esse efeito
+o termo da evidencia *P(B)* é a chance do evento acontecer ou seja o efeito
+o termo da posteriori *P(A|B)* causa|efeito dado esse efeito qual a chance de ser dessa causa
+
+a formula de bayes em agentes probabilisitco ajuda a decompor ambientes complexos no qual o agente n tem toda a informação sobre o amebite de forma com que se torne calculavel apartir dos efeitos de valor de confiaça (verossimilhaça) e o seu conhecimento previo antes de realizar o proximo movimento, ou seja ele sabe qual o estado ele esta(efeito) qual a açao (causa) q o levo a isso e se repetir ou realizar outra açao e dessa forma a cada passo decompor o tabuleiro e inferir valos sobre cada passo
+
+
+16. **Por que a Probabilidade A Priori pode ter um grande impacto no resultado final do Teorema de Bayes? Use o exemplo da meningite para explicar por que uma doença rara continua tendo baixa probabilidade, mesmo quando o sintoma é muito característico.**
+
+*Resposta:* 
+
