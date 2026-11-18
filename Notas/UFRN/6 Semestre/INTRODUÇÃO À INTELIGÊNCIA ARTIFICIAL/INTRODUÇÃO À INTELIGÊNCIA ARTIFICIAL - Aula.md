@@ -302,4 +302,4 @@ Tendo duas situações onde a direta leva a 5 e a esquera a 3 sendo $\alpha$ = 5
 
 14. **Explique o significado da Regra do Produto P(A ∧ B) = P(A | B) ⋅ P(B) e descreva como ela fundamenta a relação entre causa e efeito em inferência probabilística. Por que essa relação é essencial para a dedução racional de agentes inteligentes?**
 
-*Resposta:* 
+*Resposta:* agente probabilisticos q geralemente iream usar o teorema de bayses nesse estariamos falando de uma estatistica baysiana 
