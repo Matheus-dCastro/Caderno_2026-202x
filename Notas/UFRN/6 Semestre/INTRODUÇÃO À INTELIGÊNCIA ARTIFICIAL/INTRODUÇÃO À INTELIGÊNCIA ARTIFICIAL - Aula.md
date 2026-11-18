@@ -254,7 +254,7 @@ Tendo duas situações onde a direta leva a 5 e a esquera a 3 sendo $\alpha$ = 5
 
 4. **Demonstre como a qualidade da ordenação dos movimentos (move ordering) influencia drasticamente a eficiência, explicando que o Alpha-Beta com ordenação perfeita pode resolver uma árvore aproximadamente duas vezes mais profunda que o Minimax.**
 
-*Resposta:* como a eficiencia da pode esta ligado diretamente ao numero e a ordem dos movimentos em q sao feitos uma vez q sempre exploramos os melhores movimentos primeiros tornamos a poda mais eficiente ja q podemos definir os melhores movimento por experiencias previas ou seja os killer moves sendo esses os q demonstram os melhores rendimetos em minmax dessa forma como minimizamos o numero de passos para os melhores caminhos inciais quase q dobramos o numero da profundidade e cai a complexidade de tempo.
+*Resposta:* como a eficiencia da poda esta ligado diretamente ao numero e a ordem dos movimentos em q sao feitos uma vez q sempre exploramos os melhores movimentos primeiros tornamos a poda mais eficiente ja q podemos definir os melhores movimento por experiencias previas ou seja os killer moves sendo esses os q demonstram os melhores rendimetos em minmax dessa forma como minimizamos o numero de passos para os melhores caminhos inciais quase q dobramos o numero da profundidade e cai a complexidade de tempo.
 
 
 5. **Quais são as limitações do algoritmo Minimax e da poda Alpha-Beta que motivam o uso de Monte Carlo Tree Search (MCTS) em jogos mais complexos como Go?**
@@ -319,5 +319,8 @@ a formula de bayes em agentes probabilisitco ajuda a decompor ambientes complexo
 
 16. **Por que a Probabilidade A Priori pode ter um grande impacto no resultado final do Teorema de Bayes? Use o exemplo da meningite para explicar por que uma doença rara continua tendo baixa probabilidade, mesmo quando o sintoma é muito característico.**
 
-*Resposta:* 
+*Resposta:* O componente apriori atua como se fosse um peso de vies sobre a descição do agente, pois ele atua refletindo a realizade do ambiente em q o a gente se encontra oq faz o agente n tomar suas escolhas apenas na força bruta do tentar e erro ou seja ele passa a n so depender do valor da verossimilhaça.
 
+17. **Descreva o princípio do Classificador Naive Bayes e explique por que ele é chamado de “ingênuo”. Em que tipo de problema essa suposição de independência condicional se mostra eficiente, e em que situações ela pode ser irrealista?**
+
+*Resposta:* inicialmente sabemos q o naive bayes usa o teorema de bayes como base para classifcar as coisa ou seja, 
