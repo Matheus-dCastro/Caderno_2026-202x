@@ -327,4 +327,30 @@ a formula de bayes em agentes probabilisitco ajuda a decompor ambientes complexo
 
 18. **Explique o que é uma Rede Bayesiana, descrevendo o papel do grafo acíclico dirigido (DAG) e das tabelas de probabilidade condicional (CPTs). Por que essa representação é mais compacta que a distribuição conjunta completa? Use o exemplo do alarme para comparar o número de parâmetros necessários em cada caso.**
 
+*Resposta:* esse metodo combina teoria dos grafos com teoria probabilistica ou seja qual a probabilidade de entrar naquele oq permite q um agente pense sobre as incertezas de forma eficente a dag é a estrutura qualitativa da rede e cada no e a representação das variaveis aleatorias do ambiente as arestas sao os pontos de dependecia causa efeito ja a cpt é a parte quantitativa do algoritmo, o impoacto dos pais sobre os filhos ex um n tem pai logo é armazenado apenas a info apriori
+
+19. **Explique a regra da fatoração P(X₁, …, Xₙ) = Πᵢ P(Xᵢ | Pais(Xᵢ)) e mostre como ela decorre da regra da cadeia e das independências condicionais representadas no grafo. Por que a ordem em que as variáveis são consideradas na construção da rede (causal ou diagnóstica) afeta a topologia resultante e o custo da inferência?**
+
+*Resposta:* 
+
+- Regra da fatoração: a probabilidade conjunta completa de uma rede pode ser feita multiplicando as probabilidades condicionais locais
+- Derivação via regra da cadeia e independencia condicional: tem como vies q cada no condicionalmente independete de todos os seus nao-descendentes ou seja todo aqueles q n sao pais de um no podem ser removidos
+- Impacto da ordem na topologia e no custo: a ordem como a insercao e feita autera drastivamente a estrutura da rede
+	- Ordem caual: é feito antes das causas dos efeitos
+	- Ordem diagnostica: sao feitos os efeitos antes ads causas
+
+20. **Explique o que significa realizar inferência em uma Rede Bayesiana, distinguindo as variáveis de consulta, de evidência e ocultas. Por que calcular a probabilidade de uma causa dado um efeito exige um raciocínio diferente de calcular a probabilidade de um efeito dada uma causa? Ilustre com um exemplo de sua escolha em que uma evidência aumenta a crença numa causa sem torná-la a explicação mais provável.**
+
+*Resposta:* a inferencia nessa rede significa calcular a distrubuição de probabilidades a posteriori sobre o conjuto de variaveis.
+- efeito casual vs raciocinio diagnostico:
+	a probabilidade de um efeito dada a causa oq é difeitente de causa dado um efeito oq define a direçao do grafo
+		-- efeito dada a causa é o raciocinio preditivo segue a direçao das setas da dag (pais para o filho) 
+		-- causa dado o efeito é o raciocinio diagnostico ou seja vai no sentido oposto da dag seguindo dos filhos para os pais
+
+- exemplo: alarme residencial onde a um roubo ou terremoto oq pode diparar o alarme
+	antes da evidencia: chance da casa esta sendo rouba 
+	apos a evidencia: o alarme dispara essa evidencia faz a chance de ser assalto crescer mas se ela n for a causa com grande probabilidade ainda n pode ser oq realmente causou pode ser um terremoto supomos q a priori seja 1% depois da evidencia subiu para ser assalto 40% ainda existe 60% de n ser assalto e sim um terremoto ja q a probabilidade apriori era extremamente baixo.
+
+21. **Enuncie a hipótese de Markov e explique o que ela simplifica na modelagem de processos que evoluem no tempo. Por que ela é uma escolha de modelagem, e não uma propriedade do mundo? Dê um exemplo em que ela seria inadequada e indique como o modelo poderia ser ajustado.**
+
 *Resposta:* 
