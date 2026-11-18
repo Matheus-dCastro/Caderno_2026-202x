@@ -353,4 +353,13 @@ a formula de bayes em agentes probabilisitco ajuda a decompor ambientes complexo
 
 21. **Enuncie a hipótese de Markov e explique o que ela simplifica na modelagem de processos que evoluem no tempo. Por que ela é uma escolha de modelagem, e não uma propriedade do mundo? Dê um exemplo em que ela seria inadequada e indique como o modelo poderia ser ajustado.**
 
-*Resposta:* 
+*Resposta:* a idea de markov define q um processo temporal q o estado atual depende apenas do estao anterior ou seja é codicionamente independete de todo o historico pasado isso faz com q o numero de variavies diminua oq vai fazer n crescerem com o tempo 
+
+22. **Diferencie uma Cadeia de Markov de um Modelo Oculto de Markov (HMM), identificando os componentes de cada um (estados, distribuição inicial, transição e emissão). Explique como funciona a filtragem em um HMM e por que, no exemplo do guarda-chuva, ver o guarda-chuva não torna certa a chuva.**
+
+*Resposta:*
+
+equanto a cadeia de markov seus estados sao diretamente observaveis ou seja o agente sempre sabe exatamente em qual estado do ambiente se contrado em cada instante o modelo HMM seus estados reais sao ocultos n vendo ele diretamente porem recebe uma evidencia q ele deve esta onde ele esta funcionando de forma recursiva. No exemplo do guarda chuva observa o guarda chuva eleva a probabilidade de ter chuva porem n leva isso a 100% por dois motivos: 
+-- como o sensor do modelo n é deterministico mesmo n chovendo existe a probabilidade e o peso da crença previa e trasiçao nessa etapa é apenas ponderado a crença previa q o modelo carrega
+-- equanto ouver a probabilidade de n ter chuva porem tem um guarda-chuva sem chuva se preserva uma parcela de incerteza se realmente n esta chovendo o q faz atualizar e reforçar a crença em chuva oq n impede q zere essa possibilidade.
+
