@@ -287,3 +287,19 @@ Tendo duas situações onde a direta leva a 5 e a esquera a 3 sendo $\alpha$ = 5
 11. **A inferência automática em agentes lógicos depende de representar o conhecimento em uma forma adequada ao processamento mecânico. Explique como a Forma Normal Conjuntiva (CNF), a Regra de Resolução e o método de Prova por Refutação se relacionam dentro desse processo.**
 
 *Resposta:*  
+	- Forma normal conjuntiva: como muitas vezes o computador n lida muito bem com senteças muito complexas para facilitar esse processo a base de conhecimento do agente e é convetido de uma forma taltologica mais simples para q o pc possa interpretar de forma mais simples 
+	- Prova por refuação: é nada mais q o processo de provar a verdade para chegar justamente q aquela senteça é falsa
+	- regra de resolução: como agora temos a cnf para poder quebrar a sentaça de forma mais simples e a prova por refutaçao para facilita logicas mais dificies. A regra de resolução vai buscando procurando duas clausulas (afirmações opostas) cancelando esses pontos e junta oq sobra dessa sentenças em uma nova reaplicando essa logica varias vezes criando novas senteças por meio das antigas.
+
+
+12. **Explique o que é o Problema da Qualificação Lógica e por que ele limita o raciocínio puramente dedutivo em agentes de IA. Como a Teoria da Probabilidade resolve essa limitação e permite que agentes tomem decisões racionais em ambientes incertos e incompletos?**
+
+*Resposta:* a limitação de um raciocionio puramente dedutivo é q para refletir o mundo real por esse modo é preciso add varias exeçoes para q realmente represente esse mundo ou seja so lida bem com verdades absolutas e n sabe lidar com quase sempre ou meias verdades, ja o processo de solução de probabilidade resolve isso colocando um grau de crença medindo o quando aquilo ele tem certeza sobre aquilo q esta inferindo.
+
+13. **Diferencie Probabilidades Incondicionais (a Priori) e Condicionais (a Posteriori), explicando o papel de cada uma na atualização de crenças de um agente probabilístico. Dê um exemplo prático em que uma evidência nova altera a crença inicial do agente.**
+
+*Resposta:* quando se fala de apriori é o chute inicial antes de olhar para o ambiente ou seja a probabilidade generica de algo acontecer quando ainda esta miupe e a posteriori é a condiçao seria qual a chance de acontecer, dado oq foi visto agora. O papel dessa duas é justamente para raciocinar sob incertezas saindo de uma probabilidade base e a medida q captura as informaçoes sobre o ambiente atualiza a creça do agente.
+
+14. **Explique o significado da Regra do Produto P(A ∧ B) = P(A | B) ⋅ P(B) e descreva como ela fundamenta a relação entre causa e efeito em inferência probabilística. Por que essa relação é essencial para a dedução racional de agentes inteligentes?**
+
+*Resposta:* 
