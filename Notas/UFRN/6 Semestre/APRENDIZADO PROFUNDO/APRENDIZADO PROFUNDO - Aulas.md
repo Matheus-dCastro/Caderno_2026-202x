@@ -366,6 +366,8 @@ mesmo com uma baixa aparição na imagem modelos q o nunca nem viram essa class 
 é possivel usar um IoU aplicado em pixel n pelas classes.
 da para aprender o objeto n apenas fazer um clustering diferencial do q o k-men q seria algo mais sistematico.
 
-# Revisão para prova:
+# Aula do dia 25/11 transformes
 
-do 9 ao 14
+cada linha de uma matriz de ateção no final soma 1 essa matriz faz a relação de contexto 
+-> faz uma relação key-value
+
